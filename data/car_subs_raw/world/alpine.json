@@ -1,0 +1,531 @@
+{
+ "brand": "Alpine (Alps Alpine)",
+ "country": "Japan",
+ "brand_url": "https://www.alpine-usa.com",
+ "terms_note": "R2 2026-11-23: alpine-usa.com robots.txt 'Allow: /'. 28 product pages and 6 owner's manual PDFs read 3 s apart. Alpine Australia (alpine.com.au) did not connect from here. Numbers only.",
+ "coverage": "current US car subwoofer drivers (Status HDZ, R2, R-Series shallow, S2, S, SWT, W); T/S not available in machine-readable maker documents",
+ "hp_subs_raw_file": null,
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "HDZ-W10",
+   "rms_w": 800,
+   "url": "https://www.alpine-usa.com/product/alpine-status-hdz-w10-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20}); size 10 in, coil None None ohm, peak 2400 W, mounting depth 188.9 mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED. Converted from imperial as published: mounting depth 7.4375 in.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 2400,
+   "mounting_depth_mm": 188.9,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/alpine-status-hdz-w10-subwoofer",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDZ-W12",
+   "rms_w": 800,
+   "url": "https://www.alpine-usa.com/product/alpine-status-hdz-w12-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20}); size 12 in, coil None None ohm, peak 2400 W, mounting depth 187.3 mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED. Converted from imperial as published: mounting depth 7.375 in.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 2400,
+   "mounting_depth_mm": 187.3,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/alpine-status-hdz-w12-subwoofer",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-W10D2",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw10d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 83}); size 10 in, coil DVC 2 ohm, peak 1800 W, mounting depth 82.55 mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1800,
+   "mounting_depth_mm": 82.55,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw10d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-W10D4",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw10d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 83}); size 10 in, coil DVC 4 ohm, peak 1800 W, mounting depth 82.55 mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1800,
+   "mounting_depth_mm": 82.55,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw10d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-W12D2",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw12d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 81}); size 12 in, coil DVC 2 ohm, peak 1800 W, mounting depth 82.55 mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1800,
+   "mounting_depth_mm": 82.55,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw12d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-W12D4",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw12d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 81}); size 12 in, coil DVC 4 ohm, peak 1800 W, mounting depth 82.55 mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1800,
+   "mounting_depth_mm": 82.55,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-shallow-subwoofer-rsw12d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R2-W10D2",
+   "rms_w": 750,
+   "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w10d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 82.4}); size 10 in, coil DVC 2 ohm, peak 2250 W, mounting depth 152 mm, cut-out 231 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2250,
+   "mounting_depth_mm": 152,
+   "cutout_mm": 231,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w10d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R2-W10D4",
+   "rms_w": 750,
+   "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w10d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 82.4}); size 10 in, coil DVC 4 ohm, peak 2250 W, mounting depth 152 mm, cut-out 231 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2250,
+   "mounting_depth_mm": 152,
+   "cutout_mm": 231,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w10d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R2-W12D2",
+   "rms_w": 750,
+   "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w12d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 84.5}); size 12 in, coil DVC 2 ohm, peak 2250 W, mounting depth 152 mm, cut-out 231 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2250,
+   "mounting_depth_mm": 152,
+   "cutout_mm": 231,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w12d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R2-W12D4",
+   "rms_w": 750,
+   "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w12d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 20, 'spl_db_1w1m': 84.5}); size 12 in, coil DVC 4 ohm, peak 2250 W, mounting depth 152 mm, cut-out 231 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2250,
+   "mounting_depth_mm": 152,
+   "cutout_mm": 231,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w12d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R2-W8D2",
+   "rms_w": 350,
+   "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w8d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 12, 'spl_db_1w1m': 83.5}); size 8 in, coil DVC 2 ohm, peak 1000 W, mounting depth 118 mm, cut-out 176 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1000,
+   "mounting_depth_mm": 118,
+   "cutout_mm": 176,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w8d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R2-W8D4",
+   "rms_w": 350,
+   "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w8d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 12, 'spl_db_1w1m': 83.5}); size 8 in, coil DVC 4 ohm, peak 1000 W, mounting depth 118 mm, cut-out 176 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": 118,
+   "cutout_mm": 176,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-subwoofer-r2w8d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S2-W10D2",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w10d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 15, 'spl_db_1w1m': 84.7}); size 10 in, coil DVC 2 ohm, peak 1800 W, mounting depth None mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w10d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S2-W10D4",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w10d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 15, 'spl_db_1w1m': 84.9}); size 10 in, coil DVC 4 ohm, peak 1800 W, mounting depth None mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w10d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S2-W12D2",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w12d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 15, 'spl_db_1w1m': 85.7}); size 12 in, coil DVC 2 ohm, peak 1800 W, mounting depth None mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w12d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S2-W12D4",
+   "rms_w": 600,
+   "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w12d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 15, 'spl_db_1w1m': 86.2}); size 12 in, coil DVC 4 ohm, peak 1800 W, mounting depth None mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w12d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S2-W8D2",
+   "rms_w": 300,
+   "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w8d2",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 13, 'spl_db_1w1m': 82.6}); size 8 in, coil DVC 2 ohm, peak 900 W, mounting depth None mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 900,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w8d2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S2-W8D4",
+   "rms_w": 300,
+   "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w8d4",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 13, 'spl_db_1w1m': 82.7}); size 8 in, coil DVC 4 ohm, peak 900 W, mounting depth None mm, cut-out None mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code. Page text describes the X-Max figure as total cone excursion in places; one-way vs peak-to-peak UNVERIFIED.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 900,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-subwoofer-s2w8d4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SWT-10S2",
+   "rms_w": 350,
+   "url": "https://www.alpine-usa.com/product/swt-10s2",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil SVC 2 ohm, peak 1000 W, mounting depth 105.5 mm, cut-out 227 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code.",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1000,
+   "mounting_depth_mm": 105.5,
+   "cutout_mm": 227,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/swt-10s2",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SWT-10S4",
+   "rms_w": 350,
+   "url": "https://www.alpine-usa.com/product/swt-10s4",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil SVC 4 ohm, peak 1000 W, mounting depth 105.5 mm, cut-out 227 mm. T/S not entered (tech sheet link dead, manual T/S tables image-only or unordered text). Coil from the model code.",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": 105.5,
+   "cutout_mm": 227,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/swt-10s4",
+     "doc": "product page, Tech Specs list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

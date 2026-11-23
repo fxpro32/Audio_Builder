@@ -1,0 +1,116 @@
+{
+ "brand": "Soundstream",
+ "country": "USA",
+ "brand_url": "https://www.soundstream.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Soundstream SPT.48",
+   "title": "SPT.48 | 2.3\" Pro Audio Super Bullet Tweeter 400W (Pair)",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-48",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.46",
+   "title": "SPT.46 | 3.5\" Pro Audio Super Bullet Tweeter 400W (Pair)",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-46",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.44",
+   "title": "SPT.44 | 4\" Pro Audio Super Bullet Tweeter 500W (Pair)",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-44",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.42",
+   "title": "SPT.42 | 3.65\" Pro Audio Super Bullet Tweeter 300W (Pair)",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-42",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.40",
+   "title": "SPT.40 | 3.85\" Pro Audio Super Bullet Tweeter 200W (Pair)",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-40",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SR-1",
+   "title": "SR-1 | Reign Niobium-Piezo Tweeters",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/sr-1",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPD-400",
+   "title": "SPD-400 | 400W Max \t4-Ohm 3″ Titanium  Pro Car Audio Tweeter",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spd-400",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPD-300",
+   "title": "SPD-300 | 300W Max 4 Ohm 2″ Titanium  Pro Car Audio Tweeter",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spd-300",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPD-200",
+   "title": "SPD-200 | 200W Max 4 Ohm 1\" Aluminum Comprehension Pro Car Audio Tweeter",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spd-200",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream TWS.3N",
+   "title": "TWS.3N | 110W 1\" PEI Dome Tri-Mounting 4 Ohm Tweeter Set",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/tws-3n",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream TWS.4",
+   "title": "TWS.4 | 110W 1\" Micro Dome Tweeter Set",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/tws-4",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.22",
+   "title": "SPT.22 | 600W Max 4-Ohm Pro Audio Tweeters",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-22",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.20",
+   "title": "SPT.20 | 350W Max 4-Ohm 1″ Aluminum Pro Audio Tweeters",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-20",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.06",
+   "title": "SPT.06 | 350W Max 4-Ohm 1″ Aluminum Pro Audio Tweeters",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-06",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPT.05",
+   "title": "SPT.05 | 250W Max 4-Ohm 1″ Aluminum Pro Audio Tweeters",
+   "type": "tweeter",
+   "url": "https://www.soundstream.com/products/spt-05",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

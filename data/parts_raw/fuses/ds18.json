@@ -1,0 +1,318 @@
+{
+ "schema": "parts_raw/1",
+ "category": "fuses",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, products.json (title, vendor field = model, body numbers); scripts/parts/build_ds18_accessories.py",
+ "terms_note": "Numbers only, URL per record; USD maker-store prices.",
+ "units": {
+  "length_m": "m (converted from feet)",
+  "awg_nominal_mm2": "mm2 for the stated AWG (ASTM B258 formula), NOT measured",
+  "actual_area_mm2_from_strands": "mm2 = strands x pi/4 x d^2 from the maker strand count"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 13,
+ "records": [
+  {
+   "id": "ds18-psfhdb4",
+   "model": "PSFHDB4",
+   "title": "Fuse Holder Power Distribution Block, Perfect for Powersports Applications",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/psfhdb4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder / distribution",
+   "fuse_type": null,
+   "inputs_outputs": null,
+   "fuse_included_a": null
+  },
+  {
+   "id": "ds18-ds18-anlfh200a-square-anl-fuse-holder-with-200-amp-fuse",
+   "model": "ANLFH200A",
+   "title": "DS18 ANLFH200A Square ANL Fuse Holder With 200 Amp Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-anlfh200a-square-anl-fuse-holder-with-200-amp-fuse",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "inputs_outputs": null,
+   "fuse_included_a": 200,
+   "bundle": true
+  },
+  {
+   "id": "ds18-agu-fuse-holder-with-80a-fuse",
+   "model": "FHSAGU80A",
+   "title": "DS18 FHSAGU80A AGU Fuse Holder with 80A Fuse For Car Amplifiers",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/agu-fuse-holder-with-80a-fuse",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "AGU",
+   "inputs_outputs": null,
+   "fuse_included_a": 80
+  },
+  {
+   "id": "ds18-agu-fuse-holder",
+   "model": "FHSAGU",
+   "title": "DS18 FHSAGU AGU Fuse Holder For Car Amplifiers",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/agu-fuse-holder",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "AGU",
+   "inputs_outputs": null,
+   "fuse_included_a": null
+  },
+  {
+   "id": "ds18-anl-fuse-holder-and-distribution-block-0ga-in-2x4ga-out-with-voltmeter",
+   "model": "FDG1224AFS-80A",
+   "title": "DS18 FDG1224AFS-80A ANL Fuse Holder and Distribution Block 0GA In - 2x4GA Out with Voltmeter",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/anl-fuse-holder-and-distribution-block-0ga-in-2x4ga-out-with-voltmeter",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder / distribution",
+   "fuse_type": "AFS / mini ANL",
+   "inputs_outputs": [
+    {
+     "count": 2,
+     "awg": "4",
+     "dir": "out"
+    }
+   ],
+   "fuse_included_a": 80
+  },
+  {
+   "id": "ds18-hydro-marine-fuse-holder-4-awg",
+   "model": "MFH4",
+   "title": "Marine Grade Fuse Holder 4-GA, Fuses Included",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/hydro-marine-fuse-holder-4-awg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": null,
+   "inputs_outputs": null,
+   "fuse_included_a": null,
+   "quality_issues": [
+    "type_null"
+   ],
+   "check": "not clean: type_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-hydro-marine-fuse-holder-8-awg",
+   "model": "MFH8",
+   "title": "Marine Grade Fuse Holder 8-GA, Fuses Included",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/hydro-marine-fuse-holder-8-awg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": null,
+   "inputs_outputs": null,
+   "fuse_included_a": null,
+   "quality_issues": [
+    "type_null"
+   ],
+   "check": "not clean: type_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-anl-distribution-fuse-holder-1x0ga-in-3x4ga-out-with-3x150a-fuse",
+   "model": "FHDB3ANL-150A",
+   "title": "ANL Distribution Fuse Holder 1X0-GA In 3X4-GA Out with 3 X 150A Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/anl-distribution-fuse-holder-1x0ga-in-3x4ga-out-with-3x150a-fuse",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder / distribution",
+   "fuse_type": "ANL",
+   "inputs_outputs": [
+    {
+     "count": 1,
+     "awg": "1/0",
+     "dir": "in"
+    },
+    {
+     "count": 3,
+     "awg": "4",
+     "dir": "out"
+    }
+   ],
+   "fuse_included_a": 150
+  },
+  {
+   "id": "ds18-square-anl-fuse-holder",
+   "model": "FHSANL",
+   "title": "Square ANL Fuse Holder",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/square-anl-fuse-holder",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "inputs_outputs": null,
+   "fuse_included_a": null
+  },
+  {
+   "id": "ds18-round-anl-fuse-holder",
+   "model": "FHRANL",
+   "title": "DS18 FHRANL Round ANL Fuse Holder",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/round-anl-fuse-holder",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "inputs_outputs": null,
+   "fuse_included_a": null
+  },
+  {
+   "id": "ds18-anl-fuse-holder-with-250a-fuse",
+   "model": "FHRANL250A",
+   "title": "DS18 FHRANL250A Round ANL Fuse Holder with 250A Fuse For Car Amplifiers",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/anl-fuse-holder-with-250a-fuse",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "inputs_outputs": null,
+   "fuse_included_a": 250
+  },
+  {
+   "id": "ds18-anl-fuse-holder-with-200a-fuse",
+   "model": "FHSANL200A",
+   "title": "Square ANL Fuse Holder with 200A Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/anl-fuse-holder-with-200a-fuse",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "inputs_outputs": null,
+   "fuse_included_a": 200
+  },
+  {
+   "id": "ds18-afs-mini-anl-fuse-holder-4-8ga-in-4-8ga-out-with-150a-fuse",
+   "model": "FHAFS-150A",
+   "title": "AFS Mini ANL Fuse Holder 4/8-GA In 4/8-GA Out with 150A Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/afs-mini-anl-fuse-holder-4-8ga-in-4-8ga-out-with-150a-fuse",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "AFS / mini ANL",
+   "inputs_outputs": null,
+   "fuse_included_a": 150
+  }
+ ],
+ "not_recorded": []
+}

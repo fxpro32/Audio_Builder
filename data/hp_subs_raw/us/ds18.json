@@ -1,0 +1,1459 @@
+{
+ "brand": "DS18",
+ "country": "USA",
+ "brand_url": "https://ds18.com",
+ "terms_note": "Shopify store (robots.txt: public product pages crawlable); /products.json read once; owner's manual PDFs on the maker CDN fetched 3 s apart (file names tried in a fixed pattern list). Numbers only.",
+ "drivers": [
+  {
+   "model": "CARBON18.2D",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.0,
+    "re_ohm": null,
+    "qms": 7.128,
+    "qes": 1.1,
+    "qts": 0.958,
+    "vas_l": 50.62,
+    "sd_cm2": 1164.0,
+    "xmax_mm": 22.5,
+    "mms_g": 746.2,
+    "bl_tm": 24.6,
+    "le_mh": 1.76,
+    "spl_db_1w1m": 85.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 309.0,
+   "cutout_mm": 426.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 90.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '90L / 3.2ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 212.0,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '212L / 7.5ft3'; port 4\"x18\"x20\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/CARBON18.2D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/carbon18-2d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 Ohms'; Re printed '2+2 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed. T/S identical to DIA-CARBON18.2D (the two manuals print the same values; possibly a shared sheet)."
+  },
+  {
+   "model": "CARBON15.2D",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.0,
+    "re_ohm": null,
+    "qms": 4.72,
+    "qes": 0.93,
+    "qts": 0.78,
+    "vas_l": 27.22,
+    "sd_cm2": 779.3,
+    "xmax_mm": 22.5,
+    "mms_g": 571.9,
+    "bl_tm": 23.96,
+    "le_mh": 1.85,
+    "spl_db_1w1m": 84.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 277.0,
+   "cutout_mm": 360.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 70.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '70L / 2.5ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 113.2,
+     "tuning_hz": 32.0,
+     "source": "maker manual",
+     "note": "published '113.2L / 4ft3'; port 3\"x15\"x22.4\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/CARBON15.2D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/carbon15-2d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 Ohms'; Re printed '2+2 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "CARBON15.1D",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.0,
+    "re_ohm": null,
+    "qms": 5.224,
+    "qes": 1.083,
+    "qts": 0.89,
+    "vas_l": 34.26,
+    "sd_cm2": 779.3,
+    "xmax_mm": 22.5,
+    "mms_g": 442.7,
+    "bl_tm": 13.96,
+    "le_mh": 0.88,
+    "spl_db_1w1m": 84.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 277.0,
+   "cutout_mm": 360.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 70.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '70L / 2.5ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 113.2,
+     "tuning_hz": 32.0,
+     "source": "maker manual",
+     "note": "published '113.2L / 4ft3'; port 3\"x15\"x22.4\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/CARBON15.1D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/carbon15-1d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '1+1 Ohm'; Re printed '1+1 Ohm'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed. T/S identical to DIA-CARBON15.1D (the two manuals print the same values; possibly a shared sheet)."
+  },
+  {
+   "model": "CARBON12.2D",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.0,
+    "re_ohm": null,
+    "qms": 4.93,
+    "qes": 0.89,
+    "qts": 0.75,
+    "vas_l": 10.55,
+    "sd_cm2": 471.4,
+    "xmax_mm": 22.5,
+    "mms_g": 468.183,
+    "bl_tm": 23.01,
+    "le_mh": 1.86,
+    "spl_db_1w1m": 82.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 248.0,
+   "cutout_mm": 283.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 37.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '37L / 1.3ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 56.6,
+     "tuning_hz": 35.0,
+     "source": "maker manual",
+     "note": "published '56.6L / 2ft3'; port 2\"x12\"x20.7\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/CARBON12.2D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/carbon12-2d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 Ohms'; Re printed '2+2 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed. T/S identical to DIA-CARBON12.2D (the two manuals print the same values; possibly a shared sheet)."
+  },
+  {
+   "model": "DIA-CARBON12.2D",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.0,
+    "re_ohm": null,
+    "qms": 4.93,
+    "qes": 0.89,
+    "qts": 0.75,
+    "vas_l": 10.55,
+    "sd_cm2": 471.4,
+    "xmax_mm": 22.5,
+    "mms_g": 468.183,
+    "bl_tm": 23.01,
+    "le_mh": 1.86,
+    "spl_db_1w1m": 82.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 248.0,
+   "cutout_mm": 283.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 37.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '37L / 1.3ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 56.6,
+     "tuning_hz": 35.0,
+     "source": "maker manual",
+     "note": "published '56.6L / 2ft3'; port 2\"x12\"x20.7\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/DIA-CARBON12.2D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/dia-carbon12-2d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 Ohms'; Re printed '2+2 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed. T/S identical to CARBON12.2D (the two manuals print the same values; possibly a shared sheet)."
+  },
+  {
+   "model": "DIA-CARBON12.1D",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.0,
+    "re_ohm": null,
+    "qms": 4.878,
+    "qes": 0.816,
+    "qts": 0.699,
+    "vas_l": 15.8,
+    "sd_cm2": 471.4,
+    "xmax_mm": 22.5,
+    "mms_g": 349.305,
+    "bl_tm": 14.3,
+    "le_mh": 0.98,
+    "spl_db_1w1m": 82.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 248.0,
+   "cutout_mm": 283.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 37.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '37L / 1.3ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 56.6,
+     "tuning_hz": 35.0,
+     "source": "maker manual",
+     "note": "published '56.6L / 2ft3'; port 2\"x12\"x20.7\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/DIA-CARBON12.1D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/dia-carbon12-1d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '1+1 Ohm'; Re printed '1+1 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "DIA-CARBON15.1D",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.0,
+    "re_ohm": null,
+    "qms": 5.224,
+    "qes": 1.083,
+    "qts": 0.89,
+    "vas_l": 34.26,
+    "sd_cm2": 779.3,
+    "xmax_mm": 22.5,
+    "mms_g": 442.7,
+    "bl_tm": 13.96,
+    "le_mh": 0.88,
+    "spl_db_1w1m": 84.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 277.0,
+   "cutout_mm": 360.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 70.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '70L / 2.5ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 113.2,
+     "tuning_hz": 32.0,
+     "source": "maker manual",
+     "note": "published '113.2L / 4ft3'; port 3\"x15\"x22.4\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/DIA-CARBON15.1D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/dia-carbon15-1d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '1+1 Ohm'; Re printed '1+1 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed. T/S identical to CARBON15.1D (the two manuals print the same values; possibly a shared sheet)."
+  },
+  {
+   "model": "DIA-CARBON18.1D",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.0,
+    "re_ohm": null,
+    "qms": 6.778,
+    "qes": 1.005,
+    "qts": 0.87,
+    "vas_l": 56.38,
+    "sd_cm2": 1164.0,
+    "xmax_mm": 22.5,
+    "mms_g": 779.1,
+    "bl_tm": 18.01,
+    "le_mh": 0.95,
+    "spl_db_1w1m": 85.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 309.0,
+   "cutout_mm": 426.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 90.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '90L / 3.2ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 212.0,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '212L / 7.5ft3'; port 4\"x18\"x20\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/DIA-CARBON18.1D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/dia-carbon18-1d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '1+1 Ohm'; Re printed '1+1 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "DIA-CARBON18.2D",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.0,
+    "re_ohm": null,
+    "qms": 7.128,
+    "qes": 1.1,
+    "qts": 0.958,
+    "vas_l": 50.62,
+    "sd_cm2": 1164.0,
+    "xmax_mm": 22.5,
+    "mms_g": 746.2,
+    "bl_tm": 24.6,
+    "le_mh": 1.76,
+    "spl_db_1w1m": 85.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 309.0,
+   "cutout_mm": 426.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 90.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '90L / 3.2ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 212.0,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '212L / 7.5ft3'; port 4\"x18\"x20\""
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/DIA-CARBON18.2D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/dia-carbon18-2d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 Ohms'; Re printed '2+2 Ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed. T/S identical to CARBON18.2D (the two manuals print the same values; possibly a shared sheet)."
+  },
+  {
+   "model": "EXL-TR15.4D",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42.0,
+    "re_ohm": 3.6,
+    "qms": 5.427,
+    "qes": 0.8,
+    "qts": 0.697,
+    "vas_l": 36.8,
+    "sd_cm2": 844.96,
+    "xmax_mm": 20.0,
+    "mms_g": 396.785,
+    "bl_tm": null,
+    "le_mh": 8.04,
+    "spl_db_1w1m": 84.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 234.0,
+   "cutout_mm": 355.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 35.4,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '35.4L / 1.25ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 70.8,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '70.8L / 2.5ft3'; port 2.47\"x15\"x37\" / 62.7x381x939.8mm"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/EXL-TR15.4D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/exl-tr15-4d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '4+4 OHMS'; Re printed '3.6+3.6 ohms'. re_ohm = one coil's DC resistance from the printed '3.6+3.6 ohms'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "EXL-TRX15.4D",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50.0,
+    "re_ohm": 3.6,
+    "qms": 4.714,
+    "qes": 0.855,
+    "qts": 0.724,
+    "vas_l": 33.9,
+    "sd_cm2": 844.96,
+    "xmax_mm": 25.0,
+    "mms_g": 394.006,
+    "bl_tm": null,
+    "le_mh": 9.04,
+    "spl_db_1w1m": 86.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 247.0,
+   "cutout_mm": 355.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 35.4,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '35.4L / 1.25ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 70.8,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '70.8L / 2.5ft3'; port 2.47\"x15\"x37\" / 62.7x381x939.8mm"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/EXL-TRX15.4D_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/exl-trx15-4d",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '4+4 OHMS'; Re printed '3.6+3.6 ohms'. re_ohm = one coil's DC resistance from the printed '3.6+3.6 ohms'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "HOOL-X15.2DHE",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.0,
+    "re_ohm": 1.9,
+    "qms": 4.98,
+    "qes": 0.513,
+    "qts": 0.402,
+    "vas_l": 61.93,
+    "sd_cm2": 754.77,
+    "xmax_mm": null,
+    "mms_g": 478.64,
+    "bl_tm": 15.83,
+    "le_mh": 2.517,
+    "spl_db_1w1m": 88.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 284.0,
+   "cutout_mm": 358.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/HOOL-X15.2DHE_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/hooligan-x-black-frame-high-excursion-15-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2 + 2 Ohm'; Re printed '1.9+1.9 ohms'. re_ohm = one coil's DC resistance from the printed '1.9+1.9 ohms'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax: one-way or peak-to-peak not stated. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "HOOL-X12.2DHE",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.0,
+    "re_ohm": 1.8,
+    "qms": 2.778,
+    "qes": 0.489,
+    "qts": 0.462,
+    "vas_l": 22.57,
+    "sd_cm2": 471.44,
+    "xmax_mm": 50.0,
+    "mms_g": 512.12,
+    "bl_tm": null,
+    "le_mh": 42.29,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 255.0,
+   "cutout_mm": 285.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 17.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '17L / 0.6 ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 42.5,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '42.5L / 1.5 ft3'; port 1.52\" x 12.28\" x 31.82\" /"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/HOOL-X12.2DHE_WEB_MANUAL_SPANGLISH_2021.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/hooligan-x-black-frame-high-excursion-12-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 OHMS'; Re printed '1.8+1.8 OHM'. re_ohm = one coil's DC resistance from the printed '1.8+1.8 OHM'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "HOOL-X12.1DHE",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.0,
+    "re_ohm": 0.9,
+    "qms": 2.65,
+    "qes": 0.476,
+    "qts": 0.444,
+    "vas_l": 23.22,
+    "sd_cm2": 471.44,
+    "xmax_mm": 50.0,
+    "mms_g": 554.22,
+    "bl_tm": null,
+    "le_mh": 43.12,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 255.0,
+   "cutout_mm": 285.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 17.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '17L / 0.6 ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 42.5,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '42.5L / 1.5 ft3'; port 1.52\" x 12.28\" x 31.82\" /"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/HOOL-X12.1DHE_WEB_MANUAL_SPANGLISH_2021.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/hooligan-x-black-frame-high-excursion-12-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '1+1 OHMS'; Re printed '0.9+0.9 OHM'. re_ohm = one coil's DC resistance from the printed '0.9+0.9 OHM'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "HOOL-X12.4DHE",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.0,
+    "re_ohm": 3.2,
+    "qms": 2.75,
+    "qes": 0.528,
+    "qts": 0.517,
+    "vas_l": 21.86,
+    "sd_cm2": 471.44,
+    "xmax_mm": 50.0,
+    "mms_g": 486.45,
+    "bl_tm": null,
+    "le_mh": 42.15,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 255.0,
+   "cutout_mm": 285.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 17.0,
+     "tuning_hz": null,
+     "source": "maker manual",
+     "note": "published '17L / 0.6 ft3' (internal volume)"
+    },
+    {
+     "type": "ported",
+     "volume_l": 42.5,
+     "tuning_hz": 30.0,
+     "source": "maker manual",
+     "note": "published '42.5L / 1.5 ft3'; port 1.52\" x 12.28\" x 31.82\" /"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/HOOL-X12.4DHE_WEB_MANUAL_SPANGLISH_2021.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/hooligan-x-black-frame-high-excursion-12-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '4+4 OHMS'; Re printed '3.2+3.2 OHM'. re_ohm = one coil's DC resistance from the printed '3.2+3.2 OHM'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax labelled one way. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "HOOL-X15.1DHE",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.0,
+    "re_ohm": 0.9,
+    "qms": 4.65,
+    "qes": 0.526,
+    "qts": 0.419,
+    "vas_l": 63.56,
+    "sd_cm2": 754.77,
+    "xmax_mm": null,
+    "mms_g": 613.54,
+    "bl_tm": 16.25,
+    "le_mh": 2.54,
+    "spl_db_1w1m": 87.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 284.0,
+   "cutout_mm": 358.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/HOOL-X15.1DHE_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/hooligan-x-black-frame-high-excursion-15-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '1 + 1 Ohm'; Re printed '0.9 + 0.9 Ohm'. re_ohm = one coil's DC resistance from the printed '0.9 + 0.9 Ohm'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax: one-way or peak-to-peak not stated. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "HOOL-X15.4DHE",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.0,
+    "re_ohm": 3.6,
+    "qms": 4.75,
+    "qes": 0.508,
+    "qts": 0.375,
+    "vas_l": 66.83,
+    "sd_cm2": 754.77,
+    "xmax_mm": null,
+    "mms_g": 459.68,
+    "bl_tm": 19.35,
+    "le_mh": 2.078,
+    "spl_db_1w1m": 88.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 284.0,
+   "cutout_mm": 358.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/HOOL-X15.4DHE_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/hooligan-x-black-frame-high-excursion-15-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '4 + 4 Ohm'; Re printed '3.6+3.6 ohms'. re_ohm = one coil's DC resistance from the printed '3.6+3.6 ohms'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax: one-way or peak-to-peak not stated. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "EXL-XX15.4DHE",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.6,
+    "re_ohm": 3.6,
+    "qms": 7.098,
+    "qes": 0.68,
+    "qts": 0.62,
+    "vas_l": 29.965,
+    "sd_cm2": 804.25,
+    "xmax_mm": null,
+    "mms_g": 410.638,
+    "bl_tm": 19.865,
+    "le_mh": 11.25,
+    "spl_db_1w1m": 88.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 355.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/EXL-XX15.4DHE_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/ds18-exl-xx15-4dhe-exl-high-excursion-15-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '4+4 ohms'; Re printed '3.6 + 3.6 ohms'. re_ohm = one coil's DC resistance from the printed '3.6 + 3.6 ohms'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax: one-way or peak-to-peak not stated. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "EXL-XX12.4DHE",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41.3,
+    "re_ohm": 3.6,
+    "qms": 4.525,
+    "qes": 0.511,
+    "qts": 0.459,
+    "vas_l": 20.738,
+    "sd_cm2": 433.74,
+    "xmax_mm": null,
+    "mms_g": 285.433,
+    "bl_tm": 17.166,
+    "le_mh": 9.8,
+    "spl_db_1w1m": 87.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 282.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/EXL-XX12.4DHE_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/ds18-exl-xx12-4dhe-exl-high-excursion-12-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '4+4 ohms'; Re printed '3.6 + 3.6 ohms'. re_ohm = one coil's DC resistance from the printed '3.6 + 3.6 ohms'; the other T/S are not labelled per coil or wired, so ts_basis stays unknown. Xmax: one-way or peak-to-peak not stated. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "EXL-XX15.2DHE",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.9,
+    "re_ohm": null,
+    "qms": 5.159,
+    "qes": 0.584,
+    "qts": 0.525,
+    "vas_l": 31.976,
+    "sd_cm2": 804.25,
+    "xmax_mm": null,
+    "mms_g": 440.158,
+    "bl_tm": 18.453,
+    "le_mh": 8.562,
+    "spl_db_1w1m": 88.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 355.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/EXL-XX15.2DHE_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/ds18-exl-xx15-2dhe-exl-high-excursion-15-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 ohms'; Re printed '2 + 2 ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax: one-way or peak-to-peak not stated. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  },
+  {
+   "model": "EXL-XX12.2DHE",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.8,
+    "re_ohm": null,
+    "qms": 5.128,
+    "qes": 0.529,
+    "qts": 0.468,
+    "vas_l": 21.986,
+    "sd_cm2": 433.74,
+    "xmax_mm": null,
+    "mms_g": 302.158,
+    "bl_tm": 16.523,
+    "le_mh": 6.9,
+    "spl_db_1w1m": 87.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 282.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ds18.com/cdn/shop/files/EXL-XX12.2DHE_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://ds18.com/products/ds18-exl-xx12-2dhe-exl-high-excursion-12-subw",
+     "doc": "product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Manual nominal impedance '2+2 ohms'; Re printed '2 + 2 ohms'. Re equals the nominal impedance (not a measured value), not entered. Xmax: one-way or peak-to-peak not stated. ts_basis not stated. Mounting depth and cutout from the mm values printed."
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "CARBON18.1D",
+   "rms_w": null,
+   "url": "https://ds18.com/products/carbon18-1d",
+   "note": "Owner's manual not found at the maker CDN under the usual file names; product page has no T/S."
+  },
+  {
+   "model": "CARBON12.1D",
+   "rms_w": null,
+   "url": "https://ds18.com/products/carbon12-1d",
+   "note": "Owner's manual not found at the maker CDN under the usual file names; product page has no T/S."
+  },
+  {
+   "model": "DIA-CARBON15.2D",
+   "rms_w": null,
+   "url": "https://ds18.com/products/dia-carbon15-2d",
+   "note": "Owner's manual not found at the maker CDN under the usual file names; product page has no T/S."
+  },
+  {
+   "model": "EXL-TRX12.4D",
+   "rms_w": null,
+   "url": "https://ds18.com/products/exl-trx12-4d",
+   "note": "Owner's manual not found at the maker CDN under the usual file names; product page has no T/S."
+  },
+  {
+   "model": "HOOL-X15.2DSPL",
+   "rms_w": null,
+   "url": "https://ds18.com/products/ds18-hool-x15-2dspl-hooligan-x-15-competition",
+   "note": "Owner's manual not found at the maker CDN under the usual file names; product page has no T/S."
+  },
+  {
+   "model": "HOOL-X15.1DSPL",
+   "rms_w": null,
+   "url": "https://ds18.com/products/ds18-hool-x15-1dspl-hooligan-x-15-competition",
+   "note": "Owner's manual not found at the maker CDN under the usual file names; product page has no T/S."
+  },
+  {
+   "model": "HOOL-X15.4DSPL",
+   "rms_w": null,
+   "url": "https://ds18.com/products/ds18-hool-x15-4dspl-hooligan-x-15-spl-subwoof",
+   "note": "Owner's manual not found at the maker CDN under the usual file names; product page has no T/S."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "brand": "Power Acoustik",
+ "country": "USA",
+ "brand_url": "https://poweracoustik.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Power Acoustik PR-804",
+   "title": "PR-804 | 8\" Midrange Pro Audio Speakers w/ Bullet (Pair)",
+   "type": "midrange",
+   "url": "https://poweracoustik.com/products/pr-804-8-midrange-pro-audio-speakers-w-bullet-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik PR-654",
+   "title": "PR-654 | 6.5\" Midrange Pro Audio Speakers w/ Bullet (Pair)",
+   "type": "midrange",
+   "url": "https://poweracoustik.com/products/pr-654-6-5-midrange-pro-audio-speakers-w-bullet-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik MID-65",
+   "title": "MID-65 | 300Watts 6.5-Inch Midrange/Bass Driver",
+   "type": "midrange",
+   "url": "https://poweracoustik.com/products/mid-65",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

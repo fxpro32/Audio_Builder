@@ -1,0 +1,10 @@
+{
+ "brand": "Rockville",
+ "country": "USA",
+ "brand_url": "https://rockvilleaudio.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store (2500 products, first 10 pages) scanned: no new car subwoofer rated >= 2000 W RMS found (only used-stock listings with peak figures).",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/rockville.json",
+ "drivers": [],
+ "no_ts_published": []
+}

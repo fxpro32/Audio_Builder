@@ -1,0 +1,135 @@
+{
+ "brand": "Kenwood (JVCKENWOOD)",
+ "country": "Japan",
+ "brand_url": "https://www.kenwood.eu/",
+ "terms_note": "R2B 2026-11-23: two kenwood.eu product pages read in the headless browser (Specifications tab opened), one page per launch. kenwood.com (US/AU) refuses automated reading (Akamai 403). Numbers only.",
+ "coverage": "the two component subwoofers on kenwood.eu (KFC-PS2517W, KFC-PS3017W); boxed and powered subs left out; US/AU ranges blocked",
+ "hp_subs_raw_file": null,
+ "drivers": [
+  {
+   "model": "KFC-PS2517W",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 33.7,
+    "re_ohm": 3.7,
+    "qms": 6.95,
+    "qes": 0.554,
+    "qts": 0.513,
+    "vas_l": 31.9,
+    "sd_cm2": 512,
+    "xmax_mm": 5.9,
+    "mms_g": 124,
+    "bl_tm": 13.2,
+    "le_mh": 1.9,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 124,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 18.4,
+     "tuning_hz": null,
+     "source": "https://www.kenwood.eu/car/speakers/subwoofers/KFC-PS2517W/",
+     "note": "375 x 324 x 229mm ( 18mm thick MDF)(WxHxD)"
+    },
+    {
+     "type": "vented",
+     "volume_l": 25.5,
+     "tuning_hz": null,
+     "source": "https://www.kenwood.eu/car/speakers/subwoofers/KFC-PS2517W/",
+     "note": "labyrinth port 29 x 273 x 648mm"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kenwood.eu/car/speakers/subwoofers/KFC-PS2517W/",
+     "doc": "kenwood.eu product page, Specifications tab (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sd printed 0.0512 m2; Bl printed in 'T/m'; 'Peak excursion Xmax' as printed; Displacement printed '0.9cc' (unit as printed, not entered). Rated input power taken as RMS.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "KFC-PS3017W",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 24.4,
+    "re_ohm": 3.7,
+    "qms": 6.79,
+    "qes": 0.52,
+    "qts": 0.483,
+    "vas_l": 104,
+    "sd_cm2": 512,
+    "xmax_mm": 5.9,
+    "mms_g": 152,
+    "bl_tm": 12.9,
+    "le_mh": 2.04,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 137,
+   "cutout_mm": 280,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 35.4,
+     "tuning_hz": null,
+     "source": "https://www.kenwood.eu/car/speakers/subwoofers/KFC-PS3017W/",
+     "note": "457 x 362 x 299mm ( 18mm thick MDF)(WxHxD)"
+    },
+    {
+     "type": "vented",
+     "volume_l": 42.5,
+     "tuning_hz": null,
+     "source": "https://www.kenwood.eu/car/speakers/subwoofers/KFC-PS3017W/",
+     "note": "labyrinth port 35 x 324 x 736mm"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kenwood.eu/car/speakers/subwoofers/KFC-PS3017W/",
+     "doc": "kenwood.eu product page, Specifications tab (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sd printed 0.0512 m2; Bl printed in 'T/m'; 'Peak excursion Xmax' as printed; Displacement printed '1.2cc' (unit as printed, not entered). Rated input power taken as RMS.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

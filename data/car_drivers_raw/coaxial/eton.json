@@ -1,0 +1,167 @@
+{
+ "brand": "ETON (ETON Soundsysteme GmbH)",
+ "country": "Germany",
+ "brand_url": "https://eton-audio.com",
+ "terms_note": "R4 2026-11-23: robots.txt allows product pages (disallows checkout, customer, search, etc.); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "ETON PFX 10",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "10 cm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 101,
+    "re_ohm": 2.6,
+    "qms": 2.73,
+    "qes": 0.8,
+    "qts": 0.62,
+    "vas_l": 1.8,
+    "sd_cm2": 50,
+    "xmax_mm": null,
+    "mms_g": 4.8,
+    "bl_tm": 3.2,
+    "le_mh": 0.11,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pfx-10.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 5.2 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "PFX 10 100 mm (4\") Koax Lautsprechersytem kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PFX 13",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "13 cm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 90,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 74,
+    "re_ohm": 2.6,
+    "qms": 4.14,
+    "qes": 0.63,
+    "qts": 0.55,
+    "vas_l": 5.3,
+    "sd_cm2": 80,
+    "xmax_mm": null,
+    "mms_g": 7.8,
+    "bl_tm": 3.9,
+    "le_mh": 0.14,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 57,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pfx-13.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 7.5 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "PFX 13 130 mm (5\") Koax Lautsprechersytem kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PFX 16",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "16 cm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 70,
+    "re_ohm": 2.6,
+    "qms": 4.31,
+    "qes": 0.89,
+    "qts": 0.74,
+    "vas_l": 11,
+    "sd_cm2": 137,
+    "xmax_mm": null,
+    "mms_g": 12.3,
+    "bl_tm": 4,
+    "le_mh": 0.19,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 66,
+   "cutout_mm": 142,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pfx-16.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 9.0 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "PFX 16 165 mm (6.5\") Koax Lautsprechersytem kaufen | ETON Audio"
+  }
+ ],
+ "no_specs_published": []
+}

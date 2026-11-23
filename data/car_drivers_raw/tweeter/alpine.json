@@ -1,0 +1,121 @@
+{
+ "brand": "Alpine (Alps Alpine)",
+ "country": "Japan",
+ "brand_url": "https://www.alpine-usa.com",
+ "terms_note": "R4 2026-11-23: robots.txt 'Allow: /'; product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "Alpine SPV10TWWRA (1\" Component Tweeters for Jeep)",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "tweeter",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 225,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    2000,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/jeep-tweeters-spv10twwra",
+     "doc": "product page, Tech Specs",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific model.",
+   "title": "1\" Component Tweeters for Jeep"
+  },
+  {
+   "model": "Alpine S2-S10TW (1\" Component Tweeter Set)",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "tweeter",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1000,
+    40000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 101.6,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-tweeters-s2-s10tw",
+     "doc": "product page, Tech Specs",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Mounting depth converted from '3/4\" (1.8cm)'.",
+   "title": "1\" Component Tweeter Set"
+  }
+ ],
+ "no_specs_published": []
+}

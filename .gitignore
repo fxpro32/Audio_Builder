@@ -1,0 +1,75 @@
+# Build output and packages
+app/node_modules/
+app/dist/
+__pycache__/
+*.prev
+*.tmp
+
+# Local tool installs and caches
+.playwright/
+.npm-cache/
+.pdftools/
+.pytools/
+.blender/
+.djvulibre/
+
+# Claude Code and the owner's internal working documents (not part of the app)
+CLAUDE.md
+MEMORY.md
+TODO.md
+START_HERE.md
+.claude/
+.mcp/
+.mcp.json
+memory/
+references/
+docs/progress/
+docs/signoff_*
+docs/session_close_*
+docs/plan_*
+docs/brief_*
+docs/agent_common_brief.md
+docs/existing_sub/
+docs/existing_sub_diagnosis.md
+scripts/a7_*
+scripts/a9_*
+scripts/a10_*
+scripts/a14_*
+scripts/a15_*
+scripts/b1/
+scripts/b3_patch_main.py
+scripts/b7_patch_*
+scripts/w1_patch_*
+scripts/add_to_launcher.sh
+scripts/install_autostart.sh
+scripts/session_start_server.sh
+scripts/resource_guard.sh
+scripts/pm_w3002_check.py
+scripts/ui_compare_b1.mjs
+scripts/ui_dryrun_default.mjs
+scripts/ui_dryrun_newbox.mjs
+scripts/mcp_playwright_smoke.mjs
+scripts/export_sample_glb.mjs
+scripts/blender_*
+
+# Your own data: projects, private drivers, settings, logs
+data/private/
+data/projects/
+
+# Raw downloads the driver libraries are built from (re-fetch: data/source_dbs/README.md)
+data/source_dbs/*
+!data/source_dbs/README.md
+scripts/g1_*
+scripts/terms/
+scripts/public_data/patch_*
+**/__pycache__/
+
+# Shop and supplier page readers (local research tools only)
+scripts/mdf_sheets/
+scripts/plywood_sheets/
+scripts/prices_au/
+scripts/parts/build_frankies.py
+scripts/parts/build_skyhigh.py
+scripts/parts/crawl_skyhigh.sh
+scripts/parts/frankies_classify.py
+scripts/parts/join_au_prices.py

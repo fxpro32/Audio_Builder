@@ -1,0 +1,178 @@
+{
+ "schema": "parts_raw/1",
+ "category": "capacitors",
+ "brand": "Audiopipe",
+ "maker_site": "https://www.audiopipe.com",
+ "method": "maker Shopify store products.json (saved dump), title + body numbers; scripts/parts/build_caps_shopify.py",
+ "terms_note": "Numbers only with URL; USD maker-store prices.",
+ "units": {
+  "farads": "F",
+  "voltage_v": "V",
+  "esr_mohm": "milliohm"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 5,
+ "records": [
+  {
+   "id": "audiopipe-high-power-capacitor-acap-d3500",
+   "model": "ACAP-D3500",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "High Power Capacitor (ACAP-D3500)",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 3.5,
+   "voltage_v": null,
+   "voltage_basis": null,
+   "voltage_max_v": null,
+   "voltage_surge_v": 24.0,
+   "esr_as_published": "0.002 ohm or less",
+   "esr_mohm": 2.0,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.audiopipe.com/products/high-power-capacitor-acap-d3500",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiopipe.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": "",
+   "quality_issues": [
+    "voltage_null"
+   ]
+  },
+  {
+   "id": "audiopipe-high-power-capacitor-acap-d2000",
+   "model": "ACAP-D2000",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "High Power Capacitor (ACAP-D2000)",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 2.0,
+   "voltage_v": null,
+   "voltage_basis": null,
+   "voltage_max_v": null,
+   "voltage_surge_v": 24.0,
+   "esr_as_published": null,
+   "esr_mohm": null,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.audiopipe.com/products/high-power-capacitor-acap-d2000",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiopipe.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": "",
+   "quality_issues": [
+    "voltage_null"
+   ]
+  },
+  {
+   "id": "audiopipe-car-audio-24-volt-surge-power-capacitor-kit-for-car-stereo-amplifier-with-digita",
+   "model": "ACAP-D6000",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Car Audio Power Capacitor with Digital Display and Electronic Protection (ACAP-D6000)",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 6.0,
+   "voltage_v": null,
+   "voltage_basis": null,
+   "voltage_max_v": null,
+   "voltage_surge_v": 24.0,
+   "esr_as_published": null,
+   "esr_mohm": null,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.audiopipe.com/products/car-audio-24-volt-surge-power-capacitor-kit-for-car-stereo-amplifier-with-digital-display-and-electronic-protection-black-6-farad-acap-d6000",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiopipe.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": "",
+   "quality_issues": [
+    "voltage_null"
+   ]
+  },
+  {
+   "id": "audiopipe-acap-d10000",
+   "model": "ACAP-D10000",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "ACAP-D10000 Car Audio Power Capacitor with Digital Display and Electronic Protection",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 10.0,
+   "voltage_v": 20.0,
+   "voltage_basis": "maximum voltage",
+   "voltage_max_v": 20.0,
+   "voltage_surge_v": 24.0,
+   "esr_as_published": "0.002 Ω or less",
+   "esr_mohm": 2.0,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.audiopipe.com/products/acap-d10000",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiopipe.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": ""
+  },
+  {
+   "id": "audiopipe-acap-10000-10-farad-power-capacitor",
+   "model": "ACAP-10000",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "ACAP-10000 - 10 Farad Power Capacitor",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 10.0,
+   "voltage_v": 20.0,
+   "voltage_basis": "maximum voltage",
+   "voltage_max_v": 20.0,
+   "voltage_surge_v": 24.0,
+   "esr_as_published": "0.002 Ω or less",
+   "esr_mohm": 2.0,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.audiopipe.com/products/acap-10000-10-farad-power-capacitor",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiopipe.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": ""
+  }
+ ],
+ "not_recorded": []
+}

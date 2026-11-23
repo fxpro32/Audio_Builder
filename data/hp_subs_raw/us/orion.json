@@ -1,0 +1,39 @@
+{
+ "brand": "Orion Car Audio",
+ "country": "USA",
+ "brand_url": "https://orioncaraudio.com",
+ "terms_note": "Shopify store; /products.json read once and one product page (hcca152spl) checked: no T/S, no spec sheet or manual link on product pages.",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "HCCA102 (10 in, Dual 2)",
+   "rms_w": 2000,
+   "url": "https://orioncaraudio.com/products/hcca102-10-inch-subwoofer-2000-watts-rms-2-ohm-dvc",
+   "note": "2000 W RMS / 8000 W peak; no T/S on the page."
+  },
+  {
+   "model": "XTRPRO152D / XTRPRO154D (15 in, Dual 2 / Dual 4)",
+   "rms_w": 2000,
+   "url": "https://orioncaraudio.com/products/xtrpro152d-15-inch-subwoofer-2000-watts-rms-2-ohm-dvc",
+   "note": "2000 W RMS / 8000 W peak; no T/S."
+  },
+  {
+   "model": "HCCA151SPL / HCCA152SPL / HCCA154SPL (15 in, Dual 1/2/4)",
+   "rms_w": 5000,
+   "url": "https://orioncaraudio.com/products/hcca152spl",
+   "note": "5000 W RMS / 20000 W peak; no T/S (page fetched and checked)."
+  },
+  {
+   "model": "HCCA121SPLX / HCCA151SPLX / HCCA181SPLX (Dual 1)",
+   "rms_w": 7500,
+   "url": "https://orioncaraudio.com/products/hcca151splx-15-inch-subwoofer-7500-watts-rms-1-ohm-dvc",
+   "note": "7500 W RMS / 30000 W peak; no T/S."
+  },
+  {
+   "model": "XTRPRO-SW12D2/D4, XTR12SWD2/D4 (shallow)",
+   "rms_w": null,
+   "url": "https://orioncaraudio.com/products/xtr12swd2",
+   "note": "Titles give 2000 to 3200 W max (not RMS); RMS not confirmed >= 2000 W."
+  }
+ ]
+}

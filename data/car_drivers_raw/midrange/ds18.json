@@ -1,0 +1,4727 @@
+{
+ "brand": "DS18",
+ "country": "USA",
+ "brand_url": "https://www.ds18.com",
+ "terms_note": "R4 2026-11-23: Shopify products.json (public catalogue feed) read 3 s apart, 9 requests. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "DS18 PRO-DPL1",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 640,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    630,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 109,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 134,
+   "recommended_crossover": {
+    "hp_hz": 900,
+    "note": "maker 'Recommended Hi Pass Crossover' 900 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-bolt-on-throat-compression-driver-with-2-titanium-voice-coil-500-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "2\" Throat Bolt on Driver 320 Watts 2\" Titanium Vc 8-Ohm (duplicate of PRO-DPL1PH)"
+  },
+  {
+   "model": "DS18 6XL650N-8",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 325,
+   "peak_w": 650,
+   "sensitivity_db": 98.5,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    12500
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 98.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72,
+   "cutout_mm": 150,
+   "frame_mm": 170,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/xl-6-5-neodymium-rings-mid-range-loudspeaker-650-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XL 6.5\" Neodymium Rings Mid-Range Loudspeaker 325 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 105
+  },
+  {
+   "model": "DS18 6XL600-8",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    12500
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 97,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 80,
+   "cutout_mm": 150,
+   "frame_mm": 170,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/xl-6-5-mid-range-loudspeaker-300-watts-rms-8-ohm-1",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XL 6.5\" Mid-Range Loudspeaker 300 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 126
+  },
+  {
+   "model": "DS18 6XL650N-4",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 325,
+   "peak_w": 650,
+   "sensitivity_db": 98.5,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    12500
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 98.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72,
+   "cutout_mm": 150,
+   "frame_mm": 170,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/xl-6-5-neodymium-rings-mid-range-loudspeaker-650-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XL 6.5\" Neodymium Rings Mid-Range Loudspeaker 325 Watts 4-Ohm",
+   "motor_diameter_mm": 105
+  },
+  {
+   "model": "DS18 6XL600-4",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    12500
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 100,
+    "re_ohm": 3.2,
+    "qms": 4.93,
+    "qes": 0.5,
+    "qts": 0.454,
+    "vas_l": 5.71,
+    "sd_cm2": 136.85,
+    "xmax_mm": null,
+    "mms_g": 11.917,
+    "bl_tm": 6.906,
+    "le_mh": 0.1647,
+    "spl_db_1w1m": 97,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 80,
+   "cutout_mm": 150,
+   "frame_mm": 170,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/6XL600-4_SPANGLISH_MANUAL_WEB_V1_1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/xl-6-5-mid-range-loudspeaker-300-watts-rms-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual 6XL600-4_SPANGLISH_MANUAL_WEB_V1_1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "XL 6.5\" Mid-Range Loudspeaker 300 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 126
+  },
+  {
+   "model": "DS18 D225PY",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 180,
+   "peak_w": 720,
+   "sensitivity_db": 118,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    630,
+    16000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 118,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 146,
+   "recommended_crossover": {
+    "hp_hz": 800,
+    "note": "maker 'Recommended Hi Pass Crossover' 800 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-d225py-2-bolt-on-throat-compression-driver-with-2-5-polyimide-voice-coil-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "2\" Throat Bolt on Driver 360 Watts 2.5\" Polyimide Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 10OCT500-8",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": 1000,
+   "sensitivity_db": 100,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    8000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 100,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 110,
+   "cutout_mm": 233,
+   "frame_mm": 263,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-10oct500-8-pro-octagon-10-mid-range-loudspeaker-1000-watts-max-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "Octagonal 10\" Mid-Range Loudspeaker 500 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 168
+  },
+  {
+   "model": "DS18 6OCT300-8",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": 148,
+   "frame_mm": 170,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-6oct300-8-pro-octagon-6-mid-range-loudspeaker-600-watts-max-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "Octagonal 6.5\" Mid-Range Loudspeaker 300 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 8OCT400-8",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 800,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    63,
+    10000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 98,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 95,
+   "cutout_mm": 185,
+   "frame_mm": 208,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-8oct400-8-pro-octagon-8-mid-range-loudspeaker-400-watts-rms-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "Octagonal 8\" Mid-Range Loudspeaker 400 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 145
+  },
+  {
+   "model": "DS18 PRO-X8.4RGBCAP",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 275,
+   "peak_w": 550,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    115,
+    16000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": 182,
+   "frame_mm": 208,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-x8-4rgbcap-pro-x-8-mid-range-loudspeaker-550-watts-4-ohm-with-rgb-lights",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-X 8\" Mid-Range Loudspeaker with RGB Light Dust Cap 275 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-X6.4RGBCAP",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    125,
+    12000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 145,
+   "frame_mm": 168,
+   "recommended_crossover": {
+    "hp_hz": 130,
+    "note": "maker 'Recommended Hi Pass Crossover' 130 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-x6-4rgbcap-pro-x-6-5-mid-range-loudspeaker-500-watts-4-ohm-with-rgb-lights",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-X 6.5\" Mid-Range Loudspeaker with RGB Light Dust Cap 250 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-X4.4BMSL",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    260,
+    11500
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41.4,
+   "cutout_mm": 102.3,
+   "frame_mm": 104.5,
+   "recommended_crossover": {
+    "hp_hz": 280,
+    "note": "maker 'Recommended Hi Pass Crossover' 280Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-x4-4bmsl-pro-x-4-shallow-mid-range-loudspeaker-with-bullet-200-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-X 4\" Shallow Mid-Range Bullet Loudspeaker | 100W RMS 4-Ohm",
+   "motor_diameter_mm": 70
+  },
+  {
+   "model": "DS18 PRO-DRNSC1.5DK",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 320,
+   "sensitivity_db": 111,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium (n38h）",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 111,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56.5,
+   "cutout_mm": null,
+   "frame_mm": 80,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-drnsc1-5dk-1-throat-neodymium-driver-with-1-5-composite-polyamide-voice-coil-with-horn",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "1\" Neodymium Driver And Horn Kit 160 Watts 1.5\" Polyimide 8-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-DRNSC1.5",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 320,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium (n38h）",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 109,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33,
+   "cutout_mm": null,
+   "frame_mm": 64,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-drnsc1-5-1-twist-on-throat-neodymium-driver-with-1-5-composite-polyimide-voice-coil",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "1\" Throat Twist On Neodymium Driver 160 Watts 1.5\" Composite Polyimide Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-B8.4",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 140,
+   "sensitivity_db": 94.6,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrlte",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 94.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 84,
+   "cutout_mm": 179,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-b8-4-8-mid-range-loudspeaker-with-bullet-4-ohm-140-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "DS18 PRO-B8.4 8\" Mid-Range Car Audio Loudspeaker with Bullet 140 Watts 4-Ohm",
+   "motor_diameter_mm": 100
+  },
+  {
+   "model": "DS18 PRO-B6.4",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 93.4,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    12500
+   ],
+   "magnet": "ferrlte",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 93.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 147,
+   "frame_mm": 164,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-b6-4-6-5-mid-range-car-audio-loudspeaker-with-bullet-4-ohm-120-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "DS18 PRO-B6.4 6.5\" Mid-Range Car Audio Loudspeaker with Bullet 120 Watts 4-Ohm",
+   "motor_diameter_mm": 90
+  },
+  {
+   "model": "DS18 PRO-ZXi6M",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    8000
+   ],
+   "magnet": "ferrite + neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 97,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72,
+   "cutout_mm": 147,
+   "frame_mm": 166,
+   "recommended_crossover": {
+    "hp_hz": 160,
+    "note": "maker 'Recommended Hi Pass Crossover' 160Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-zxi6m-6-5-mid-range-car-audio-loudspeaker-500-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-ZXI 6.5\" Mid-Range Loudspeaker With Neodymium/Ferrite Magnets 300 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-ZXI8.4BM",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 350,
+   "peak_w": 700,
+   "sensitivity_db": 99,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    12500
+   ],
+   "magnet": "ferrite + neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 99,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": 180,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 125,
+    "note": "maker 'Recommended Hi Pass Crossover' 125Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-zxi8-4bm-8-mid-range-loudspeaker-with-bullet-600-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-ZXI 8\" Mid-Range Bullet Loudspeaker Neodymium/Ferrite Magnets | 350W RMS 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-ZXI8M",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 350,
+   "peak_w": 700,
+   "sensitivity_db": 99,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    8000
+   ],
+   "magnet": "ferrite + neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 99,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": 180,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 125,
+    "note": "maker 'Recommended Hi Pass Crossover' 125Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-zxi8m-mid-range-loudspeaker-700-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-ZXI 8\" Mid-Range Loudspeaker With Neodymium/Ferrite Magnets 350 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-ZXI694BM",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    12500
+   ],
+   "magnet": "ferrite + neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 98,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86,
+   "cutout_mm": 153,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-zxi694bm-6x9-mid-range-loudspeaker-with-bullet-and-grill-750-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-ZXI 6x9\" Mid-Range Bullet Loudspeaker Neodymium/Ferrite Magnets | 300W RMS 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-ZXI6.4BM",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    10000
+   ],
+   "magnet": "ferrite + neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 97,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72,
+   "cutout_mm": 147,
+   "frame_mm": 166,
+   "recommended_crossover": {
+    "hp_hz": 160,
+    "note": "maker 'Recommended Hi Pass Crossover' 160Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-zxi6-4bm-mid-range-loudspeaker-with-bullet-500-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-ZXI 6.5\" Mid-Range Bullet Loudspeaker Neodymium/Ferrite Magnets | 300W RMS 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-D2PH",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 800,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    500,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 109,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 170,
+   "recommended_crossover": {
+    "hp_hz": 800,
+    "note": "maker 'Recommended Hi Pass Crossover' 800 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-D2PH_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-bolt-on-throat-compression-driver-with-3-phenolic-voice-coil-800-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-D2PH_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Throat Bolt on Driver 400 Watts 3\" Phenolic Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-D2X",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 1000,
+   "sensitivity_db": 110,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    600,
+    18000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 110,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 180,
+   "recommended_crossover": {
+    "hp_hz": 900,
+    "note": "maker 'Recommended Hi Pass Crossover' 900 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-bolt-on-throat-compression-driver-with-3-titanium-voice-coil-800-watts-8-ohm-with-spacer",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "2\" Throat Bolt on With Spacer Driver 500 Watts 3\" Titanium Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-NEO6.8R",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    90,
+    10000
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 83,
+    "re_ohm": 6,
+    "qms": 4.4,
+    "qes": 0.229,
+    "qts": 0.218,
+    "vas_l": 6.498,
+    "sd_cm2": 145,
+    "xmax_mm": 3.6,
+    "mms_g": null,
+    "bl_tm": 13.466,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 83.7,
+   "cutout_mm": 150.3,
+   "frame_mm": 174.8,
+   "recommended_crossover": {
+    "hp_hz": 160,
+    "note": "maker 'Recommended Hi Pass Crossover' 160 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-5-neodymium-rings-mid-range-loudspeaker-600-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way.",
+   "title": "PRO 6.5\" Neodymium Mid-Range Loudspeaker 300 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 105
+  },
+  {
+   "model": "DS18 PRO-NS8.4",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    97,
+    12000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 117,
+    "re_ohm": 3.2,
+    "qms": 4.643,
+    "qes": 1.147,
+    "qts": 0.92,
+    "vas_l": 4.8,
+    "sd_cm2": 213.825,
+    "xmax_mm": 2,
+    "mms_g": 12.294,
+    "bl_tm": 4.8,
+    "le_mh": 2.532,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 181,
+   "frame_mm": 208,
+   "recommended_crossover": {
+    "hp_hz": 160,
+    "note": "maker 'Recommended Hi Pass Crossover' 160Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NS8.4_SPANGLISH_MANUAL_WEB_V2.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-shallow-neodymium-mid-range-loudspeaker-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NS8.4_SPANGLISH_MANUAL_WEB_V2.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 8\" Shallow Neodymium Mid-Range Loudspeaker 200 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-NS8",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    97,
+    12000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 120,
+    "re_ohm": 6.5,
+    "qms": 3.781,
+    "qes": 0.952,
+    "qts": 0.761,
+    "vas_l": 5.48,
+    "sd_cm2": 213.825,
+    "xmax_mm": 2,
+    "mms_g": 13.242,
+    "bl_tm": 6.029,
+    "le_mh": 7.011,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 181,
+   "frame_mm": 208,
+   "recommended_crossover": {
+    "hp_hz": 160,
+    "note": "maker 'Recommended Hi Pass Crossover' 160Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NS8_SPANGLISH_MANUAL_WEB_V2.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-shallow-neodymium-mid-range-loudspeaker-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NS8_SPANGLISH_MANUAL_WEB_V2.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 8\" Shallow Neodymium Mid-Range Loudspeaker 200 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-NS6",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    12000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 139,
+    "re_ohm": 6.5,
+    "qms": 5.781,
+    "qes": 1.245,
+    "qts": 1.025,
+    "vas_l": 4.8,
+    "sd_cm2": 132.732,
+    "xmax_mm": 2,
+    "mms_g": 6.498,
+    "bl_tm": 5.38,
+    "le_mh": 5.1455,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 145,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 180,
+    "note": "maker 'Recommended Hi Pass Crossover' 180Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NS6_SPANGLISH_MANUAL_WEB_V2.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-5-shallow-neodymium-mid-range-loudspeaker-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NS6_SPANGLISH_MANUAL_WEB_V2.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 6.5\" Shallow Neodymium Mid-Range Loudspeaker 150 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 103
+  },
+  {
+   "model": "DS18 PRO-NS6.4",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    12000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 137,
+    "re_ohm": 3.2,
+    "qms": 4.906,
+    "qes": 1.072,
+    "qts": 0.88,
+    "vas_l": 4.58,
+    "sd_cm2": 132.732,
+    "xmax_mm": 2,
+    "mms_g": 7.356,
+    "bl_tm": 4.2,
+    "le_mh": 2.695,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 145,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 180,
+    "note": "maker 'Recommended Hi Pass Crossover' 180Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NS6.4_SPANGLISH_MANUAL_WEB_V2.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-5-shallow-neodymium-mid-range-loudspeaker-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NS6.4_SPANGLISH_MANUAL_WEB_V2.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 6.5\" Shallow Neodymium Mid-Range Loudspeaker 150 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 103
+  },
+  {
+   "model": "DS18 PRO-DPL1PH",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 640,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    500,
+    18000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 109,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 134,
+   "recommended_crossover": {
+    "hp_hz": 800,
+    "note": "maker 'Recommended Hi Pass Crossover' 800 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-bolt-on-throat-compression-driver-with-2-phenolic-voice-coil-500-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "2\" Throat Bolt on Driver 320 Watts 2\" Phenolic Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-X6.4MSQ",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 168,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-X6.4MSQ_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-5-square-midrange-loudspeaker-500-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-X6.4MSQ_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 6.5\" Square Midrange Loudspeaker 450 Watts 4-ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-DRNCOAX",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 640,
+   "sensitivity_db": 118,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    315,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 118,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 140,
+   "recommended_crossover": {
+    "hp_hz": 5000,
+    "note": "maker 'Recommended Hi Pass Crossover' 5KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DRNCOAX_WEB_MANUAL_2021.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-bolt-on-throat-neodymium-driver-with-dual-polyester-and-tweeter-coaxial-compression-driver",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-DRNCOAX_WEB_MANUAL_2021.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Throat Bolt on Nedodymium Driver 320 Watts with Dual Polyester 1 x 3.5\" Mid-Range + 1.75\" High Range 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-DKH1S",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 640,
+   "sensitivity_db": 110,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    630,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 110,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 125.8,
+   "cutout_mm": null,
+   "frame_mm": 162,
+   "recommended_crossover": {
+    "hp_hz": 900,
+    "note": "maker 'Recommended Hi Pass Crossover' 900 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DKH1S_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-d1-2-bolt-on-throat-compression-driver-with-2-titanium-voice-coil-and-pro-ha52-bk-horn-640-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-DKH1S_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Driver Short Horn Kit 320 Watts 2\" Titanium 8-Ohm Vc (PRO-D1+PRO-HA52/BK)"
+  },
+  {
+   "model": "DS18 PRO-DKH1XS",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 640,
+   "sensitivity_db": 114,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    630,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 114,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 145.8,
+   "cutout_mm": null,
+   "frame_mm": 162,
+   "recommended_crossover": {
+    "hp_hz": 900,
+    "note": "maker 'Recommended Hi Pass Crossover' 900 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DKH1XS_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-d1-2-bolt-on-throat-compression-driver-with-spacer-2-titanium-voice-coil-and-pro-ha52-bk-horn-640-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-DKH1XS_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Driver with Spacer And Short Horn Kit 320 Watts 2\" Titanium 8-Ohm Vc (PRO-D1+PRO-HA52/BK)"
+  },
+  {
+   "model": "DS18 PRO-DKH1X",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 640,
+   "sensitivity_db": 115,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    630,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 115,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 201.5,
+   "cutout_mm": null,
+   "frame_mm": 162,
+   "recommended_crossover": {
+    "hp_hz": 900,
+    "note": "maker 'Recommended Hi Pass Crossover' 900 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DKH1X_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-d1-2-bolt-on-throat-compression-driver-with-spacer-2-titanium-voice-coil-and-pro-ha102-bk-horn-640-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-DKH1X_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Driver with Spacer And Horn Kit 320 Watts 2\" Titanium 8-Ohm Vc (PRO-D1+PRO-HA102/BK)"
+  },
+  {
+   "model": "DS18 PRO-FU12.8",
+   "type": "midrange",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 600,
+   "peak_w": 1200,
+   "sensitivity_db": 97.7,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    57,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 57.6,
+    "re_ohm": 5.6,
+    "qms": 3.906,
+    "qes": 0.42,
+    "qts": 0.379,
+    "vas_l": 68.29,
+    "sd_cm2": 539.1,
+    "xmax_mm": 20,
+    "mms_g": 46.03,
+    "bl_tm": 14.91,
+    "le_mh": 0.1997,
+    "spl_db_1w1m": 97.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 125,
+   "cutout_mm": 285,
+   "frame_mm": 316,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-FU12.8_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-fu-12-mid-range-loudspeaker-1200-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-FU12.8_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-FU 12\" Mid-Range Loudspeaker 600 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 190
+  },
+  {
+   "model": "DS18 PRO-FU12.4",
+   "type": "midrange",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 600,
+   "peak_w": 1200,
+   "sensitivity_db": 97.7,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    57,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 64.7,
+    "re_ohm": 2.8,
+    "qms": 2.608,
+    "qes": 0.365,
+    "qts": 0.32,
+    "vas_l": 51.705,
+    "sd_cm2": 519,
+    "xmax_mm": 20,
+    "mms_g": 44.781,
+    "bl_tm": 11.819,
+    "le_mh": 0.1188,
+    "spl_db_1w1m": 97.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 125,
+   "cutout_mm": 285,
+   "frame_mm": 316,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-FU12.4_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-fu-12-mid-range-loudspeaker-1200-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-FU12.4_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-FU 12\" Mid-Range Loudspeaker 600 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 190
+  },
+  {
+   "model": "DS18 PRO-FU10.8",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 800,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    88,
+    6000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 86.7,
+    "re_ohm": 5.2,
+    "qms": 6.339,
+    "qes": 0.474,
+    "qts": 0.441,
+    "vas_l": 15.783,
+    "sd_cm2": 256.32,
+    "xmax_mm": 5,
+    "mms_g": 38.44,
+    "bl_tm": 15.16,
+    "le_mh": 0.2173,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 112,
+   "cutout_mm": 230,
+   "frame_mm": 263,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-FU10.8_SPANGLISH_MANUAL_WEB_V1_d2775787-6859-47d4-8e6f-2fd61baf2257.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-fu-10-mid-range-loudspeaker-800-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-FU10.8_SPANGLISH_MANUAL_WEB_V1_d2775787-6859-47d4-8e6f-2fd61baf2257.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-FU 10\" Mid-Range Loudspeaker 400 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 190
+  },
+  {
+   "model": "DS18 PRO-FU10.4",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 800,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    88,
+    6000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 82.954,
+    "re_ohm": 2.8,
+    "qms": 3.21,
+    "qes": 0.473,
+    "qts": 0.412,
+    "vas_l": 21.936,
+    "sd_cm2": 373.256,
+    "xmax_mm": 5,
+    "mms_g": 33.93,
+    "bl_tm": 10.175,
+    "le_mh": 0.1164,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 112,
+   "cutout_mm": 230,
+   "frame_mm": 263,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-FU10.4_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-fu-10-mid-range-loudspeaker-800-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-FU10.4_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-FU 10\" Mid-Range Loudspeaker 400 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 190
+  },
+  {
+   "model": "DS18 PRO-FU8.8",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 350,
+   "peak_w": 700,
+   "sensitivity_db": 94.9,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    5000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 79,
+    "re_ohm": 5.2,
+    "qms": 8.842,
+    "qes": 0.459,
+    "qts": 0.437,
+    "vas_l": 15.257,
+    "sd_cm2": 207.24,
+    "xmax_mm": 0.9,
+    "mms_g": 16.165,
+    "bl_tm": 9.543,
+    "le_mh": null,
+    "spl_db_1w1m": 94.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 83,
+   "cutout_mm": 182,
+   "frame_mm": 212,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-FU8.8_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-fu-8-mid-range-loudspeaker-700-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-FU8.8_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-FU 8\" Mid-Range Loudspeaker 350 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 156
+  },
+  {
+   "model": "DS18 PRO-FU8.4",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 350,
+   "peak_w": 700,
+   "sensitivity_db": 94.9,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    5000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 72.5,
+    "re_ohm": 2.8,
+    "qms": 7.531,
+    "qes": 0.322,
+    "qts": 0.308,
+    "vas_l": 17.08,
+    "sd_cm2": 207.24,
+    "xmax_mm": 0.9,
+    "mms_g": 17.187,
+    "bl_tm": 8.25,
+    "le_mh": null,
+    "spl_db_1w1m": 94.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 83,
+   "cutout_mm": 182,
+   "frame_mm": 212,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-FU8.4_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-fu-8-mid-range-loudspeaker-700-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-FU8.4_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-FU 8\" Mid-Range Loudspeaker 350 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 156
+  },
+  {
+   "model": "DS18 PRO-D1",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 640,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    630,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 108,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 134,
+   "recommended_crossover": {
+    "hp_hz": 900,
+    "note": "maker 'Recommended Hi Pass Crossover' 900 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-D1_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-titanium-compression-driver-1000-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-D1_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Throat Bolt on Driver 320 Watts 2\" Titanium Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-DRN3",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 225,
+   "peak_w": 900,
+   "sensitivity_db": 110,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    500,
+    18000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 110,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 800,
+    "note": "maker 'Recommended Hi Pass Crossover' 800 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DRN3_WEB_MANUAL_2021.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-3-neodymium-driver-600-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-DRN3_WEB_MANUAL_2021.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Throat Bolt on Neodymium Driver 450 Watts 3\" Titanium Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-DKH1",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 640,
+   "sensitivity_db": 111,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    800,
+    18500
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 111,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 182.5,
+   "cutout_mm": null,
+   "frame_mm": 162,
+   "recommended_crossover": {
+    "hp_hz": 900,
+    "note": "maker 'Recommended Hi Pass Crossover' 900Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DKH1_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-titanium-compression-driver-with-horn-1000-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-DKH1_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Driver And Horn Kit 320 Watts 2\" Titanium 8-Ohm Vc (PRO-D1+PRO-HA102/BK)"
+  },
+  {
+   "model": "DS18 PRO-GM6B",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 480,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    6300
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 105,
+    "re_ohm": 6.4,
+    "qms": 10.092,
+    "qes": 0.78,
+    "qts": 0.724,
+    "vas_l": 6.92,
+    "sd_cm2": 132.73,
+    "xmax_mm": null,
+    "mms_g": 8.219,
+    "bl_tm": 6.49,
+    "le_mh": 0.761,
+    "spl_db_1w1m": 93,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 145,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM6B_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-midrange-loudspeaker-with-bullet-480-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM6B_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "6.5\" Mid-Range Loudspeaker with Bullet 480 Watts 8-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-EXL64",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 136.9,
+    "re_ohm": 3.2,
+    "qms": 4.003,
+    "qes": 0.601,
+    "qts": 0.523,
+    "vas_l": 2.1982,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 91,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 85,
+   "cutout_mm": 150,
+   "frame_mm": 173,
+   "recommended_crossover": {
+    "hp_hz": 180,
+    "note": "maker 'Recommended Hi Pass Crossover' 180 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-EXL64_WEB_MANUAL_2021.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-exl-6-midrange-loudspeaker-600-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-EXL64_WEB_MANUAL_2021.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-EXL 6.5\" Mid-Range Loudspeaker 300 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-GM6.4B",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 480,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    6300
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 113,
+    "re_ohm": 3.3,
+    "qms": 11.955,
+    "qes": 0.705,
+    "qts": 0.666,
+    "vas_l": 4.9,
+    "sd_cm2": 132.73,
+    "xmax_mm": null,
+    "mms_g": 9.862,
+    "bl_tm": 5.75,
+    "le_mh": 0.453,
+    "spl_db_1w1m": 93,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 145,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM6.4B_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-gm-series-6-5-midrange-bullet-loudspeaker-4-ohm-480-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM6.4B_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 6.5\" Mid-Range Loudspeaker with Bullet | 140W RMS 4-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-DRN2",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 800,
+   "sensitivity_db": 110,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    500,
+    18000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 110,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 53.8,
+   "cutout_mm": null,
+   "frame_mm": 131,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DRN2_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-3-neodymium-driver-680-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-DRN2_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Throat Bolt on Neodymium Driver 400 Watts 3\" Titanium Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-GM8.4",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 190,
+   "peak_w": 580,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 86,
+    "re_ohm": 3.3,
+    "qms": 10.462,
+    "qes": 0.795,
+    "qts": 0.739,
+    "vas_l": 22.53,
+    "sd_cm2": 213.82,
+    "xmax_mm": null,
+    "mms_g": 9.685,
+    "bl_tm": 4.71,
+    "le_mh": 0.431,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 183,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM8.4_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-gm-series-8-midrange-loudspeaker-4-ohm-580-watts-1",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM8.4_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM8.4 8\" Mid-Range Loudspeaker 580 Watts 4-Ohm",
+   "motor_diameter_mm": 118
+  },
+  {
+   "model": "DS18 PRO-GM6.4",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 480,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 102,
+    "re_ohm": 3.3,
+    "qms": 11,
+    "qes": 0.729,
+    "qts": 0.684,
+    "vas_l": 7.15,
+    "sd_cm2": 132.73,
+    "xmax_mm": null,
+    "mms_g": 8.384,
+    "bl_tm": 4.95,
+    "le_mh": 0.411,
+    "spl_db_1w1m": 92,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 145,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM6.4_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-gm-series-6-5-midrange-loudspeaker-4-ohm-480-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM6.4_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM6.4 6.5\" Mid-Range Loudspeaker 480 Watts 4-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-GM10.4",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 220,
+   "peak_w": 660,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    6300
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 59,
+    "re_ohm": 3.4,
+    "qms": 14.565,
+    "qes": 0.808,
+    "qts": 0.765,
+    "vas_l": 79.3,
+    "sd_cm2": 349.67,
+    "xmax_mm": null,
+    "mms_g": 15.6,
+    "bl_tm": 4.98,
+    "le_mh": 0.599,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 96,
+   "cutout_mm": 230,
+   "frame_mm": 256,
+   "recommended_crossover": {
+    "hp_hz": 90,
+    "note": "maker 'Recommended Hi Pass Crossover' 90 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM10.4_WEB_MANUAL_SPANGLISH_2021.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-gm-series-10-midrange-loudspeaker-4-ohm-660-watts-1",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM10.4_WEB_MANUAL_SPANGLISH_2021.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM10.4 10\" Mid-Range Loudspeaker 660 Watts 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-GM8.4B",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 190,
+   "peak_w": 580,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 92,
+    "re_ohm": 3.2,
+    "qms": 11.5,
+    "qes": 0.715,
+    "qts": 0.673,
+    "vas_l": 18.39,
+    "sd_cm2": 213.82,
+    "xmax_mm": null,
+    "mms_g": 10.3,
+    "bl_tm": 5.2,
+    "le_mh": 0.427,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 183,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM8.4B_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-gm-series-8-midrange-loudspeaker-4-ohm-580-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM8.4B_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM8.4B 8\" Mid-Range Loudspeaker with Bullet 580 Watts 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-GM10",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 220,
+   "peak_w": 660,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    6300
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 67,
+    "re_ohm": 6.2,
+    "qms": 11.409,
+    "qes": 1.13,
+    "qts": 1.028,
+    "vas_l": 75.76,
+    "sd_cm2": 349.67,
+    "xmax_mm": null,
+    "mms_g": 12.66,
+    "bl_tm": 5.43,
+    "le_mh": 0.962,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 96,
+   "cutout_mm": 230,
+   "frame_mm": 256,
+   "recommended_crossover": {
+    "hp_hz": 90,
+    "note": "maker 'Recommended Hi Pass Crossover' 90Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM10_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-gm-series-10-midrange-loudspeaker-8-ohm-660-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM10_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM10 10\" Mid-Range Loudspeaker 660 Watts 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-DRNEO",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 225,
+   "peak_w": 900,
+   "sensitivity_db": 115,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    500,
+    20000
+   ],
+   "magnet": "neodymium ring / anillos de neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 115,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 131,
+   "recommended_crossover": {
+    "hp_hz": 800,
+    "note": "maker 'Recommended Hi Pass Crossover' 800Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-DRNEO_SPANGLISH_WEB_MANUAL_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-3-neodymium-driver-900-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-DRNEO_SPANGLISH_WEB_MANUAL_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2\" Throat Bolt on Neodymium Driver 450 Watts 3\" Titanium Vc 8-Ohm"
+  },
+  {
+   "model": "DS18 PRO-GM8",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 190,
+   "peak_w": 580,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 85,
+    "re_ohm": 6.4,
+    "qms": 10.696,
+    "qes": 0.961,
+    "qts": 0.881,
+    "vas_l": 28.33,
+    "sd_cm2": 213.82,
+    "xmax_mm": null,
+    "mms_g": 8.3,
+    "bl_tm": 5.44,
+    "le_mh": 0.769,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 183,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM8_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-midrange-loudspeaker-580-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM8_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM8 8\" Mid-Range Loudspeaker 580 Watts 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-GM8SE",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 190,
+   "peak_w": 580,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    250,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 448,
+    "re_ohm": 6.3,
+    "qms": 8.336,
+    "qes": 4.402,
+    "qts": 2.88,
+    "vas_l": 1.25,
+    "sd_cm2": 221.67,
+    "xmax_mm": null,
+    "mms_g": 6.922,
+    "bl_tm": 5.29,
+    "le_mh": 0.736,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 183,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 350,
+    "note": "maker 'Recommended Hi Pass Crossover' 350 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM8SE_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-sealed-back-midrange-loudspeaker-with-bullet-580-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM8SE_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM8SE 8\" Sealed Back Mid-Range Loudspeaker 580 Watts 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-GM6SE",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 480,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    315,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 457,
+    "re_ohm": 6.2,
+    "qms": 7.744,
+    "qes": 3.592,
+    "qts": 2.454,
+    "vas_l": 0.48,
+    "sd_cm2": 132.73,
+    "xmax_mm": null,
+    "mms_g": 6.187,
+    "bl_tm": 5.54,
+    "le_mh": 0.689,
+    "spl_db_1w1m": 93,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 145,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 400,
+    "note": "maker 'Recommended Hi Pass Crossover' 400 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM6SE_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-sealed-back-midrange-loudspeaker-with-bullet-480-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM6SE_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM6SE 6.5\" Sealed Back Mid-Range Loudspeaker 480 Watts 8-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-GM8B",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 190,
+   "peak_w": 580,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 91,
+    "re_ohm": 6.4,
+    "qms": 13.426,
+    "qes": 0.877,
+    "qts": 0.823,
+    "vas_l": 23.61,
+    "sd_cm2": 213.82,
+    "xmax_mm": null,
+    "mms_g": 8.827,
+    "bl_tm": 5.89,
+    "le_mh": 0.723,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 183,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM8B_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-midragne-loudspeaker-with-bullet-660-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM8B_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM8B 8\" Mid-Range Loudspeaker with Bullet 580 Watts 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-GM6",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 480,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 113,
+    "re_ohm": 6.4,
+    "qms": 13.28,
+    "qes": 1.068,
+    "qts": 0.988,
+    "vas_l": 5.58,
+    "sd_cm2": 132.73,
+    "xmax_mm": null,
+    "mms_g": 8.836,
+    "bl_tm": 6.14,
+    "le_mh": 0.726,
+    "spl_db_1w1m": 92,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 145,
+   "frame_mm": 167,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-GM6_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-midrange-loudspeaker-480-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-GM6_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-GM6 6.5\" Mid-Range Loudspeaker 480 Watts 8-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-X8BM",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 275,
+   "peak_w": 550,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    115,
+    16000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 122,
+    "re_ohm": 5.2,
+    "qms": 9.645,
+    "qes": 0.98,
+    "qts": 0.889,
+    "vas_l": 13.7,
+    "sd_cm2": 216.42,
+    "xmax_mm": 9.3,
+    "mms_g": 8.076,
+    "bl_tm": 5.751,
+    "le_mh": 0.857,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 79,
+   "cutout_mm": 182,
+   "frame_mm": 209,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-X8BM_SPANGLISH_MANUAL_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-series-8-midrange-loudspeaker-300-watts-rms-600-watts-max",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-X8BM_SPANGLISH_MANUAL_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO-X 8\" Mid-Range Bullet Loudspeaker | 275W RMS 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-NEO8SLIM",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    120,
+    12000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 126,
+    "re_ohm": null,
+    "qms": 1.252,
+    "qes": 0.693,
+    "qts": 0.446,
+    "vas_l": 5.6237,
+    "sd_cm2": 201.06,
+    "xmax_mm": 8,
+    "mms_g": 16.229,
+    "bl_tm": 7.885,
+    "le_mh": 0.051,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56.5,
+   "cutout_mm": 183,
+   "frame_mm": 210,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NEO8SLIM_SPANGLISH_MANUAL_WEB_V1_18c26128-9293-492f-a312-290c5c609270.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-shallow-neodymium-magnet-loudspeaker-with-bullet-500-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NEO8SLIM_SPANGLISH_MANUAL_WEB_V1_18c26128-9293-492f-a312-290c5c609270.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 8\" Slim Neodymium Mid-Range Loudspeaker with Bullet | 500W 4-Ohm",
+   "motor_diameter_mm": 84
+  },
+  {
+   "model": "DS18 PRO-NEO8R",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 800,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    12500
+   ],
+   "magnet": "neodymium rings / anillos de neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 138,
+    "re_ohm": 3.2,
+    "qms": 2.315,
+    "qes": 0.775,
+    "qts": 0.569,
+    "vas_l": 2.9,
+    "sd_cm2": null,
+    "xmax_mm": 11.2,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 93,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 88,
+   "cutout_mm": 181,
+   "frame_mm": 211,
+   "recommended_crossover": {
+    "hp_hz": 140,
+    "note": "maker 'Recommended Hi Pass Crossover' 140Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NEO8R_WEB_MANUAL_SPANGLISH_2021.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-neodymium-rings-magnet-midrange-loudspeaker-800-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NEO8R_WEB_MANUAL_SPANGLISH_2021.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 8\" Neodymium Mid-Range Loudspeaker 400 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 125
+  },
+  {
+   "model": "DS18 PRO-NEO6R",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    90,
+    12500
+   ],
+   "magnet": "neodymium rings / anillos de neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 99.5,
+    "re_ohm": 3.2,
+    "qms": 9.8,
+    "qes": 0.237,
+    "qts": 0.231,
+    "vas_l": 5.088,
+    "sd_cm2": 145,
+    "xmax_mm": 3.6,
+    "mms_g": 11.449,
+    "bl_tm": 9.832,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 75,
+   "cutout_mm": 150.3,
+   "frame_mm": 174.8,
+   "recommended_crossover": {
+    "hp_hz": 160,
+    "note": "maker 'Recommended Hi Pass Crossover' 160Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NEO6R_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-neodymium-rings-magnet-midrange-loudspeaker-600-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NEO6R_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 6.5\" Neodymium Mid-Range Loudspeaker 300 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 105
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "DS18 8PRO600NSE-4",
+   "title": "PRO 8\" Neodymiun Sealed Back Mid-High Pro Audio Line Array (LA) Loudspeaker | 300W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/8pro600nse-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 6PRO600NSE-4",
+   "title": "PRO 6.5\" Neodymiun Sealed Back Mid-High Pro Audio Line Array (LA) Loudspeaker | 300W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/6pro600nse-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-GM6.4B.2pk",
+   "title": "PRO 6.5\" Mid-Range Loudspeaker with Bullet | 140W RMS 4-Ohm - Pair",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-gm6-4b-2pk",
+   "note": "No specification list in the maker's product description; manual: manual does not name the SKU."
+  },
+  {
+   "model": "DS18 PRO-X6.4BM.2pk + OEMADAPT6.5",
+   "title": "PRO-X 6.5\" Mid-Range Loudspeaker with Bullet and OEM Adapter Kit | 250W RSM 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x6-4bm-2pk-oemadapt6-5",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 TEST-PRO-NEO8R",
+   "title": "PRO 8\" Neodymium Mid-Range Loudspeaker 400 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-8-neodymium-mid-range-loudspeaker-400-watts-rms-4-ohm",
+   "note": "No specification list in the maker's product description; manual: manual does not name the SKU."
+  },
+  {
+   "model": "DS18 PRO-SM6.4",
+   "title": "PRO 6.5\" Slim Mid-Range Loudspeaker with Water-Resistant Cone | 200W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-sm6-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 DXQ3.5",
+   "title": "DXQ 3.5” Midrange Speaker with Yellow Straw + Composite Foam Cone | 60W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/dxq3-5",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-CF6.2SLN",
+   "title": "6.5” Slim Motorcycle & Motorsports Loudspeaker With Neodymium Magnet and Water Resistant Carbon Fiber Cone | 2-Ohm 150W RMS",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-cf6-2sln",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X6MSE",
+   "title": "6.5” Sealed Back Mid-Range Loudspeaker | 500W | 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-6-5-midrange-speaker-250-watts-rms-500-watts-max-8-ohm-sealed-basket",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 25D120NO-4",
+   "title": "2.5\" OEM Dashboard Loudspeaker with Neodymium Magnet | 60W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/25d120no-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 3D160NO-4",
+   "title": "3\" OEM Dashboard Loudspeaker with Neodymium Magnet | 80W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/3d160no-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 8XL800N-8",
+   "title": "XL 8\" Mid-Range Loudspeaker 8-Ohm with Neodymium Magnet 400 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/8xl800n-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 12XL1000N-8",
+   "title": "XL 12\" Mid-Range Loudspeaker 8-Ohm with Neodymium Magnet 500 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/12xl1000n-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 10XL1000N-8",
+   "title": "XL 10\" Mid-Range Loudspeaker 8-Ohm with Neodymium Magnet 500 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/10xl1000n-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 AHDRC",
+   "title": "Universal Camera for Front/Rear Position Selectable with Adjustable AHD/CVBS System",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/ahdrc",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X6.4RGB",
+   "title": "6.5\" Mid-Range Loudspeaker with Dual RGB LED For Cone & Dust Cap 250 Watts 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x6-4rgb",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X8.4RGB",
+   "title": "8\" Mid-Range Loudspeaker with Dual RGB LED For Cone & Dust Cap 275 Watts 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x8-4rgb",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 8PRO400MR-4",
+   "title": "PRO 8” High Sensitivity Professional Mid-Range Loudspeaker 200 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/8pro400mr-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 6PRO300MR-4",
+   "title": "PRO 6.5” High Sensitivity Professional Mid-Range Loudspeaker 150 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/6pro300mr-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 6PRO360NSL-8",
+   "title": "PRO 6.5” Slim Professional Mid-Range Speaker With Neodymium Magnet 180 Watts Rms 8-Ohm - Recommended for Dome and Diffuser Horn (LA)",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/6pro360nsl-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 RCM24",
+   "title": "Reverse Camera with Night Vision RCM24",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/reverse-camera-with-night-vision-1",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 12XL1500-8",
+   "title": "XL 12\" Mid-Range Loudspeaker 750 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/xl-12-mid-range-loudspeaker-750-watts-rms-8-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 10XL1400-8",
+   "title": "XL 10\" Mid-Range Loudspeaker 700 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/xl-10-mid-range-loudspeaker-700-watts-rms-8-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 8XL800-8",
+   "title": "XL 8\" Mid-Range Loudspeaker 400 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/xl-8-mid-range-loudspeaker-400-watts-rms-8-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 10XL1400-4",
+   "title": "XL 10\" Mid-Range Loudspeaker 700 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/10xl1400",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 6XL650NB-4",
+   "title": "XL 6.5\" Neodymium Mid-Range Loudspeaker With Bullet 325 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/6xl650nb-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 8XL800-4",
+   "title": "XL 8\" Mid-Range Loudspeaker 400 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/8xl800",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 12XL1500-4",
+   "title": "XL 12\" Mid-Range Loudspeaker 750 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/12xl1500",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-HY10.4B",
+   "title": "PRO 10\" Water Resistant Hybrid Mid-Range Loudspeaker with Built-in Driver 350 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-hy10-4b",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-HY69.4B",
+   "title": "PRO 6x9\" Water Resistant Hybrid Mid-Range Loudspeaker with Built-in Driver 250 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-hy69-4b",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X694BM",
+   "title": "PRO-X 6X9\" Mid-Range Loudspeaker with Bullet | 200W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-series-6x9-4-ohm-midrange-speaker-with-bullet-550w",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 ZXI-354",
+   "title": "ZXI 3.5\" Full-Range Speakers with Kevlar Cone | 40 Watts RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/elite-3-5-full-range-speakers-with-glass-fiber-cone-120-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-DRN3PH",
+   "title": "2\" Throat Bolt on Neodymium Driver 450 Watts 3\" Phenolic Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-2-bolt-on-throat-neodymium-driver-with-3-titanium-voice-coil-600-watts-110db-8-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-DKN1XSPH",
+   "title": "2\" Bolt On Throat Neodymium Driver with Spacer, 2\" Throat Phenolic VC 680 Watts and PRO-HA52/BK Horn 680 Watts 117dB 8 Ohm Mounting Depth 5.22\" Throat",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-drn1px-2-bolt-on-throat-neodymium-driver-with-spacer-2-phenolic-voice-coil-640-watts-and-pro-ha52-bk-horn-680-watts-117db-8-ohm",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-DR1.354",
+   "title": "1\" Throat Twist on Driver 160 Watts 1.35\" Titanium Vc 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-1-twist-on-throat-compression-driver-with-1-35-titanium-voice-coil-400-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-EXL104",
+   "title": "DS18 PRO-EXL104 10\" Mid-Range Loudspeaker 1200 Watts 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-exl-10-midrange-loudspeaker-1200-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-NEO6",
+   "title": "PRO 6.5\" Neodymium Mid-Range Bullet Loudspeaker 250 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-6-neodymium-magnet-midrange-loudspeaker-500-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X8.4BMRGB",
+   "title": "PRO-X 8\" Mid-Range Loudspeaker with RGB Light Bullet 275 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-8-5-mid-range-loudspeaker-with-rgb-light-bullet-500-watts-4-ohm-1",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X6.4BMRGB",
+   "title": "PRO-X 6.5\" Mid-Range Loudspeaker with RGB Light Bullet 250 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-6-5-mid-range-loudspeaker-with-rgb-light-bullet-500-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-DRNMD",
+   "title": "2\" Throat Bolt on Nedodymium Driver 440 Watts 2 x 3.5\" Dual Polyester Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-2-bolt-on-throat-neodymium-driver-with-dual-polymer-voice-coil-880-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-SM69.2",
+   "title": "PRO 6x9\" Slim Water-Resistant Mid-Range Loudspeaker | 250W RMS 2-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-6x9-shallow-water-resistant-cone-mid-range-loudspeaker-500-watts-2-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-DR1PK44",
+   "title": "1\" Driver Horn Kit 120 Watts 1\" Phenolic 8-Ohm Vc (PRO-DR1P +PRO-H44/BK)",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-dr1p-1-twist-on-throat-compression-driver-with-1-phenolic-voice-coil-and-pro-h44-bk-horn-240-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-DR250",
+   "title": "1\" Throat Twist on Driver 200 Watts 2\" Phenolic Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-2-phelonic-compression-driver-300-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-X10BM",
+   "title": "PRO-X 10\" Mid-Range Bullet Loudspeaker | 300W RMS 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x10bm-pro-series-10-bullet-midrange-loudspeaker-300-w-rms-600-w-max-power",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X10.4M",
+   "title": "PRO-X 10\" Mid-Range Loudspeaker 300 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-series-10-midrange-loudspeaker-4-ohm-600-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X12M",
+   "title": "PRO-X 12\" Mid-Range Loudspeaker 450 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-series-12-midrange-loudspeaker-8-ohm-900-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-DR250TI",
+   "title": "1\" Throat Twist on Driver 200 Watts 2\" Titanium Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-2-titanium-compression-driver-300-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-X698BM",
+   "title": "PRO-X 6X9\" Mid-Range Bullet Loudspeaker | 200W RMS 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-series-6x9-8-ohm-midrange-speaker-with-bullet-550w",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 RCNLP/BK",
+   "title": "DS18 RCNLP Top License Plate Backup Camera",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/top-license-plate-backup-camera",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 EAGLE2IN1",
+   "title": "DS18 EAGLE2IN1 Rearview Mirror with 4.3\" HD LCD Display Built-In 1080P Dash Cam Recorder, Reverse Camera with Parking Sensor",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/eagle2in1-rear-view-mirror-with-4-3-hd-lcd-display-built-in-1080p-dash-cam-recorder-reverse-camera-with-parking-sensor",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X6.4BMSL",
+   "title": "PRO-X 6.5\" Shallow Mid-Range Bullet Loudspeaker | 200W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-6-5-midrange-loudspeaker-300-watts-rms-600-watts-max",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRKDI8",
+   "title": "DS18 PRKDI8 8 Reverse Backup Sensors with Buzzer",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/prkdi8-8-reverse-backup-sensors-with-buzzer",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 SMARTEAGLE/S",
+   "title": "DS18 SMARTEAGLE/S Rearview Smart Mirror with 4.3\" HD LCD Touch Screen with Android 1080p Dash Cam Recorder, Special Mount",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/smarteagle-s-rear-view-smart-mirror-with-4-3-hd-lcd-touch-screen-with-android-1080p-dash-cam-recorder-special-mount",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 BLACK BOX",
+   "title": "DS18 BLACK BOX Dash Cam Recorder 1080p, Full HD with G-Sensor",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/black-box-dash-cam-recorder-1080p-full-hd-with-g-sensor",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 RCD20B",
+   "title": "DS18 RCD20 Reverse Camera with Night Vision",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/reverse-camera-with-night-vision",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-D2",
+   "title": "2\" Throat Bolt on Driver 400 Watts 3\" Titanium Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-3-titanium-compression-driver-1200-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-X5.4M",
+   "title": "PRO-X 5.25\" Mid-Range Loudspeaker 150 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/ds18-pro-x5-4m-pro-series-5-25-midrange-loudspeaker-150w-rms-300w-max-power-set-of-1",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X8.4M",
+   "title": "PRO-X 8\" Mid-Range Loudspeaker 275 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-series-8-midrange-loudspeaker-4-ohm-550-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X6.4M",
+   "title": "PRO-X 6.5\" Mid-Range Loudspeaker 250 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x-series-6-5-midrange-loudspeaker-4-ohm-500-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-DR2",
+   "title": "1\" Throat Twist on Driver 400 Watts 2\" Titanium Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/2-pro-compression-driver-300-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-DR1.75",
+   "title": "1\" Throat Twist on Driver 300 Watts 1.75\" Titanium Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-1-75-titanium-compression-driver-1000-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-DR1.35",
+   "title": "1\" Throat Twist on Driver 200 Watts 1.35\" Titanium Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro1-35-titanium-compression-driver-400-wats",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-M8.2NEO",
+   "title": "PRO 8\" Neodymium Water resistant Full-Range Loudspeaker 250 Watts Rms 2-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-8-neodymium-magnet-midrange-loudspeaker-with-water-resistant-cone-4-ohm-500-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-M6.2NEO",
+   "title": "PRO 6.5\" Neodymium Water resistant Full-Range Loudspeaker 200 Watts Rms 2-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-6-5-neodymium-magnet-midrange-loudspeaker-with-water-resistant-cone-4-ohm-400-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-SM8.2",
+   "title": "PRO 8\" Slim Water-Resistant Mid-Range Loudspeaker | 250W RMS 2-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/8-slim-motorcycle-2-ohm-midrange-speaker",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-SM6.2",
+   "title": "PRO 6.5\" Slim Mid-Range Loudspeaker with Water-Resistant Cone | 200W RMS 2-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/6-5-slim-motorcycle-2-ohm-midrange-speaker",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X12.4M",
+   "title": "PRO-X 12\" Mid-Range Loudspeaker 450 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-gm-series-12-midrange-loudspeaker-4-ohm-900-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-DRNSC",
+   "title": "1\" Throat Twist On Neodymium Driver 120 Watts 1\" Composite Polyimide Vc 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-drnsc-50-watts-1-neodymium-compression-driver",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 RCS2IN1LP-B",
+   "title": "DS18 RCS2IN1LP Waterproof Reverse Camera and Backup Buzzer for License Plate",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/rcs2in1lp-reverse-camera-backup-buzzer-for-license-plate",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X6.4BM",
+   "title": "PRO-X 6.5\" Mid-Range Loudspeaker with Bullet | 250W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-midrange-bullet-loudspeaker-1",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-D1F",
+   "title": "2\" Throat Bolt on Driver 320 Watts 2\" Phenolic Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-2-phelonic-compression-driver-1000-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-D3",
+   "title": "3\" Throat Bolt on Driver 600 Watts 4\" Phenolic Vc 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-4-phelonic-compression-driver-600-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-DKN25",
+   "title": "1\" Neodymium Driver And Horn Kit 60 Watts 1\" Phenolic 8-Ohm Vc",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-1-neodymium-driver-with-horn-120-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-NEO8",
+   "title": "PRO 8\" Neodymium Mid-Range Bullet Loudspeaker 300 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-8-neodymium-magnet-midrange-loudspeaker-600-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X8MSE",
+   "title": "PRO-X 8\" Sealed Back Mid-Range Loudspeaker 275 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-8-midrange-speaker-300-watts-rms-550-watts-max-8-ohm-sealed-basket",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X8.4BM",
+   "title": "PRO-X 8\" Mid-Range Loudspeaker with Bullet | 275W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-8-midrange-loudspeaker-275-watts-rms-550-watts-max-1",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-X5.4BM",
+   "title": "PRO-X 5.25\" Mid-Range Loudspeaker with Bullet | 150W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-midrange-bullet-loudspeaker",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X4.4BM",
+   "title": "PRO-X 4\" Mid-Range Loudspeaker with Bullet | 100W RMS 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-x4-4bm-pro-series-midrange-bullet-loudspeaker",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X6BM",
+   "title": "PRO-X 6.5\" Mid-Range Bullet Loudspeaker | 250W RMS 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-6-5-midrange-loudspeaker-250-watts-rms-500-watts-max",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X10M",
+   "title": "PRO-X 10\" Mid-Range Loudspeaker 300 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-10-midrange-loudspeaker-300-watts-rms-600-watts-max",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X8M",
+   "title": "PRO-X 8\" Mid-Range Loudspeaker 275 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-8-midrange-loudspeaker-275-watts-rms-550-watts-max",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X6M",
+   "title": "PRO-X 6.5\" Mid-Range Loudspeaker 250 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-6-5-midrange-loudspeaker-250-watts-rms-500-watts-max-1",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X5M",
+   "title": "PRO-X 5.25\" Mid-Range Loudspeaker 150 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-midrange-loudspeaker-300-watts-max",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-X4M",
+   "title": "PRO-X 4\" Mid-Range Loudspeaker 100 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-series-4-midrange-loudspeaker-200-watts-max",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-EXL108",
+   "title": "DS18 PRO-EXL108 10\" Mid-Range Loudspeaker 1200 Watts 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-exl-10-midrange-loudspeaker-1200-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-EXL88",
+   "title": "PRO-EXL 8\" Mid-Range Loudspeaker 400 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-exl-8-midrange-loudspeaker-800-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-EXL68",
+   "title": "PRO-EXL 6.5\" Mid-Range Loudspeaker 300 Watts Rms 8-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-exl-6-midrange-loudspeaker-600-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-EXL84",
+   "title": "PRO-EXL 8\" Mid-Range Loudspeaker 400 Watts Rms 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-exl-8-midrange-loudspeaker-800-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-NEO6SLIM",
+   "title": "PRO 6.5\" Slim Neodymium Mid-Range Loudspeaker with Bullet | 400W 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.ds18.com/products/pro-6-shallow-neodymium-magnet-midrange-loudspeaker-with-bullet-400-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  }
+ ]
+}

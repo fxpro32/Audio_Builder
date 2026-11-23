@@ -1,0 +1,95 @@
+{
+ "schema": "parts-index/1",
+ "categories": [
+  {
+   "category": "amplifiers",
+   "label": "Amplifiers",
+   "count": 605,
+   "brands": 13,
+   "bytes": 946292,
+   "withAudPrice": 0,
+   "flagged": 149
+  },
+  {
+   "category": "dsp",
+   "label": "DSP",
+   "count": 42,
+   "brands": 2,
+   "bytes": 45321,
+   "withAudPrice": 0,
+   "flagged": 15
+  },
+  {
+   "category": "capacitors",
+   "label": "Capacitors",
+   "count": 12,
+   "brands": 4,
+   "bytes": 14785,
+   "withAudPrice": 0,
+   "flagged": 5
+  },
+  {
+   "category": "batteries",
+   "label": "Batteries",
+   "count": 21,
+   "brands": 1,
+   "bytes": 21679,
+   "withAudPrice": 0,
+   "flagged": 0
+  },
+  {
+   "category": "fuses",
+   "label": "Fuses and holders",
+   "count": 167,
+   "brands": 5,
+   "bytes": 130498,
+   "withAudPrice": 0,
+   "flagged": 16
+  },
+  {
+   "category": "distribution",
+   "label": "Distribution",
+   "count": 35,
+   "brands": 5,
+   "bytes": 33460,
+   "withAudPrice": 0,
+   "flagged": 7
+  },
+  {
+   "category": "cable",
+   "label": "Cable",
+   "count": 300,
+   "brands": 5,
+   "bytes": 374354,
+   "withAudPrice": 0,
+   "flagged": 33
+  },
+  {
+   "category": "interconnects",
+   "label": "Interconnects",
+   "count": 94,
+   "brands": 2,
+   "bytes": 66462,
+   "withAudPrice": 0,
+   "flagged": 7
+  },
+  {
+   "category": "terminals",
+   "label": "Terminals",
+   "count": 127,
+   "brands": 4,
+   "bytes": 97171,
+   "withAudPrice": 0,
+   "flagged": 6
+  },
+  {
+   "category": "wiring_kits",
+   "label": "Wiring kits",
+   "count": 69,
+   "brands": 2,
+   "bytes": 57272,
+   "withAudPrice": 0,
+   "flagged": 7
+  }
+ ]
+}

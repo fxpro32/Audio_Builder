@@ -1,0 +1,11 @@
+{
+ "brand": "JL Audio",
+ "country": "USA",
+ "brand_url": "https://www.jlaudio.com",
+ "terms_note": " | hp_subs_raw terms note: jlaudio.com now redirects to garmin.com (https://www.jlaudio.com/ -> https://WWW.garmin.com/en-AU/c/jlaudio/). Garmin pages read on 2026-11-22 through a non-VPN connection (plain curl, stdout only, nothing written on a non-VPN connection): the JL car audio page and the W7AE product page. Numbers only.",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/jl-audio.json",
+ "drivers": [],
+ "no_ts_published": [],
+ "excluded_notes": "No JL Audio sub reaches 2000 W RMS. The flagship W7AE line (8, 10, 12, 13.5 in) tops out at the 13.5 in 13W7AE-D1.5: maker page https://www.garmin.com/en-US/p/1669677/pn/010-03032-00/ says 'the largest 13.5-inch driver can handle up to 1500 watts RMS of continuous power' and lists 'Continuous power handling (RMS): 1500 W' (read 2026-11-22). The car subwoofer listing on https://www.garmin.com/en-US/c/automotive/jl-audio-car-audio/ is loaded by script and could not be listed with curl, so the other lines (W6v3, W3v3, TW5v2, W0v3) were not read page by page; JL rates them lower than the W7AE (UNVERIFIED here)."
+}

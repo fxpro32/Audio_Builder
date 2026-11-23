@@ -1,0 +1,137 @@
+{
+ "brand": "Soundstream",
+ "country": "USA",
+ "brand_url": "https://www.soundstream.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Soundstream PS-69",
+   "title": "PS-69 | 6x9\" 4-Way Full Range Coaxial Speakers 500W (Pair)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/ps-69",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream PS-65",
+   "title": "PS-65 | 6.5\" 4-Way Full Range Coaxial Speakers 300W (Pair)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/ps-65",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream PS-57",
+   "title": "PS-57 | 5x7\" 4-Way Full Range Coaxial Speakers 350W (Pair)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/ps-57",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream PS-52",
+   "title": "PS-52 | 5.25\" 2-Way Full Range Coaxial Speakers 250W (Pair)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/ps-52",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SR-573",
+   "title": "SR-573 | Reign Exclusive Series 5\" x 7\" 3-Way Speaker (Set of 2)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/sr-573",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SR-52",
+   "title": "SR-52 | Reign Exclusive Series 5.25\" 2-Way Speaker (Set of 2)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/sr-52",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SR-42",
+   "title": "SR-42 | Reign Exclusive Series 4\" 2-Way Speaker Pair",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/sr-42",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM2P.104",
+   "title": "SM2P-104 | 10” 2-way Pro Audio Speaker w/ Compression Tweeter",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/sm2p-104",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM2P.804",
+   "title": "SM2P-804 | 8” 2-way Pro Audio Speaker w/ Compression Tweeter",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/sm2p-804",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM2P.654",
+   "title": "SM2P-654 | 6.5” 2-way Pro Audio Speaker w/ Compression Tweeter",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/sm2p-654",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream RS.69",
+   "title": "RS.69 | 6 x 9 Inch (152x229 mm) Coaxial Speaker System (Set of 2)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/rs-69",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream RS.57",
+   "title": "RS.57 | 5 x 7 / 6 x 8 Inch (127x178mm) Coaxial Speaker System (Set of 2)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/rs-57",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream RS.52",
+   "title": "RS.52 | 5.25-inch (130mm) Coaxial Speaker System  (Set of 2)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/rs-52",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream RS.42",
+   "title": "RS.42 | 4-inch (100mm) Coaxial Speaker System (Set of 2)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/rs-42",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream RS.65",
+   "title": "RS.65 | 6.5-inch (165mm) Coaxial Speaker System (Set of 2)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/rs-65",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream AF.42",
+   "title": "AF.42 | Arachnid Series 4\" 2-Way Speaker (1 Pair)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/af-42",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream AF.52",
+   "title": "AF.52 | Arachnid Series 5.25\" 2-Way Speaker (1 Pair)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/af-52",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream AF.573",
+   "title": "AF.573 | Arachnid Series 5\"x7\" 3-Way Speaker (1 Pair)",
+   "type": "coaxial",
+   "url": "https://www.soundstream.com/products/af-573",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

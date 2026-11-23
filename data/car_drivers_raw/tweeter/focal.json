@@ -1,0 +1,144 @@
+{
+ "brand": "Focal (Focal-JMlab)",
+ "country": "France",
+ "brand_url": "https://www.focal.com",
+ "terms_note": "R4 2026-11-23: robots.txt disallows only '/*query=*'; product pages and technical sheet PDFs read 3 s apart, one at a time. Numbers only; sheets and graphs not copied into the dataset.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "Tweeter FRAK (tweeter-frak)",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": "tweeter",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 25,
+   "peak_w": 150,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    600,
+    32000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 19.5,
+   "cutout_mm": 58.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/tweeter-frak",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown.",
+   "cone_material": "Aluminum/magnesium with \"m\" profile",
+   "focal_product_type": "tweeter"
+  },
+  {
+   "model": "TWU 1.5 (twu-15)",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": "tweeter",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 2600,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 16.75,
+   "cutout_mm": 49.4,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/twu-15",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/181d50fea5ce331a/original/FT_universal_TWU1-5-pdf.pdf",
+     "doc": "Technical Sheet (tweeter)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Frequency response printed as '4Hz - 21kHz' (lower limit unit looks wrong); not stored. Sensitivity printed without a drive reference (V or W) on the page; basis unknown.",
+   "cone_material": "Aluminium / Magnesium",
+   "focal_product_type": "tweeter"
+  }
+ ],
+ "no_specs_published": []
+}

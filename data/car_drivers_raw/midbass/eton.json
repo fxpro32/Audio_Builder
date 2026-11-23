@@ -1,0 +1,271 @@
+{
+ "brand": "ETON (ETON Soundsysteme GmbH)",
+ "country": "Germany",
+ "brand_url": "https://eton-audio.com",
+ "terms_note": "R4 2026-11-23: robots.txt allows product pages (disallows checkout, customer, search, etc.); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "ETON GRAPHIT 16",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "16 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 140,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 66,
+    "re_ohm": 3.3,
+    "qms": 8.72,
+    "qes": 0.82,
+    "qts": 0.75,
+    "vas_l": 7.3,
+    "sd_cm2": 132,
+    "xmax_mm": null,
+    "mms_g": 19.8,
+    "bl_tm": 5.7,
+    "le_mh": 0.32,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68.8,
+   "cutout_mm": 146,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/graphit-16.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 9.5 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "ETON GRAPHIT 16 High End 165 mm (6,5\") Auto Lautsprecher kaufen| ETON Audio"
+  },
+  {
+   "model": "ETON HEX 165",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 140,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 3.4,
+    "qms": 7.74,
+    "qes": 0.65,
+    "qts": 0.6,
+    "vas_l": 15.2,
+    "sd_cm2": 137,
+    "xmax_mm": null,
+    "mms_g": 18.9,
+    "bl_tm": 5.5,
+    "le_mh": 0.32,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 79.5,
+   "cutout_mm": 146,
+   "frame_mm": 165.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/hex-165.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 9.0 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "HEX 165 High-End Tiefmitteltöner für dein Auto kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON HEX 200",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 180,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 59,
+    "re_ohm": 3.4,
+    "qms": 5.76,
+    "qes": 0.69,
+    "qts": 0.62,
+    "vas_l": 16.8,
+    "sd_cm2": 217,
+    "xmax_mm": null,
+    "mms_g": 28.3,
+    "bl_tm": 7.2,
+    "le_mh": 0.26,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86.9,
+   "cutout_mm": 183,
+   "frame_mm": 205.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/hex-200.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 11.5 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "HEX 200 High-End Tiefmitteltöner für dein Auto kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON POW 20+",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "20 cm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 2.6,
+    "qms": 4.38,
+    "qes": 0.81,
+    "qts": 0.69,
+    "vas_l": 34.9,
+    "sd_cm2": 211,
+    "xmax_mm": null,
+    "mms_g": 19.7,
+    "bl_tm": 4.3,
+    "le_mh": 0.27,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67.8,
+   "cutout_mm": 177,
+   "frame_mm": 208,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pow-20plus.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 11.2 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "Unser bestes POW 20+ aller Zeiten - jetzt mit Mehrperformance kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PRO 16+",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "16 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 72,
+    "re_ohm": 3.2,
+    "qms": 3.55,
+    "qes": 0.68,
+    "qts": 0.57,
+    "vas_l": 11,
+    "sd_cm2": 137,
+    "xmax_mm": null,
+    "mms_g": 11.7,
+    "bl_tm": 4.8,
+    "le_mh": 0.34,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 66.4,
+   "cutout_mm": 142,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pro-16plus.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 9.0 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "PRO 16+ unseren Hidden Champion Lautsprecher kaufen | ETON Audio"
+  }
+ ],
+ "no_specs_published": []
+}

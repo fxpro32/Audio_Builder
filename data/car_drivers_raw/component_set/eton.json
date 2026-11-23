@@ -1,0 +1,323 @@
+{
+ "brand": "ETON (ETON Soundsysteme GmbH)",
+ "country": "Germany",
+ "brand_url": "https://eton-audio.com",
+ "terms_note": "R4 2026-11-23: robots.txt allows product pages (disallows checkout, customer, search, etc.); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [
+  {
+   "model": "ETON POW 16+",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "16 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 69,
+    "re_ohm": 2.5,
+    "qms": 4.39,
+    "qes": 0.67,
+    "qts": 0.58,
+    "vas_l": 11,
+    "sd_cm2": 137,
+    "xmax_mm": null,
+    "mms_g": 12.8,
+    "bl_tm": 4.3,
+    "le_mh": 0.32,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 142,
+   "frame_mm": 165.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pow-16plus.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 9.0 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "Unser Performance Wunder POW 16+ Lautsprechersystem | ETON Audio"
+  },
+  {
+   "model": "ETON PRA 10",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "10 cm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 96,
+    "re_ohm": 2.6,
+    "qms": 3.1,
+    "qes": 0.83,
+    "qts": 0.65,
+    "vas_l": 1.7,
+    "sd_cm2": 50,
+    "xmax_mm": null,
+    "mms_g": 5.9,
+    "bl_tm": 3.4,
+    "le_mh": 0.11,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pra-10.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 6.9 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "ETON PRA 10 100 mm (4\") 2-Wege Komponentensystem kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PRA 13",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "13 cm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 90,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 69,
+    "re_ohm": 2.6,
+    "qms": 5.18,
+    "qes": 0.68,
+    "qts": 0.6,
+    "vas_l": 5,
+    "sd_cm2": 80,
+    "xmax_mm": null,
+    "mms_g": 9.6,
+    "bl_tm": 4,
+    "le_mh": 0.14,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 57,
+   "cutout_mm": 147,
+   "frame_mm": 132,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pra-13.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 7.7 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "ETON PRA 13 - 130 mm (5\") 2-Wege Auto Lautsprechersystem kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PRA 16",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "16 cm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 56,
+    "re_ohm": 2.6,
+    "qms": 3.76,
+    "qes": 0.84,
+    "qts": 0.69,
+    "vas_l": 15,
+    "sd_cm2": 137,
+    "xmax_mm": null,
+    "mms_g": 14.3,
+    "bl_tm": 4,
+    "le_mh": 0.19,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 66,
+   "cutout_mm": 142,
+   "frame_mm": 165.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pra-16.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 9.0 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "ETON PRA 16 - 165 mm (6.5\") 2-Wege Auto Lautsprechersystem kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON RSC 165",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 120,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrit",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 55,
+    "re_ohm": 3.3,
+    "qms": 7.35,
+    "qes": 0.69,
+    "qts": 0.63,
+    "vas_l": 11.1,
+    "sd_cm2": 137,
+    "xmax_mm": null,
+    "mms_g": 19.5,
+    "bl_tm": 5.7,
+    "le_mh": 0.22,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 60,
+   "cutout_mm": 146,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/rsc-165.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 9.2 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "RSC 165 2-Wege 165 mm (6.5\") Komponentensystem kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON RSC 200",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": 160,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 64,
+    "re_ohm": 3.4,
+    "qms": 7.76,
+    "qes": 0.93,
+    "qts": 0.83,
+    "vas_l": 14.4,
+    "sd_cm2": 217,
+    "xmax_mm": null,
+    "mms_g": 28.9,
+    "bl_tm": 6.4,
+    "le_mh": 0.26,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 69.5,
+   "cutout_mm": 182,
+   "frame_mm": 205.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/rsc-200.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 11.5 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth). T/S are those printed for the set (woofer).",
+   "title": "RSC 200 2-Wege 200 mm (8\") Komponentensystem kaufen | ETON Audio"
+  }
+ ],
+ "no_specs_published": []
+}

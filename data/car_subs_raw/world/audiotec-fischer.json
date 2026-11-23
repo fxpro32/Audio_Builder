@@ -1,0 +1,1377 @@
+{
+ "brand": "Audiotec Fischer (HELIX, BRAX, MATCH)",
+ "country": "Germany",
+ "brand_url": "https://www.audiotec-fischer.de",
+ "terms_note": "R2 2026-11-23: robots.txt disallows only account/checkout/listing paths. 15 product pages and 19 data sheets read 3 s apart. EU maker: per-model facts only. Numbers only.",
+ "coverage": "all subwoofer drivers in the HELIX, BRAX and MATCH subwoofer categories (IK S/W, IQ W, K 12W, BRAX ML8/ML10 SUB, MATCH PP 8W-Q/10W-Q); enclosures and active subs left out",
+ "hp_subs_raw_file": null,
+ "drivers": [
+  {
+   "model": "HELIX IK S10-DVC2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 1.6,
+    "qms": 6.37,
+    "qes": 0.49,
+    "qts": 0.45,
+    "vas_l": 34,
+    "sd_cm2": 353,
+    "xmax_mm": 6,
+    "mms_g": 112,
+    "bl_tm": 12.7,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 84.5,
+   "cutout_mm": 229,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 14,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 16,
+     "tuning_hz": 37,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/0a/02/9a/Datenblatt-HELIX-IK-S10-DVC2_210x297mm_23-11-2022_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-s10",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK S10-SVC2",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 2,
+    "qms": 7.61,
+    "qes": 0.54,
+    "qts": 0.51,
+    "vas_l": 26,
+    "sd_cm2": 353,
+    "xmax_mm": 6,
+    "mms_g": 119,
+    "bl_tm": 10.1,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": 84.5,
+   "cutout_mm": 229,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 14,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 16,
+     "tuning_hz": 37,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/57/6f/71/Datenblatt-HELIX-IK-S10-SVC2_210x297mm_23-11-2022_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-s10",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK S12-DVC2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.8,
+    "qms": 5.41,
+    "qes": 0.52,
+    "qts": 0.48,
+    "vas_l": 40,
+    "sd_cm2": 523,
+    "xmax_mm": 8,
+    "mms_g": 220,
+    "bl_tm": 17.2,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 95.5,
+   "cutout_mm": 276.8,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 40,
+     "tuning_hz": 36,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/34/4d/9f/Datenblatt-HELIX-IK-S12-DVC2_210x297mm_23-11-2022_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-s12",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK S12-SVC2",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 2,
+    "qms": 5.37,
+    "qes": 0.5,
+    "qts": 0.46,
+    "vas_l": 37,
+    "sd_cm2": 523,
+    "xmax_mm": 8,
+    "mms_g": 229,
+    "bl_tm": 14.1,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 94
+   },
+   "mounting_depth_mm": 95.5,
+   "cutout_mm": 276.8,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 40,
+     "tuning_hz": 36,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/94/b5/d6/Datenblatt-HELIX-IK-S12-SVC2_210x297mm_23-11-2022_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-s12",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK S8-DVC2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 1.8,
+    "qms": 4.79,
+    "qes": 0.57,
+    "qts": 0.51,
+    "vas_l": 11,
+    "sd_cm2": 222,
+    "xmax_mm": 6,
+    "mms_g": 82,
+    "bl_tm": 11.9,
+    "le_mh": null,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": 79.5,
+   "cutout_mm": 180.4,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 10,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 10,
+     "tuning_hz": 39,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/25/31/e0/Datenblatt-HELIX-IK-S8-DVC2_210x297mm_23-11-2022_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-s8",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK S8-SVC2",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 2,
+    "qms": 7.79,
+    "qes": 0.53,
+    "qts": 0.5,
+    "vas_l": 11,
+    "sd_cm2": 222,
+    "xmax_mm": 6,
+    "mms_g": 81,
+    "bl_tm": 9.1,
+    "le_mh": null,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 79.5,
+   "cutout_mm": 180.4,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 10,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 10,
+     "tuning_hz": 39,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/0c/4a/32/Datenblatt-HELIX-IK-S8-SVC2_210x297mm_23-11-2022_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-s8",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK W10-DVC2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.6,
+    "qms": 4.5,
+    "qes": 0.43,
+    "qts": 0.39,
+    "vas_l": 34,
+    "sd_cm2": 333,
+    "xmax_mm": 8,
+    "mms_g": 91,
+    "bl_tm": 12.3,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 126,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 12,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 19,
+     "tuning_hz": 43,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/72/cf/96/Datenblatt-HELIX-IK-W10-DVC2_30-05-2023.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-w10",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK W10-SVC2",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 2,
+    "qms": 5.09,
+    "qes": 0.45,
+    "qts": 0.41,
+    "vas_l": 25,
+    "sd_cm2": 333,
+    "xmax_mm": 8,
+    "mms_g": 126,
+    "bl_tm": 12.1,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": 126,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 15,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 21,
+     "tuning_hz": 36,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/43/92/15/Datenblatt-HELIX-IK-W10-SVC2_30-05-2023.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-w10",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK W12-DVC2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 1.6,
+    "qms": 3.7,
+    "qes": 0.46,
+    "qts": 0.41,
+    "vas_l": 66,
+    "sd_cm2": 515,
+    "xmax_mm": 8,
+    "mms_g": 134,
+    "bl_tm": 13.7,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": 144,
+   "cutout_mm": 286,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 30,
+     "tuning_hz": 39,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/06/eb/22/Datenblatt-HELIX-IK-W12-DVC2_30-05-2023.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-w12",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK W12-SVC2",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 2,
+    "qms": 4.03,
+    "qes": 0.54,
+    "qts": 0.47,
+    "vas_l": 53,
+    "sd_cm2": 515,
+    "xmax_mm": 8,
+    "mms_g": 146,
+    "bl_tm": 11.9,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": 95
+   },
+   "mounting_depth_mm": 144,
+   "cutout_mm": 286,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 40,
+     "tuning_hz": 34,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/dd/ca/d8/Datenblatt-HELIX-IK-W12-SVC2_30-05-2023.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-w12",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK W6-DVC2",
+   "size_in": 6,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 150,
+   "peak_w": 300,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50,
+    "re_ohm": 2,
+    "qms": 3.92,
+    "qes": 0.32,
+    "qts": 0.3,
+    "vas_l": 5.3,
+    "sd_cm2": 123,
+    "xmax_mm": 6,
+    "mms_g": 37,
+    "bl_tm": 12.3,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": 74.3,
+   "cutout_mm": 132.5,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 7,
+     "tuning_hz": 45,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/48/f5/de/Datenblatt-HELIX-IK-W6-DVC2_210x297mm_13-03-2023_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-w6",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK W8-DVC2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 1.6,
+    "qms": 3.56,
+    "qes": 0.46,
+    "qts": 0.41,
+    "vas_l": 17,
+    "sd_cm2": 219,
+    "xmax_mm": 8,
+    "mms_g": 69,
+    "bl_tm": 10.7,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": 101,
+   "cutout_mm": 182,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 8,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 8,
+     "tuning_hz": 43,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/d3/e3/17/Datenblatt-HELIX-IK-W8-DVC2_30-05-2023.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-w8",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IK W8-SVC2",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 2,
+    "qms": 4.01,
+    "qes": 0.49,
+    "qts": 0.44,
+    "vas_l": 13.4,
+    "sd_cm2": 219,
+    "xmax_mm": 8,
+    "mms_g": 86,
+    "bl_tm": 10.2,
+    "le_mh": null,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 101,
+   "cutout_mm": 182,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 10,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    },
+    {
+     "type": "ported",
+     "volume_l": 9,
+     "tuning_hz": 38,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/78/e4/7a/Datenblatt-HELIX-IK-W8-SVC2_30-05-2023.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/ik-w8",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IQ W10-DVC2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 1.9,
+    "qms": 6,
+    "qes": 0.46,
+    "qts": 0.43,
+    "vas_l": 21,
+    "sd_cm2": 363,
+    "xmax_mm": 12,
+    "mms_g": 158,
+    "bl_tm": 17.8,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": 134.5,
+   "cutout_mm": 234.6,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/3e/92/ac/Datenblatt-HELIX-IQ-W10-DVC2_13-11-2024.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/iq-w10-dvc2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way). Maker gives values without and with 1 to 3 add-on tuning masses (TM); the values without added mass are entered.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IQ W12-DVC2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.9,
+    "qms": 5.37,
+    "qes": 0.53,
+    "qts": 0.48,
+    "vas_l": 35,
+    "sd_cm2": 515,
+    "xmax_mm": 12,
+    "mms_g": 199,
+    "bl_tm": 18.1,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 144.7,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/0d/0d/01/Datenblatt-HELIX-IQ-W12-DVC2_27-01-2025.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/iq-w12-dvc2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way). Maker gives values without and with 1 to 3 add-on tuning masses (TM); the values without added mass are entered.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HELIX IQ W8-DVC2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 1.9,
+    "qms": 5.3,
+    "qes": 0.49,
+    "qts": 0.45,
+    "vas_l": 8.5,
+    "sd_cm2": 222,
+    "xmax_mm": 12,
+    "mms_g": 115,
+    "bl_tm": 15.5,
+    "le_mh": null,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": 86
+   },
+   "mounting_depth_mm": 114.5,
+   "cutout_mm": 183,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/e1/65/d8/Datenblatt-HELIX-IQ-W8-DVC2_13-11-2024.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/subwoofers/iq-w8-dvc2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way). Maker gives values without and with 1 to 3 add-on tuning masses (TM); the values without added mass are entered.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MATCH PP 10W-Q",
+   "size_in": 10,
+   "coil": "QVC",
+   "ohms_per_coil": 3,
+   "coils": 4,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    0.75,
+    3,
+    12
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29,
+    "re_ohm": 3,
+    "qms": 3.12,
+    "qes": 0.4,
+    "qts": 0.35,
+    "vas_l": 46,
+    "sd_cm2": 333,
+    "xmax_mm": 6.5,
+    "mms_g": 98,
+    "bl_tm": 23.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 128.5,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 18,
+     "tuning_hz": 39,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/7b/3a/f3/Datenblatt-MATCH-PP-10W-Q_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/subwoofers/pp-10w-q",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BRAX MATRIX ML8 SUB",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 1.9,
+    "qms": 9.63,
+    "qes": 0.6,
+    "qts": 0.56,
+    "vas_l": 22,
+    "sd_cm2": 219,
+    "xmax_mm": 9.2,
+    "mms_g": 83,
+    "bl_tm": 10.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 95.6,
+   "cutout_mm": 191,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/media/pdf/d7/40/42/Datenblatt_BRAX_MATRIX_ML8-SUB_Web.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/subwoofers/ml8-sub",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BRAX MATRIX ML10 SUB",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 1.9,
+    "qms": 7.78,
+    "qes": 0.55,
+    "qts": 0.51,
+    "vas_l": 46,
+    "sd_cm2": 346,
+    "xmax_mm": 12.5,
+    "mms_g": 83,
+    "bl_tm": 11.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 114,
+   "cutout_mm": 235,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 28,
+     "tuning_hz": null,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/subwoofers/matrix-ml10-sub",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed per coil ('2 x' value); ts_basis not stated. Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MATCH PP 8W-Q",
+   "size_in": 8,
+   "coil": "QVC",
+   "ohms_per_coil": 3,
+   "coils": 4,
+   "rms_w": 200,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    0.75,
+    3,
+    12
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 2.7,
+    "qms": 5.4,
+    "qes": 0.57,
+    "qts": 0.51,
+    "vas_l": 23,
+    "sd_cm2": 222,
+    "xmax_mm": 6.5,
+    "mms_g": 53,
+    "bl_tm": 7.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 105,
+   "cutout_mm": 183,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 10,
+     "tuning_hz": 47,
+     "source": "maker data sheet / page",
+     "note": "net volume"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/subwoofers/pp-8w-q",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Decimal commas as printed converted to points. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

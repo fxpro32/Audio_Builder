@@ -1,0 +1,915 @@
+{
+ "brand": "ESX / Audio Design",
+ "country": "Germany",
+ "brand_url": "https://www.esxaudio.de",
+ "terms_note": "R2 2026-11-23: subwoofer page, 16 product pages and data sheets read 3 s apart. EU maker: per-model facts only. Numbers only. | hp_subs_raw terms note: robots.txt disallows only *.zip; no website terms of use found. Pages and data sheets read one at a time, 3 s apart, 2026-11-21. Numbers only. EU maker: database right only for a substantial part of a protected database; per-model facts from the maker's own sheets, cited.",
+ "coverage": "every passive subwoofer driver on the maker's Subwoofer page (QXE, QXP, QXS, SX, SXE, SXT, VXP, VX PRO)",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/esx.json",
+ "drivers": [
+  {
+   "model": "VX10PRO",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46,
+    "re_ohm": 1.9,
+    "qms": 3.89,
+    "qes": 0.59,
+    "qts": 0.51,
+    "vas_l": 6.2,
+    "sd_cm2": 325,
+    "xmax_mm": 23,
+    "mms_g": 286,
+    "bl_tm": 23.7,
+    "le_mh": null,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 198,
+   "cutout_mm": 235,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 35,
+     "tuning_hz": 45,
+     "source": "vx10pro.pdf: port 100 mm (80 cm2), L 24 cm, F3 36 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "http://www.esxaudio.de/assets/vx10pro.pdf",
+     "doc": "vx10pro.pdf (ESX data sheet)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "http://www.esxaudio.de/vx10pro.html",
+     "doc": "ESX product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax is the sheet's 'Max. Linear Excursion +/- 23 mm'; sheet also gives 'Xmax (Peak)' +/- 30 mm (mechanical). Winding height 57.5 mm. Re printed '2 x 1,9 Ohms' (per coil). Voice coil 76 mm. B/L printed in N/A (= T m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "VX12PRO",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39,
+    "re_ohm": null,
+    "qms": 3.95,
+    "qes": 0.61,
+    "qts": 0.52,
+    "vas_l": 18,
+    "sd_cm2": 512,
+    "xmax_mm": 23,
+    "mms_g": 340,
+    "bl_tm": 23.4,
+    "le_mh": 1.52,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 222,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 55,
+     "tuning_hz": 38,
+     "source": "vx12pro.pdf: port 120 mm (113 cm2), L 32 cm, F3 30 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "http://www.esxaudio.de/assets/vx12pro.pdf",
+     "doc": "vx12pro.pdf (ESX data sheet)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "http://www.esxaudio.de/vx12pro.html",
+     "doc": "ESX product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax is the sheet's 'Max. Linear Excursion +/- 23 mm'; sheet also gives 'Xmax (Peak)' +/- 30 mm (mechanical). Winding height 57.5 mm. DC resistance printed as '2 x 2 Ohms' (the nominal impedance, not a measured Re), so re_ohm left empty. Voice coil 100 mm.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "VX15PRO",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": null,
+    "qms": 3.26,
+    "qes": 0.65,
+    "qts": 0.54,
+    "vas_l": 54,
+    "sd_cm2": 810,
+    "xmax_mm": 23,
+    "mms_g": 396,
+    "bl_tm": 22.5,
+    "le_mh": 2.15,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 251,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 85,
+     "tuning_hz": 38,
+     "source": "vx15pro.pdf: 2 x 100 mm ports (160 cm2), L 26 cm, F3 30 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "http://www.esxaudio.de/assets/vx15pro.pdf",
+     "doc": "vx15pro.pdf (ESX data sheet)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "http://www.esxaudio.de/vx15pro.html",
+     "doc": "ESX product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax is the sheet's 'Max. Linear Excursion +/- 23 mm'; sheet also gives 'Xmax (Peak)' +/- 30 mm (mechanical). Winding height 57.5 mm. DC resistance printed as '2 x 2 Ohms' (the nominal impedance, not a measured Re), so re_ohm left empty. Voice coil 100 mm.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "QXE10D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.9,
+    "re_ohm": 1.9,
+    "qms": 5.07,
+    "qes": 0.39,
+    "qts": 0.37,
+    "vas_l": 14.2,
+    "sd_cm2": 332,
+    "xmax_mm": 10,
+    "mms_g": 196,
+    "bl_tm": 21.9,
+    "le_mh": 2.24,
+    "spl_db_1w1m": 84.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 155,
+   "cutout_mm": 234,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 36,
+     "tuning_hz": 37,
+     "source": "maker data sheet qxe10d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/qxe10d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/qxe10d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 18 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "QXE12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 1.9,
+    "qms": 5.29,
+    "qes": 0.38,
+    "qts": 0.36,
+    "vas_l": 25,
+    "sd_cm2": 510,
+    "xmax_mm": 14,
+    "mms_g": 319,
+    "bl_tm": 26.4,
+    "le_mh": 2.63,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 185,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 55,
+     "tuning_hz": 34,
+     "source": "maker data sheet qxe12d2.pdf"
+    },
+    {
+     "type": "ported",
+     "volume_l": 65,
+     "tuning_hz": 43,
+     "source": "maker data sheet qxe12d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/qxe12d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/qxe12d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 22 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "QXE15D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 1.9,
+    "qms": 5.68,
+    "qes": 0.43,
+    "qts": 0.4,
+    "vas_l": 63.3,
+    "sd_cm2": 820,
+    "xmax_mm": 14,
+    "mms_g": 359,
+    "bl_tm": 25.7,
+    "le_mh": 2.68,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 205,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 90,
+     "tuning_hz": 32,
+     "source": "maker data sheet qxe15d2.pdf"
+    },
+    {
+     "type": "ported",
+     "volume_l": 120,
+     "tuning_hz": 43,
+     "source": "maker data sheet qxe15d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/qxe15d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/qxe15d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 22 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "QXE6D2",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50.4,
+    "re_ohm": 1.9,
+    "qms": 5.21,
+    "qes": 0.47,
+    "qts": 0.43,
+    "vas_l": 3.2,
+    "sd_cm2": 120,
+    "xmax_mm": 10,
+    "mms_g": 91.5,
+    "bl_tm": 15.3,
+    "le_mh": 1.93,
+    "spl_db_1w1m": 81.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 117,
+   "cutout_mm": 150,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 12,
+     "tuning_hz": 48,
+     "source": "maker data sheet qxe6d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/qxe6d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/qxe6d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 15 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "QXE8D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42.7,
+    "re_ohm": 1.9,
+    "qms": 4.48,
+    "qes": 0.34,
+    "qts": 0.32,
+    "vas_l": 6.4,
+    "sd_cm2": 214,
+    "xmax_mm": 10,
+    "mms_g": 133.1,
+    "bl_tm": 20,
+    "le_mh": 2.26,
+    "spl_db_1w1m": 83.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 138,
+   "cutout_mm": 183,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 18,
+     "tuning_hz": 42,
+     "source": "maker data sheet qxe8d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/qxe8d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/qxe8d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 18 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SXE10D2",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 2,
+    "qms": 2.83,
+    "qes": 0.43,
+    "qts": 0.37,
+    "vas_l": 27.6,
+    "sd_cm2": 320,
+    "xmax_mm": 11,
+    "mms_g": 137,
+    "bl_tm": 15.8,
+    "le_mh": 2.6,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 142,
+   "cutout_mm": 234,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 27,
+     "tuning_hz": 37,
+     "source": "maker data sheet sxe10d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/sxe10d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/sxe10d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 22 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SXE12D2",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 2,
+    "qms": 2.78,
+    "qes": 0.35,
+    "qts": 0.31,
+    "vas_l": 71.5,
+    "sd_cm2": 519,
+    "xmax_mm": 11,
+    "mms_g": 170,
+    "bl_tm": 18.6,
+    "le_mh": 2.6,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 150,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 45,
+     "tuning_hz": 37,
+     "source": "maker data sheet sxe12d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/sxe12d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/sxe12d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 22 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SXE8D2",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 2,
+    "qms": 2.64,
+    "qes": 0.47,
+    "qts": 0.4,
+    "vas_l": 21.4,
+    "sd_cm2": 214,
+    "xmax_mm": 6,
+    "mms_g": 55.4,
+    "bl_tm": 10.4,
+    "le_mh": 1.92,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 121,
+   "cutout_mm": 182,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 18,
+     "tuning_hz": 42,
+     "source": "maker data sheet sxe8d2.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/sxe8d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/sxe8d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 15 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "VX21PRO",
+   "rms_w": 6000,
+   "url": "http://www.esxaudio.de/vx21pro.html",
+   "note": "21 inch; product page: 6000/12000 W RMS/max, linear excursion +/- 23 mm, X-max +/- 35 mm, mounting depth 335 mm, cut-out 495 mm; data sheet vx21pro.pdf is image-only (no text), impedance and T/S not transcribed. Read 2026-11-21.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "QXS8D4",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/assets/qxs8d4.pdf",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. ",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/qxs8d4.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/qxs8d4.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SX840",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/assets/sx840.pdf",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. ",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/sx840.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/sx840.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SXT8D2",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/assets/sxt8d2.pdf",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. ",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/sxt8d2.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/sxt8d2.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VXP822G",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/assets/vxp822g.pdf",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. ",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.esxaudio.de/assets/vxp822g.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.esxaudio.de/vxp822g.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "QXP104",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/qxp104.html",
+   "note": "No data sheet PDF at the usual asset URL; product page not parsed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "QXP124",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/qxp124.html",
+   "note": "No data sheet PDF at the usual asset URL; product page not parsed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VXP104G",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/vxp104g.html",
+   "note": "No data sheet PDF at the usual asset URL; product page not parsed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VXP84G",
+   "rms_w": null,
+   "url": "https://www.esxaudio.de/vxp84g.html",
+   "note": "No data sheet PDF at the usual asset URL; product page not parsed.",
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

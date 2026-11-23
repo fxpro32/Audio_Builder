@@ -1,0 +1,66 @@
+{
+ "brand": "MTX Audio",
+ "country": "USA",
+ "brand_url": "https://www.mtx.com",
+ "terms_note": "mtx.com is behind Cloudflare (A2: curl 403). Values from the maker catalogue PDF the PM fetched through a non-VPN connection on 2026-11-22 (no new requests by R4). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "MTX RTX3",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": null,
+   "sensitivity_db": 102,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 54,
+   "cutout_mm": 69.9,
+   "frame_mm": 80.2,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "Bullet Tweeter"
+  }
+ ],
+ "no_specs_published": []
+}

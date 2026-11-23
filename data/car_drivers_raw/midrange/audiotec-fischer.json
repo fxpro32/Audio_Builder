@@ -1,0 +1,570 @@
+{
+ "brand": "Audiotec Fischer (HELIX, BRAX, MATCH)",
+ "country": "Germany",
+ "brand_url": "https://www.audiotec-fischer.de",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms of service (not read in full). Numbers only, no text or images copied; 'Maker features' notes are short paraphrase-free quotes of material names only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "BRAX GRAPHIC GL2",
+   "type": "midrange",
+   "size_in": 2,
+   "size_label": "50 mm class (maker: GL2)",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    400,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 165,
+    "re_ohm": 3.1,
+    "qms": 8.9,
+    "qes": 0.55,
+    "qts": 0.52,
+    "vas_l": 0.24,
+    "sd_cm2": 15,
+    "xmax_mm": 1,
+    "mms_g": 1.6,
+    "bl_tm": 2.6,
+    "le_mh": null,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 26.8,
+   "cutout_mm": 53,
+   "frame_mm": 60,
+   "recommended_crossover": {
+    "dsp_note": "0.25 liter (System resonance: 200 Hz) | Crossover frequency: 600 Hz | Min. filter slope: 12 dB/Oct. | 0.5 liter (System resonance: 155 Hz) | Crossover frequency: 450 Hz | Min. filter slope: 12 dB/Oct. | 0.75 liter (System resonance: 140 Hz) | Crossover frequency: 300 Hz | Min. filter slope: 24 dB/Oct. | Note: The enclosure should always be filled with appropriate damping material."
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/speakers/graphic-gl2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power rating condition as printed: (highpass > 400 Hz at 24 dB/Oct.) Maker enclosure/DSP recommendations: Sealed box with minimum 250 ml net volume | Net volumes",
+   "cone_material": "Aluminum cone",
+   "scope_of_delivery": [
+    "2 x High-End Cone Midrange Speaker BRAX GRAPHIC GL2",
+    "2 x Mounting clip",
+    "1 x Allen key",
+    "1 x Data sheet"
+   ]
+  },
+  {
+   "model": "BRAX MATRIX ML80 PRO",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    250,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 114,
+    "re_ohm": 3.4,
+    "qms": 1.71,
+    "qes": 0.46,
+    "qts": 0.36,
+    "vas_l": 1.15,
+    "sd_cm2": 35,
+    "xmax_mm": 1.5,
+    "mms_g": 3,
+    "bl_tm": 4,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 34,
+   "cutout_mm": 76,
+   "frame_mm": 92,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/speakers/matrix-ml80-pro",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker also prints max. mechanical excursion +/- 4.0 mm; xmax_mm = max. linear excursion (one way). Power rating condition as printed: (highpass > 300 Hz at 24 dB/Oct.) Maker enclosure/DSP recommendations: a. Infinite baffle | 300 Hz / 24 dB/Octave | “Linkwitz-Riley” | b. Sealed box | Net volumes | 0.4 liter (System resonance: 200 Hz) | 350 Hz / 24 dB/Octave | “Linkwitz-Riley” | 0.8 liter (System resonance: 155 Hz) | 300 Hz / 24 dB/Octave | “Linkwitz-Riley” | 1.2 liter (System resonance: 140 Hz) | 250 Hz / 24 dB/Octave | “Linkwitz-Riley” | Note: The enclosure should always be filled with appropriate",
+   "cone_material": "Carbon fleece multilayer cone",
+   "scope_of_delivery": [
+    "2 x High-End Midrange Speaker BRAX MATRIX ML80 PRO",
+    "1 x Allen key",
+    "1 x Certificate",
+    "1 x Data sheet"
+   ]
+  },
+  {
+   "model": "HELIX Ci3 M100FM-S3",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    120,
+    6000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 146,
+    "re_ohm": 3,
+    "qms": 4.49,
+    "qes": 1.02,
+    "qts": 0.83,
+    "vas_l": 1.1,
+    "sd_cm2": 53,
+    "xmax_mm": 2,
+    "mms_g": 4.3,
+    "bl_tm": 3.4,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 30,
+   "cutout_mm": 89,
+   "frame_mm": 98,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX Ci3 K100.2FM-S3 MK2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i3/ci3-m100fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Paper with Cenosphere coating",
+   "scope_of_delivery": [
+    "2 x Ci3 M100FM-S3",
+    "2 x Universal FlexMount100 (with standard 4-point mounting)",
+    "2 x FlexConnect inlay A",
+    "2 x Universal connection cable",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 M50FM-S3",
+   "type": "midrange",
+   "size_in": 2,
+   "size_label": "50 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    300,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 240,
+    "re_ohm": 3.1,
+    "qms": 3.09,
+    "qes": 0.8,
+    "qts": 0.68,
+    "vas_l": 0.16,
+    "sd_cm2": 19.6,
+    "xmax_mm": 2.5,
+    "mms_g": 1.43,
+    "bl_tm": 2.8,
+    "le_mh": null,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": 25.2,
+   "cutout_mm": 50.9,
+   "frame_mm": 59.8,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-m50fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker also prints max. mechanical excursion +/- 3.5 mm; xmax_mm = max. linear excursion (one way).",
+   "cone_material": "Silicon coated paper cone",
+   "scope_of_delivery": [
+    "2 x Ci5 M50FM-S3",
+    "2 x Universal FlexMount CFM50 MULTI.1",
+    "2 x Speaker gasket",
+    "2 x Mounting ring with grille",
+    "1 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 M80FM-D3 CTR",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm class",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 135,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    200,
+    16000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 175,
+    "re_ohm": 3.1,
+    "qms": 4.29,
+    "qes": 2.15,
+    "qts": 1.43,
+    "vas_l": 0.44,
+    "sd_cm2": 36,
+    "xmax_mm": 2.5,
+    "mms_g": 3.19,
+    "bl_tm": 2.24,
+    "le_mh": null,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": 87
+   },
+   "mounting_depth_mm": 30.1,
+   "cutout_mm": 69.5,
+   "frame_mm": 78.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-m80fm-d3-ctr",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker also prints max. mechanical excursion +/- 4.5 mm; xmax_mm = max. linear excursion (one way).",
+   "cone_material": "Silicon coated paper cone",
+   "scope_of_delivery": [
+    "1 x Ci5 M80FM-D3 CTR",
+    "1 x Universal FelxMount CFM80 MULTI.1 & MULTI.2",
+    "1 x Adaptor ring CFM80-100",
+    "1 x Universal connection cable",
+    "1 x FlexConnect inlay set (A, B, C, D)",
+    "1 x Speaker gasket",
+    "1 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 M80FM-S3",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 135,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    200,
+    6000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 156,
+    "re_ohm": 3.1,
+    "qms": 3.68,
+    "qes": 0.75,
+    "qts": 0.63,
+    "vas_l": 0.7,
+    "sd_cm2": 36,
+    "xmax_mm": 2.5,
+    "mms_g": 2.6,
+    "bl_tm": 3.2,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 30.2,
+   "cutout_mm": 69.5,
+   "frame_mm": 78.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-m80fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker also prints max. mechanical excursion +/- 4.5 mm; xmax_mm = max. linear excursion (one way).",
+   "cone_material": "Silicon coated paper cone",
+   "scope_of_delivery": [
+    "2 x Ci5 M80FM-S3",
+    "2 x Universal FlexMount CFM80 MULTI.1 & MULTI.2",
+    "2 x Universal connection cable",
+    "2 x FlexConnect inlay set (A, B, C, D)",
+    "2 x Speaker gasket",
+    "2 x Mounting ring with grille",
+    "1 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci7 M100FM-S3",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    110,
+    7000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 85,
+    "re_ohm": 3,
+    "qms": 4.58,
+    "qes": 0.52,
+    "qts": 0.47,
+    "vas_l": 2.5,
+    "sd_cm2": 55,
+    "xmax_mm": 1.3,
+    "mms_g": 5.9,
+    "bl_tm": 4.3,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 26.9,
+   "cutout_mm": 89,
+   "frame_mm": 98,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i7/ci7-m100fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Ultra high damping (UHD) crafted paper cone",
+   "scope_of_delivery": [
+    "2 x Ci7 M100FM-S3",
+    "2 x Universal FlexMount100 (with standard 4-point mounting)",
+    "2 x FlexConnect inlay A",
+    "2 x Universal connection cable",
+    "2 x Crossover connection cable",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "MATCH UP S4MB-CTR",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "4 in (vehicle-specific)",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    90,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 35,
+   "cutout_mm": 99,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-s4mb-ctr",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "Coated paper",
+   "scope_of_delivery": [
+    "1 x Center speaker MATCH UP S4MB-CTR",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "MATCH UP S4MB-SUR",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "4 in (vehicle-specific)",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    90,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 35,
+   "cutout_mm": 99,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-s4mb-sur",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "Coated paper",
+   "scope_of_delivery": [
+    "2 x Surround speakers UP S4MB-SUR 1",
+    "1 x Instruction manual"
+   ]
+  }
+ ],
+ "no_specs_published": []
+}

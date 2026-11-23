@@ -1,0 +1,3209 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "American Bass",
+ "maker_site": "https://www.americanbassusa.com",
+ "method": "maker's own Shopify store, public products.json, body text and titles; numbers only (values parsed by scripts/parts/build_amps_shopify.py, spot-checked)",
+ "terms_note": "Numbers (facts) only with source URL; no text, images or PDFs copied. Store prices are USD maker-store prices on the read date.",
+ "units": {
+  "w_per_ch": "W RMS per channel",
+  "ohm": "ohm load per channel (bridged = load across the bridged pair)",
+  "dims_mm": "mm, converted from inches when published in inches"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 54,
+ "records": [
+  {
+   "id": "american-bass-rebel-600-1-amplifier",
+   "model": "REBEL-600.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-600.1 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 280,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 450,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     169.9,
+     142.0,
+     56.9
+    ],
+    "as_published_in": [
+     6.69,
+     5.59,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-600-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-rebel-500-4-amplifier",
+   "model": "REBEL-500.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-500.4 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 130,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 460,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     160.0,
+     150.1,
+     56.9
+    ],
+    "as_published_in": [
+     6.3,
+     5.91,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-500-4-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-rebel-1000-1-amplifier",
+   "model": "REBEL-1000.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-1000.1 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 730,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1100,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     130.3,
+     142.0,
+     56.9
+    ],
+    "as_published_in": [
+     5.13,
+     5.59,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-1000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-rebel-2000-1-amplifier",
+   "model": "REBEL-2000.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-2000.1 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 760,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     166.1,
+     142.0,
+     56.9
+    ],
+    "as_published_in": [
+     6.54,
+     5.59,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-2000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-monster-bass-bundle-2x-godzilla-18-subwoofer-vfl-rebel-rebel-8000-1-amplifie",
+   "model": "REBEL-8000.1",
+   "model_basis": "title (store SKU differs: MB-GZ18-RBL8K)",
+   "title": "Monster Bass Bundle — 2x Godzilla 18\" Subwoofer + VFL Rebel REBEL-8000.1 Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 4300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-18-subwoofer-vfl-rebel-rebel-8000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-15-subwoofer-vfl-rebel-rebel-8000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-12-subwoofer-vfl-rebel-rebel-8000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-18-subwoofer-vfl-rebel-8000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-15-subwoofer-vfl-rebel-8000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-12-subwoofer-vfl-rebel-8000-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "bundle": true,
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "american-bass-monster-bass-bundle-2x-godzilla-15-subwoofer-vfl-rebel-rebel-8000-1-amplifie",
+     "model": "REBEL-8000.1",
+     "title": "Monster Bass Bundle — 2x Godzilla 15\" Subwoofer + VFL Rebel REBEL-8000.1 Amplifier",
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-15-subwoofer-vfl-rebel-rebel-8000-1-amplifier"
+    },
+    {
+     "id": "american-bass-monster-bass-bundle-2x-godzilla-12-subwoofer-vfl-rebel-rebel-8000-1-amplifie",
+     "model": "REBEL-8000.1",
+     "title": "Monster Bass Bundle — 2x Godzilla 12\" Subwoofer + VFL Rebel REBEL-8000.1 Amplifier",
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-12-subwoofer-vfl-rebel-rebel-8000-1-amplifier"
+    },
+    {
+     "id": "american-bass-monster-bass-bundle-2x-xmaxxx-monster-18-subwoofer-vfl-rebel-8000-1-amplifie",
+     "model": "REBEL-8000.1",
+     "title": "Monster Bass Bundle — 2x XMAXXX Monster 18\" Subwoofer + VFL REBEL-8000.1 Amplifier",
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-18-subwoofer-vfl-rebel-8000-1-amplifier"
+    },
+    {
+     "id": "american-bass-monster-bass-bundle-2x-xmaxxx-monster-15-subwoofer-vfl-rebel-8000-1-amplifie",
+     "model": "REBEL-8000.1",
+     "title": "Monster Bass Bundle — 2x XMAXXX Monster 15\" Subwoofer + VFL REBEL-8000.1 Amplifier",
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-15-subwoofer-vfl-rebel-8000-1-amplifier"
+    },
+    {
+     "id": "american-bass-monster-bass-bundle-2x-xmaxxx-monster-12-subwoofer-vfl-rebel-8000-1-amplifie",
+     "model": "REBEL-8000.1",
+     "title": "Monster Bass Bundle — 2x XMAXXX Monster 12\" Subwoofer + VFL REBEL-8000.1 Amplifier",
+     "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-12-subwoofer-vfl-rebel-8000-1-amplifier"
+    }
+   ]
+  },
+  {
+   "id": "american-bass-rebel-5000-4",
+   "model": "REBEL-5000.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-5000.1 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     179.1,
+     220.0,
+     56.9
+    ],
+    "as_published_in": [
+     7.05,
+     8.66,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-5000-4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-rebel-1400-4",
+   "model": "REBEL-1400.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-1400.4 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 220,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 355,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     237.0,
+     149.9,
+     56.9
+    ],
+    "as_published_in": [
+     9.33,
+     5.9,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-1400-4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-rebel-2400-4-amplifier",
+   "model": "REBEL-2400.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-2400.4 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 425,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 640,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     209.0,
+     150.1,
+     56.9
+    ],
+    "as_published_in": [
+     8.23,
+     5.91,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-2400-4-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-rebel-3000-amplifier",
+   "model": "REBEL-3000.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-3000.1 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 980,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1905,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     137.9,
+     149.9,
+     56.9
+    ],
+    "as_published_in": [
+     5.43,
+     5.9,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-3000-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-rebel-900-4-amplifier",
+   "model": "REBEL-900.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "VFL REBEL-900.4 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 220,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     217.9,
+     149.9,
+     56.9
+    ],
+    "as_published_in": [
+     8.58,
+     5.9,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-900-4-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "source says 1 channel(s) but every unbridged rating line is x 4; channels set to 4"
+   ]
+  },
+  {
+   "id": "american-bass-rebel-8000",
+   "model": "REBEL-8000",
+   "model_basis": "maker SKU",
+   "title": "VFL REBEL 8000.1 Class D High Performance Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2090,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 4300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 8000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     209.0,
+     220.0,
+     56.9
+    ],
+    "as_published_in": [
+     8.23,
+     8.66,
+     2.24
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/rebel-8000",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-vfl-pro-power-5k",
+   "model": "VFLPROPOWER-5K",
+   "model_basis": "maker SKU",
+   "title": "VFL Pro Power 5K",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [],
+     "url": "https://www.americanbassusa.com/products/vfl-pro-power-5k",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-2000-1d-amplifier",
+   "model": "GF-2000.1D",
+   "model_basis": "maker SKU",
+   "title": "Godfather 2000.1D Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2340,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1060,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1560,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     260.1,
+     181.6,
+     59.2
+    ],
+    "as_published_in": [
+     10.24,
+     7.15,
+     2.33
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-2000-1d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-20004",
+   "model": "VFL-2000.4",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio 2000.4  Class D High Performance Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     449.8,
+     257.8,
+     65.8
+    ],
+    "as_published_in": [
+     17.71,
+     10.15,
+     2.59
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-20004",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-1500-1d",
+   "model": "VFL-1500.2D",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio 1500.2D  Class D High Performance Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-1500-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-3000-1fr-amplifier",
+   "model": "GF-3000.1FR",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 3000.1  Class AB High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     320.0,
+     184.1,
+     58.9
+    ],
+    "as_published_in": [
+     12.6,
+     7.25,
+     2.32
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-3000-1fr-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-comp-20k-amplifier",
+   "model": "VFLCOMP-20K",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio COMP 20K Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-comp-20k-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-comp-12k-amplifier",
+   "model": "VFLCOMP-12K",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio COMP 12K Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-comp-12k-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-1000-2d-amplifier",
+   "model": "GF-1000.2D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 1000.2D Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "bridged_inferred": true
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     300.2,
+     181.6,
+     59.2
+    ],
+    "as_published_in": [
+     11.82,
+     7.15,
+     2.33
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-1000-2d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "1300 W x 1 at 4.0 ohm marked bridged (2-channel amp; power vs the per-channel rating)"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-stealth-mmc-2004-amplifier",
+   "model": "STEALTHMMC-2004",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio Stealth MMC 2004 Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     276.9,
+     88.9,
+     39.9
+    ],
+    "as_published_in": [
+     10.9,
+     3.5,
+     1.57
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-stealth-mmc-2004-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-stealth-mmc-2002-amplifier",
+   "model": "STEALTHMMC-2002",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio Stealth MMC 2002 Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     191.8,
+     88.9,
+     39.9
+    ],
+    "as_published_in": [
+     7.55,
+     3.5,
+     1.57
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-stealth-mmc-2002-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-comp-15d-amplifier",
+   "model": "GFCOMP-15D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 15D Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 7600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 13000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 20000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-comp-15d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-comp-5d-amplifier",
+   "model": "GFCOMP-5D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 5D Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1630,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2790,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 4160,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     400.0,
+     229.1,
+     65.5
+    ],
+    "as_published_in": [
+     15.75,
+     9.02,
+     2.58
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-comp-5d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-godfather-comp-7d-amplifier",
+   "model": "GFCOMP-7D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 7D  Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2190,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3870,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 6050,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     549.9,
+     229.1,
+     65.5
+    ],
+    "as_published_in": [
+     21.65,
+     9.02,
+     2.58
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-comp-7d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-godfather-comp-11d-amplifier",
+   "model": "GFCOMP-11D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 11D Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3850,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 6950,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 10710,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     192.0,
+     229.1,
+     65.5
+    ],
+    "as_published_in": [
+     7.56,
+     9.02,
+     2.58
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-comp-11d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-the-bass-pack",
+   "model": "BP-400",
+   "model_basis": "maker SKU",
+   "title": "Bass Pack Dual 12″ Loaded Subwoofer Enclosure with Amplifier | 600 Watts RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/the-bass-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "bundle": true,
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-500-4d-amplifier",
+   "model": "GF-500.4D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 500.4D Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 240,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 360,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 760,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     300.2,
+     190.5,
+     59.2
+    ],
+    "as_published_in": [
+     11.82,
+     7.5,
+     2.33
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-500-4d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "maker text gives different power for the same load, check the manual: 4.0 ohm x4: [240, 760] W; ",
+   "quality_issues": [
+    "rms_conflict"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-200-4-amplifier",
+   "model": "GF-200.4D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 200.4D Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 110,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 360,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "bridged_inferred": true
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     200.2,
+     181.6,
+     59.2
+    ],
+    "as_published_in": [
+     7.88,
+     7.15,
+     2.33
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-200-4-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "360 W x 2 at 4.0 ohm marked bridged (4-channel amp; power vs the per-channel rating)"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-3500-1d-amplifier",
+   "model": "GF-3500.1D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 3500.1D Digital Monoblock Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1540,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1540,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3047,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     350.0,
+     181.6,
+     59.2
+    ],
+    "as_published_in": [
+     13.78,
+     7.15,
+     2.33
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-3500-1d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "american-bass-godfather-1500-1d-amplifier",
+   "model": "GF-1500.1D",
+   "model_basis": "maker SKU",
+   "title": "American Bass Godfather 1500.1D Digital Monoblock Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 670,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1120,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1508,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     180.1,
+     181.6,
+     59.2
+    ],
+    "as_published_in": [
+     7.09,
+     7.15,
+     2.33
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/godfather-1500-1d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-comp-1k-amplifier",
+   "model": "VFLCOMP-1K",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio COMP 1K  Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-comp-1k-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-comp-2k-amplifier",
+   "model": "VFLCOMP-2K",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio COMP 2K  Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-comp-2k-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-comp-2-5k-amplifier",
+   "model": "VFLCOMP-2.5K",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio COMP 2.5K Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-comp-2-5k-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-comp-3k-amplifier",
+   "model": "VFLCOMP-3K",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio COMP 3K  Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-comp-3k-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-comp-350-4fr-amplifier",
+   "model": "350.4FR",
+   "model_basis": "title (store SKU differs: VFLCOMP-350.4FR)",
+   "title": "VFL Audio COMP 350.4FR Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-comp-350-4fr-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-hybrid-150-4-amplifier",
+   "model": "VFLHYBRID-150.4",
+   "model_basis": "maker SKU",
+   "title": "VFL Hybrid 150.4 Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-hybrid-150-4-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-hybrid-275-4-amplifier",
+   "model": "VFLHYBRID-275.4",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio Hybrid 275.4  Class D High Performance Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-hybrid-275-4-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-hybrid-1950-1-amplifier",
+   "model": "VFLHYBRID-1950.1",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio Hybrid 1950.1  Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-hybrid-1950-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-hybrid-2850-1-amplifier",
+   "model": "VFLHYBRID-2850.1D",
+   "model_basis": "maker SKU",
+   "title": "VFL Hybrid 2850.1 Amplifier Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-hybrid-2850-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-hybrid-4850-1-amplifier",
+   "model": "VFLHYBRID-4850.1D",
+   "model_basis": "maker SKU",
+   "title": "VFL Hybrid 4850.1 Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-hybrid-4850-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "american-bass-vfl-stealth-500-4-amplifier",
+   "model": "VFLSTEALTH-500.4",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio Stealth 500.4 Multichannel Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-stealth-500-4-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-vfl-stealth-3000-1d-amplifier",
+   "model": "3000.1D",
+   "model_basis": "title (store SKU differs: VFLSTEALTH-3000.1D)",
+   "title": "VFL Audio Stealth 3000.1D  Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-stealth-3000-1d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-vfl-stealth-4500-1-amplifier",
+   "model": "VFLSTEALTH-4500.1D",
+   "model_basis": "maker SKU",
+   "title": "VFL Audio Stealth 4500.1  Class D High Performance Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1050,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1875,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-stealth-4500-1-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-vfl-stealth-5500-1d-amplifier",
+   "model": "5500.1D",
+   "model_basis": "title (store SKU differs: VFLSTEALTH-5500.1D)",
+   "title": "VFL Audio Stealth 5500.1D Digital Monoblock Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1587,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2917,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/vfl-stealth-5500-1d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "american-bass-db-9080-4fr-amplifier",
+   "model": "DB9080.4FR",
+   "model_basis": "maker SKU",
+   "title": "DB 9080.4FR Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     350.0,
+     240.0,
+     50.0
+    ],
+    "as_published_in": [
+     13.78,
+     9.45,
+     1.97
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/db-9080-4fr-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "american-bass-db-675-2fr-amplifier",
+   "model": "DB675.2FR",
+   "model_basis": "maker SKU",
+   "title": "DB 675.2FR Car Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 130,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     179.8,
+     240.0,
+     50.0
+    ],
+    "as_published_in": [
+     7.08,
+     9.45,
+     1.97
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.americanbassusa.com/products/db-675-2fr-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "american-bass-xfl-dc-2000-amplifier",
+   "model": "XFLDC2000",
+   "model_basis": "maker SKU",
+   "title": "XFL DC-2000 Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 1,
+     "ohm": 0.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 0.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/xfl-dc-2000-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "american-bass-xfl-dc-4090-amplifier",
+   "model": "XFLDC4090",
+   "model_basis": "maker SKU",
+   "title": "XFL DC-4090 Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 4.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/xfl-dc-4090-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "source says 1 channel(s) but every unbridged rating line is x 4; channels set to 4"
+   ]
+  },
+  {
+   "id": "american-bass-xfl-dc-4200-amplifier",
+   "model": "XFLDC4200",
+   "model_basis": "maker SKU",
+   "title": "XFL DC-4200 Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 4.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/xfl-dc-4200-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "source says 1 channel(s) but every unbridged rating line is x 4; channels set to 4"
+   ]
+  },
+  {
+   "id": "american-bass-ph-1600-md-amplifier",
+   "model": "PH-1600",
+   "model_basis": "title (store SKU differs: PH4100FR)",
+   "title": "PH-1600 MD Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": null,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings"
+     ],
+     "url": "https://www.americanbassusa.com/products/ph-1600-md-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text",
+   "quality_issues": [
+    "channels_null",
+    "rating_channels_null"
+   ]
+  },
+  {
+   "id": "american-bass-ph-2500-md-amplifier",
+   "model": "PH2500MD",
+   "model_basis": "maker SKU",
+   "title": "PH-2500 MD Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1250,
+     "channels": null,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings"
+     ],
+     "url": "https://www.americanbassusa.com/products/ph-2500-md-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text",
+   "quality_issues": [
+    "channels_null",
+    "rating_channels_null"
+   ]
+  },
+  {
+   "id": "american-bass-ph-4000-md-amplifier",
+   "model": "PH4000MD",
+   "model_basis": "maker SKU",
+   "title": "PH-4000 MD Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2000,
+     "channels": null,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings"
+     ],
+     "url": "https://www.americanbassusa.com/products/ph-4000-md-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text",
+   "quality_issues": [
+    "channels_null",
+    "rating_channels_null"
+   ]
+  },
+  {
+   "id": "american-bass-ph-4100-fr-amplifier",
+   "model": "PH4100MD",
+   "model_basis": "maker SKU",
+   "title": "PH-4100 FR Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels"
+     ],
+     "url": "https://www.americanbassusa.com/products/ph-4100-fr-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "american-bass-ph-5100md-fr-amplifier",
+   "model": "PH-5100MD",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "PH-5100MD FR Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings"
+     ],
+     "url": "https://www.americanbassusa.com/products/ph-5100md-fr-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.americanbassusa.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  }
+ ],
+ "not_recorded": [
+  {
+   "title": "VFL COMP 8K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "Godfather 200.4 Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "Godfather 3500.1D Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "Refurbished Godfather 1500-1D Amp | American Bass",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 350.4FR Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 22K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 20K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 12K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 6K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 5K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 4K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 3K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 2.5K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 2K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "VFL COMP 1K Amplifier Refurbished",
+   "reason": "used/refurbished listing of a model"
+  },
+  {
+   "title": "Falcon Rider Bundle — 2x Falcon Series 8\" Midrange Speakers + VFL Rebel REBEL-900.4 Amplifier",
+   "id": "american-bass-falcon-rider-bundle-2x-falcon-series-8-midrange-speakers-vfl-rebel-rebel-900",
+   "url": "https://www.americanbassusa.com/products/falcon-rider-bundle-2x-falcon-series-8-midrange-speakers-vfl-rebel-rebel-900-4-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-900.4; the item itself is recorded as american-bass-rebel-900-4-amplifier"
+  },
+  {
+   "title": "Falcon Rider Bundle  — 2x Falcon Series 6.5\" Midrange Speakers + VFL Rebel REBEL-900.4 Amplifier",
+   "id": "american-bass-falcon-rider-bundle-2x-falcon-series-6-5-midrange-speakers-vfl-rebel-rebel-9",
+   "url": "https://www.americanbassusa.com/products/falcon-rider-bundle-2x-falcon-series-6-5-midrange-speakers-vfl-rebel-rebel-900-4-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-900.4; the item itself is recorded as american-bass-rebel-900-4-amplifier"
+  },
+  {
+   "title": "Slim Rebel Bundle  — 2x Hawk Slim 12\" Subwoofers + VFL Rebel REBEL-5000.1 Amplifier",
+   "id": "american-bass-slim-rebel-bundle-12-hawk-slim-12-rebel-5000-1",
+   "url": "https://www.americanbassusa.com/products/slim-rebel-bundle-12-hawk-slim-12-rebel-5000-1",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Slim Rebel Bundle  — 2x Hawk Slim 10\" Subwoofers + VFL Rebel REBEL-3000.1 Amplifier",
+   "id": "american-bass-slim-rebel-bundle-10-hawk-slim-10-rebel-3000-1",
+   "url": "https://www.americanbassusa.com/products/slim-rebel-bundle-10-hawk-slim-10-rebel-3000-1",
+   "reason": "bundle / multi-pack listing that includes REBEL-3000.1; the item itself is recorded as american-bass-rebel-3000-amplifier"
+  },
+  {
+   "title": "Biker Rebel Bundle — 2x Biker 6x9\" Midrange + VFL Rebel REBEL-900.4 Amplifier",
+   "id": "american-bass-biker-rebel-bundle-2x-biker-6x9-midrange-vfl-rebel-rebel-900-4-amplifier",
+   "url": "https://www.americanbassusa.com/products/biker-rebel-bundle-2x-biker-6x9-midrange-vfl-rebel-rebel-900-4-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-900.4; the item itself is recorded as american-bass-rebel-900-4-amplifier"
+  },
+  {
+   "title": "Biker Rebel Bundle — 2x Biker 8\" Midrange + VFL Rebel REBEL-900.4 Amplifier",
+   "id": "american-bass-biker-rebel-bundle-2x-biker-8-midrange-vfl-rebel-rebel-900-4-amplifier",
+   "url": "https://www.americanbassusa.com/products/biker-rebel-bundle-2x-biker-8-midrange-vfl-rebel-rebel-900-4-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-900.4; the item itself is recorded as american-bass-rebel-900-4-amplifier"
+  },
+  {
+   "title": "Biker Rebel Bundle — 2x Biker 6.5\" Midrange + VFL Rebel REBEL-900.4 Amplifier",
+   "id": "american-bass-biker-rebel-bundle-2x-biker-6-5-midrange-vfl-rebel-rebel-900-4-amplifier",
+   "url": "https://www.americanbassusa.com/products/biker-rebel-bundle-2x-biker-6-5-midrange-vfl-rebel-rebel-900-4-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-900.4; the item itself is recorded as american-bass-rebel-900-4-amplifier"
+  },
+  {
+   "title": "Monster Bass Bundle — 2x Godzilla 15\" Subwoofer + VFL Rebel REBEL-8000.1 Amplifier",
+   "id": "american-bass-monster-bass-bundle-2x-godzilla-15-subwoofer-vfl-rebel-rebel-8000-1-amplifie",
+   "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-15-subwoofer-vfl-rebel-rebel-8000-1-amplifier",
+   "reason": "duplicate listing of REBEL-8000.1 (colour / variant / repeat), merged into american-bass-monster-bass-bundle-2x-godzilla-18-subwoofer-vfl-rebel-rebel-8000-1-amplifie"
+  },
+  {
+   "title": "Monster Bass Bundle — 2x Godzilla 12\" Subwoofer + VFL Rebel REBEL-8000.1 Amplifier",
+   "id": "american-bass-monster-bass-bundle-2x-godzilla-12-subwoofer-vfl-rebel-rebel-8000-1-amplifie",
+   "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-12-subwoofer-vfl-rebel-rebel-8000-1-amplifier",
+   "reason": "duplicate listing of REBEL-8000.1 (colour / variant / repeat), merged into american-bass-monster-bass-bundle-2x-godzilla-18-subwoofer-vfl-rebel-rebel-8000-1-amplifie"
+  },
+  {
+   "title": "Monster Bass Bundle — 2x Godzilla 8\" Subwoofer + VFL Rebel REBEL-5000.1 Amplifier",
+   "id": "american-bass-monster-bass-bundle-2x-godzilla-8-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-godzilla-8-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Monster Bass Bundle — 2x XMAXXX Monster 18\" Subwoofer + VFL REBEL-8000.1 Amplifier",
+   "id": "american-bass-monster-bass-bundle-2x-xmaxxx-monster-18-subwoofer-vfl-rebel-8000-1-amplifie",
+   "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-18-subwoofer-vfl-rebel-8000-1-amplifier",
+   "reason": "duplicate listing of REBEL-8000.1 (colour / variant / repeat), merged into american-bass-monster-bass-bundle-2x-godzilla-18-subwoofer-vfl-rebel-rebel-8000-1-amplifie"
+  },
+  {
+   "title": "Monster Bass Bundle — 2x XMAXXX Monster 15\" Subwoofer + VFL REBEL-8000.1 Amplifier",
+   "id": "american-bass-monster-bass-bundle-2x-xmaxxx-monster-15-subwoofer-vfl-rebel-8000-1-amplifie",
+   "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-15-subwoofer-vfl-rebel-8000-1-amplifier",
+   "reason": "duplicate listing of REBEL-8000.1 (colour / variant / repeat), merged into american-bass-monster-bass-bundle-2x-godzilla-18-subwoofer-vfl-rebel-rebel-8000-1-amplifie"
+  },
+  {
+   "title": "Monster Bass Bundle — 2x XMAXXX Monster 12\" Subwoofer + VFL REBEL-8000.1 Amplifier",
+   "id": "american-bass-monster-bass-bundle-2x-xmaxxx-monster-12-subwoofer-vfl-rebel-8000-1-amplifie",
+   "url": "https://www.americanbassusa.com/products/monster-bass-bundle-2x-xmaxxx-monster-12-subwoofer-vfl-rebel-8000-1-amplifier",
+   "reason": "duplicate listing of REBEL-8000.1 (colour / variant / repeat), merged into american-bass-monster-bass-bundle-2x-godzilla-18-subwoofer-vfl-rebel-rebel-8000-1-amplifie"
+  },
+  {
+   "title": "Big Bass Bundle — 2x HAWK 15\" Subwoofer + VFL Rebel REBEL-5000.1 Amplifier",
+   "id": "american-bass-big-bass-bundle-2x-hawk-15-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/big-bass-bundle-2x-hawk-15-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Big Bass Bundle — 2x HAWK 12\" Subwoofer + VFL Rebel REBEL-5000.1 Amplifier",
+   "id": "american-bass-big-bass-bundle-2x-hawk-12-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/big-bass-bundle-2x-hawk-12-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Big Bass Bundle — 2x HAWK 10\" Subwoofer + VFL Rebel REBEL-5000.1 Amplifier",
+   "id": "american-bass-big-bass-bundle-2x-hawk-10-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/big-bass-bundle-2x-hawk-10-subwoofer-vfl-rebel-rebel-5000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Big Bass Bundle — 2x XFL 15\" Subwoofer + VFL REBEL-5000.1 Amplifier",
+   "id": "american-bass-big-bass-bundle-2x-xfl-15-subwoofer-vfl-rebel-5000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/big-bass-bundle-2x-xfl-15-subwoofer-vfl-rebel-5000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Big Bass Bundle — 2x XFL 12\" Subwoofer + VFL REBEL-5000.1 Amplifier -",
+   "id": "american-bass-big-bass-bundle-2x-xfl-12-subwoofer-vfl-rebel-5000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/big-bass-bundle-2x-xfl-12-subwoofer-vfl-rebel-5000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Big Bass Bundle — 2x XFL 10\" Subwoofer + VFL REBEL-5000.1 Amplifier",
+   "id": "american-bass-big-bass-bundle-2x-xfl-10-subwoofer-vfl-rebel-5000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/big-bass-bundle-2x-xfl-10-subwoofer-vfl-rebel-5000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-5000.1; the item itself is recorded as american-bass-rebel-5000-4"
+  },
+  {
+   "title": "Ground Pound Bundle — 2x XO 15\" Subwoofer + VFL Rebel REBEL-3000.1 Amplifier",
+   "id": "american-bass-ground-pound-bundle-2x-xo-15-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/ground-pound-bundle-2x-xo-15-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-3000.1; the item itself is recorded as american-bass-rebel-3000-amplifier"
+  },
+  {
+   "title": "Ground Pound Bundle — 2x XO 12\" Subwoofer + VFL Rebel REBEL-3000.1 Amplifier",
+   "id": "american-bass-ground-pound-bundle-2x-xo-12-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/ground-pound-bundle-2x-xo-12-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-3000.1; the item itself is recorded as american-bass-rebel-3000-amplifier"
+  },
+  {
+   "title": "Ground Pound Bundle — 2x XO 10\" Subwoofer + VFL Rebel REBEL-3000.1 Amplifier",
+   "id": "american-bass-ground-pound-bundle-2x-xo-10-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/ground-pound-bundle-2x-xo-10-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-3000.1; the item itself is recorded as american-bass-rebel-3000-amplifier"
+  },
+  {
+   "title": "Ground Pound Bundle — 2x DX 15\" Subwoofer + VFL Rebel REBEL-3000.1 Amplifier",
+   "id": "american-bass-ground-pound-bundle-2x-dx-15-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/ground-pound-bundle-2x-dx-15-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-3000.1; the item itself is recorded as american-bass-rebel-3000-amplifier"
+  },
+  {
+   "title": "Ground Pound Bundle — 2x DX 12\" Subwoofer + VFL Rebel REBEL-3000.1 Amplifier",
+   "id": "american-bass-ground-pound-bundle-2x-dx-12-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/ground-pound-bundle-2x-dx-12-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-3000.1; the item itself is recorded as american-bass-rebel-3000-amplifier"
+  },
+  {
+   "title": "Ground Pound Bundle — 2x DX 10\" Subwoofer + VFL Rebel REBEL-3000.1 Amplifier",
+   "id": "american-bass-ground-pound-bundle-2x-dx-10-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "url": "https://www.americanbassusa.com/products/ground-pound-bundle-2x-dx-10-subwoofer-vfl-rebel-rebel-3000-1-amplifier",
+   "reason": "bundle / multi-pack listing that includes REBEL-3000.1; the item itself is recorded as american-bass-rebel-3000-amplifier"
+  }
+ ]
+}

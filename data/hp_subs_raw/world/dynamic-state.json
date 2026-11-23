@@ -1,0 +1,746 @@
+{
+ "brand": "Dynamic State (DST)",
+ "country": "Russia",
+ "brand_url": "https://www.dynamicstate.ru/",
+ "terms_note": "No website terms of use found on pages read; pages read one at a time, 3 s apart, 2026-11-21. Numbers only.",
+ "drivers": [
+  {
+   "model": "VIKING VSW-M25 Mjolnir",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 45,
+    "re_ohm": 0.96,
+    "qms": 1.78,
+    "qes": 0.41,
+    "qts": 0.33,
+    "vas_l": 9.95,
+    "sd_cm2": 346,
+    "xmax_mm": 27.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 1.64,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 197,
+   "cutout_mm": 239,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/viking/dynamic-state-viking-vsw-m25-mjolnir/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0,96+0,96' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1000 W); Чувствительность = sensitivity '82,7±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '25-28' cm, exact size '27,8'. Voice coil 'Алюминиевая звуковая катушка 3\" / 76,5 мм.'. Series VIKING."
+  },
+  {
+   "model": "VIKING VSW-M30.1 Mjolnir 1+1 Ohm",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2300,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 0.8,
+    "qms": 2.84,
+    "qes": 0.43,
+    "qts": 0.37,
+    "vas_l": 26.8,
+    "sd_cm2": 523,
+    "xmax_mm": 27.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 3.67,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 214,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/viking/dynamic-state-viking-vsw-m30-1-mjolnir-1-1-ohm/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0.8+0.8' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1000 W); Чувствительность = sensitivity '86±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '30-33' cm, exact size '32,6'. Voice coil 'Алюминиевая звуковая катушка 3\" / 76,5 мм.'. Series VIKING."
+  },
+  {
+   "model": "VIKING VSW-M30.2 Mjolnir 2+2 Ohm",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2300,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 1.8,
+    "qms": 2.84,
+    "qes": 0.43,
+    "qts": 0.37,
+    "vas_l": 26.8,
+    "sd_cm2": 523,
+    "xmax_mm": 27.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 3.67,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 214,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/viking/dynamic-state-viking-vsw-m30-2-mjolnir-2-2-ohm/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '1.8+1.8' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1000 W); Чувствительность = sensitivity '86±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '30-33' cm, exact size '32,6'. Voice coil 'Алюминиевая звуковая катушка 3\" / 76,5 мм.'. Series VIKING."
+  },
+  {
+   "model": "VIKING VSW-M30 Mjolnir",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 0.96,
+    "qms": 1.93,
+    "qes": 0.46,
+    "qts": 0.37,
+    "vas_l": 20.54,
+    "sd_cm2": 523,
+    "xmax_mm": 27.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 1.42,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 214,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/viking/dynamic-state-viking-vsw-m30-mjolnir/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0,96+0,96' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1000 W); Чувствительность = sensitivity '87,3±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '30-33' cm, exact size '32,6'. Voice coil 'Алюминиевая звуковая катушка 3\" / 76,5 мм.'. Series VIKING."
+  },
+  {
+   "model": "VIKING VSW-M40.1 Mjolnir 1+1 Ohm",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2300,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 0.8,
+    "qms": 2.47,
+    "qes": 0.48,
+    "qts": 0.4,
+    "vas_l": 41.3,
+    "sd_cm2": 794,
+    "xmax_mm": 27.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 3.54,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 242,
+   "cutout_mm": 352,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/viking/dynamic-state-viking-vsw-m40-1-mjolnir-1-1-ohm/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0,8 + 0,8' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1000 W); Чувствительность = sensitivity '89,7±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '38-41' cm, exact size '39,8'. Voice coil 'Алюминиевая звуковая катушка 3\" / 76,5 мм.'. Series VIKING."
+  },
+  {
+   "model": "VIKING VSW-M40.2 Mjolnir 2+2 Ohm",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2300,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 1.8,
+    "qms": 2.47,
+    "qes": 0.48,
+    "qts": 0.4,
+    "vas_l": 41.3,
+    "sd_cm2": 794,
+    "xmax_mm": 27.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 3.54,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 242,
+   "cutout_mm": 352,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/viking/dynamic-state-viking-vsw-m40-2-mjolnir-2-2-ohm/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '1,8 + 1,8' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1000 W); Чувствительность = sensitivity '89,7±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '38-41' cm, exact size '39,8'. Voice coil 'Алюминиевая звуковая катушка 3\" / 76,5 мм.'. Series VIKING."
+  },
+  {
+   "model": "VIKING VSW-M40 Mjolnir",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39,
+    "re_ohm": 0.96,
+    "qms": 1.44,
+    "qes": 0.44,
+    "qts": 0.34,
+    "vas_l": 42.61,
+    "sd_cm2": 794,
+    "xmax_mm": 27.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 1.53,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 242,
+   "cutout_mm": 352,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/viking/dynamic-state-viking-vsw-m40-mjolnir/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0,96+0,96' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1000 W); Чувствительность = sensitivity '89,7±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '38-41' cm, exact size '39,8'. Voice coil 'Алюминиевая звуковая катушка 3\" / 76,5 мм.'. Series VIKING."
+  },
+  {
+   "model": "FORCE LIGHT SW30D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40,
+    "re_ohm": 1.08,
+    "qms": 8.134,
+    "qes": 0.5662,
+    "qts": 0.5294,
+    "vas_l": 14.578,
+    "sd_cm2": 530.93,
+    "xmax_mm": 18,
+    "mms_g": 397.7,
+    "bl_tm": null,
+    "le_mh": 0.5644,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 244,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw30d2/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '1,08'. Re 1.08 ohm on a 2+2 ohm DVC matches the two coils in parallel (inference, page does not state the T/S basis). Additional info on page: 'Mms 397,7 g'. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '85±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class 'None' cm, exact size '12\" / 320 mm'. Voice coil '3\" / 76,5 мм'. Series FORCE."
+  },
+  {
+   "model": "FORCE LIGHT SW40D1-CC2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.1,
+    "re_ohm": 0.42,
+    "qms": 6.968,
+    "qes": 0.5724,
+    "qts": 0.529,
+    "vas_l": 40.58,
+    "sd_cm2": 814.33,
+    "xmax_mm": 18,
+    "mms_g": 422.3,
+    "bl_tm": null,
+    "le_mh": 0.2098,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 278,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw40d1-cc2/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0,42'. Re 0.42 ohm on a 1+1 ohm DVC matches the two coils in parallel (inference, page does not state the T/S basis). Additional info on page: 'Mms 422,3 g'. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '87.5 ±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '38-41' cm, exact size '15\" / 390 mm'. Voice coil '3\" / 76,5 мм'. Series FORCE."
+  },
+  {
+   "model": "FORCE LIGHT SW40D1-PC2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.5,
+    "re_ohm": 0.43,
+    "qms": 6.414,
+    "qes": 0.5835,
+    "qts": 0.535,
+    "vas_l": 63.883,
+    "sd_cm2": 814.33,
+    "xmax_mm": 18,
+    "mms_g": 290.1,
+    "bl_tm": null,
+    "le_mh": 0.2127,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 278,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw40d1-pc2/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0,43'. Re 0.43 ohm on a 1+1 ohm DVC matches the two coils in parallel (inference, page does not state the T/S basis). Additional info on page: 'Mms 290,1 g'. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '89 ±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '38-41' cm, exact size '15\" / 390 mm'. Voice coil '3\" / 76,5 мм'. Series FORCE."
+  },
+  {
+   "model": "FORCE LIGHT SW40D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.9,
+    "re_ohm": 0.54,
+    "qms": 7.65,
+    "qes": 0.73,
+    "qts": 0.667,
+    "vas_l": 37.152,
+    "sd_cm2": 814.33,
+    "xmax_mm": 18,
+    "mms_g": 414,
+    "bl_tm": null,
+    "le_mh": 0.2155,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 278,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw40d1/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '0,54'. Re 0.54 ohm on a 1+1 ohm DVC matches the two coils in parallel (inference, page does not state the T/S basis). Additional info on page: 'Mms 414 g'. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '87±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '38-41' cm, exact size '15\" / 390 mm'. Voice coil '3\" / 76,5 мм'. Series FORCE."
+  },
+  {
+   "model": "FORCE LIGHT SW40D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.1,
+    "re_ohm": 4.465,
+    "qms": 7.159,
+    "qes": 0.616,
+    "qts": 0.567,
+    "vas_l": 41.74,
+    "sd_cm2": 814.33,
+    "xmax_mm": 18,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 2.236,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 278,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw40d2/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '4,465'. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '87±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '38-41' cm, exact size '15\" / 390 mm'. Voice coil '3\" / 76,5 мм'. Series FORCE."
+  },
+  {
+   "model": "FORCE LIGHT SW46D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": null,
+    "qms": 8.36,
+    "qes": 0.823,
+    "qts": 0.75,
+    "vas_l": 105.113,
+    "sd_cm2": 1225.42,
+    "xmax_mm": 18,
+    "mms_g": 394,
+    "bl_tm": null,
+    "le_mh": 0.2161,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 305,
+   "cutout_mm": 426,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw46d1/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Additional info on page: 'Mms 394 g'. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '89±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '45-48' cm, exact size '464 mm'. Voice coil '3\" / 76,5 мм'. Series FORCE."
+  },
+  {
+   "model": "FORCE LIGHT SW46D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 2,
+    "qms": 5.259,
+    "qes": 0.576,
+    "qts": 0.519,
+    "vas_l": 87.788,
+    "sd_cm2": 1225.42,
+    "xmax_mm": 18,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 2.5,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 305,
+   "cutout_mm": 426,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw46d2/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '2+2' (per coil). Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '89±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '45-48' cm, exact size '464 mm'. Voice coil '3\" / 76,5 мм'. Series FORCE."
+  },
+  {
+   "model": "FORCE SW32D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42.685,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.415,
+    "vas_l": 11.855,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 207,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-sw32d1/",
+     "doc": "Dynamic State product page, характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 2000 W); Чувствительность = sensitivity '88 ± 2dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '30-33' cm, exact size 'None'. Voice coil '4\" / 100 мм'. Series FORCE."
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "FORCE LIGHT SW46D1-CC2",
+   "rms_w": 2500,
+   "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw46d1-cc2/",
+   "note": "DATA PROBLEM: this 18 inch page prints Fs 37.1, Qts 0.529, Vas 40.58 L, Mms 422.3 g, identical to the 15 inch SW40D1-CC2 page, while its Sd is 1225.42 cm2; Vas calculated from Fs, Mms and that Sd would be about 93 L, so the T/S are copied and not used. Mounting depth 12\" / 305 мм, cut-out 16.78\" / 426 мм. Read 2026-11-21."
+  },
+  {
+   "model": "FORCE LIGHT SW46D1-PC2",
+   "rms_w": 2500,
+   "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw46d1-pc2/",
+   "note": "DATA PROBLEM: this 18 inch page prints Fs 37.1, Qts 0.529, Vas 40.58 L, Mms 422.3 g, identical to the 15 inch SW40D1-CC2 page, while its Sd is 1225.42 cm2; Vas calculated from Fs, Mms and that Sd would be about 93 L, so the T/S are copied and not used. Mounting depth 12\" / 305 мм, cut-out 16.78\" / 426 мм. Read 2026-11-21."
+  },
+  {
+   "model": "FORCE LIGHT SW30D1-CC2",
+   "rms_w": 2500,
+   "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/dynamic-state-force-light-sw30d1-cc2/",
+   "note": "Maker page has no Fs/Qts/Vas (only {'sd_cm2': 530.93, 'xmax_mm': 18}); coil DVC 1 ohm, mounting depth 244 mm, cut-out 282 mm. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '87±2' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '30-33' cm, exact size '12\" / 320 мм'. Voice coil "
+  },
+  {
+   "model": "FORCE LIGHT SW30D1-PC2",
+   "rms_w": 2500,
+   "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw30d1-pc2/",
+   "note": "Maker page has no Fs/Qts/Vas (only {'sd_cm2': 530.93}); coil DVC 1 ohm, mounting depth 244 mm, cut-out 282 mm. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '87 ±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '30-33' cm, exact size '12\" / 320 mm'. Voice c"
+  },
+  {
+   "model": "FORCE LIGHT SW30D2-CC2",
+   "rms_w": 2500,
+   "url": "https://www.dynamicstate.ru/catalog/sabvufery/force/sabvufer-serii-force-light-sw30d2-cc2/",
+   "note": "Maker page has no Fs/Qts/Vas (only {'sd_cm2': 530.93, 'xmax_mm': 18}); coil DVC 2 ohm, mounting depth 244 mm, cut-out 282 mm. Labels translated: Мощность (Ватт Min/RMS/MAX) = power min/RMS/max (min 1500 W); Чувствительность = sensitivity '87 ±2 dB' (condition not stated, not put in spl fields); Монтажная глубина = mounting depth; Монтажный диаметр посадки = cut-out. Size class '30-33' cm, exact size '12\" / 320 mm'. Voice c"
+  }
+ ],
+ "excluded_notes": "Other Dynamic State subs (Custom, Force P5W, Pro, Sarmat, Skif, Viking VSW 16x to 42x and Axe) are below 2000 W RMS per their pages read 2026-11-21 (Viking VSW-31D2/41D2 1800 W)."
+}

@@ -1,0 +1,526 @@
+{
+ "brand": "Kicx",
+ "country": "Russia",
+ "brand_url": "https://kicx.ru/",
+ "terms_note": "kicx.ru robots.txt has groups only for Googlebot and Yandex (shop/admin paths); no website terms of use found on pages read. Product pages read one at a time, 3 s apart, 2026-11-21. Numbers only. Russian maker: no EU database right; facts per model from the maker's own pages.",
+ "drivers": [
+  {
+   "model": "Gorilla Bass GB15M",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 54,
+    "re_ohm": 1.6,
+    "qms": 4.4,
+    "qes": 0.44,
+    "qts": 0.4,
+    "vas_l": 74,
+    "sd_cm2": 942,
+    "xmax_mm": null,
+    "mms_g": 148,
+    "bl_tm": 13.9,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/gorilla_bass_gb15m/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Other page values: cone diameter Dd 346.5 mm; Cms 0,06 mm/N; Rms (mechanical) 11,41; article 2012639. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot DM18 (1+1)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 1.7,
+    "qms": 7.98,
+    "qes": 1.09,
+    "qts": 0.96,
+    "vas_l": 43.5,
+    "sd_cm2": 1165,
+    "xmax_mm": null,
+    "mms_g": 430,
+    "bl_tm": 14.65,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_dm18_1_1/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Re 1.7 ohm on a 1+1 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 385 mm; Cms 0,02 mm/N; Rms (mechanical) 17,26; voice coil 4 in; article 2013930. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot DM18 (2+2)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50,
+    "re_ohm": 3.8,
+    "qms": 8.18,
+    "qes": 1.17,
+    "qts": 1.02,
+    "vas_l": 43.5,
+    "sd_cm2": 1165,
+    "xmax_mm": null,
+    "mms_g": 450,
+    "bl_tm": 21.4,
+    "le_mh": null,
+    "spl_db_1w1m": 88.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_dm18_2_2/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Re 3.8 ohm on a 2+2 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 385 mm; Cms 0,02 mm/N; Rms (mechanical) 17,28; voice coil 4 in; article 2013931. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q312 (1+1)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 1.8,
+    "qms": 2.203,
+    "qes": 0.443,
+    "qts": 0.368,
+    "vas_l": 20,
+    "sd_cm2": 530,
+    "xmax_mm": 20,
+    "mms_g": 228,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q312_11/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '42 (32 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 1.8 ohm on a 1+1 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 260 mm; Cms 0,054 mm/N; magnet diameter 216 mm; voice coil 3'' in; article 2013915. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q312 (2+2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 3.6,
+    "qms": 2.799,
+    "qes": 0.496,
+    "qts": 0.421,
+    "vas_l": 19.9,
+    "sd_cm2": 522,
+    "xmax_mm": 17.5,
+    "mms_g": 234,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q312_22/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '42 (32 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 3.6 ohm on a 2+2 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 260 mm; Cms 0,051 mm/N; voice coil 3'' in; article 2013914. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q315 (1+1)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.8,
+    "qms": 2.299,
+    "qes": 0.493,
+    "qts": 0.406,
+    "vas_l": 44,
+    "sd_cm2": 814,
+    "xmax_mm": 20,
+    "mms_g": 350,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q315_11/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '36 (25 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 1.8 ohm on a 1+1 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 322 mm; Cms 0,047 mm/N; voice coil 3'' in; article 2013919. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q315 (2+2)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 3.6,
+    "qms": 2.313,
+    "qes": 0.455,
+    "qts": 0.38,
+    "vas_l": 43,
+    "sd_cm2": 814,
+    "xmax_mm": 20,
+    "mms_g": 336,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q315_22/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '36 (25 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 3.6 ohm on a 2+2 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 322 mm; Cms 0,046 mm/N; voice coil 3'' in; article 2013918. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q412S (1+1)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 1.8,
+    "qms": 2.582,
+    "qes": 0.354,
+    "qts": 0.311,
+    "vas_l": 17,
+    "sd_cm2": 522,
+    "xmax_mm": 23,
+    "mms_g": 243,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q412s_11/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '42 (33 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 1.8 ohm on a 1+1 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 258 mm; Cms 0,045 mm/N; voice coil 4'' in; article 2013917. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q412S (2+2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 3.6,
+    "qms": 3.396,
+    "qes": 0.416,
+    "qts": 0.371,
+    "vas_l": 15.6,
+    "sd_cm2": 522,
+    "xmax_mm": 20.5,
+    "mms_g": 382,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q412s_22/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '42 (29 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 3.6 ohm on a 2+2 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 258 mm; Cms 0,04 mm/N; voice coil 4'' in; article 2013916. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q415S (1+1)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.8,
+    "qms": 2.792,
+    "qes": 0.382,
+    "qts": 0.336,
+    "vas_l": 37,
+    "sd_cm2": 814,
+    "xmax_mm": 23,
+    "mms_g": 368,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q415s_11/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '36 (25 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 1.8 ohm on a 1+1 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 322 mm; Cms 0,039 mm/N; magnet diameter 250 mm; voice coil 4'' in; article 2013921. No Xmax/mounting depth unless listed."
+  },
+  {
+   "model": "HeadShot Q415S (2+2)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 4,
+    "qms": 2.943,
+    "qes": 0.366,
+    "qts": 0.326,
+    "vas_l": 32,
+    "sd_cm2": 814,
+    "xmax_mm": 20.5,
+    "mms_g": 433,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/headshot_q415s_22/",
+     "doc": "Kicx product page, Технические характеристики table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's product page specification table (Russian labels translated: Номинальная мощность = rated (RMS) power, Максимальная = max power, Чувствительность дБ/Вт/м = sensitivity 1 W/1 m, Сопротивление DC Re, Эффективная площадь Sd, Силовой фактор B*I = Bl, Масса подвижной системы = Mms). Fs printed as '36 (28 после разминки)' (second figure = after break-in); fs_hz holds the first (new) figure. Re 4 ohm on a 2+2 ohm DVC matches the two coils in series (inference, page does not state the T/S basis). Other page values: cone diameter Dd 322 mm; Cms 0,034 mm/N; magnet diameter 250 mm; voice coil 4'' in; article 2013920. No Xmax/mounting depth unless listed."
+  }
+ ],
+ "no_ts_published": [],
+ "excluded_notes": "Other Kicx open-type subs listed at https://kicx.ru/katalog/sabvufery/otkrytogo_tipa/ are below 2000 W rated power (Gorilla Bass E12/E15 1200 W, HeadShot 10/12/15 1000 to 1500 W, GT, STQ, LL12, Terza, Sound Civilization). 'status: current' = listed in the maker's shop catalogue on 2026-11-21."
+}

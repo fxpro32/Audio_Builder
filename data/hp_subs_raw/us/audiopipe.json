@@ -1,0 +1,15 @@
+{
+ "brand": "Audiopipe",
+ "country": "USA",
+ "brand_url": "https://audiopipe.com",
+ "terms_note": "Shopify store; /products.json read once. No T/S in the descriptions.",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "TXX-BDX-15 (D4) / TXX-BDX-15D2",
+   "rms_w": 2000,
+   "url": "https://audiopipe.com/products/15-competition-subwoofer-txx-bdx-15d2",
+   "note": "2000 W RMS / 4000 W peak, 87 dB; no T/S. TXX-BDC-V-18 is 1900 W RMS (below threshold)."
+  }
+ ]
+}

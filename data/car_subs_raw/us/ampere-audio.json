@@ -1,0 +1,129 @@
+{
+ "brand": "Ampere Audio",
+ "country": "USA",
+ "brand_url": "https://ampereaudio.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store; /products.json read once. No T/S in the descriptions.",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/ampere-audio.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "AA-3.0 Series 10/12/15/18 (D1, D2)",
+   "rms_w": 2000,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-3-0-series-2000w-car-subwoofer",
+   "note": "'2000 Watts RMS power handling' (title says 4000W); no T/S published.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "AA-2.75 Series (D2, D4)",
+   "rms_w": 1000,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-2-75-series-2000w-car-subwoofer-test",
+   "note": "Title 2000W is peak; RMS 1000 W (below threshold), listed for completeness.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "SW-AA275-8D2",
+   "rms_w": 800,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-2-75-series-1600w-car-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Ampere Audio AA-2.75 Series 8\" 1600W Car Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ampereaudio.com/products/ampere-audio-aa-2-75-series-1600w-car-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW-AA275-10D4",
+   "rms_w": 1000,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-2-75-series-2000w-car-subwoofer-test",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Ampere Audio AA-2.75 Series 2000W Car Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ampereaudio.com/products/ampere-audio-aa-2-75-series-2000w-car-subwoofer-test",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW-AA2-8D2",
+   "rms_w": 500,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-2-0-series-1000w-car-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Ampere Audio AA-2.0 Series 1000W Car Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ampereaudio.com/products/ampere-audio-aa-2-0-series-1000w-car-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW-AA3-10D1",
+   "rms_w": null,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-3-0-series-2000w-car-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Ampere Audio AA-3.0 Series 4000W Car Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ampereaudio.com/products/ampere-audio-aa-3-0-series-2000w-car-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

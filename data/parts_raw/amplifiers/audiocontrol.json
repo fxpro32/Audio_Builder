@@ -1,0 +1,1516 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "AudioControl",
+ "maker_site": "https://www.audiocontrol.com",
+ "method": "maker's own Shopify store, public products.json, body text and titles; numbers only (values parsed by scripts/parts/build_amps_shopify.py, spot-checked)",
+ "terms_note": "Numbers (facts) only with source URL; no text, images or PDFs copied. Store prices are USD maker-store prices on the read date.",
+ "units": {
+  "w_per_ch": "W RMS per channel",
+  "ohm": "ohm load per channel (bridged = load across the bridged pair)",
+  "dims_mm": "mm, converted from inches when published in inches"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 21,
+ "records": [
+  {
+   "id": "audiocontrol-epicsix-6-channel-amplifier-1200w-rms",
+   "model": null,
+   "model_basis": null,
+   "title": "EPICSIX 6-Channel Amplifier, 1200W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 6,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 6,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 125,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     319.0,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     12.56,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epicsix-6-channel-amplifier-1200w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "quality_issues": [
+    "model_missing_or_short"
+   ]
+  },
+  {
+   "id": "audiocontrol-epic4000-monoblock-amplifier-4000w-rms",
+   "model": "EPIC4000",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "EPIC4000 Monoblock Competition Amplifier, 4000W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": "1/0",
+   "power_wire_note": "Two 0-gauge power wires and two 0-gauge ground wires are required for this amplifier to function.",
+   "fuse_at_battery_note": "200-amp fuse installed within 12 inches",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.audiocontrol.com/products/epic4000-monoblock-amplifier-4000w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "audiocontrol-epicbigfour-4-channel-amplifier-1400w-rms",
+   "model": null,
+   "model_basis": null,
+   "title": "EPICBIGFOUR 4-Channel Amplifier, 1400W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 650,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 150,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     268.2,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     10.56,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epicbigfour-4-channel-amplifier-1400w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "quality_issues": [
+    "model_missing_or_short"
+   ]
+  },
+  {
+   "id": "audiocontrol-epic500-monoblock-amplifier-500w-rms",
+   "model": "EPIC500",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "EPIC500 Monoblock Amplifier, 500W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": 80,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     149.9,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     5.9,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epic500-monoblock-amplifier-500w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-epic2000-monoblock-amplifier-2000w-rms",
+   "model": "EPIC2000",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "EPIC2000 Monoblock Amplifier, 2000W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": 200,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     319.0,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     12.56,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epic2000-monoblock-amplifier-2000w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-epicfour-4-channel-amplifier-800w-rms",
+   "model": null,
+   "model_basis": null,
+   "title": "EPICFOUR 4-Channel Amplifier, 800W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 80,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     239.0,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     9.41,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epicfour-4-channel-amplifier-800w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "quality_issues": [
+    "model_missing_or_short"
+   ]
+  },
+  {
+   "id": "audiocontrol-epic1500-monoblock-amplifier-1500w-rms",
+   "model": "EPIC1500",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "EPIC1500 Monoblock Amplifier, 1500W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": 150,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     269.0,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     10.59,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epic1500-monoblock-amplifier-1500w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-epic1000-monoblock-amplifier-1000w-rms",
+   "model": "EPIC1000",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "EPIC1000 Monoblock Amplifier, 1000W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": 100,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     239.0,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     9.41,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epic1000-monoblock-amplifier-1000w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-epic750-monoblock-amplifier-750w-rms",
+   "model": "EPIC750",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "EPIC750 Monoblock Amplifier, 750W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": 80,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     218.9,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     8.62,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epic750-monoblock-amplifier-750w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-d-4-800-high-power-4-channel-dsp-matrix-amplifier-accubass",
+   "model": "D-4.800",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "D-4.800 High-Power 4-Channel DSP Matrix Amplifier w/AccuBASS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 40,
+   "dims_mm": {
+    "mm": [
+     228.6,
+     203.2,
+     53.3
+    ],
+    "as_published_in": [
+     9.0,
+     8.0,
+     2.1
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/d-4-800-high-power-4-channel-dsp-matrix-amplifier-accubass",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text",
+   "bundle": true
+  },
+  {
+   "id": "audiocontrol-d-6-1200-high-power-6-channel-dsp-matrix-amplifier",
+   "model": "D-6.1200",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "D-6.1200 High-Power 6-Channel DSP Matrix Amplifier w/AccuBASS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 6,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 6,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 40,
+   "dims_mm": {
+    "mm": [
+     304.8,
+     203.2,
+     53.3
+    ],
+    "as_published_in": [
+     12.0,
+     8.0,
+     2.1
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/d-6-1200-high-power-6-channel-dsp-matrix-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text",
+   "bundle": true
+  },
+  {
+   "id": "audiocontrol-acx-600-1-all-weather-monoblock-amplifier-600w-rms",
+   "model": "ACX-600.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "ACX-600.1 All-Weather Monoblock Amplifier, 600W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 60,
+   "dims_mm": {
+    "mm": [
+     225.8,
+     134.9,
+     59.9
+    ],
+    "as_published_in": [
+     8.89,
+     5.31,
+     2.36
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/acx-600-1-all-weather-monoblock-amplifier-600w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "audiocontrol-acx-650-5-all-weather-5-channel-amplifier-650w-rms",
+   "model": "ACX-650.5",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "ACX-650.5 All-Weather 5-Channel Amplifier, 650W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 30,
+   "dims_mm": {
+    "mm": [
+     304.0,
+     134.9,
+     59.9
+    ],
+    "as_published_in": [
+     11.97,
+     5.31,
+     2.36
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/acx-650-5-all-weather-5-channel-amplifier-650w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "audiocontrol-acx-300-1-all-weather-monoblock-amplifier-300w-rms",
+   "model": "ACX-300.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "ACX-300.1 All-Weather Monoblock Amplifier, 300W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 175,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 30,
+   "dims_mm": {
+    "mm": [
+     228.6,
+     98.4,
+     57.1
+    ],
+    "as_published_in": [
+     9.0,
+     3.875,
+     2.25
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/acx-300-1-all-weather-monoblock-amplifier-300w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "audiocontrol-acx-300-2-all-weather-2-channel-amplifier-300w-rms",
+   "model": "ACX-300.2",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "ACX-300.2 All-Weather 2-Channel Amplifier, 300W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 30,
+   "dims_mm": {
+    "mm": [
+     225.8,
+     98.0,
+     59.9
+    ],
+    "as_published_in": [
+     8.89,
+     3.86,
+     2.36
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/acx-300-2-all-weather-2-channel-amplifier-300w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "audiocontrol-acm-2-300-2-channel-micro-amplifier-300w-rms",
+   "model": "ACM-2.300",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "ACM-2.300 2-Channel Micro Amplifier, 300W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 30,
+   "dims_mm": {
+    "mm": [
+     238.8,
+     76.2,
+     44.4
+    ],
+    "as_published_in": [
+     9.4,
+     3.0,
+     1.75
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/acm-2-300-2-channel-micro-amplifier-300w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "class not stated in store text"
+  },
+  {
+   "id": "audiocontrol-a800-1-altitude-monoblock-amplifier-800w-rms",
+   "model": "A800.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "A800.1 Altitude Monoblock Amplifier, 800W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 1.33,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.33,
+   "fuse_onboard_a": 100,
+   "dims_mm": {
+    "mm": [
+     276.9,
+     170.2,
+     53.3
+    ],
+    "as_published_in": [
+     10.9,
+     6.7,
+     2.1
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/a800-1-altitude-monoblock-amplifier-800w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-a600-4-altitude-4-channel-amplifier-600w-rms",
+   "model": "A600.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "A600.4 Altitude 4-Channel Amplifier, 600W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 80,
+   "dims_mm": {
+    "mm": [
+     317.5,
+     170.2,
+     53.3
+    ],
+    "as_published_in": [
+     12.5,
+     6.7,
+     2.1
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/a600-4-altitude-4-channel-amplifier-600w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "bridged rating channels = 2 (4-channel amp)"
+   ]
+  },
+  {
+   "id": "audiocontrol-a1500-1-altitude-monoblock-amplifier-1500w-rms",
+   "model": "A1500.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "A1500.1 Altitude Monoblock Amplifier, 1500W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     317.5,
+     170.2,
+     53.3
+    ],
+    "as_published_in": [
+     12.5,
+     6.7,
+     2.1
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/a1500-1-altitude-monoblock-amplifier-1500w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-a1100-5-channel-amplifier-1100w-rms",
+   "model": "A1100.5",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "A1100.5 Altitude 5-Channel Amplifier, 1100W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": 120,
+   "dims_mm": {
+    "mm": [
+     355.6,
+     170.2,
+     53.3
+    ],
+    "as_published_in": [
+     14.0,
+     6.7,
+     2.1
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/a1100-5-channel-amplifier-1100w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "audiocontrol-epicfive-5-channel-amplifier-1100w-rms",
+   "model": null,
+   "model_basis": null,
+   "title": "EPICFIVE 5-Channel Amplifier, 1100W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": 150,
+   "dims_mm": {
+    "mm": [
+     154.9,
+     339.1,
+     51.1
+    ],
+    "as_published_in": [
+     6.1,
+     13.35,
+     2.01
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a",
+      "dims_mm"
+     ],
+     "url": "https://www.audiocontrol.com/products/epicfive-5-channel-amplifier-1100w-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.audiocontrol.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "quality_issues": [
+    "model_missing_or_short"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

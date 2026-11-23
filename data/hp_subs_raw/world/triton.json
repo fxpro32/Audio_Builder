@@ -1,0 +1,162 @@
+{
+ "brand": "Triton Alto-Falantes",
+ "country": "Brazil",
+ "brand_url": "https://tritonaltofalantes.com.br/",
+ "terms_note": "No robots sitemap or terms page found; three data sheets read one at a time 2026-11-22. Numbers only. Also in the BuildBass MIT bundle; re-read from the maker's sheets.",
+ "drivers": [
+  {
+   "model": "AK 6.1 12\"",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 3050,
+   "peak_w": 6100,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 80,
+    "re_ohm": 1.55,
+    "qms": 5.08,
+    "qes": 0.461,
+    "qts": 0.422,
+    "vas_l": 10.31,
+    "sd_cm2": 526.3,
+    "xmax_mm": 10,
+    "mms_g": 153,
+    "bl_tm": 16.0362,
+    "le_mh": 0.469,
+    "spl_db_1w1m": 93.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://tritonaltofalantes.com.br/wp-content/uploads/2024/08/FICHA-TECNICA-ALTO-FALANTE-AK-6.1-TRITON-ALTO-FALANTES-1.pdf",
+     "doc": "Ficha técnica AK 6.1",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Brazilian 'woofer' for car bass/midbass walls: high Fs, small Vas; meets the power and load rule but is not a deep-bass subwoofer. Power: 3050 W 'potência máxima contínua' (AES 2-1984), 6100 W musical programme. Xmax is 'Xmax (Linear Mathematical)'; peak-to-peak max excursion 15 mm. Zmin 1.85 ohm. Voice coil 4 in CCAW."
+  },
+  {
+   "model": "TR 4000 12\"",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 93.25,
+    "re_ohm": 1.6,
+    "qms": 11.62,
+    "qes": 0.71,
+    "qts": 0.67,
+    "vas_l": 6.24,
+    "sd_cm2": 468.7,
+    "xmax_mm": 10.75,
+    "mms_g": 145.6,
+    "bl_tm": 13.87,
+    "le_mh": 0.33,
+    "spl_db_1w1m": 90.57,
+    "spl_db_2v83": 97.56
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": 0.504,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 39,
+     "tuning_hz": 85.24,
+     "source": "https://tritonaltofalantes.com.br/wp-content/uploads/2022/02/FT_TR_4000_12.pdf (Vb 39 L, total 53.4 L, F3 67.47 Hz, rectangular port 120 x 290 x 230 mm)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://tritonaltofalantes.com.br/wp-content/uploads/2022/02/FT_TR_4000_12.pdf",
+     "doc": "Ficha técnica TR 4000 12 (Setembro/17)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Brazilian 'woofer' for car bass/midbass walls: high Fs, small Vas; meets the power and load rule but is not a deep-bass subwoofer. Xmech 16.13 mm; Cms 0.02 mm/N; Rms 7.344 kg/s; efficiency 0.687 %."
+  },
+  {
+   "model": "TR 4350 12\" (2 ohm version)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2900,
+   "peak_w": 4350,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 79.22,
+    "re_ohm": 1.5,
+    "qms": 8.05,
+    "qes": 0.43,
+    "qts": 0.41,
+    "vas_l": 9.11,
+    "sd_cm2": 532.2,
+    "xmax_mm": 10.75,
+    "mms_g": 174.3,
+    "bl_tm": 17.35,
+    "le_mh": 0.23,
+    "spl_db_1w1m": 92.22,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 169,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 45,
+     "tuning_hz": 89,
+     "source": "https://tritonaltofalantes.com.br/wp-content/uploads/2022/02/FT_TR4350_12PL.pdf (total volume 45 L, rectangular port 11 x 29 x 27 cm)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://tritonaltofalantes.com.br/wp-content/uploads/2022/02/FT_TR4350_12PL.pdf",
+     "doc": "Ficha técnica TR 4350 (Maio 2019)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Brazilian 'woofer' for car bass/midbass walls: high Fs, small Vas; meets the power and load rule but is not a deep-bass subwoofer. Sheet covers '2 e 4 ohm' versions with Re '1,5 e 2,6' ohm; the other T/S are printed once (basis not stated, so they may belong to one version only). Power: 2900 W RMS (AES, free air), 4350 W 'RMS competição' (2 h pink noise). Le at 10 kHz. Dimension D 169 mm read as mounting depth from the drawing labels (UNVERIFIED)."
+  }
+ ],
+ "no_ts_published": [],
+ "excluded_notes": "Triton AK 4.0/AK 6.0 and TR 4350 15 inch are 4 ohm only; catalogue not fully browsed (no sitemap), so further 2 ohm models may exist."
+}

@@ -1,0 +1,81 @@
+{
+ "schema": "parts_raw/1",
+ "category": "distribution",
+ "brand": "Rockford Fosgate",
+ "maker_site": "https://rockfordfosgate.com",
+ "method": "maker accessory pages from https://rockfordfosgate.com/products/selector/car-accessories/ (title and overview numbers); scripts/parts/build_rockford_acc.py",
+ "terms_note": "Numbers only with URL. Rockford accessory pages have no spec table.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 3,
+ "records": [
+  {
+   "id": "rockford-fosgate-rfd1",
+   "model": "RFD1",
+   "title": "1/0 AWG Distribution Block",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfd1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "distribution block",
+   "awg": [
+    "1/0"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfd4",
+   "model": "RFD4",
+   "title": "4 AWG Distribution Block",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfd4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "distribution block",
+   "awg": [
+    "4"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rffdagu",
+   "model": "RFFDAGU",
+   "title": "Fused AGU Distribution Block",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffdagu/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "distribution block",
+   "awg": null,
+   "quality_issues": [
+    "ports_null"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

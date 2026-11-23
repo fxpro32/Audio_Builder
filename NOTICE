@@ -1,0 +1,77 @@
+Audio Builder: third-party data and data licences
+=================================================
+
+The application code is licensed under the GNU General Public License, version 3 or (at your option) any later version
+(see LICENSE). The data files bundled in data/ carry the licences below.
+
+
+1. driver-base (data/drivers/library/driver-base.json)
+-------------------------------------------------------
+Data from driver-base (https://github.com/JonathanDCohen/driver-base), licensed under CC BY 4.0.
+Licence: Creative Commons Attribution 4.0 International, https://creativecommons.org/licenses/by/4.0/
+Modified: converted to the Audio Builder driver schema (units, ids, duplicate handling; records without enough values
+to simulate left out) on 2026-11-21 by scripts/import_driver_libraries.mjs. driver-base is not responsible for the
+conversion.
+
+
+2. QSpeakers (data/drivers/library/qspeakers.json)
+---------------------------------------------------
+Driver data from QSpeakers (https://github.com/be1/qspeakers), licensed under the GNU General Public License, version 3
+(GPL-3.0), https://www.gnu.org/licenses/gpl-3.0.html
+Modified: converted from its XML driver database to the Audio Builder JSON schema on 2026-11-21 by
+scripts/import_driver_libraries.mjs.
+
+
+3. BuildBass (data/drivers/library/buildbass.json)
+---------------------------------------------------
+Car subwoofer data from BuildBass (https://github.com/guilhermemcr1/BuildBass), converted to the Audio Builder JSON schema
+on 2026-11-21 by scripts/import_driver_libraries.mjs. BuildBass is licensed under the MIT License:
+
+MIT License
+
+Copyright (c) 2026 Guilherme G.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+4. Audio Builder's own compilations
+------------------------------------
+The Audio Builder car subwoofer database (data/drivers/library/car-subs.json, raw records in data/car_subs_raw/), the car
+speaker database (car-drivers.json, data/car_drivers_raw/), the earlier high-power car subwoofer database
+(hp-car-subs.json, data/hp_subs_raw/), the car audio parts database (data/parts/, data/parts_raw/) and the generic board
+sheet list (data/boards/generic_sheets.json) are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0),
+https://creativecommons.org/licenses/by/4.0/ . The licence covers the selection and arrangement only. The values are the
+manufacturers' published specifications (facts), each record keeps its source (maker URL or document, and the date
+read); if you reuse the data, credit the database and keep each record's source. Only numbers, model names and source
+links are recorded: no text, images or documents of the makers.
+
+The public repository does not contain retailer prices or supplier catalogues. The app works without them and then shows
+no prices.
+
+
+5. Trademarks and no affiliation
+--------------------------------
+Brand and model names are trademarks of their owners and are used only to identify the products. Audio Builder is not
+affiliated with, endorsed by or sponsored by any manufacturer, retailer or supplier named in the data.
+
+
+6. Corrections and removal
+--------------------------
+A manufacturer or rights holder who wants a record corrected or removed can ask by opening an issue in this project's
+GitHub repository. Corrections with a source (URL or document and page) are welcome from anyone.

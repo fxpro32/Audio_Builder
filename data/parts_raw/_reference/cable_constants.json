@@ -1,0 +1,333 @@
+{
+ "schema": "cable_constants/1",
+ "agent": "R3_ELECTRONICS",
+ "read_date": "2026-11-23",
+ "conductors": {
+  "copper": {
+   "rho20_ohm_mm2_per_m": 0.017241,
+   "alpha_per_C": 0.00393,
+   "source": "IACS annealed copper 100 % = 1/58 ohm mm2/m at 20 C (NBS Handbook 100 Copper Wire Tables, https://nvlpubs.nist.gov/nistpubs/Legacy/hb/nbshandbook100.pdf); ASTM B566 note repeats the IACS basis"
+  },
+  "cca_10pct": {
+   "rho20_ohm_mm2_per_m": 0.02743,
+   "alpha_per_C": 0.004,
+   "source": "10 % copper-clad aluminium, max DC resistivity 0.02743 ohm mm2/m at 20 C (= 62.9 % IACS min; ASTM B566 class 10A per MWS Wire https://mwswire.com/wp-content/uploads/2024/03/MWS-copper-clad-aluminum-other-clad-metals.pdf and Ulbrich https://www.ulbrich.com/uploads/data-sheets/Ulbrich-Lite-Weight-Copper-Clad-Aluminum-Data-Sheet.pdf, 2.74e-8 ohm m, 62.85 %). Kanthal lists 0.026 (65 %). alpha 0.0040 = aluminium-dominated conductor, rounded from aluminium 0.00403 (assumption, stated)"
+  },
+  "aluminium_ec": {
+   "rho20_ohm_mm2_per_m": 0.028264,
+   "alpha_per_C": 0.00403,
+   "source": "EC aluminium 61.0 % IACS (1/(58*0.61))"
+  }
+ },
+ "awg_formula": "d_mm = 0.127 * 92**((36 - n)/39), n = 0, -1, -2, -3 for 1/0..4/0 (ASTM B258); area = pi/4 d^2",
+ "awg_table": [
+  {
+   "awg": "18",
+   "d_mm": 1.024,
+   "area_mm2": 0.82,
+   "cmil": 1624,
+   "abyc_min_cm_awg": 1620,
+   "abyc_min_cm_sae": 1537,
+   "sae_min_area_mm2": 0.78,
+   "r_mohm_per_m_cu_20C": 20.948,
+   "r_mohm_per_m_cu_60C": 24.241,
+   "r_mohm_per_m_cca_20C": 33.327,
+   "abyc_105C_outside_engine_a": 20,
+   "abyc_105C_inside_engine_a": 17.0,
+   "abyc_90C_outside_engine_a": 20
+  },
+  {
+   "awg": "16",
+   "d_mm": 1.291,
+   "area_mm2": 1.31,
+   "cmil": 2583,
+   "abyc_min_cm_awg": 2580,
+   "abyc_min_cm_sae": 2336,
+   "sae_min_area_mm2": 1.18,
+   "r_mohm_per_m_cu_20C": 13.174,
+   "r_mohm_per_m_cu_60C": 15.245,
+   "r_mohm_per_m_cca_20C": 20.96,
+   "abyc_105C_outside_engine_a": 25,
+   "abyc_105C_inside_engine_a": 21.3,
+   "abyc_90C_outside_engine_a": 25
+  },
+  {
+   "awg": "14",
+   "d_mm": 1.628,
+   "area_mm2": 2.08,
+   "cmil": 4107,
+   "abyc_min_cm_awg": 4110,
+   "abyc_min_cm_sae": 3702,
+   "sae_min_area_mm2": 1.88,
+   "r_mohm_per_m_cu_20C": 8.285,
+   "r_mohm_per_m_cu_60C": 9.588,
+   "r_mohm_per_m_cca_20C": 13.182,
+   "abyc_105C_outside_engine_a": 35,
+   "abyc_105C_inside_engine_a": 29.8,
+   "abyc_90C_outside_engine_a": 30
+  },
+  {
+   "awg": "12",
+   "d_mm": 2.053,
+   "area_mm2": 3.31,
+   "cmil": 6530,
+   "abyc_min_cm_awg": 6530,
+   "abyc_min_cm_sae": 5833,
+   "sae_min_area_mm2": 2.96,
+   "r_mohm_per_m_cu_20C": 5.211,
+   "r_mohm_per_m_cu_60C": 6.03,
+   "r_mohm_per_m_cca_20C": 8.29,
+   "abyc_105C_outside_engine_a": 45,
+   "abyc_105C_inside_engine_a": 38.3,
+   "abyc_90C_outside_engine_a": 40
+  },
+  {
+   "awg": "10",
+   "d_mm": 2.588,
+   "area_mm2": 5.26,
+   "cmil": 10383,
+   "abyc_min_cm_awg": 10380,
+   "abyc_min_cm_sae": 9343,
+   "sae_min_area_mm2": 4.73,
+   "r_mohm_per_m_cu_20C": 3.277,
+   "r_mohm_per_m_cu_60C": 3.792,
+   "r_mohm_per_m_cca_20C": 5.214,
+   "abyc_105C_outside_engine_a": 60,
+   "abyc_105C_inside_engine_a": 51.0,
+   "abyc_90C_outside_engine_a": 55
+  },
+  {
+   "awg": "8",
+   "d_mm": 3.264,
+   "area_mm2": 8.37,
+   "cmil": 16510,
+   "abyc_min_cm_awg": 16510,
+   "abyc_min_cm_sae": 14810,
+   "sae_min_area_mm2": 7.5,
+   "r_mohm_per_m_cu_20C": 2.061,
+   "r_mohm_per_m_cu_60C": 2.385,
+   "r_mohm_per_m_cca_20C": 3.279,
+   "abyc_105C_outside_engine_a": 80,
+   "abyc_105C_inside_engine_a": 68.0,
+   "abyc_90C_outside_engine_a": 70
+  },
+  {
+   "awg": "6",
+   "d_mm": 4.115,
+   "area_mm2": 13.3,
+   "cmil": 26251,
+   "abyc_min_cm_awg": 26240,
+   "abyc_min_cm_sae": 24538,
+   "sae_min_area_mm2": 12.43,
+   "r_mohm_per_m_cu_20C": 1.296,
+   "r_mohm_per_m_cu_60C": 1.5,
+   "r_mohm_per_m_cca_20C": 2.062,
+   "abyc_105C_outside_engine_a": 120,
+   "abyc_105C_inside_engine_a": 102,
+   "abyc_90C_outside_engine_a": 100
+  },
+  {
+   "awg": "5",
+   "d_mm": 4.621,
+   "area_mm2": 16.77,
+   "cmil": 33102,
+   "abyc_min_cm_awg": null,
+   "abyc_min_cm_sae": null,
+   "sae_min_area_mm2": null,
+   "r_mohm_per_m_cu_20C": 1.028,
+   "r_mohm_per_m_cu_60C": 1.189,
+   "r_mohm_per_m_cca_20C": 1.635,
+   "abyc_105C_outside_engine_a": null,
+   "abyc_105C_inside_engine_a": null,
+   "abyc_90C_outside_engine_a": null
+  },
+  {
+   "awg": "4",
+   "d_mm": 5.189,
+   "area_mm2": 21.15,
+   "cmil": 41741,
+   "abyc_min_cm_awg": 41740,
+   "abyc_min_cm_sae": 37360,
+   "sae_min_area_mm2": 18.93,
+   "r_mohm_per_m_cu_20C": 0.815,
+   "r_mohm_per_m_cu_60C": 0.943,
+   "r_mohm_per_m_cca_20C": 1.297,
+   "abyc_105C_outside_engine_a": 160,
+   "abyc_105C_inside_engine_a": 136,
+   "abyc_90C_outside_engine_a": 135
+  },
+  {
+   "awg": "3",
+   "d_mm": 5.827,
+   "area_mm2": 26.67,
+   "cmil": 52635,
+   "abyc_min_cm_awg": null,
+   "abyc_min_cm_sae": null,
+   "sae_min_area_mm2": null,
+   "r_mohm_per_m_cu_20C": 0.646,
+   "r_mohm_per_m_cu_60C": 0.748,
+   "r_mohm_per_m_cca_20C": 1.028,
+   "abyc_105C_outside_engine_a": null,
+   "abyc_105C_inside_engine_a": null,
+   "abyc_90C_outside_engine_a": null
+  },
+  {
+   "awg": "2",
+   "d_mm": 6.544,
+   "area_mm2": 33.63,
+   "cmil": 66371,
+   "abyc_min_cm_awg": 66360,
+   "abyc_min_cm_sae": 62450,
+   "sae_min_area_mm2": 31.64,
+   "r_mohm_per_m_cu_20C": 0.513,
+   "r_mohm_per_m_cu_60C": 0.593,
+   "r_mohm_per_m_cca_20C": 0.816,
+   "abyc_105C_outside_engine_a": 210,
+   "abyc_105C_inside_engine_a": 178,
+   "abyc_90C_outside_engine_a": 180
+  },
+  {
+   "awg": "1",
+   "d_mm": 7.348,
+   "area_mm2": 42.41,
+   "cmil": 83693,
+   "abyc_min_cm_awg": 83690,
+   "abyc_min_cm_sae": 77790,
+   "sae_min_area_mm2": 39.42,
+   "r_mohm_per_m_cu_20C": 0.407,
+   "r_mohm_per_m_cu_60C": 0.47,
+   "r_mohm_per_m_cca_20C": 0.647,
+   "abyc_105C_outside_engine_a": 245,
+   "abyc_105C_inside_engine_a": 208,
+   "abyc_90C_outside_engine_a": 210
+  },
+  {
+   "awg": "1/0",
+   "d_mm": 8.251,
+   "area_mm2": 53.48,
+   "cmil": 105535,
+   "abyc_min_cm_awg": 105600,
+   "abyc_min_cm_sae": 98980,
+   "sae_min_area_mm2": 50.15,
+   "r_mohm_per_m_cu_20C": 0.322,
+   "r_mohm_per_m_cu_60C": 0.373,
+   "r_mohm_per_m_cca_20C": 0.513,
+   "abyc_105C_outside_engine_a": 285,
+   "abyc_105C_inside_engine_a": 242,
+   "abyc_90C_outside_engine_a": 245
+  },
+  {
+   "awg": "2/0",
+   "d_mm": 9.266,
+   "area_mm2": 67.43,
+   "cmil": 133077,
+   "abyc_min_cm_awg": 133100,
+   "abyc_min_cm_sae": 125100,
+   "sae_min_area_mm2": 63.39,
+   "r_mohm_per_m_cu_20C": 0.256,
+   "r_mohm_per_m_cu_60C": 0.296,
+   "r_mohm_per_m_cca_20C": 0.407,
+   "abyc_105C_outside_engine_a": 330,
+   "abyc_105C_inside_engine_a": 280,
+   "abyc_90C_outside_engine_a": 285
+  },
+  {
+   "awg": "3/0",
+   "d_mm": 10.405,
+   "area_mm2": 85.03,
+   "cmil": 167806,
+   "abyc_min_cm_awg": 167800,
+   "abyc_min_cm_sae": 158600,
+   "sae_min_area_mm2": 80.36,
+   "r_mohm_per_m_cu_20C": 0.203,
+   "r_mohm_per_m_cu_60C": 0.235,
+   "r_mohm_per_m_cca_20C": 0.323,
+   "abyc_105C_outside_engine_a": 385,
+   "abyc_105C_inside_engine_a": 327,
+   "abyc_90C_outside_engine_a": 330
+  },
+  {
+   "awg": "4/0",
+   "d_mm": 11.684,
+   "area_mm2": 107.22,
+   "cmil": 211600,
+   "abyc_min_cm_awg": 211600,
+   "abyc_min_cm_sae": 205500,
+   "sae_min_area_mm2": 104.13,
+   "r_mohm_per_m_cu_20C": 0.161,
+   "r_mohm_per_m_cu_60C": 0.186,
+   "r_mohm_per_m_cca_20C": 0.256,
+   "abyc_105C_outside_engine_a": 445,
+   "abyc_105C_inside_engine_a": 378,
+   "abyc_90C_outside_engine_a": 385
+  }
+ ],
+ "abyc": {
+  "doc": "ABYC E-11 (2003), public copy incorporated by reference in US law: https://law.resource.org/pub/us/cfr/ibr/inc/ansi/abyc.e-11.2003.pdf",
+  "table_iv_note": "Allowable amperage for systems under 50 V; ambient 30 C outside, 50 C inside machinery spaces (E-11.5.1.1); no more than two conductors bundled (AP Table 2 note)",
+  "bundling_factors_from_table_vii": {
+   "3": 0.7,
+   "4-6": 0.6,
+   "7-24": 0.5,
+   "note": "ratio of Table VII-B..D to VII-A (AC conductor tables), applied by ABYC when bundled > 24 in (610 mm)"
+  },
+  "voltage_drop": {
+   "critical_pct": 3,
+   "non_critical_pct": 10,
+   "formula": "CM = 10.75 * I * L_ft / E (L = round-trip length in feet, E = allowed drop in volts)",
+   "clause": "E-11.16.1.2.7 to 11.16.1.2.9"
+  },
+  "fuse_location": {
+   "within_mm": 175,
+   "sheathed_from_battery_max_mm": 1830,
+   "sheathed_other_source_max_mm": 1020,
+   "clause": "E-11.12.1.2 and exceptions"
+  },
+  "fuse_rating": "not above 150 % of the conductor ampacity (E-11.12.1.4, 11.12.1.5.2); next larger standard rating allowed when none equals 100 % (AC clause 11.12.2.2)"
+ },
+ "iso_10133_105C_a": {
+  "0.75": 16,
+  "1.0": 20,
+  "1.5": 25,
+  "2.5": 35,
+  "4.0": 45,
+  "6.0": 60,
+  "10.0": 90,
+  "16.0": 130,
+  "25.0": 170,
+  "35.0": 210,
+  "50.0": 270,
+  "70.0": 330,
+  "95.0": 390,
+  "120.0": 450
+ },
+ "iso_note": "ABYC E-11 AP Table 2 quoting ISO/FDIS 10133 (1999), 105 C insulation",
+ "au_auto_cable_mm_label_to_mm2": {
+  "3mm": 1.13,
+  "4mm": 1.84,
+  "5mm": 2.9,
+  "6mm": 4.59
+ },
+ "au_note": "Australian 'mm' auto-cable sizes are overall size labels, not conductor area; areas from https://www.solar4rvs.com.au/buying/buyer-guides/cable-size-conversion-tables-mm-mm2-b_s-awg (retailer table; Narva listings show 1.13 and 1.85 mm2 for 3 and 4 mm). B&S = AWG.",
+ "speaker_wire_rule": {
+  "max_wire_fraction_of_impedance": 0.05,
+  "source": "Roger Russell, McIntosh speaker manuals wire table, http://www.roger-russell.com/wire/wire.htm (two-conductor round trip, wire R <= 5 % of rated impedance; up to 10 % may be inaudible)"
+ },
+ "amp_efficiency_defaults": {
+  "eta_design_for_current_sizing": {
+   "D": 0.5,
+   "BD": 0.5,
+   "AD": 0.5,
+   "AB": 0.45
+  },
+  "supply_voltage_v": 13.8,
+  "basis": "I = P_rated_total / (eta_design x 13.8 V); eta_design derived from maker current data (Rockford P_rated / (13.8 V x I_max_sine): A/B 0.45-0.54, BD 0.52-0.67, D 0.56-0.81); same values as scripts/parts/cable_calc.py ETA_DESIGN; see research_i section B3",
+  "typical_datasheet_efficiency_not_used_for_current_sizing": {
+   "class_D": 0.8,
+   "class_AB": 0.5,
+   "class_BD_rockford_claim": "75-80 % (Rockford Fosgate Class-BD technology note)",
+   "note": "maker efficiency at one operating point; higher than the maker's own current figures imply, so NOT used to size cable or fuses"
+  },
+  "source": "research_i section B3; maker figures in data/parts_raw/amplifiers/rockford-fosgate.json and data/parts_raw/_reference/current_vs_power.json"
+ }
+}

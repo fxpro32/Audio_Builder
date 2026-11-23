@@ -1,0 +1,461 @@
+{
+ "schema": "parts_raw/1",
+ "category": "cable",
+ "brand": "KnuKonceptz",
+ "maker_site": "https://www.knukonceptz.com",
+ "method": "maker product pages, Specifications table; scripts/parts/build_knukonceptz.py",
+ "terms_note": "Numbers only with URL.",
+ "units": {
+  "diameters": "mm",
+  "maker_max_load_a": "A"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 14,
+ "records": [
+  {
+   "id": "knukonceptz-bassik-power-and-ground-battery-cable-wire-1-0",
+   "model": "Bassik Power and Ground Battery Cable/Wire 1/0 AWG",
+   "title": "Bassik Power and Ground Battery Cable/Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "1/0",
+   "material": "CCA",
+   "strand_awg": 32,
+   "strand_d_mm": 0.2019,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 15.0,
+   "core_diameter_mm": 10.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 200,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-true-0-4-8-gauge-copper-clad-aluminum-battery-power-ground-wire-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-bassik-power-and-ground-battery-cable-wire-4",
+   "model": "Bassik Power and Ground Battery Cable/Wire 4 AWG",
+   "title": "Bassik Power and Ground Battery Cable/Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "4",
+   "material": "CCA",
+   "strand_awg": 32,
+   "strand_d_mm": 0.2019,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 10.0,
+   "core_diameter_mm": 7.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 60,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-true-0-4-8-gauge-copper-clad-aluminum-battery-power-ground-wire-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-bassik-power-and-ground-battery-cable-wire-8",
+   "model": "Bassik Power and Ground Battery Cable/Wire 8 AWG",
+   "title": "Bassik Power and Ground Battery Cable/Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "8",
+   "material": "CCA",
+   "strand_awg": 32,
+   "strand_d_mm": 0.2019,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 7.0,
+   "core_diameter_mm": 5.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 40,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-true-0-4-8-gauge-copper-clad-aluminum-battery-power-ground-wire-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-kca-kable-ultra-flex-cca-battery-power-ground-cable-1-0",
+   "model": "KCA Kable Ultra Flex CCA Battery Power / Ground Cable 1/0 AWG",
+   "title": "KCA Kable Ultra Flex CCA Battery Power / Ground Cable",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "1/0",
+   "material": "CCA",
+   "strand_awg": 34,
+   "strand_d_mm": 0.1601,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 16.0,
+   "core_diameter_mm": 12.0,
+   "core_diameter_note": "maker: estimated",
+   "maker_max_load_a": 250,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kca-0-4-8-gauge-automotive-battery-power-ground-wire-amplifier-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-kca-kable-ultra-flex-cca-battery-power-ground-cable-4",
+   "model": "KCA Kable Ultra Flex CCA Battery Power / Ground Cable 4 AWG",
+   "title": "KCA Kable Ultra Flex CCA Battery Power / Ground Cable",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "4",
+   "material": "CCA",
+   "strand_awg": 34,
+   "strand_d_mm": 0.1601,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 11.0,
+   "core_diameter_mm": 8.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 100,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kca-0-4-8-gauge-automotive-battery-power-ground-wire-amplifier-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-kca-kable-ultra-flex-cca-battery-power-ground-cable-8",
+   "model": "KCA Kable Ultra Flex CCA Battery Power / Ground Cable 8 AWG",
+   "title": "KCA Kable Ultra Flex CCA Battery Power / Ground Cable",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "8",
+   "material": "CCA",
+   "strand_awg": 34,
+   "strand_d_mm": 0.1601,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 7.5,
+   "core_diameter_mm": 5.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 50,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kca-0-4-8-gauge-automotive-battery-power-ground-wire-amplifier-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-kca-kandy-kable-cca-battery-power-ground-wire-1-0",
+   "model": "KCA Kandy Kable CCA Battery Power / Ground Wire 1/0 AWG",
+   "title": "KCA Kandy Kable CCA Battery Power / Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "1/0",
+   "material": "CCA",
+   "strand_awg": 34,
+   "strand_d_mm": 0.1601,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 16.0,
+   "core_diameter_mm": 12.0,
+   "core_diameter_note": "maker: estimated",
+   "maker_max_load_a": 250,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kca-neon-0-4-8-gauge-automotive-battery-power-ground-wire-amplifier-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-kca-kandy-kable-cca-battery-power-ground-wire-4",
+   "model": "KCA Kandy Kable CCA Battery Power / Ground Wire 4 AWG",
+   "title": "KCA Kandy Kable CCA Battery Power / Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "4",
+   "material": "CCA",
+   "strand_awg": 34,
+   "strand_d_mm": 0.1601,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 11.0,
+   "core_diameter_mm": 8.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 100,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kca-neon-0-4-8-gauge-automotive-battery-power-ground-wire-amplifier-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-kca-kandy-kable-cca-battery-power-ground-wire-8",
+   "model": "KCA Kandy Kable CCA Battery Power / Ground Wire 8 AWG",
+   "title": "KCA Kandy Kable CCA Battery Power / Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "8",
+   "material": "CCA",
+   "strand_awg": 34,
+   "strand_d_mm": 0.1601,
+   "strands": null,
+   "actual_area_mm2_from_strands": null,
+   "outer_diameter_mm": 7.5,
+   "core_diameter_mm": 5.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 50,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kca-neon-0-4-8-gauge-automotive-battery-power-ground-wire-amplifier-cable/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": ""
+  },
+  {
+   "id": "knukonceptz-kolossus-kandy-power-ground-wire",
+   "model": "Kolossus Kandy Power/Ground Wire",
+   "title": "Kolossus Kandy Power/Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "material": "Tinned Oxygen Free Copper",
+   "strand_awg": 36,
+   "sizes": null,
+   "sources": [
+    {
+     "fields": [
+      "material",
+      "strand_awg"
+     ],
+     "url": "https://www.knukonceptz.com/product/kolossus-neon-tinned-oxygen-free-copper-ofc-0-4-8-gauge-car-automotive-battery-power-ground-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": "no per-size table on the page",
+   "quality_issues": [
+    "size_null",
+    "length_null"
+   ],
+   "check": "not clean: size_null, length_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-kolossus-flex-tinned-ofc-battery-power-ground-wire-4-0",
+   "model": "Kolossus Flex Tinned OFC Battery Power/Ground Wire 4/0 AWG",
+   "title": "Kolossus Flex Tinned OFC Battery Power/Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "4/0",
+   "material": "tinned OFC",
+   "strand_awg": 36,
+   "strand_d_mm": 0.127,
+   "strands": 10900,
+   "actual_area_mm2_from_strands": 138.1,
+   "outer_diameter_mm": 23.0,
+   "core_diameter_mm": 18.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 700,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kolossus-tinned-oxygen-free-copper-ofc-0-4-8-gauge-car-automotive-battery-power-ground-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": "strand area computed from the maker strand count and strand gauge (AWG formula)"
+  },
+  {
+   "id": "knukonceptz-kolossus-flex-tinned-ofc-battery-power-ground-wire-1-0",
+   "model": "Kolossus Flex Tinned OFC Battery Power/Ground Wire 1/0 AWG",
+   "title": "Kolossus Flex Tinned OFC Battery Power/Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "1/0",
+   "material": "tinned OFC",
+   "strand_awg": 36,
+   "strand_d_mm": 0.127,
+   "strands": 5145,
+   "actual_area_mm2_from_strands": 65.2,
+   "outer_diameter_mm": 16.0,
+   "core_diameter_mm": 12.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 375,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kolossus-tinned-oxygen-free-copper-ofc-0-4-8-gauge-car-automotive-battery-power-ground-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": "strand area computed from the maker strand count and strand gauge (AWG formula)"
+  },
+  {
+   "id": "knukonceptz-kolossus-flex-tinned-ofc-battery-power-ground-wire-4",
+   "model": "Kolossus Flex Tinned OFC Battery Power/Ground Wire 4 AWG",
+   "title": "Kolossus Flex Tinned OFC Battery Power/Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "4",
+   "material": "tinned OFC",
+   "strand_awg": 36,
+   "strand_d_mm": 0.127,
+   "strands": 2058,
+   "actual_area_mm2_from_strands": 26.1,
+   "outer_diameter_mm": 11.0,
+   "core_diameter_mm": 8.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 150,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kolossus-tinned-oxygen-free-copper-ofc-0-4-8-gauge-car-automotive-battery-power-ground-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": "strand area computed from the maker strand count and strand gauge (AWG formula)"
+  },
+  {
+   "id": "knukonceptz-kolossus-flex-tinned-ofc-battery-power-ground-wire-8",
+   "model": "Kolossus Flex Tinned OFC Battery Power/Ground Wire 8 AWG",
+   "title": "Kolossus Flex Tinned OFC Battery Power/Ground Wire",
+   "status": "maker page 2026-11-23",
+   "kind": "power/ground",
+   "awg": "8",
+   "material": "tinned OFC",
+   "strand_awg": 36,
+   "strand_d_mm": 0.127,
+   "strands": 805,
+   "actual_area_mm2_from_strands": 10.2,
+   "outer_diameter_mm": 7.5,
+   "core_diameter_mm": 5.0,
+   "core_diameter_note": null,
+   "maker_max_load_a": 60,
+   "maker_max_load_basis": "maker 'Max Load @ 20Ft' (6.1 m), basis not stated",
+   "insulation": "Ultra Flex PVC",
+   "length_note": "sold cut to length or by spool (variants on the store page); spec per gauge",
+   "jacket_temp_c": "-40 to 105 (maker text)",
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.knukonceptz.com/product/kolossus-tinned-oxygen-free-copper-ofc-0-4-8-gauge-car-automotive-battery-power-ground-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "notes": "strand area computed from the maker strand count and strand gauge (AWG formula)"
+  }
+ ],
+ "not_recorded": []
+}

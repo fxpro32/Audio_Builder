@@ -1,0 +1,2131 @@
+{
+ "brand": "American Bass",
+ "country": "USA",
+ "brand_url": "https://americanbassusa.com",
+ "terms_note": "Shopify store (public /products.json used to list products, then each linked spec-sheet PDF on cdn.shopify.com read once, 5 s apart). No terms forbidding this found (not read in full). Spec sheets are image PDFs: values transcribed by eye from renders; see notes for any low-resolution reads.",
+ "drivers": [
+  {
+   "model": "KING-12D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6500,
+   "peak_w": 15000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47.28,
+    "re_ohm": 1.6,
+    "qms": 5.33,
+    "qes": 0.63,
+    "qts": 0.56,
+    "vas_l": 6.5,
+    "sd_cm2": 498,
+    "xmax_mm": 22.5,
+    "mms_g": 606,
+    "bl_tm": 21,
+    "le_mh": null,
+    "spl_db_1w1m": 82.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/KING.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/king-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet columns: Re, Fs, Sd, Md, BL, Qms, Qes, Qts, No, SPL, Vas, Cms, Krm, Erm, MMS, MMd, Kxm, Exm, Xmax; Md/Cms/Wright terms not stored. ts_basis not stated; Re 1.6 for Dual 1 and 4 for Dual 2 suggests coils in series (inference). Sheet dimensions A/B/C/D (12: 330/280/288/160 mm; 15: 495/310/350/160 mm) are drawing letters without labels and are not mapped to cutout/depth. KING 18 has its own sheet (see no_ts or separate record). Sd 498 cm2 for a 12 in and 784.2 cm2 for a 15 in as printed."
+  },
+  {
+   "model": "KING-12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 6500,
+   "peak_w": 15000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49.28,
+    "re_ohm": 4,
+    "qms": 5.66,
+    "qes": 0.69,
+    "qts": 0.64,
+    "vas_l": 6.3,
+    "sd_cm2": 498.76,
+    "xmax_mm": 22.5,
+    "mms_g": 582.9,
+    "bl_tm": 27,
+    "le_mh": null,
+    "spl_db_1w1m": 80.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/KING.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/king-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet columns: Re, Fs, Sd, Md, BL, Qms, Qes, Qts, No, SPL, Vas, Cms, Krm, Erm, MMS, MMd, Kxm, Exm, Xmax; Md/Cms/Wright terms not stored. ts_basis not stated; Re 1.6 for Dual 1 and 4 for Dual 2 suggests coils in series (inference). Sheet dimensions A/B/C/D (12: 330/280/288/160 mm; 15: 495/310/350/160 mm) are drawing letters without labels and are not mapped to cutout/depth. KING 18 has its own sheet (see no_ts or separate record)."
+  },
+  {
+   "model": "KING-15D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6500,
+   "peak_w": 15000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43.62,
+    "re_ohm": 1.6,
+    "qms": 4.948,
+    "qes": 0.69,
+    "qts": 0.61,
+    "vas_l": 17.88,
+    "sd_cm2": 784.2,
+    "xmax_mm": 22.5,
+    "mms_g": 650.18,
+    "bl_tm": 20.24,
+    "le_mh": null,
+    "spl_db_1w1m": 85.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/KING.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/king-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet columns: Re, Fs, Sd, Md, BL, Qms, Qes, Qts, No, SPL, Vas, Cms, Krm, Erm, MMS, MMd, Kxm, Exm, Xmax; Md/Cms/Wright terms not stored. ts_basis not stated; Re 1.6 for Dual 1 and 4 for Dual 2 suggests coils in series (inference). Sheet dimensions A/B/C/D (12: 330/280/288/160 mm; 15: 495/310/350/160 mm) are drawing letters without labels and are not mapped to cutout/depth. KING 18 has its own sheet (see no_ts or separate record). Sd 498 cm2 for a 12 in and 784.2 cm2 for a 15 in as printed."
+  },
+  {
+   "model": "KING-15D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 6500,
+   "peak_w": 15000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49.31,
+    "re_ohm": 4,
+    "qms": 3.94,
+    "qes": 0.77,
+    "qts": 0.65,
+    "vas_l": 15.6,
+    "sd_cm2": 784.2,
+    "xmax_mm": 22.5,
+    "mms_g": 580,
+    "bl_tm": 30,
+    "le_mh": null,
+    "spl_db_1w1m": 85.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/KING.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/king-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet columns: Re, Fs, Sd, Md, BL, Qms, Qes, Qts, No, SPL, Vas, Cms, Krm, Erm, MMS, MMd, Kxm, Exm, Xmax; Md/Cms/Wright terms not stored. ts_basis not stated; Re 1.6 for Dual 1 and 4 for Dual 2 suggests coils in series (inference). Sheet dimensions A/B/C/D (12: 330/280/288/160 mm; 15: 495/310/350/160 mm) are drawing letters without labels and are not mapped to cutout/depth. KING 18 has its own sheet (see no_ts or separate record)."
+  },
+  {
+   "model": "GF-1211",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.1,
+    "re_ohm": 1.6,
+    "qms": 3.027,
+    "qes": 0.309,
+    "qts": 0.28,
+    "vas_l": 35.1,
+    "sd_cm2": 531.0,
+    "xmax_mm": 20,
+    "mms_g": 221.5,
+    "bl_tm": 16.14,
+    "le_mh": null,
+    "spl_db_1w1m": 89.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 288,
+   "displacement_l": 7.9,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Godfather-Series.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/godfather-12-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); the parallel row (0.5 ohm) is in params_parallel. SD printed as 53.1 'msqM' (10^-3 m2), entered as cm2 x10. Cutout = sheet 'Diameter C' 288 mm (matches the product page cutout); displacement = sheet 'Vd'. Mounting depth not stated as such: sheet Depth G 215 mm and Depth H 246 mm (drawing letters); the product page lists mounting depth 9.29 in for the 12, which equals the motor diameter D 236 mm (possible page error). Xmech 55 mm, air gap height 25 mm. Break-in note on the sheet.",
+   "params_parallel": {
+    "fs_hz": 37.2,
+    "re_ohm": 0.4,
+    "qms": 2.843,
+    "qes": 0.332,
+    "qts": 0.297,
+    "vas_l": 34.1,
+    "sd_cm2": 531.0,
+    "xmax_mm": 20,
+    "mms_g": 215.7,
+    "bl_tm": 8.0,
+    "le_mh": null,
+    "spl_db_1w1m": 89.7,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "GF-1511",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 35.6,
+    "re_ohm": 1.6,
+    "qms": 3.054,
+    "qes": 0.36,
+    "qts": 0.322,
+    "vas_l": 65.6,
+    "sd_cm2": 804.0,
+    "xmax_mm": 20,
+    "mms_g": 251.9,
+    "bl_tm": 17.56,
+    "le_mh": null,
+    "spl_db_1w1m": 91.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 350,
+   "displacement_l": 9.6,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Godfather-Series.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/godfather-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); the parallel row (0.5 ohm) is in params_parallel. SD printed as 80.4 'msqM' (10^-3 m2), entered as cm2 x10. Cutout = sheet 'Diameter C' 350 mm (matches the product page cutout); displacement = sheet 'Vd'. Mounting depth not stated as such: sheet Depth G 228 mm and Depth H 258 mm (drawing letters); the product page lists mounting depth 9.29 in for the 12, which equals the motor diameter D 236 mm (possible page error). Xmech 55 mm, air gap height 25 mm. Break-in note on the sheet.",
+   "params_parallel": {
+    "fs_hz": 35.4,
+    "re_ohm": 0.4,
+    "qms": 3.681,
+    "qes": 0.341,
+    "qts": 0.312,
+    "vas_l": 67.3,
+    "sd_cm2": 804.0,
+    "xmax_mm": 20,
+    "mms_g": 265.1,
+    "bl_tm": 8.4,
+    "le_mh": null,
+    "spl_db_1w1m": 91.6,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "GF-1811",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 29.6,
+    "re_ohm": 1.6,
+    "qms": 3.511,
+    "qes": 0.383,
+    "qts": 0.345,
+    "vas_l": 155.8,
+    "sd_cm2": 1195.0,
+    "xmax_mm": 20,
+    "mms_g": 377.1,
+    "bl_tm": 17.11,
+    "le_mh": null,
+    "spl_db_1w1m": 92.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 422,
+   "displacement_l": 13.6,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Godfather-Series.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/godfather-18-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); the parallel row (0.5 ohm) is in params_parallel. SD printed as 119.5 'msqM' (10^-3 m2), entered as cm2 x10. Cutout = sheet 'Diameter C' 422 mm (matches the product page cutout); displacement = sheet 'Vd'. Mounting depth not stated as such: sheet Depth G 267 mm and Depth H 292 mm (drawing letters); the product page lists mounting depth 9.29 in for the 12, which equals the motor diameter D 236 mm (possible page error). Xmech 55 mm, air gap height 25 mm. Break-in note on the sheet.",
+   "params_parallel": {
+    "fs_hz": 30.1,
+    "re_ohm": 0.4,
+    "qms": 3.233,
+    "qes": 0.387,
+    "qts": 0.345,
+    "vas_l": 161.8,
+    "sd_cm2": 1195.0,
+    "xmax_mm": 20,
+    "mms_g": 350.0,
+    "bl_tm": 8.28,
+    "le_mh": null,
+    "spl_db_1w1m": 92.4,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "GF-1222",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.3,
+    "re_ohm": 3.2,
+    "qms": 3.03,
+    "qes": 0.252,
+    "qts": 0.233,
+    "vas_l": 35.2,
+    "sd_cm2": 531.0,
+    "xmax_mm": 20,
+    "mms_g": 219.0,
+    "bl_tm": 25.16,
+    "le_mh": null,
+    "spl_db_1w1m": 90.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 288,
+   "displacement_l": 7.9,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Godfather-Series.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/godfather-12-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); the parallel row (1.0 ohm) is in params_parallel. SD printed as 53.1 'msqM' (10^-3 m2), entered as cm2 x10. Cutout = sheet 'Diameter C' 288 mm (matches the product page cutout); displacement = sheet 'Vd'. Mounting depth not stated as such: sheet Depth G 215 mm and Depth H 246 mm (drawing letters); the product page lists mounting depth 9.29 in for the 12, which equals the motor diameter D 236 mm (possible page error). Xmech 55 mm, air gap height 25 mm. Break-in note on the sheet.",
+   "params_parallel": {
+    "fs_hz": 37.1,
+    "re_ohm": 0.8,
+    "qms": 3.049,
+    "qes": 0.265,
+    "qts": 0.244,
+    "vas_l": 34.4,
+    "sd_cm2": 531.0,
+    "xmax_mm": 20,
+    "mms_g": 213.0,
+    "bl_tm": 13.08,
+    "le_mh": null,
+    "spl_db_1w1m": 89.5,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "GF-1522",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.2,
+    "re_ohm": 3.2,
+    "qms": 3.499,
+    "qes": 0.314,
+    "qts": 0.288,
+    "vas_l": 68.4,
+    "sd_cm2": 804.0,
+    "xmax_mm": 20,
+    "mms_g": 254.5,
+    "bl_tm": 24.41,
+    "le_mh": null,
+    "spl_db_1w1m": 92.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 350,
+   "displacement_l": 9.6,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Godfather-Series.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/godfather-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); the parallel row (1.0 ohm) is in params_parallel. SD printed as 80.4 'msqM' (10^-3 m2), entered as cm2 x10. Cutout = sheet 'Diameter C' 350 mm (matches the product page cutout); displacement = sheet 'Vd'. Mounting depth not stated as such: sheet Depth G 228 mm and Depth H 258 mm (drawing letters); the product page lists mounting depth 9.29 in for the 12, which equals the motor diameter D 236 mm (possible page error). Xmech 55 mm, air gap height 25 mm. Break-in note on the sheet.",
+   "params_parallel": {
+    "fs_hz": 37.3,
+    "re_ohm": 0.8,
+    "qms": 3.47,
+    "qes": 0.339,
+    "qts": 0.309,
+    "vas_l": 71.0,
+    "sd_cm2": 804.0,
+    "xmax_mm": 20,
+    "mms_g": 231.8,
+    "bl_tm": 11.36,
+    "le_mh": null,
+    "spl_db_1w1m": 92.3,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "GF-1822",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31.7,
+    "re_ohm": 3.2,
+    "qms": 3.635,
+    "qes": 0.381,
+    "qts": 0.345,
+    "vas_l": 116.0,
+    "sd_cm2": 1195.0,
+    "xmax_mm": 20,
+    "mms_g": 439.6,
+    "bl_tm": 27.14,
+    "le_mh": null,
+    "spl_db_1w1m": 91.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 422,
+   "displacement_l": 13.6,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Godfather-Series.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/godfather-18-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); the parallel row (1.0 ohm) is in params_parallel. SD printed as 119.5 'msqM' (10^-3 m2), entered as cm2 x10. Cutout = sheet 'Diameter C' 422 mm (matches the product page cutout); displacement = sheet 'Vd'. Mounting depth not stated as such: sheet Depth G 267 mm and Depth H 292 mm (drawing letters); the product page lists mounting depth 9.29 in for the 12, which equals the motor diameter D 236 mm (possible page error). Xmech 55 mm, air gap height 25 mm. Break-in note on the sheet.",
+   "params_parallel": {
+    "fs_hz": 31.9,
+    "re_ohm": 0.8,
+    "qms": 3.621,
+    "qes": 0.396,
+    "qts": 0.357,
+    "vas_l": 117.6,
+    "sd_cm2": 1195.0,
+    "xmax_mm": 20,
+    "mms_g": 428.6,
+    "bl_tm": 13.18,
+    "le_mh": null,
+    "spl_db_1w1m": 91.7,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "HURRICANE 12D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 28.479,
+    "re_ohm": 1.6,
+    "qms": 5.169,
+    "qes": 0.325,
+    "qts": 0.306,
+    "vas_l": 20.349,
+    "sd_cm2": 445.0,
+    "xmax_mm": 25,
+    "mms_g": 428.226,
+    "bl_tm": 19.078,
+    "le_mh": null,
+    "spl_db_1w1m": 83.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 288,
+   "displacement_l": 10.66,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Hurricane_Subwoofers_Specs.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/hurricane-12-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); parallel row (0.5 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Cutout = sheet 'Diameter C'; displacement = sheet 'Vd'. Depth G/H (12: 287/335 mm; 15: 302/350 mm) are drawing letters, not mapped to mounting depth. ",
+   "params_parallel": {
+    "fs_hz": 28.265,
+    "re_ohm": 0.4,
+    "qms": 4.158,
+    "qes": 0.241,
+    "qts": 0.228,
+    "vas_l": 20.659,
+    "sd_cm2": 445.0,
+    "xmax_mm": 25,
+    "mms_g": 424.148,
+    "bl_tm": 11.032,
+    "le_mh": null,
+    "spl_db_1w1m": 83.9,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "HURRICANE 12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 30.361,
+    "re_ohm": 2.8,
+    "qms": 4.989,
+    "qes": 0.354,
+    "qts": 0.33,
+    "vas_l": 19.184,
+    "sd_cm2": 445.0,
+    "xmax_mm": 26,
+    "mms_g": 395.817,
+    "bl_tm": 24.448,
+    "le_mh": null,
+    "spl_db_1w1m": 83.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 288,
+   "displacement_l": 10.66,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Hurricane_Subwoofers_Specs.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/hurricane-12-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); parallel row (1 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Cutout = sheet 'Diameter C'; displacement = sheet 'Vd'. Depth G/H (12: 287/335 mm; 15: 302/350 mm) are drawing letters, not mapped to mounting depth. ",
+   "params_parallel": {
+    "fs_hz": 29.683,
+    "re_ohm": 0.7,
+    "qms": 4.434,
+    "qes": 0.296,
+    "qts": 0.278,
+    "vas_l": 19.431,
+    "sd_cm2": 445.0,
+    "xmax_mm": 26,
+    "mms_g": 399.805,
+    "bl_tm": 14.177,
+    "le_mh": null,
+    "spl_db_1w1m": 83.9,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "HURRICANE 15D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 28.455,
+    "re_ohm": 1.6,
+    "qms": 5.381,
+    "qes": 0.325,
+    "qts": 0.306,
+    "vas_l": 52.662,
+    "sd_cm2": 765.0,
+    "xmax_mm": 25,
+    "mms_g": 491.392,
+    "bl_tm": 20.472,
+    "le_mh": null,
+    "spl_db_1w1m": 87.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 350,
+   "displacement_l": 12.76,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Hurricane_Subwoofers_Specs.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/hurricane-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); parallel row (0.5 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Cutout = sheet 'Diameter C'; displacement = sheet 'Vd'. Depth G/H (12: 287/335 mm; 15: 302/350 mm) are drawing letters, not mapped to mounting depth. DATA PROBLEM: 15 in 'Diameter B' 275 mm is smaller than its cutout C 350 mm (likely a typo on the sheet).",
+   "params_parallel": {
+    "fs_hz": 28.265,
+    "re_ohm": 0.4,
+    "qms": 4.271,
+    "qes": 0.243,
+    "qts": 0.229,
+    "vas_l": 51.672,
+    "sd_cm2": 765.0,
+    "xmax_mm": 25,
+    "mms_g": 493.672,
+    "bl_tm": 12.321,
+    "le_mh": null,
+    "spl_db_1w1m": 87.6,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "HURRICANE 15D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 27.634,
+    "re_ohm": 2.8,
+    "qms": 5.254,
+    "qes": 0.374,
+    "qts": 0.349,
+    "vas_l": 61.598,
+    "sd_cm2": 765.0,
+    "xmax_mm": 26,
+    "mms_g": 439.526,
+    "bl_tm": 23.915,
+    "le_mh": null,
+    "spl_db_1w1m": 88.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 350,
+   "displacement_l": 12.76,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/Hurricane_Subwoofers_Specs.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/hurricane-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); parallel row (1 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Cutout = sheet 'Diameter C'; displacement = sheet 'Vd'. Depth G/H (12: 287/335 mm; 15: 302/350 mm) are drawing letters, not mapped to mounting depth. DATA PROBLEM: 15 in 'Diameter B' 275 mm is smaller than its cutout C 350 mm (likely a typo on the sheet).",
+   "params_parallel": {
+    "fs_hz": 27.119,
+    "re_ohm": 0.7,
+    "qms": 4.397,
+    "qes": 0.293,
+    "qts": 0.275,
+    "vas_l": 59.426,
+    "sd_cm2": 765.0,
+    "xmax_mm": 26,
+    "mms_g": 443.064,
+    "bl_tm": 13.874,
+    "le_mh": null,
+    "spl_db_1w1m": 88.1,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "HD10D1-V.2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47,
+    "re_ohm": null,
+    "qms": 4.593,
+    "qes": 0.523,
+    "qts": 0.47,
+    "vas_l": 8.01,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 270.3,
+    "bl_tm": 17.515,
+    "le_mh": null,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 188,
+   "cutout_mm": 239,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-10-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated."
+  },
+  {
+   "model": "HD10D2-V.2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47,
+    "re_ohm": null,
+    "qms": 5.326,
+    "qes": 0.465,
+    "qts": 0.427,
+    "vas_l": 7.049,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 304.6,
+    "bl_tm": 27.954,
+    "le_mh": null,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 188,
+   "cutout_mm": 239,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-10-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated."
+  },
+  {
+   "model": "HD12D1-V.2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": null,
+    "qms": 6.483,
+    "qes": 0.563,
+    "qts": 0.518,
+    "vas_l": 18.7,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 285,
+    "bl_tm": 16.37,
+    "le_mh": null,
+    "spl_db_1w1m": 86.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 213,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-12-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated."
+  },
+  {
+   "model": "HD12D2-V.2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": null,
+    "qms": 6.241,
+    "qes": 0.614,
+    "qts": 0.559,
+    "vas_l": 20.5,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 260,
+    "bl_tm": 21.7,
+    "le_mh": null,
+    "spl_db_1w1m": 86.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 213,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-12-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated."
+  },
+  {
+   "model": "HD15D1-V.2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": null,
+    "qms": 6.619,
+    "qes": 0.577,
+    "qts": 0.53,
+    "vas_l": 50.8,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 362,
+    "bl_tm": 16.6,
+    "le_mh": null,
+    "spl_db_1w1m": 88.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 239,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-15-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated."
+  },
+  {
+   "model": "HD15D2-V.2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.5,
+    "re_ohm": null,
+    "qms": 6.519,
+    "qes": 0.704,
+    "qts": 0.636,
+    "vas_l": 45.4,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 346,
+    "bl_tm": 22.2,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 239,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-15-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated."
+  },
+  {
+   "model": "HD18D1-V.2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": null,
+    "qms": 6.211,
+    "qes": 0.665,
+    "qts": 0.601,
+    "vas_l": 114,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 399,
+    "bl_tm": 15.7,
+    "le_mh": null,
+    "spl_db_1w1m": 90.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 264,
+   "cutout_mm": 428,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-18-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated."
+  },
+  {
+   "model": "HD18D2-V.2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": null,
+    "qms": 6.074,
+    "qes": 0.816,
+    "qts": 0.62,
+    "vas_l": 100,
+    "sd_cm2": null,
+    "xmax_mm": 21,
+    "mms_g": 435,
+    "bl_tm": 21.7,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 264,
+   "cutout_mm": 428,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/HD_Series_subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/hd-18-subwoofer",
+     "doc": "product page Specifications (RMS POWER)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' and mounting depth = sheet 'E' (both match the product page for the 12 in: 11.4 in and 8.38 in). ts_basis not stated. DATA PROBLEM: D2 Qts 0.62 contradicts Qms 6.074 / Qes 0.816 (calculated 0.719)."
+  },
+  {
+   "model": "XMAXXX Monster 12 (XMAX 12D1)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.9,
+    "re_ohm": null,
+    "qms": 4.562,
+    "qes": 0.415,
+    "qts": 0.381,
+    "vas_l": 24.263,
+    "sd_cm2": null,
+    "xmax_mm": 20,
+    "mms_g": 313.335,
+    "bl_tm": 23.33,
+    "le_mh": null,
+    "spl_db_1w1m": 84.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 233,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/XMAX_Series_Subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image), titled 'XMAX SERIES'",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/xmaxxx-monster-12-subwoofer",
+     "doc": "product page title / Specifications",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "The product page links this 'XMAX SERIES' sheet; the sheet's max power (6000 / 8000 W) matches the page's peak. Re and Sd not on the sheet. Cutout = sheet 'B', mounting depth = sheet 'E' (letters as on HD sheet). ts_basis not stated."
+  },
+  {
+   "model": "XMAXXX Monster 12 (XMAX 12D2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.7,
+    "re_ohm": null,
+    "qms": 5.344,
+    "qes": 0.39,
+    "qts": 0.364,
+    "vas_l": 21.508,
+    "sd_cm2": null,
+    "xmax_mm": 20,
+    "mms_g": 381.192,
+    "bl_tm": 26.05,
+    "le_mh": null,
+    "spl_db_1w1m": 85.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 233,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/XMAX_Series_Subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image), titled 'XMAX SERIES'",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/xmaxxx-monster-12-subwoofer",
+     "doc": "product page title / Specifications",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "The product page links this 'XMAX SERIES' sheet; the sheet's max power (6000 / 8000 W) matches the page's peak. Re and Sd not on the sheet. Cutout = sheet 'B', mounting depth = sheet 'E' (letters as on HD sheet). ts_basis not stated."
+  },
+  {
+   "model": "XMAXXX Monster 15 (XMAX 15D1)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.78,
+    "re_ohm": null,
+    "qms": 4.558,
+    "qes": 0.427,
+    "qts": 0.39,
+    "vas_l": 43.717,
+    "sd_cm2": null,
+    "xmax_mm": 22.5,
+    "mms_g": 534.718,
+    "bl_tm": 22,
+    "le_mh": null,
+    "spl_db_1w1m": 86.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 275,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/XMAX_Series_Subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image), titled 'XMAX SERIES'",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/xmaxxx-monster-15-subwoofer",
+     "doc": "product page title / Specifications",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "The product page links this 'XMAX SERIES' sheet; the sheet's max power (6000 / 8000 W) matches the page's peak. Re and Sd not on the sheet. Cutout = sheet 'B', mounting depth = sheet 'E' (letters as on HD sheet). ts_basis not stated."
+  },
+  {
+   "model": "XMAXXX Monster 15 (XMAX 15D2)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.8,
+    "re_ohm": null,
+    "qms": 3.067,
+    "qes": 0.426,
+    "qts": 0.374,
+    "vas_l": 48.15,
+    "sd_cm2": null,
+    "xmax_mm": 22.5,
+    "mms_g": 455.764,
+    "bl_tm": 27.73,
+    "le_mh": null,
+    "spl_db_1w1m": 87.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 275,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/XMAX_Series_Subwoofer.pdf",
+     "doc": "maker specification sheet PDF (image), titled 'XMAX SERIES'",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/xmaxxx-monster-15-subwoofer",
+     "doc": "product page title / Specifications",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "The product page links this 'XMAX SERIES' sheet; the sheet's max power (6000 / 8000 W) matches the page's peak. Re and Sd not on the sheet. Cutout = sheet 'B', mounting depth = sheet 'E' (letters as on HD sheet). ts_basis not stated."
+  },
+  {
+   "model": "VFL-COMP SIGNATURE 12D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 35.0,
+    "re_ohm": 1.6,
+    "qms": 4.389,
+    "qes": 0.446,
+    "qts": 0.405,
+    "vas_l": 17.1,
+    "sd_cm2": 511.0,
+    "xmax_mm": 27.5,
+    "mms_g": 425.0,
+    "bl_tm": 18.55,
+    "le_mh": null,
+    "spl_db_1w1m": 84.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 288,
+   "displacement_l": 10.9,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/VFL_Comp_Subwoofers.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/vfl-comp-signature-12-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); parallel row (0.5 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Peak 10000 W from the sheet's feature list. Cutout = sheet 'Diameter C', displacement = 'Vd' (dimension table read from a lower-resolution render; check). Xmech 45 mm, air gap height 25 mm.",
+   "params_parallel": {
+    "fs_hz": 34.1,
+    "re_ohm": 0.4,
+    "qms": 4.967,
+    "qes": 0.497,
+    "qts": 0.452,
+    "vas_l": 17.2,
+    "sd_cm2": 511.0,
+    "xmax_mm": 27.5,
+    "mms_g": 417.2,
+    "bl_tm": 8.732,
+    "le_mh": null,
+    "spl_db_1w1m": 84.1,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "VFL-COMP SIGNATURE 15D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 34.5,
+    "re_ohm": 1.6,
+    "qms": 4.394,
+    "qes": 0.489,
+    "qts": 0.44,
+    "vas_l": 36.6,
+    "sd_cm2": 779.0,
+    "xmax_mm": 27.5,
+    "mms_g": 502.3,
+    "bl_tm": 18.87,
+    "le_mh": null,
+    "spl_db_1w1m": 86.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 350,
+   "displacement_l": 13.5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/VFL_Comp_Subwoofers.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/vfl-comp-signature-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); parallel row (0.5 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Peak 10000 W from the sheet's feature list. Cutout = sheet 'Diameter C', displacement = 'Vd' (dimension table read from a lower-resolution render; check). Xmech 45 mm, air gap height 25 mm.",
+   "params_parallel": {
+    "fs_hz": 35.2,
+    "re_ohm": 0.4,
+    "qms": 4.855,
+    "qes": 0.48,
+    "qts": 0.437,
+    "vas_l": 38.3,
+    "sd_cm2": 779.0,
+    "xmax_mm": 27.5,
+    "mms_g": 460.2,
+    "bl_tm": 9.213,
+    "le_mh": null,
+    "spl_db_1w1m": 87.3,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "VFL-COMP SIGNATURE 18D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 33.6,
+    "re_ohm": 1.6,
+    "qms": 4.494,
+    "qes": 0.61,
+    "qts": 0.537,
+    "vas_l": 88.5,
+    "sd_cm2": 1134.0,
+    "xmax_mm": 27.5,
+    "mms_g": 485.3,
+    "bl_tm": 17.34,
+    "le_mh": null,
+    "spl_db_1w1m": 88.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 420,
+   "displacement_l": 15.9,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/VFL_Comp_Subwoofers.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/vfl-comp-signature-18-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (2 ohm); parallel row (0.5 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Peak 10000 W from the sheet's feature list. Cutout = sheet 'Diameter C', displacement = 'Vd' (dimension table read from a lower-resolution render; check). Xmech 45 mm, air gap height 25 mm.",
+   "params_parallel": {
+    "fs_hz": 32.7,
+    "re_ohm": 0.4,
+    "qms": 5.28,
+    "qes": 0.643,
+    "qts": 0.573,
+    "vas_l": 89.1,
+    "sd_cm2": 1134.0,
+    "xmax_mm": 27.5,
+    "mms_g": 486.4,
+    "bl_tm": 7.882,
+    "le_mh": null,
+    "spl_db_1w1m": 88.7,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "VFL-COMP SIGNATURE 12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 33.6,
+    "re_ohm": 3.2,
+    "qms": 3.968,
+    "qes": 0.443,
+    "qts": 0.398,
+    "vas_l": 18.5,
+    "sd_cm2": 511.0,
+    "xmax_mm": 27.5,
+    "mms_g": 447.7,
+    "bl_tm": 26.15,
+    "le_mh": null,
+    "spl_db_1w1m": 83.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 288,
+   "displacement_l": 10.9,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/VFL_Comp_Subwoofers.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/vfl-comp-signature-12-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); parallel row (1 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Peak 10000 W from the sheet's feature list. Cutout = sheet 'Diameter C', displacement = 'Vd' (dimension table read from a lower-resolution render; check). Xmech 45 mm, air gap height 25 mm.",
+   "params_parallel": {
+    "fs_hz": 33.8,
+    "re_ohm": 0.8,
+    "qms": 4.425,
+    "qes": 0.483,
+    "qts": 0.435,
+    "vas_l": 18.7,
+    "sd_cm2": 511.0,
+    "xmax_mm": 27.5,
+    "mms_g": 438.1,
+    "bl_tm": 12.42,
+    "le_mh": null,
+    "spl_db_1w1m": 83.6,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "VFL-COMP SIGNATURE 15D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 32.3,
+    "re_ohm": 3.2,
+    "qms": 4.123,
+    "qes": 0.478,
+    "qts": 0.428,
+    "vas_l": 39.6,
+    "sd_cm2": 779.0,
+    "xmax_mm": 27.5,
+    "mms_g": 530.9,
+    "bl_tm": 26.84,
+    "le_mh": null,
+    "spl_db_1w1m": 85.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 350,
+   "displacement_l": 13.5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/VFL_Comp_Subwoofers.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/vfl-comp-signature-15-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); parallel row (1 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Peak 10000 W from the sheet's feature list. Cutout = sheet 'Diameter C', displacement = 'Vd' (dimension table read from a lower-resolution render; check). Xmech 45 mm, air gap height 25 mm.",
+   "params_parallel": {
+    "fs_hz": 31.9,
+    "re_ohm": 0.8,
+    "qms": 4.413,
+    "qes": 0.501,
+    "qts": 0.45,
+    "vas_l": 38.6,
+    "sd_cm2": 779.0,
+    "xmax_mm": 27.5,
+    "mms_g": 556.4,
+    "bl_tm": 13.34,
+    "le_mh": null,
+    "spl_db_1w1m": 85.8,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "VFL-COMP SIGNATURE 18D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 32.5,
+    "re_ohm": 3.2,
+    "qms": 4.257,
+    "qes": 0.53,
+    "qts": 0.471,
+    "vas_l": 88.0,
+    "sd_cm2": 1134.0,
+    "xmax_mm": 27.5,
+    "mms_g": 498.0,
+    "bl_tm": 24.78,
+    "le_mh": null,
+    "spl_db_1w1m": 89.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 420,
+   "displacement_l": 15.9,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/VFL_Comp_Subwoofers.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/vfl-comp-signature-18-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives a row per wiring: params = coils in series (4 ohm); parallel row (1 ohm) in params_parallel. SD printed in 'msqM' (10^-3 m2), entered x10 as cm2. Peak 10000 W from the sheet's feature list. Cutout = sheet 'Diameter C', displacement = 'Vd' (dimension table read from a lower-resolution render; check). Xmech 45 mm, air gap height 25 mm.",
+   "params_parallel": {
+    "fs_hz": 32.9,
+    "re_ohm": 0.8,
+    "qms": 4.938,
+    "qes": 0.554,
+    "qts": 0.498,
+    "vas_l": 90.6,
+    "sd_cm2": 1134.0,
+    "xmax_mm": 27.5,
+    "mms_g": 471.4,
+    "bl_tm": 11.86,
+    "le_mh": null,
+    "spl_db_1w1m": 89.5,
+    "spl_db_2v83": null
+   }
+  },
+  {
+   "model": "KING-18D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6500,
+   "peak_w": 15000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43.07,
+    "re_ohm": 1.6,
+    "qms": 6.9,
+    "qes": 0.87,
+    "qts": 0.77,
+    "vas_l": 30.4,
+    "sd_cm2": 1190,
+    "xmax_mm": 22.5,
+    "mms_g": 910,
+    "bl_tm": 21,
+    "le_mh": null,
+    "spl_db_1w1m": 86.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/American_Bass_King_18.pdf",
+     "doc": "maker specification sheet PDF (image), via product page https://americanbassusa.com/products/king-18-subwoofer",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet p.3 gives only the D1 column; Sd printed as '1.19k' (taken as 1190 cm2). SPL, Vas, MMS, Xmax read from a lower-resolution render (p.3 lower half); check. Sheet dimensions A 460, B 335, C 428, D 160 mm are drawing letters (not mapped). ts_basis not stated; Re 1.6 for Dual 1 suggests series (inference). Note Vas 30.4 L with Sd 1190 cm2 and Cms 14.99 µm/N on the same sheet is consistent (about 30 L)."
+  },
+  {
+   "model": "XMAXXX Monster 18 (XMAX 18D1)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.76,
+    "re_ohm": null,
+    "qms": 5.55,
+    "qes": 0.59,
+    "qts": 0.53,
+    "vas_l": 53.57,
+    "sd_cm2": null,
+    "xmax_mm": 22.5,
+    "mms_g": 855,
+    "bl_tm": 23.95,
+    "le_mh": null,
+    "spl_db_1w1m": 86.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 293,
+   "cutout_mm": 428,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/American_Bass_XMAXXX_Monster_18_Specification_Sheet_1.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/xmaxxx-monster-18-subwoofer",
+     "doc": "product page title",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' 428 mm, mounting depth = sheet 'E' 293 mm. ts_basis not stated."
+  },
+  {
+   "model": "XMAXXX Monster 18 (XMAX 18D2)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.5,
+    "re_ohm": null,
+    "qms": 6.17,
+    "qes": 0.47,
+    "qts": 0.43,
+    "vas_l": 46.98,
+    "sd_cm2": null,
+    "xmax_mm": 22.5,
+    "mms_g": 929,
+    "bl_tm": 38.12,
+    "le_mh": null,
+    "spl_db_1w1m": 87.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 293,
+   "cutout_mm": 428,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "peak_w",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0655/3550/8703/files/American_Bass_XMAXXX_Monster_18_Specification_Sheet_1.pdf",
+     "doc": "maker specification sheet PDF (image)",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "https://americanbassusa.com/products/xmaxxx-monster-18-subwoofer",
+     "doc": "product page title",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re and Sd not on the sheet. Cutout = sheet 'B' 428 mm, mounting depth = sheet 'E' 293 mm. ts_basis not stated."
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "Godzilla 12 / 15 / 18 (D1, D2)",
+   "rms_w": 4700,
+   "url": "https://americanbassusa.com/products/godzilla-15-subwoofer",
+   "note": "4700 W RMS on the product pages; no spec sheet or T/S found on the pages (2026-11-21)."
+  },
+  {
+   "model": "VFL 8 (refurbished listing only)",
+   "rms_w": null,
+   "url": "https://americanbassusa.com/products/vfl-8-subwoofer-refurbished",
+   "note": "Not checked further (refurbished listing; power figure in text is ambiguous)."
+  }
+ ]
+}

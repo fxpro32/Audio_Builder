@@ -1,0 +1,774 @@
+{
+ "brand": "Orion Car Audio",
+ "country": "USA",
+ "brand_url": "https://www.orioncaraudio.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "Orion XSM655SL",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 1200,
+   "sensitivity_db": 97.2,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    10000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 142,
+   "frame_mm": 166,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xsm655sl-6-5-inch-4-ohm-slim-ultra-efficient-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XSM655SL - 6.5 inch 4 Ohm Slim Ultra Efficient Midrange Speaker"
+  },
+  {
+   "model": "Orion XTX1058",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": 2000,
+   "sensitivity_db": 99.9,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 107,
+   "cutout_mm": 229,
+   "frame_mm": 260,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xtx1058-10-inch-8-ohm-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XTX1058 - 10 inch 8 Ohm Midrange Speaker"
+  },
+  {
+   "model": "Orion XTX658",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 350,
+   "peak_w": 1400,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    140000,
+    12000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 75.2,
+   "cutout_mm": 146,
+   "frame_mm": 178,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xtx658-6-5-inch-8-ohm-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints frequency response '140 kHz - 12 kHz' (low end above high end, likely a unit typo): kept as printed, flagged.",
+   "title": "XTX658 - 6.5 inch 8 Ohm Midrange Speaker"
+  },
+  {
+   "model": "Orion XPM1058MBF",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 750,
+   "peak_w": 3000,
+   "sensitivity_db": 101.5,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    140000,
+    5500
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 112,
+   "cutout_mm": 229,
+   "frame_mm": 265,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xpm1058mbf",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints frequency response '140 kHz - 5.5 kHz' (low end above high end, likely a unit typo): kept as printed, flagged.",
+   "title": "Orion XPM1058MBF 10\" XTR Pro Audio Mid Bass Speaker – 3000W Peak / 8 Ohm"
+  },
+  {
+   "model": "Orion XPM858MBF",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": 2000,
+   "sensitivity_db": 100.2,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    200000,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 97.5,
+   "cutout_mm": 184,
+   "frame_mm": 214,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xpm858mbf",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints frequency response '200 kHz - 6 kHz' (low end above high end, likely a unit typo): kept as printed, flagged.",
+   "title": "Orion XPM858MBF 8\" XTR Pro Audio Mid Bass Speakers | 2000W Peak / 8 Ohm"
+  },
+  {
+   "model": "Orion XPM658MBF",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 1600,
+   "sensitivity_db": 99.3,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    230000,
+    9000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 83.2,
+   "cutout_mm": 146,
+   "frame_mm": 178,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xpm658mbf",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints frequency response '230 kHz - 9 kHz' (low end above high end, likely a unit typo): kept as printed, flagged.",
+   "title": "Orion XPM658MBF 6.5\" XTR Pro Audio Mid Bass Speakers | 1600W Peak"
+  },
+  {
+   "model": "Orion XTX858",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 1600,
+   "sensitivity_db": 98.5,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    130,
+    12000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 91,
+   "cutout_mm": 184,
+   "frame_mm": 215,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xtx858-8-inch-8-ohm-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XTX858 - 8 inch 8 Ohm Midrange Speaker"
+  },
+  {
+   "model": "Orion XSM805SL",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 350,
+   "peak_w": 1400,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    130,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 91,
+   "cutout_mm": 182,
+   "frame_mm": 210,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xsm805sl-8-inch-4-ohm-slim-ultra-efficient-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XSM805SL - 8 inch 4 Ohm Slim Ultra Efficient Midrange Speaker"
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "Orion XTX6954",
+   "title": "ORION XTR XTX6954 6x9 High Efficiency Mid-Range Speakers, 1600W Max 400W RMS, 4-Ohm Impedance, 2\" Voice Coil, Bullet Loudspeaker Design (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx6954-6x9-inch-4-ohm-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTX6952",
+   "title": "ORION XTR XTX6952 6x9 High Efficiency Mid-Range Speakers, 1600W Max 400W RMS, 2-Ohm Impedance, 2\" Voice Coil, Bullet Loudspeaker Design (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx6952-6x9-inch-2-ohm-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM354",
+   "title": "Orion CM354 - 3.5 Inch 4 Ohm Midrange Speaker 75 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm354-3-5-inch-4-ohm-midrange-speaker-75-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CSH85",
+   "title": "Orion CSH85 - 8” Shallow Slim Midrange Speakers",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/csh85-8-shallow-slim-midrange-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CSH65",
+   "title": "Orion CSH65 - 6.5\" Shallow Slim Midrange Speakers",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/orion-cobalt-csh65-shallow-slim-midrange-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XSM804SL",
+   "title": "ORION XTR XSM804SL 8\" Slim Mid-Range Speakers, 1400W Max 350W RMS, 4-Ohm Impedance, Shallow Mount Design, Grills Included (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xsm804sl-8-inch-4-ohm-slim-ultra-efficient-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XSM802SL",
+   "title": "Orion XSM802SL - 8 inch 2 Ohm Slim Ultra Efficient Midrange Speaker",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xsm802sl-8-inch-2-ohm-slim-ultra-efficient-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XSM654SL",
+   "title": "Orion XSM654SL - 6.5 inch 4 Ohm Efficient Midrange Speaker",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xsm654sl-6-5-inch-2-ohm-slim-ultra-efficient-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XSM652SL",
+   "title": "ORION XTR XSM652SL 6.5\" Slim Mid-Range Speakers, 1200W Max 300W RMS, 2-Ohm Impedance, Shallow Mount Design, Grills Included (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xsm652sl-6-5-inch-2-ohm-slim-ultra-efficient-midrange-speaker-copy",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM1052x2",
+   "title": "Orion CM1052 - 10 Inch 2 Ohm Midrange Speakers 350 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm1052-10-inch-2-ohm-midrange-speaker-350-watts-rms-2-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM452",
+   "title": "Orion CM452 - 4 Inch (With 4x6 Inch Adapter Plate) 2 Ohm Midrange Speakers 100 Watts RMS (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm452-4-4x6-inch-2-ohm-midrange-speaker-100-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM454",
+   "title": "Orion CM454 - 4 Inch (With 4x6 Inch Adapter Plate) 4 Ohm Midrange Speakers 100 Watts RMS (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm454-4-4x6-inch-4-ohm-midrange-speaker-100-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM1052",
+   "title": "Orion CM1052 - 10 Inch 2 Ohm Midrange Speaker 350 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm1052-10-inch-2-ohm-midrange-speaker-350-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM85",
+   "title": "CM854 - 8 Inch 4 Ohm Midrange Speakers 300 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm85-8-inch-4-ohm-midrange-speaker-300-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM6954",
+   "title": "Orion CM6954 - 6x9 Inch 4 Ohm Midrange Speaker 300 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm6954-6x9-inch-4-ohm-midrange-speaker-300-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM6952",
+   "title": "Orion CM6952 - 6x9 Inch 2 Ohm Midrange Speaker 300 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm6952-6x9-inch-2-ohm-midrange-speaker-300-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM6854",
+   "title": "Orion CM6854 - 5x7/6x8 Inch 4 Ohm Midrange Speaker 250 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm6854-5x7-6x8-inch-4-ohm-midrange-speaker-250-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM6852",
+   "title": "Orion CM6852 - 5x7/6x8 Inch 2 Ohm Midrange Speaker 250 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm6852-5x7-6x8-inch-2-ohm-midrange-speaker-250-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM54",
+   "title": "Orion CM54 – 5.25 inch 4 Ohm Midrange Speaker | 125W RMS Power & Precision Audio",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm54-5-25-inch-4-ohm-midrange-speaker-125-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM52",
+   "title": "CM52 - 5.25 Inch 2 Ohm Midrange Speaker 125 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm52-5-25-inch-2-ohm-midrange-speaker-125-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM852",
+   "title": "CM852 8 Inch 2 Ohm Midrange Speaker 300 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm852-high-efficiency-8-2-ohm-midrange-speakers-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM652",
+   "title": "CM652 - 6.5 Inch 2 Ohm Midrange Speaker 250 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm652-6-5-inch-2-ohm-midrange-speaker-250-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA62N",
+   "title": "HCCA62N 6.5 Inch 2 Ohm Neodymium Mid Range Speaker | 350W RMS | Orion",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca62n-6-5-inch-2-ohm-neodymium-midrange-speaker-350-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA82N",
+   "title": "Orion HCCA82N - 8 inch 2 Ohm Neodymium Midrange Speaker 500 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca82n-8-inch-2-ohm-neodymium-midrange-speaker-500-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA1052N",
+   "title": "Orion HCCA102N 10\" 2-Ohm Mid Range Speaker | Neodymium | Unmatched Clarity & Punch / 550W RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca1052n-10-inch-2-ohm-neodymium-midrange-speaker-550-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA652NHP",
+   "title": "Orion HCCA652NHP 6.5\" 2-Ohm Midrange Speaker | Uncompromising Performance / 450W RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca652nhp-6-5-inch-2-ohm-high-efficiency-midrange-speaker-450-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA852NHP",
+   "title": "Orion HCCA852NHP 8\" 2-Ohm Midrange Speaker – 650W RMS / 2600W Peak",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca852nhp-8-inch-2-ohm-high-efficiency-midrange-speaker-650-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA1052NHP",
+   "title": "HCCA1052NHP 10\" 2-Ohm Mid Range Speaker – 700W RMS / 2800W Peak | HCCA Pro Audio | Orion",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca1052nhp-10-inch-2-ohm-high-efficiency-midrange-speaker-700-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTX852",
+   "title": "XTX852 - 8 inch 2 Ohm Midrange Speaker",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx852-8-inch-2-ohm-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM1054x2",
+   "title": "CM1054 - 10 Inch 4 Ohm Midrange Speaker 350 Watts RMS (2 Speakers)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm1054-10-inch-4-ohm-midrange-speaker-350-watts-rms-2-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM1054",
+   "title": "CM1054 - 10 Inch 4 Ohm Midrange Speaker 350 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm1054-10-inch-4-ohm-midrange-speaker-350-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA104N",
+   "title": "Orion HCCA104N 10\" 4-Ohm Midrange Speaker | Neodymium | Bold, Clean & Dynamic Sound / 550W RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca1054n-10-inch-4-ohm-neodymium-midrange-speaker-550-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA84N",
+   "title": "Orion HCCA84N 8\" 4-Ohm Midrange Speaker | Neodymium  | Unmatched Clarity & Punch / 500W RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca84n-8-inch-4-ohm-neodymium-midrange-speaker-500-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA64N",
+   "title": "HCCA64N 6.5 Inch 4 Ohm Neodymium 350W RMS | Mid Range Speaker | Orion",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca64n-6-5-inch-4-ohm-neodymium-midrange-speaker-350-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA1054NHP",
+   "title": "Orion HCCA1054NHP 10\" HCCA Pro Audio Midrange Speaker – 700W RMS / 2800W Peak |",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca1054nhp-10-inch-4-ohm-high-efficiency-midrange-speaker-700-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA854NHP",
+   "title": "Orion HCCA854NHP 8\" 4-Ohm Mid Range Speaker – 650W RMS / 2600W Peak",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca854nhp-8-inch-4-ohm-high-efficiency-midrange-speaker-650-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA654NHP",
+   "title": "Orion HCCA654NHP 6.5\" 4-Ohm High Efficiency Midrange Speaker | 450W RMS / 1800W Peak",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/hcca654nhp-6-5-inch-4-ohm-high-efficiency-midrange-speaker-450-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XPM854MBF",
+   "title": "Orion XPM854MBF 8\" XTR Pro Audio Mid Bass Speakers | 2000W Peak",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xpm854mbf",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTR804NEO",
+   "title": "XTR804NEO - 8 inch 4 Ohm Shallow Neodymium Midrange Speaker",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtr804neo-8-inch-4-ohm-shallow-neodymium-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTR654NEO",
+   "title": "Orion XTR Series XTR654NEO Slim Neodymium High Efficiency 6.5” Mid-Range Bullet Loudspeakers, 1200W Max Power, 300W RMS, 4 Ohm, 1.5” Voice Coil - Pro Car Audio Stereo, Premium Midrange Speakers (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtr654neo-6-5-inch-4-ohm-shallow-neodymium-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTX1052",
+   "title": "XTX1052 - 10 inch 2 Ohm Midrange Speaker",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx1052-10-inch-2-ohm-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTX1054",
+   "title": "ORION XTR XTX1054 10\" High Efficiency Mid-Range Speaker, 2000W 500W RMS, 4-Ohm Impedance, 3\" Voice Coil, Bullet Loudspeaker Design",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx1054-10-inch-4-ohm-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTX854",
+   "title": "ORION XTR XTX854 8\" High Efficiency Mid-Range Speakers, 1600W Max 400W RMS, 4-Ohm Impedance, 2\" Voice Coil, Bullet Loudspeaker Design Overall Pick (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx854-8-inch-4-ohm-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTX652",
+   "title": "ORION XTR XTX652 6.5\" High Efficiency Mid-Range Speakers, 350W RMS, 2-Ohm Impedance, 1.5\" Voice Coil, Bullet Loudspeaker Design (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx652-6-5-inch-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTX654",
+   "title": "ORION XTR XTX654 6.5\" High Efficiency Mid-Range Speakers, 350W RMS, 4-Ohm Impedance, 1.5\" Voice Coil, Bullet Loudspeaker Design (Pair)",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/xtx654-6-5-inch-midrange-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CM654",
+   "title": "CM654 - 6.5 Inch 4 Ohm Midrange Speaker 250 Watts RMS",
+   "type": "midrange",
+   "url": "https://www.orioncaraudio.com/products/cm654-6-5-inch-4-ohm-midrange-speaker-250-watts-rms",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

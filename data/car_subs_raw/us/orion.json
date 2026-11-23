@@ -1,0 +1,722 @@
+{
+ "brand": "Orion Car Audio",
+ "country": "USA",
+ "brand_url": "https://orioncaraudio.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store; /products.json read once and one product page (hcca152spl) checked: no T/S, no spec sheet or manual link on product pages.",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/orion.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "HCCA102 (10 in, Dual 2)",
+   "rms_w": 2000,
+   "url": "https://orioncaraudio.com/products/hcca102-10-inch-subwoofer-2000-watts-rms-2-ohm-dvc",
+   "note": "2000 W RMS / 8000 W peak; no T/S on the page.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "XTRPRO152D / XTRPRO154D (15 in, Dual 2 / Dual 4)",
+   "rms_w": 2000,
+   "url": "https://orioncaraudio.com/products/xtrpro152d-15-inch-subwoofer-2000-watts-rms-2-ohm-dvc",
+   "note": "2000 W RMS / 8000 W peak; no T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HCCA151SPL / HCCA152SPL / HCCA154SPL (15 in, Dual 1/2/4)",
+   "rms_w": 5000,
+   "url": "https://orioncaraudio.com/products/hcca152spl",
+   "note": "5000 W RMS / 20000 W peak; no T/S (page fetched and checked).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HCCA121SPLX / HCCA151SPLX / HCCA181SPLX (Dual 1)",
+   "rms_w": 7500,
+   "url": "https://orioncaraudio.com/products/hcca151splx-15-inch-subwoofer-7500-watts-rms-1-ohm-dvc",
+   "note": "7500 W RMS / 30000 W peak; no T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "XTRPRO-SW12D2/D4, XTR12SWD2/D4 (shallow)",
+   "rms_w": null,
+   "url": "https://orioncaraudio.com/products/xtr12swd2",
+   "note": "Titles give 2000 to 3200 W max (not RMS); RMS not confirmed >= 2000 W.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "ORI-HCCA802",
+   "rms_w": 1500,
+   "url": "https://orioncaraudio.com/products/orion-hcca802-8-inch-dual-2-ohm-high-performance-subwoofer-1500w-rms-bass-power",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 6000 W, mounting depth None mm, cut-out None mm. Product title: 'Orion HCCA802 – 8 Inch Dual 2 Ohm High-Performance Subwoofer | 1500W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 6000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/orion-hcca802-8-inch-dual-2-ohm-high-performance-subwoofer-1500w-rms-bass-power",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-HCCA804",
+   "rms_w": 1500,
+   "url": "https://orioncaraudio.com/products/orion-hcca804-8-inch-dual-4-ohm-high-performance-subwoofer-1500w-rms-bass-power",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak 6000 W, mounting depth None mm, cut-out None mm. Product title: 'Orion HCCA804 – 8 Inch Dual 4 Ohm High-Performance Subwoofer | 1500W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 6000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/orion-hcca804-8-inch-dual-4-ohm-high-performance-subwoofer-1500w-rms-bass-power",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR8D4",
+   "rms_w": 350,
+   "url": "https://orioncaraudio.com/products/xtr8d4-8-inch-subwoofer-350-watts-rms-4-ohm-dvc",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTR8D4 – 8 Inch Dual 4 Ohm Car Subwoofer | 350W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr8d4-8-inch-subwoofer-350-watts-rms-4-ohm-dvc",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR8D2",
+   "rms_w": 350,
+   "url": "https://orioncaraudio.com/products/xtr8d2-8-inch-subwoofer-350-watts-rms-2-ohm-dvc",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTR8D2 – 8 Inch Dual 2 Ohm Car Subwoofer | 350W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr8d2-8-inch-subwoofer-350-watts-rms-2-ohm-dvc",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-CBW804D",
+   "rms_w": 200,
+   "url": "https://orioncaraudio.com/products/cbw804d-8-inch-subwoofer-200-watts-rms-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'Orion CBW804D 8” Dual Voice Coil 4 Ohm Subwoofer | 800W Max Cobalt Series Bass'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/cbw804d-8-inch-subwoofer-200-watts-rms-dual-4-ohm",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-CBW804S",
+   "rms_w": 200,
+   "url": "https://orioncaraudio.com/products/cbw804s-8-inch-subwoofer-200-watts-rms-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil SVC 4 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'Orion CBW804S 8” Single Voice Coil 4 Ohm Subwoofer | 800W Max Cobalt Series Bass'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/cbw804s-8-inch-subwoofer-200-watts-rms-4-ohm",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTRPRO-SW10D2",
+   "rms_w": 600,
+   "url": "https://orioncaraudio.com/products/xtrpro-sw10d2",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 2400 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTRPRO-SW10D2 – 10 Inch Dual 2 Ohm Shallow Subwoofer | 600W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtrpro-sw10d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTRPRO-SW10D4",
+   "rms_w": 600,
+   "url": "https://orioncaraudio.com/products/xtrpro-sw10d4-10-shallow-subwoofer-dual-4-ohm-2400w-max",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 2400 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTRPRO-SW10D4 XTRPRO Series 10\" Shallow Subwoofer, Dual 4 Ohm 2400W Max, 600W RMS, Dual 2\" Voice Coil, UV-Coated C'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtrpro-sw10d4-10-shallow-subwoofer-dual-4-ohm-2400w-max",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTRPRO-SW12D4",
+   "rms_w": 800,
+   "url": "https://orioncaraudio.com/products/xtrpro-sw12d4-12-shallow-subwoofer-dual-4-ohm-3200w-max-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 3200 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTRPRO-SW12D4 XTRPRO Series 12\" Shallow Subwoofer, 3200W, Dual 4 Ohm 3200W Max, 800W RMS, Dual 2\" Voice Coil, UV-C'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 3200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtrpro-sw12d4-12-shallow-subwoofer-dual-4-ohm-3200w-max-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTRPRO-SW12D2",
+   "rms_w": 800,
+   "url": "https://orioncaraudio.com/products/xtrpro-sw12d4-12-shallow-subwoofer-dual-4-ohm-3200w-max",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 3200 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTRPRO-SW12D2 – 12 Inch Dual 2 Ohm Shallow Subwoofer | 800W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 3200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtrpro-sw12d4-12-shallow-subwoofer-dual-4-ohm-3200w-max",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XEQ-X3B",
+   "rms_w": null,
+   "url": "https://orioncaraudio.com/products/xeq-x3b-11-band-parametric-equalizer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'ORION XEQX3B 11-Band Parametric Equalizer with High Voltage Line Driver Subwoofer Control, Front/Rear Fader, AUX/LINE Se'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xeq-x3b-11-band-parametric-equalizer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR12SWD4",
+   "rms_w": 500,
+   "url": "https://orioncaraudio.com/products/xtr12swd4",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTR12SWD4 XTR Series 12\" Shallow Subwoofer, 2000W, Dual 4 Ohm 2000W Max, 500W RMS, Dual 2\" Voice Coil, UV-Coated C'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr12swd4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR12SWD2",
+   "rms_w": 500,
+   "url": "https://orioncaraudio.com/products/xtr12swd2",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTR12SWD2 XTR Series 12\" Shallow Subwoofer, 2000W, Dual 2 Ohm 2000W Max, 500W RMS, Dual 2\" Voice Coil, UV-Coated C'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr12swd2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR10SWD4",
+   "rms_w": 400,
+   "url": "https://orioncaraudio.com/products/xtr10swd4",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTR10SWD4 XTR Series 10\" Shallow Subwoofer, 1600W, Dual 4 Ohm 1600W Max, 400W RMS, Dual 2\" Voice Coil, UV-Coated C'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr10swd4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR10SWD2",
+   "rms_w": 400,
+   "url": "https://orioncaraudio.com/products/xtr10swd2",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTR10SWD2 XTR Series 10\" Shallow Subwoofer, Dual 2 Ohm 1600W Max, 400W RMS, Dual 2\" Voice Coil, UV-Coated Cone, NB'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr10swd2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR8SWD4",
+   "rms_w": 300,
+   "url": "https://orioncaraudio.com/products/xtr8swd4",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTR8SWD4 XTR Series 8\" Shallow Subwoofer, Dual 4 Ohm 1200W Max, 300W RMS, Dual 2\" Voice Coil, UV-Coated Cone, NBR '. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr8swd4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR8SWD2",
+   "rms_w": 300,
+   "url": "https://orioncaraudio.com/products/xtr8swd2",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTR8SWD2 – 8 Inch Dual 2 Ohm Shallow Mount Subwoofer | 300W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr8swd2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-CBW124D",
+   "rms_w": 400,
+   "url": "https://orioncaraudio.com/products/cbw124d-12-inch-subwoofer-400-watts-rms-4-ohm-dvc",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'Orion CBW124D 12” Dual Voice Coil 4 Ohm Subwoofer | 1600W Max Cobalt Series Bass'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/cbw124d-12-inch-subwoofer-400-watts-rms-4-ohm-dvc",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-CBW124S",
+   "rms_w": 400,
+   "url": "https://orioncaraudio.com/products/cbw124s-12-inch-subwoofer-400w-rms-4-ohm-svc",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil SVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'Orion CBW124S 12” Single Voice Coil 4 Ohm Subwoofer | 1600W Cobalt Series Bass'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/cbw124s-12-inch-subwoofer-400w-rms-4-ohm-svc",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-CBW104D",
+   "rms_w": 300,
+   "url": "https://orioncaraudio.com/products/cbw104d-10-inch-subwoofer-300-watts-rms-4-ohm-dvc",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Orion CBW104D 10” Dual Voice Coil 4 Ohm Subwoofer | 1200W Max Cobalt Series Bass'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/cbw104d-10-inch-subwoofer-300-watts-rms-4-ohm-dvc",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-CBW104S",
+   "rms_w": 300,
+   "url": "https://orioncaraudio.com/products/cbw104s-10-inch-subwoofer-300-watts-rms-4-ohm-svc",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil SVC 4 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Orion CBW104S 10” Single Voice Coil 4 Ohm Subwoofer | 1200W Max Cobalt Series Bass'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/cbw104s-10-inch-subwoofer-300-watts-rms-4-ohm-svc",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR10D4",
+   "rms_w": 500,
+   "url": "https://orioncaraudio.com/products/xtr104d",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTR Series XTR10D4 10” Car Subwoofer - 2000W Max Power, 500W RMS, High-Temperature Dual 4-Ohm, Interlaced Conex Sp'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr104d",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR10D2",
+   "rms_w": 500,
+   "url": "https://orioncaraudio.com/products/xtr10d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'ORION XTR10D2 XTR Series 10\" Car Subwoofer, 2000W, Dual 2 Ohm 2000W Max, 500W RMS, Dual 2\" Voice Coil, Conex Spider, Voi'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr10d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR12D4",
+   "rms_w": 600,
+   "url": "https://orioncaraudio.com/products/xtr124d",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 2400 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTR12D4 XTR Series 12\" Car Subwoofer, 2400W, Dual 4 Ohm 2400W Max, 600W RMS, Dual 2\" Voice Coil, Conex Spider, Voi'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr124d",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR15D2",
+   "rms_w": 750,
+   "url": "https://orioncaraudio.com/products/xtr152d",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 3000 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTR15D2 – 15 Inch Dual 2 Ohm Car Subwoofer | 750W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 3000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr152d",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ORI-XTR15D4",
+   "rms_w": 750,
+   "url": "https://orioncaraudio.com/products/xtr154d",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak 3000 W, mounting depth None mm, cut-out None mm. Product title: 'Orion XTR15D4 – 15 Inch Dual 4 Ohm Car Subwoofer | 750W RMS Bass Power'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 3000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://orioncaraudio.com/products/xtr154d",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

@@ -1,0 +1,806 @@
+{
+ "brand": "Ground Zero",
+ "country": "Germany",
+ "brand_url": "https://www.ground-zero-audio.com",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms and Conditions (not read in full). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "GZ Reference M-80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": null,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    220,
+    12000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 109,
+    "re_ohm": 3.4,
+    "qms": 4.25,
+    "qes": 0.38,
+    "qts": 0.35,
+    "vas_l": 0.72,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 4.8,
+    "bl_tm": 5.45,
+    "le_mh": 0.084,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": 77,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gz-reference-m-80/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZReference-M-80_OM_AWV4.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 5,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZReference-M-80_OM_AWV4.0.pdf p.5).",
+   "maker_description": null,
+   "voice_coil_as_printed": "25mm / 1″ copper"
+  },
+  {
+   "model": "GZ ULTRA M-80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 127,
+    "re_ohm": 3.5,
+    "qms": 6.76,
+    "qes": 0.43,
+    "qts": 0.4,
+    "vas_l": 0.9,
+    "sd_cm2": null,
+    "xmax_mm": 3.5,
+    "mms_g": 3.15,
+    "bl_tm": 4.52,
+    "le_mh": 0.04,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 42,
+   "cutout_mm": 76.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gz-ultra-m-80-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZ-ULTRA-M-80_OM_AWV1.0_PDFforWeb_EN.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZ-ULTRA-M-80_OM_AWV1.0_PDFforWeb_EN.pdf p.3). Manual Xmax 7 mm is peak to peak; xmax_mm = 7/2 (calculated).",
+   "maker_description": null,
+   "voice_coil_as_printed": "CCA"
+  },
+  {
+   "model": "GZCS 100MB-C",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": 60,
+   "sensitivity_db": 82,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    17000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-100mb-c/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific center speaker"
+  },
+  {
+   "model": "GZCS 100MB-S",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": 60,
+   "sensitivity_db": 82,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    17000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-100mb-s/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific surround speaker"
+  },
+  {
+   "model": "GZHM 80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    170,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 106,
+    "re_ohm": 3.5,
+    "qms": 5.58,
+    "qes": 0.32,
+    "qts": 0.3,
+    "vas_l": 1.5,
+    "sd_cm2": null,
+    "xmax_mm": 3.5,
+    "mms_g": 2.9,
+    "bl_tm": 4.54,
+    "le_mh": 0.11,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzhm-80/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZHM-80_OM_AWV3.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 12,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZHM-80_OM_AWV3.0.pdf p.12). Manual Xmax 7 mm is peak to peak; xmax_mm = 7/2 (calculated).",
+   "maker_description": "Sound quality midrange speaker",
+   "voice_coil_as_printed": "20 mm / 0.79″"
+  },
+  {
+   "model": "GZNM 80SQ-K",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 97,
+    "re_ohm": 4.2,
+    "qms": 3.7,
+    "qes": 0.44,
+    "qts": 0.39,
+    "vas_l": 1.66,
+    "sd_cm2": null,
+    "xmax_mm": 3.5,
+    "mms_g": 2.8,
+    "bl_tm": 4.06,
+    "le_mh": 0.1,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 39,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gznm-80sq-k/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNM-80SQ-K_OM_AWV3.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 12,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZNM-80SQ-K_OM_AWV3.1.pdf p.12). Manual Xmax 7 mm is peak to peak; xmax_mm = 7/2 (calculated).",
+   "maker_description": "High performance midrange speaker",
+   "voice_coil_as_printed": "20 mm / 0.79″"
+  },
+  {
+   "model": "GZPM 80SQ-C",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 100,
+    "re_ohm": 3.5,
+    "qms": 5.74,
+    "qes": 0.3,
+    "qts": 0.29,
+    "vas_l": 1.5,
+    "sd_cm2": null,
+    "xmax_mm": 3.5,
+    "mms_g": 3.16,
+    "bl_tm": 4.76,
+    "le_mh": 0.12,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 39,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpm-80sq-c/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPM-80SQ-C_OM_AWV3.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 12,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZPM-80SQ-C_OM_AWV3.1.pdf p.12). Manual Xmax 7 mm is peak to peak; xmax_mm = 7/2 (calculated).",
+   "maker_description": "High end midrange speaker",
+   "voice_coil_as_printed": "20 mm / 0.79″"
+  },
+  {
+   "model": "GZRM 80SQ",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    140,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 114,
+    "re_ohm": null,
+    "qms": 2.86,
+    "qes": 0.44,
+    "qts": 0.38,
+    "vas_l": 1.5,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 2.65,
+    "bl_tm": 3.58,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 34,
+   "cutout_mm": 77,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrm-80sq/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.vas_l"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZRK-RT-RM_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 6,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZRK-RT-RM_OM_AWV2.1.pdf p.6).",
+   "maker_description": "Sound quality midrange speaker",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZRM 80SQX",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    140,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 138,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 37,
+   "cutout_mm": 77,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrm-80sqx/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Sound quality midrange speaker",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZTM 100NEO",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": 60,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    250,
+    7000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 128,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 32,
+   "cutout_mm": 94,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover frequency": "400 / 6000 Hz (Recommended)"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gztm-100neo-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Midrange speaker"
+  },
+  {
+   "model": "GZUM 55SQ",
+   "type": "midrange",
+   "size_in": 2.17,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 150,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    500,
+    11000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 353,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33,
+   "cutout_mm": 69,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzum-55sq-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Sound quality midrange speaker",
+   "voice_coil_as_printed": "55 mm / 2.17″"
+  },
+  {
+   "model": "GZUM 80SQ",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    200,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 134,
+    "re_ohm": 2.8,
+    "qms": 4.26,
+    "qes": 0.37,
+    "qts": 0.34,
+    "vas_l": 0.71,
+    "sd_cm2": null,
+    "xmax_mm": 4.0,
+    "mms_g": 3.7,
+    "bl_tm": 4.9,
+    "le_mh": 0.033,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 35,
+   "cutout_mm": 77,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzum-80sq-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZUM-80SQ_OM_AWV2.2_PRINT1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 10,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZUM-80SQ_OM_AWV2.2_PRINT1.pdf p.10). Manual Xmax 8 mm is peak to peak; xmax_mm = 8/2 (calculated).",
+   "maker_description": "Sound quality midrange speaker",
+   "voice_coil_as_printed": "25 mm / 1″"
+  }
+ ],
+ "no_specs_published": []
+}

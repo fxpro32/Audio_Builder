@@ -1,0 +1,1580 @@
+{
+ "schema": "parts_raw/1",
+ "category": "interconnects",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, products.json (title, vendor field = model, body numbers); scripts/parts/build_ds18_accessories.py",
+ "terms_note": "Numbers only, URL per record; USD maker-store prices.",
+ "units": {
+  "length_m": "m (converted from feet)",
+  "awg_nominal_mm2": "mm2 for the stated AWG (ASTM B258 formula), NOT measured",
+  "actual_area_mm2_from_strands": "mm2 = strands x pi/4 x d^2 from the maker strand count"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 73,
+ "records": [
+  {
+   "id": "ds18-r3-l-10pk",
+   "model": "R3.L.10PK",
+   "title": "RCA 3 Feet with \"L\" Tips 10 Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r3-l-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": null,
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-r6-l-10pk",
+   "model": "R6.L.10PK",
+   "title": "RCA 6 Feet with \"L\" Tips 10 Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r6-l-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": null,
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-r12-l-10pk",
+   "model": "R12.L.10PK",
+   "title": "RCA 12 Feet with \"L\" Tips 10 Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r12-l-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": null,
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-r16-l-10pk",
+   "model": "R16.L.10PK",
+   "title": "RCA 16 Feet with \"L\" Tips 10 Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r16-l-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": null,
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-r20-l-10pk",
+   "model": "R20.L.10PK",
+   "title": "RCA 20 Feet with \"L\" Tips 10 Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r20-l-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": null,
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-r6-10pk",
+   "model": "R6.10PK",
+   "title": "Level 2 RCA 100% Copper OFC 6 Feet - Pack 10 pieces",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r6-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r20-10pk",
+   "model": "R20.10PK",
+   "title": "Level 2 RCA 100% Copper OFC 20 Feet - Pack 10 pieces",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r20-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r16-10pk",
+   "model": "R16.10PK",
+   "title": "Level 2 RCA 100% Copper OFC 16 Feet - Pack 10 pieces",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r16-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r1f2m-10pk",
+   "model": "R1F2M.10PK",
+   "title": "Level 2 RCA 100% Copper OFC Y Connector 1 FEMALE to 2 MALE - 10 Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r1f2m-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "2",
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-r3-10pk",
+   "model": "R3.10PK",
+   "title": "Level 2 RCA 100% Copper OFC 3 Feet - Pack 10 pieces",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r3-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r12-10pk",
+   "model": "R12.10PK",
+   "title": "Level 2 RCA 100% Copper OFC 12 Feet - Pack 10 pieces",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r12-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-20ft-10pk",
+   "model": "RCA-20FT.10PK",
+   "title": "20 ft Ultra Flex 100% OFC RCA Cable Wire – 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-20ft-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-1m2f-10pk",
+   "model": "RCA-1M2F.10PK",
+   "title": "Level 1 RCA 100% Copper OFC Y Connector – 1 Male / 2 Female - 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-1m2f-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-1f2m-10pk",
+   "model": "RCA-1F2M.10PK",
+   "title": "Level 1 RCA 100% Copper OFC Y Connector – 1 Female / 2 Male - 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-1f2m-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r1m2f-10pk",
+   "model": "R1M2F.10PK",
+   "title": "Level 2 RCA 100% OFC Y Connector – 1 Male / 2 Female (10-Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r1m2f-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-16ft-10pk",
+   "model": "RCA-16FT.10PK",
+   "title": "16 ft Ultra Flex 100% OFC RCA Cable Wire – 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-16ft-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-12ft-10pk",
+   "model": "RCA-12FT.10PK",
+   "title": "12 ft Ultra Flex 100% OFC RCA Cable Wire – 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-12ft-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-6ft-10pk",
+   "model": "RCA-6FT.10PK",
+   "title": "6 ft Ultra Flex 100% OFC RCA Cable Wire – 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-6ft-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-3ft-10pk",
+   "model": "RCA-3FT.10PK",
+   "title": "3 ft Ultra Flex 100% OFC RCA Cable Wire – 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-3ft-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-1ft-10pk",
+   "model": "RCA-1FT.10PK",
+   "title": "1 ft Ultra Flex 100% OFC RCA Cable Wire – 10-Pack",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-1ft-10pk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.3,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rzr-pro-rcsw",
+   "model": "RZR-PRO.RCSW",
+   "title": "Polaris RZR PRO Plug & Play Subwoofer RCA Output and Remote Output Harness for Ride Command Systems",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rzr-pro-rcsw",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": null,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r1m2f-l",
+   "model": "R1M2F.L",
+   "title": "Ultra Flex 100% OFC RCA L Connector 1 Male/2 Female",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r1m2f-l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": null,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r1f2m-l",
+   "model": "R1F2M.L",
+   "title": "Ultra Flex 100% OFC RCA L Connector 1 Female/2 Male",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r1f2m-l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": null,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r3-l",
+   "model": "R3.L",
+   "title": "100% OFC Ultra Flex 2-Channel RCA with 90 Degree Ends, Dual Twist Wire, Red Braided Jacket - 3 ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r3-l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": null,
+   "pack_qty": 1,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-r6-l",
+   "model": "R6.L",
+   "title": "100% OFC Ultra Flex 2-Channel RCA with 90 Degree Ends, Dual Twist Wire, Red Braided Jacket - 6 ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r6-l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": null,
+   "pack_qty": 1,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-r12-l",
+   "model": "R12.L",
+   "title": "100% OFC Ultra Flex 2-Channel RCA with 90 Degree Ends, Dual Twist Wire, Red Braided Jacket - 12 ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r12-l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r16-l",
+   "model": "R16.L",
+   "title": "100% OFC Ultra Flex 2-Channel RCA with 90 Degree Ends, Dual Twist Wire, Red Braided Jacket - 16 ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r16-l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r20-l",
+   "model": "R20.L",
+   "title": "100% OFC Ultra Flex 2-Channel RCA with 90 Degree Ends, Dual Twist Wire, Red Braided Jacket - 20 ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r20-l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r2m12m",
+   "model": "R2M12M",
+   "title": "Level 2 RCA 100% Copper OFC Y Connector 2 MALE to 12 MALE 1.5 Feet - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r2m12m",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": 0.46,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r2m12m-slv",
+   "model": "R2M12M/SLV",
+   "title": "Level 2 RCA 100% Copper OFC Y Connector 2 MALE to 12 MALE 1.5 Feet - SILVER",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r2m12m-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": 0.46,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r1f2m-slv",
+   "model": "R1F2M/SLV",
+   "title": "Level 2 RCA 100% Copper OFC Y Connector 1 FEMALE to 2 MALE - SILVER",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r1f2m-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r1m2f-slv",
+   "model": "R1M2F/SLV",
+   "title": "Level 2 RCA 100% OFC Y Connector 1 Male / 2 Female",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r1m2f-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r16-slv",
+   "model": "R16/SLV",
+   "title": "Level 2 RCA 100% Copper OFC 16 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r16-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r20-slv",
+   "model": "R20/SLV",
+   "title": "Level 2 RCA 100% Copper OFC 20 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r20-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r12-slv",
+   "model": "R12/SLV",
+   "title": "Level 2 RCA 100% Copper OFC 12 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r12-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r3-slv",
+   "model": "R3/SLV",
+   "title": "Level 2 RCA 100% Copper OFC 3 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r3-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-r6-slv",
+   "model": "R6/SLV",
+   "title": "Level 2 RCA 100% Copper OFC 6 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/r6-slv",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-17ft",
+   "model": "RCA-17FT",
+   "title": "Level 1 RCA 100% Copper OFC 17 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-17ft",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 5.18,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-mdsa10-4-50ft",
+   "model": "MDSA10/4.50FT",
+   "title": "Snake, Medusa 10 Channel RCA and 4 x 12GA OFC Power Wire 50 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/mdsa10-4-50ft",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 15.24,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-mdsa10-4-30ft-snake-medusa-10-channel-rca-and-4-x-12ga-ofc-power-wire-30-feet",
+   "model": "MDSA10/4.30FT",
+   "title": "Snake, Medusa 10 Channel RCA and 4 x 12GA OFC Power Wire 30 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/mdsa10-4-30ft-snake-medusa-10-channel-rca-and-4-x-12ga-ofc-power-wire-30-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 9.14,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-ds18-r1m2f-1-male-to-2-female-y-connector-rca-splitter",
+   "model": "R1M2F",
+   "title": "Level 2 RCA 100% OFC Y Connector - 1 Male / 2 Female",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-r1m2f-1-male-to-2-female-y-connector-rca-splitter",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-6-feet-rca",
+   "model": "MOFCR-6FT",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC 6 Feet - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-6-feet-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-3-feet-rca",
+   "model": "MOFCR-3FT",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC 3 Feet - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-3-feet-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-12-feet-rca",
+   "model": "MOFCR-12FT",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC 12 Feet - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-12-feet-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-6-feet-rca-4-channel",
+   "model": "MOFCR-6FT.4CH",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC 6 Feet / 4 Channel - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-6-feet-rca-4-channel",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-2-female-1-male-feet-rca",
+   "model": "MOFCR-2F1M",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC Y Connector 2 FEMALE to 1 MALE - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-2-female-1-male-feet-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-1-female-2-male-feet-rca",
+   "model": "MOFCR-1F2M",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC Y Connector 1 FEMALE to 2 MALE - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-1-female-2-male-feet-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-25-feet-rca",
+   "model": "MOFCR-25FT",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC 25 Feet - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-25-feet-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 7.62,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-marine-tinned-ofc-25-feet-rca-4-channel",
+   "model": "MOFCR-25FT.4CH",
+   "title": "RCA Marine Grade Tinned 100% Copper OFC 25 Feet / 4 Channel - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-tinned-ofc-25-feet-rca-4-channel",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 7.62,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-1-feet",
+   "model": "RCA-1FT",
+   "title": "Level 1 RCA 100% Copper OFC 1 Foot",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-1-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.3,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-20",
+   "model": "RCA-20FT",
+   "title": "Level 1 RCA 100% Copper OFC 20 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-20",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-3",
+   "model": "RCA-3FT",
+   "title": "Level 1 RCA 100% Copper OFC 3 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-3",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-cable-6-long",
+   "model": null,
+   "title": "Level 2 RCA 100% Copper OFC 6 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-cable-6-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": "2",
+   "pack_qty": 1,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-hqmp3dualrca3ft-high-quality-aux-to-rca",
+   "model": "HQMP3DUALRCA3FT",
+   "title": "High Quality 100% OFC AUX to RCA Cable 3 FT.",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-hqmp3dualrca3ft-high-quality-aux-to-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-ultra-flex-high-quality-rca-cable-12-feet",
+   "model": "R12",
+   "title": "Level 2 RCA 100% Copper OFC 12 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ultra-flex-high-quality-rca-cable-12-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": "2",
+   "pack_qty": 1,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-rca-ultra-flex-y-connector-1-female-2-male",
+   "model": "RCA-1F2M",
+   "title": "Level 1 RCA 100% Copper OFC Y Connector – 1 Female / 2 Male",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-y-connector-1-female-2-male",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-cable-12-long",
+   "model": "R1F2M",
+   "title": "Level 2 RCA 100% Copper OFC Y Connector 1 FEMALE to 2 MALE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-cable-12-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "2",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-cable-3-long",
+   "model": null,
+   "title": "Level 2 RCA 100% Copper OFC 3 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-cable-3-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": "2",
+   "pack_qty": 1,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-r16-ultra-flex-rca-cable-16-feet",
+   "model": "R16",
+   "title": "Level 2 RCA 100% Copper OFC 16 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-r16-ultra-flex-rca-cable-16-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": "2",
+   "pack_qty": 1,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-rca-ultra-flex-cable-20-long-1",
+   "model": "R20",
+   "title": "Level 2 RCA 100% Copper OFC 20 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-cable-20-long-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": "2",
+   "pack_qty": 1,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-2-female-to-1-male-dual-twist-rca-1x-red-1x-black-kit",
+   "model": "HQRCA-2F1MKIT",
+   "title": "Level 3 RCA 100% Copper OFC Y Connector 2 FEMALE  to 1 MALE -  BLACK / RED Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/2-female-to-1-male-dual-twist-rca-1x-red-1x-black-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-2-female-to-1-male-dual-twist-rca",
+   "model": "HQRCA-2F1M",
+   "title": "Level 3 RCA 100% Copper OFC Y Connector  2 FEMALE to 1 MALE - BLACK - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/2-female-to-1-male-dual-twist-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-dual-twist-rca-cable-6-long",
+   "model": "HQRCA-6FT",
+   "title": "Level 3 RCA 100% Copper OFC 6 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dual-twist-rca-cable-6-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-dual-twist-rca-cable-3-long",
+   "model": "HQRCA-3FT",
+   "title": "Level 3 RCA 100% Copper OFC 3 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dual-twist-rca-cable-3-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 0.91,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-dual-twist-rca-cable-20-long",
+   "model": "HQRCA-20FT",
+   "title": "Level 3 RCA 100% Copper OFC 20 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dual-twist-rca-cable-20-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 6.1,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-dual-twist-rca-cable-16-long",
+   "model": "HQRCA-16FT",
+   "title": "Level 3 RCA 100% Copper OFC 16 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dual-twist-rca-cable-16-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-dual-twist-rca-cable-12-long",
+   "model": "HQRCA-12FT",
+   "title": "Level 3 RCA 100% Copper OFC 12 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dual-twist-rca-cable-12-long",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-1-female-to-2-male-dual-twist-rca-1x-red-1x-black-kit",
+   "model": "HQRCA-1F2MKIT",
+   "title": "Level 3 RCA 100% Copper OFC Y Connector 1 FEMALE to 2 MALE -  BLACK / RED Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/1-female-to-2-male-dual-twist-rca-1x-red-1x-black-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-1-female-to-2-male-dual-twist-rca",
+   "model": "HQRCA-1F2M",
+   "title": "Level 3 RCA 100% Copper OFC Y Connector 1 FEMALE to 2 MALE - BLACK - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/1-female-to-2-male-dual-twist-rca",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "3",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-16",
+   "model": "RCA-16FT",
+   "title": "Level 1 RCA 100% Copper OFC 16 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-16",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 4.88,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-12",
+   "model": "RCA-12FT",
+   "title": "Level 1 RCA 100% Copper OFC 12 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-12",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 3.66,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-6",
+   "model": "RCA-6FT",
+   "title": "Level 1 RCA 100% Copper OFC 6 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-6",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA cable",
+   "length_m": 1.83,
+   "level": "1",
+   "pack_qty": 1
+  },
+  {
+   "id": "ds18-rca-ultra-flex-y-connector-2-female-1-male",
+   "model": "RCA-1M2F",
+   "title": "Level 1 RCA 100% Copper OFC Y Connector – 1 Male / 2 Female",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rca-ultra-flex-y-connector-2-female-1-male",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "RCA Y connector",
+   "length_m": null,
+   "level": "1",
+   "pack_qty": 1
+  }
+ ],
+ "not_recorded": []
+}

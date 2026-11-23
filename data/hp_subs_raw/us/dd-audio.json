@@ -1,0 +1,3164 @@
+{
+ "brand": "DD Audio (Digital Designs)",
+ "country": "USA",
+ "brand_url": "https://ddaudio.com",
+ "terms_note": "WordPress site. robots.txt disallows only /wp-admin/. Terms and Conditions https://ddaudio.com/terms-and-conditions/ (read 2026-11-23) say: \"You may use the content of this site only for the purpose of shopping on this site or placing an order on this site and for no other purpose. No materials from this site may be copied, reproduced, modified, republished, uploaded, posted, transmitted, or distributed in any form or by any means without our prior written permission.\" Only numeric specifications and source links are recorded here; no text or images. Pages read 5 s apart. Numbers only.",
+ "drivers": [
+  {
+   "model": "4508 D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.0,
+    "re_ohm": null,
+    "qms": 2.93,
+    "qes": 0.634,
+    "qts": 0.52,
+    "vas_l": 9.72,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 190.5,
+   "cutout_mm": 203.2,
+   "displacement_l": 2.83,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      28.32,
+      42.48
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/4500-series/subwoofers/4508/",
+     "note": "published as a range 1.0 to 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/4500-series/subwoofers/4508/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 7.25 in, Xmech 89 mm, voice coil 2.5 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 7.5 in, cut-out 8.0 in, displacement 0.1 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "4508 D4",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.0,
+    "re_ohm": null,
+    "qms": 2.93,
+    "qes": 0.634,
+    "qts": 0.52,
+    "vas_l": 9.72,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 190.5,
+   "cutout_mm": 203.2,
+   "displacement_l": 2.83,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      28.32,
+      42.48
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/4500-series/subwoofers/4508/",
+     "note": "published as a range 1.0 to 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/4500-series/subwoofers/4508/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 7.25 in, Xmech 89 mm, voice coil 2.5 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 7.5 in, cut-out 8.0 in, displacement 0.1 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "712g D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.0,
+    "re_ohm": null,
+    "qms": 4.382,
+    "qes": 0.474,
+    "qts": 0.428,
+    "vas_l": 25.44,
+    "sd_cm2": null,
+    "xmax_mm": 30.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 244.5,
+   "cutout_mm": 288.9,
+   "displacement_l": 5.1,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      84.95
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/700-series/subwoofers/712g/",
+     "note": "published as a range 1.75 to 3.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/700-series/subwoofers/712g/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 10.25 in, Xmech 100 mm, voice coil 3 in published. Converted from imperial as published: mounting depth 9.625 in, cut-out 11.375 in, displacement 0.18 cu ft."
+  },
+  {
+   "model": "712g D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.0,
+    "re_ohm": null,
+    "qms": 4.382,
+    "qes": 0.474,
+    "qts": 0.428,
+    "vas_l": 25.44,
+    "sd_cm2": null,
+    "xmax_mm": 30.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 244.5,
+   "cutout_mm": 288.9,
+   "displacement_l": 5.1,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      84.95
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/700-series/subwoofers/712g/",
+     "note": "published as a range 1.75 to 3.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/700-series/subwoofers/712g/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 10.25 in, Xmech 100 mm, voice coil 3 in published. Converted from imperial as published: mounting depth 9.625 in, cut-out 11.375 in, displacement 0.18 cu ft."
+  },
+  {
+   "model": "715g D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.0,
+    "re_ohm": null,
+    "qms": 6.463,
+    "qes": 0.578,
+    "qts": 0.514,
+    "vas_l": 65.47,
+    "sd_cm2": null,
+    "xmax_mm": 30.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 352.4,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/700-series/subwoofers/715g/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/700-series/subwoofers/715g/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 12.75 in, Xmech 100 mm, voice coil 3 in published. Converted from imperial as published: mounting depth 10.0 in, cut-out 13.875 in, displacement 0.23 cu ft."
+  },
+  {
+   "model": "715g D4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.0,
+    "re_ohm": null,
+    "qms": 6.463,
+    "qes": 0.578,
+    "qts": 0.514,
+    "vas_l": 65.47,
+    "sd_cm2": null,
+    "xmax_mm": 30.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 352.4,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/700-series/subwoofers/715g/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/700-series/subwoofers/715g/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 12.75 in, Xmech 100 mm, voice coil 3 in published. Converted from imperial as published: mounting depth 10.0 in, cut-out 13.875 in, displacement 0.23 cu ft."
+  },
+  {
+   "model": "812f D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.0,
+    "re_ohm": null,
+    "qms": 6.07,
+    "qes": 0.431,
+    "qts": 0.403,
+    "vas_l": 17.77,
+    "sd_cm2": null,
+    "xmax_mm": 31.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 288.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      84.95
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/812f/",
+     "note": "published as a range 1.75 to 3.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/812f/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 10.25 in, Xmech 100 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 10.0 in, cut-out 11.34 in."
+  },
+  {
+   "model": "812f D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.0,
+    "re_ohm": null,
+    "qms": 6.07,
+    "qes": 0.431,
+    "qts": 0.403,
+    "vas_l": 17.77,
+    "sd_cm2": null,
+    "xmax_mm": 31.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 288.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      84.95
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/812f/",
+     "note": "published as a range 1.75 to 3.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/812f/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 10.25 in, Xmech 100 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 10.0 in, cut-out 11.34 in."
+  },
+  {
+   "model": "815f D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.0,
+    "re_ohm": null,
+    "qms": 6.55,
+    "qes": 0.482,
+    "qts": 0.449,
+    "vas_l": 63.72,
+    "sd_cm2": null,
+    "xmax_mm": 31.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 266.7,
+   "cutout_mm": 350.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/815f/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/815f/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 12.75 in, Xmech 100 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 10.5 in, cut-out 13.78 in."
+  },
+  {
+   "model": "815f D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.0,
+    "re_ohm": null,
+    "qms": 6.55,
+    "qes": 0.482,
+    "qts": 0.449,
+    "vas_l": 63.72,
+    "sd_cm2": null,
+    "xmax_mm": 31.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 266.7,
+   "cutout_mm": 350.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/815f/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/815f/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 12.75 in, Xmech 100 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 10.5 in, cut-out 13.78 in."
+  },
+  {
+   "model": "818f D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.0,
+    "re_ohm": null,
+    "qms": 5.54,
+    "qes": 0.56,
+    "qts": 0.506,
+    "vas_l": 134.6,
+    "sd_cm2": null,
+    "xmax_mm": 31.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 292.1,
+   "cutout_mm": 425.4,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      198.22
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/818f/",
+     "note": "published as a range 5.0 to 7.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/818f/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15.75 in, Xmech 100 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 11.5 in, cut-out 16.75 in."
+  },
+  {
+   "model": "818f D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.0,
+    "re_ohm": null,
+    "qms": 5.54,
+    "qes": 0.56,
+    "qts": 0.506,
+    "vas_l": 134.6,
+    "sd_cm2": null,
+    "xmax_mm": 31.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 292.1,
+   "cutout_mm": 425.4,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      198.22
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/818f/",
+     "note": "published as a range 5.0 to 7.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/818f/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15.75 in, Xmech 100 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 11.5 in, cut-out 16.75 in."
+  },
+  {
+   "model": "9510L (ESP) D1",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.32,
+    "re_ohm": null,
+    "qms": 5.093,
+    "qes": 0.3982,
+    "qts": 0.3693,
+    "vas_l": 20.3,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 223.8,
+   "cutout_mm": 258.8,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      35.4,
+      42.48
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9510l-esp/",
+     "note": "published as a range 1.25 to 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9510l-esp/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 9 1/4 in, Xmech 46 mm, voice coil 3.35 in published. Converted from imperial as published: mounting depth 8.8125 in, cut-out 10.1875 in, displacement 0.24 cu ft."
+  },
+  {
+   "model": "9510L (ESP) D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.32,
+    "re_ohm": null,
+    "qms": 5.093,
+    "qes": 0.3982,
+    "qts": 0.3693,
+    "vas_l": 20.3,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 223.8,
+   "cutout_mm": 258.8,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      35.4,
+      42.48
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9510l-esp/",
+     "note": "published as a range 1.25 to 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9510l-esp/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 9 1/4 in, Xmech 46 mm, voice coil 3.35 in published. Converted from imperial as published: mounting depth 8.8125 in, cut-out 10.1875 in, displacement 0.24 cu ft."
+  },
+  {
+   "model": "9912c D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.63,
+    "re_ohm": null,
+    "qms": 5.398,
+    "qes": 0.377,
+    "qts": 0.352,
+    "vas_l": 23.63,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 246.1,
+   "cutout_mm": 309.6,
+   "displacement_l": 9.34,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9912c/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9912c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 9.69 in, cut-out 12.19 in, displacement 0.33 cu ft."
+  },
+  {
+   "model": "9912c D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.63,
+    "re_ohm": null,
+    "qms": 5.398,
+    "qes": 0.377,
+    "qts": 0.352,
+    "vas_l": 23.63,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 246.1,
+   "cutout_mm": 309.6,
+   "displacement_l": 9.34,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9912c/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9912c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 9.69 in, cut-out 12.19 in, displacement 0.33 cu ft."
+  },
+  {
+   "model": "9915c D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.32,
+    "re_ohm": null,
+    "qms": 6.551,
+    "qes": 0.426,
+    "qts": 0.4,
+    "vas_l": 54.38,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 261.9,
+   "cutout_mm": 385.8,
+   "displacement_l": 11.33,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9915c/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9915c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14.25 in, Xmech 62 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 10.31 in, cut-out 15.19 in, displacement 0.4 cu ft."
+  },
+  {
+   "model": "9915c D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.32,
+    "re_ohm": null,
+    "qms": 6.551,
+    "qes": 0.426,
+    "qts": 0.4,
+    "vas_l": 54.38,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 261.9,
+   "cutout_mm": 385.8,
+   "displacement_l": 11.33,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9915c/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9915c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14.25 in, Xmech 62 mm, voice coil 4 in published. Converted from imperial as published: mounting depth 10.31 in, cut-out 15.19 in, displacement 0.4 cu ft."
+  },
+  {
+   "model": "9918c D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 2.265,
+    "qes": 0.5167,
+    "qts": 0.4705,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 301.6,
+   "cutout_mm": 425.4,
+   "displacement_l": 13.03,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9918c/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9918c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15.5 in, Xmech 60 mm, voice coil 4 in published. DATA PROBLEM: Qms 2.265 with Qes 0.5167 gives Qts 0.42, not the published 0.4705; Fs 26.24 Hz and Vas 161.9 L are identical to the 9921c page (likely copied). Check with the maker. Converted from imperial as published: mounting depth 11.875 in, cut-out 16.75 in, displacement 0.46 cu ft."
+  },
+  {
+   "model": "9918c D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 2.265,
+    "qes": 0.5167,
+    "qts": 0.4705,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 301.6,
+   "cutout_mm": 425.4,
+   "displacement_l": 13.03,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9918c/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9918c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15.5 in, Xmech 60 mm, voice coil 4 in published. DATA PROBLEM: Qms 2.265 with Qes 0.5167 gives Qts 0.42, not the published 0.4705; Fs 26.24 Hz and Vas 161.9 L are identical to the 9921c page (likely copied). Check with the maker. Converted from imperial as published: mounting depth 11.875 in, cut-out 16.75 in, displacement 0.46 cu ft."
+  },
+  {
+   "model": "9921c D1",
+   "size_in": 21,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 5.265,
+    "qes": 0.517,
+    "qts": 0.471,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 488.9,
+   "displacement_l": 15.57,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      169.9,
+      226.53
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9921c/",
+     "note": "published as a range 6.0 to 8.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9921c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 18.25 in, Xmech 92 mm, voice coil 4 in published. Fs 26.24 Hz and Vas 161.9 L are identical to the 9918c page (one of the two is likely copied). Converted from imperial as published: mounting depth 11.3125 in, cut-out 19.25 in, displacement 0.55 cu ft."
+  },
+  {
+   "model": "9921c D2",
+   "size_in": 21,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3200,
+   "peak_w": 9600,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 5.265,
+    "qes": 0.517,
+    "qts": 0.471,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 488.9,
+   "displacement_l": 15.57,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      169.9,
+      226.53
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9921c/",
+     "note": "published as a range 6.0 to 8.0 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9921c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 18.25 in, Xmech 92 mm, voice coil 4 in published. Fs 26.24 Hz and Vas 161.9 L are identical to the 9918c page (one of the two is likely copied). Converted from imperial as published: mounting depth 11.3125 in, cut-out 19.25 in, displacement 0.55 cu ft."
+  },
+  {
+   "model": "812d D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.0,
+    "re_ohm": null,
+    "qms": 4.692,
+    "qes": 0.53,
+    "qts": 0.477,
+    "vas_l": 24.6,
+    "sd_cm2": null,
+    "xmax_mm": 25.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 242.9,
+   "cutout_mm": 288.1,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/812d/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/812d/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter None in, Xmech None mm, voice coil 4 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 9.5625 in, cut-out 11.3438 in.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "812d D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.0,
+    "re_ohm": null,
+    "qms": 4.692,
+    "qes": 0.53,
+    "qts": 0.477,
+    "vas_l": 24.6,
+    "sd_cm2": null,
+    "xmax_mm": 25.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 242.9,
+   "cutout_mm": 288.1,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/812d/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/812d/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter None in, Xmech None mm, voice coil 4 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 9.5625 in, cut-out 11.3438 in.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "815d D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.0,
+    "re_ohm": null,
+    "qms": 4.723,
+    "qes": 0.561,
+    "qts": 0.501,
+    "vas_l": 63.1,
+    "sd_cm2": null,
+    "xmax_mm": 25.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 350.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      141.58
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/815d/",
+     "note": "published as a range 3.0 to 5.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/815d/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter None in, Xmech None mm, voice coil 4 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 10.0 in, cut-out 13.7812 in.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "815d D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.0,
+    "re_ohm": null,
+    "qms": 4.723,
+    "qes": 0.561,
+    "qts": 0.501,
+    "vas_l": 63.1,
+    "sd_cm2": null,
+    "xmax_mm": 25.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 350.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      141.58
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/815d/",
+     "note": "published as a range 3.0 to 5.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/815d/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter None in, Xmech None mm, voice coil 4 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 10.0 in, cut-out 13.7812 in.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "818d D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.0,
+    "re_ohm": null,
+    "qms": 4.606,
+    "qes": 0.579,
+    "qts": 0.514,
+    "vas_l": 101.0,
+    "sd_cm2": null,
+    "xmax_mm": 29.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 288.1,
+   "cutout_mm": 416.9,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/818d/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/818d/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter None in, Xmech None mm, voice coil 4 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 11.3438 in, cut-out 16.4149 in.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "818d D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.0,
+    "re_ohm": null,
+    "qms": 4.606,
+    "qes": 0.579,
+    "qts": 0.514,
+    "vas_l": 101.0,
+    "sd_cm2": null,
+    "xmax_mm": 29.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 288.1,
+   "cutout_mm": 416.9,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/800-series/subwoofers/power-tuned/818d/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/800-series/subwoofers/power-tuned/818d/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter None in, Xmech None mm, voice coil 4 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 11.3438 in, cut-out 16.4149 in.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9510k (ESP) D1",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.68,
+    "re_ohm": null,
+    "qms": 7.43,
+    "qes": 0.457,
+    "qts": 0.431,
+    "vas_l": 18.943,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 223.8,
+   "cutout_mm": 258.8,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      35.4,
+      42.48
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9510k-esp/",
+     "note": "published as a range 1.25 to 1.5 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9510k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 9 1/4 in, Xmech 46 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 8.8125 in, cut-out 10.1875 in, displacement 0.24 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9510k (ESP) D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.68,
+    "re_ohm": null,
+    "qms": 7.43,
+    "qes": 0.457,
+    "qts": 0.431,
+    "vas_l": 18.943,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 223.8,
+   "cutout_mm": 258.8,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      35.4,
+      42.48
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9510k-esp/",
+     "note": "published as a range 1.25 to 1.5 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9510k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 9 1/4 in, Xmech 46 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 8.8125 in, cut-out 10.1875 in, displacement 0.24 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9512k (ESP) D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.68,
+    "re_ohm": null,
+    "qms": 6.901,
+    "qes": 0.732,
+    "qts": 0.662,
+    "vas_l": 26.31,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 247.6,
+   "cutout_mm": 309.6,
+   "displacement_l": 8.21,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9512k-esp/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9512k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 9.75 in, cut-out 12.1875 in, displacement 0.29 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9512k (ESP) D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.68,
+    "re_ohm": null,
+    "qms": 6.901,
+    "qes": 0.732,
+    "qts": 0.662,
+    "vas_l": 26.31,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 247.6,
+   "cutout_mm": 309.6,
+   "displacement_l": 8.21,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9512k-esp/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9512k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 9.75 in, cut-out 12.1875 in, displacement 0.29 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9512L (ESP) D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.68,
+    "re_ohm": null,
+    "qms": 6.901,
+    "qes": 0.732,
+    "qts": 0.662,
+    "vas_l": 26.31,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 247.6,
+   "cutout_mm": 309.6,
+   "displacement_l": 8.21,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9512l/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9512l/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 3.35 in published. T/S identical to 9512k (ESP) page. Converted from imperial as published: mounting depth 9.75 in, cut-out 12.1875 in, displacement 0.29 cu ft."
+  },
+  {
+   "model": "9512L (ESP) D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.68,
+    "re_ohm": null,
+    "qms": 6.901,
+    "qes": 0.732,
+    "qts": 0.662,
+    "vas_l": 26.31,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 247.6,
+   "cutout_mm": 309.6,
+   "displacement_l": 8.21,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9512l/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9512l/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 3.35 in published. T/S identical to 9512k (ESP) page. Converted from imperial as published: mounting depth 9.75 in, cut-out 12.1875 in, displacement 0.29 cu ft."
+  },
+  {
+   "model": "9515k (ESP) D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.03,
+    "re_ohm": null,
+    "qms": 6.915,
+    "qes": 0.738,
+    "qts": 0.666,
+    "vas_l": 52.97,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 263.5,
+   "cutout_mm": 385.8,
+   "displacement_l": 10.48,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9515k-esp/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9515k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14 1/4 in, Xmech 92 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 10.375 in, cut-out 15.1875 in, displacement 0.37 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9515k (ESP) D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.03,
+    "re_ohm": null,
+    "qms": 6.915,
+    "qes": 0.738,
+    "qts": 0.666,
+    "vas_l": 52.97,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 263.5,
+   "cutout_mm": 385.8,
+   "displacement_l": 10.48,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9515k-esp/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9515k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14 1/4 in, Xmech 92 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 10.375 in, cut-out 15.1875 in, displacement 0.37 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9515L (ESP) D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.03,
+    "re_ohm": null,
+    "qms": 6.915,
+    "qes": 0.738,
+    "qts": 0.666,
+    "vas_l": 52.97,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 263.5,
+   "cutout_mm": 385.8,
+   "displacement_l": 10.48,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9515l-esp/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9515l-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14 1/4 in, Xmech 92 mm, voice coil 3.35 in published. T/S identical to 9515k (ESP) page. Converted from imperial as published: mounting depth 10.375 in, cut-out 15.1875 in, displacement 0.37 cu ft."
+  },
+  {
+   "model": "9515L (ESP) D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.03,
+    "re_ohm": null,
+    "qms": 6.915,
+    "qes": 0.738,
+    "qts": 0.666,
+    "vas_l": 52.97,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 263.5,
+   "cutout_mm": 385.8,
+   "displacement_l": 10.48,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9515l-esp/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9515l-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14 1/4 in, Xmech 92 mm, voice coil 3.35 in published. T/S identical to 9515k (ESP) page. Converted from imperial as published: mounting depth 10.375 in, cut-out 15.1875 in, displacement 0.37 cu ft."
+  },
+  {
+   "model": "9518k (ESP) D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.95,
+    "re_ohm": null,
+    "qms": 6.293,
+    "qes": 0.808,
+    "qts": 0.716,
+    "vas_l": 97.92,
+    "sd_cm2": null,
+    "xmax_mm": 21.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 425.4,
+   "displacement_l": 12.46,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9518k-esp/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9518k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15 1/2 in, Xmech 62 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 11.3125 in, cut-out 16.75 in, displacement 0.44 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9518k (ESP) D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.95,
+    "re_ohm": null,
+    "qms": 6.293,
+    "qes": 0.808,
+    "qts": 0.716,
+    "vas_l": 97.92,
+    "sd_cm2": null,
+    "xmax_mm": 21.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 425.4,
+   "displacement_l": 12.46,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9518k-esp/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9518k-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15 1/2 in, Xmech 62 mm, voice coil 3.35 in published. RMS published as a range '1000 – 2000' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 11.3125 in, cut-out 16.75 in, displacement 0.44 cu ft.",
+   "rms_range_w": [
+    1000.0,
+    2000.0
+   ]
+  },
+  {
+   "model": "9518L (ESP) D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.95,
+    "re_ohm": null,
+    "qms": 6.293,
+    "qes": 0.808,
+    "qts": 0.716,
+    "vas_l": 97.92,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 425.4,
+   "displacement_l": 12.46,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9518l-esp/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9518l-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15 1/2 in, Xmech 62 mm, voice coil 3.35 in published. T/S identical to 9518k (ESP) page. Converted from imperial as published: mounting depth 11.3125 in, cut-out 16.75 in, displacement 0.44 cu ft."
+  },
+  {
+   "model": "9518L (ESP) D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.95,
+    "re_ohm": null,
+    "qms": 6.293,
+    "qes": 0.808,
+    "qts": 0.716,
+    "vas_l": 97.92,
+    "sd_cm2": null,
+    "xmax_mm": 32.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 425.4,
+   "displacement_l": 12.46,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9500-series/subwoofers/power-tuned/9518l-esp/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9500-series/subwoofers/power-tuned/9518l-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15 1/2 in, Xmech 62 mm, voice coil 3.35 in published. T/S identical to 9518k (ESP) page. Converted from imperial as published: mounting depth 11.3125 in, cut-out 16.75 in, displacement 0.44 cu ft."
+  },
+  {
+   "model": "9912b (ESP) D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.63,
+    "re_ohm": null,
+    "qms": 5.398,
+    "qes": 0.377,
+    "qts": 0.352,
+    "vas_l": 23.63,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 246.1,
+   "cutout_mm": 309.6,
+   "displacement_l": 9.34,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9912b-esp/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9912b-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 9.69 in, cut-out 12.19 in, displacement 0.33 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  },
+  {
+   "model": "9912b (ESP) D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.63,
+    "re_ohm": null,
+    "qms": 5.398,
+    "qes": 0.377,
+    "qts": 0.352,
+    "vas_l": 23.63,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 246.1,
+   "cutout_mm": 309.6,
+   "displacement_l": 9.34,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9912b-esp/",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9912b-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 11 in, Xmech 62 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 9.69 in, cut-out 12.19 in, displacement 0.33 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  },
+  {
+   "model": "9915b (ESP) D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.32,
+    "re_ohm": null,
+    "qms": 6.551,
+    "qes": 0.426,
+    "qts": 0.4,
+    "vas_l": 54.38,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 261.9,
+   "cutout_mm": 385.8,
+   "displacement_l": 11.33,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9915b-esp/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9915b-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14.25 in, Xmech 62 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 10.31 in, cut-out 15.19 in, displacement 0.4 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  },
+  {
+   "model": "9915b (ESP) D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.32,
+    "re_ohm": null,
+    "qms": 6.551,
+    "qes": 0.426,
+    "qts": 0.4,
+    "vas_l": 54.38,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 261.9,
+   "cutout_mm": 385.8,
+   "displacement_l": 11.33,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9915b-esp/",
+     "note": "published as a range 3.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9915b-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 14.25 in, Xmech 62 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 10.31 in, cut-out 15.19 in, displacement 0.4 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  },
+  {
+   "model": "9918b (ESP) D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 2.265,
+    "qes": 0.5167,
+    "qts": 0.4705,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 301.6,
+   "cutout_mm": 425.4,
+   "displacement_l": 13.03,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9918b-esp/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9918b-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15.5 in, Xmech 60 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. DATA PROBLEM: same T/S as 9918c (Qts 0.4705 vs Qms/Qes); Fs/Vas identical to 9921b. Converted from imperial as published: mounting depth 11.875 in, cut-out 16.75 in, displacement 0.46 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  },
+  {
+   "model": "9918b (ESP) D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 2.265,
+    "qes": 0.5167,
+    "qts": 0.4705,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 301.6,
+   "cutout_mm": 425.4,
+   "displacement_l": 13.03,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9918b-esp/",
+     "note": "published as a range 5.0 to 6.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9918b-esp/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 15.5 in, Xmech 60 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. DATA PROBLEM: same T/S as 9918c (Qts 0.4705 vs Qms/Qes); Fs/Vas identical to 9921b. Converted from imperial as published: mounting depth 11.875 in, cut-out 16.75 in, displacement 0.46 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  },
+  {
+   "model": "9921b D1",
+   "size_in": 21,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 5.265,
+    "qes": 0.517,
+    "qts": 0.471,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 488.9,
+   "displacement_l": 15.57,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      169.9,
+      226.53
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9921b/",
+     "note": "published as a range 6.0 to 8.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9921b/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 18.25 in, Xmech 92 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 11.3125 in, cut-out 19.25 in, displacement 0.55 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  },
+  {
+   "model": "9921b D2",
+   "size_in": 21,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.24,
+    "re_ohm": null,
+    "qms": 5.265,
+    "qes": 0.517,
+    "qts": 0.471,
+    "vas_l": 161.9,
+    "sd_cm2": null,
+    "xmax_mm": 22.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 287.3,
+   "cutout_mm": 488.9,
+   "displacement_l": 15.57,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      169.9,
+      226.53
+     ],
+     "tuning_hz": null,
+     "source": "maker page https://ddaudio.com/9900-series/subwoofers/power-tuned/9921b/",
+     "note": "published as a range 6.0 to 8.0 cu ft"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/9900-series/subwoofers/power-tuned/9921b/",
+     "doc": "product page, Model Specs table (Product Archive, discontinued)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "One T/S set published for the model (applies to both coil options as printed; Re, Bl, Mms, Sd not published). ts_basis not stated. Piston diameter 18.25 in, Xmech 92 mm, voice coil 4 in published. RMS published as a range '1500 – 2500' W; the upper bound is entered as rms_w and the full range is in rms_range_w. Converted from imperial as published: mounting depth 11.3125 in, cut-out 19.25 in, displacement 0.55 cu ft.",
+   "rms_range_w": [
+    1500.0,
+    2500.0
+   ]
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "Z310 (ESP) 2024 (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z310-esp-2024/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z312 (ESP) 2024 (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z312-esp-2024/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z315 (ESP) 2024 (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z315-esp-2024/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z318 (ESP) 2024 (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z318-esp-2024/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z321 2024 (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z321-2024/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z412 (ESP) 2024 (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z412-esp-2024/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z415 (ESP) 2024 (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z415-esp-2024/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z418 (ESP) 2024 (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z418-esp-2024/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z421 2024 (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z421-2024/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (current)."
+  },
+  {
+   "model": "Z310 (ESP) (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z310-esp/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z312 (ESP) (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z312-esp/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z315 (ESP) (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z315-esp/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z318 (ESP) (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z318-esp/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z321 (D1 / D2)",
+   "rms_w": 4000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z321/",
+   "note": "4000 W RMS, peak 12000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z412 (ESP) (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z412-esp/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z415 (ESP) (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z415-esp/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z418 (ESP) (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z418-esp/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (discontinued)."
+  },
+  {
+   "model": "Z421 (D1 / D2)",
+   "rms_w": 6000.0,
+   "url": "https://ddaudio.com/z-series/subwoofers/power-tuned/z421/",
+   "note": "6000 W RMS, peak 18000 W; no T/S published on the maker page (discontinued)."
+  }
+ ]
+}

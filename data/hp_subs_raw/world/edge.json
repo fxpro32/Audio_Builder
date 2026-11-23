@@ -1,0 +1,63 @@
+{
+ "brand": "EDGE Car Audio",
+ "country": "United Kingdom",
+ "brand_url": "https://www.edgecaraudio.co.uk/ (UNVERIFIED URL; catalogues hosted on cdn.shopify.com)",
+ "terms_note": "Catalogue PDFs read 2026-11-22. Numbers only.",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "EDX12D1-E7",
+   "rms_w": 2500,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 2500 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 0.5 / 2 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDX15D1-E7",
+   "rms_w": 2500,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 2500 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 0.5 / 2 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDX18D1-E7",
+   "rms_w": 3000,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 3000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 0.5 / 2 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDX12D1SPL-E7",
+   "rms_w": 5000,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 5000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 0.5 / 2 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDX15D1SPL-E7",
+   "rms_w": 5000,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 5000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 0.5 / 2 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDX18D1SPL-E7",
+   "rms_w": 5000,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 5000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 0.5 / 2 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDS18D2-E7",
+   "rms_w": 2000,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 2 ohm, 2000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 1 / 4 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDS18D1-E7",
+   "rms_w": 2000,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+   "note": "EDGE 2019 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm (2019 catalogue lists D1/D2), 2000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads 0.5 / 2 ohm (calculated). Read 2026-11-22."
+  },
+  {
+   "model": "EDP122-E6 / EDP152SPL-E6",
+   "rms_w": null,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "2018 catalogue page 7 prints T/S blocks for EDP122-E6 (Recv 3.6 ohm, F0 49.5 Hz, Qts 0.464, Vas 9.739 L, BL 27.22 T m, Mms 334.435 g) and EDP152SPL-E6 (Recv 4 ohm, F0 40.2 Hz, Qts 0.499, Vas 24.728 L, BL 29.895 T m, Mms 480.851 g) next to power text '2500 W RMS' and '4000 W RMS', but the page layout does not make clear which power line belongs to which model, impedance is not printed, and Sd is printed as 47.144 / 73.062 cm2 (a factor 10 too small for 12/15 inch). Not recorded as drivers; values kept here for the PM."
+  }
+ ]
+}

@@ -1,0 +1,219 @@
+{
+ "brand": "ETON (ETON Soundsysteme GmbH)",
+ "country": "Germany",
+ "brand_url": "https://eton-audio.com",
+ "terms_note": "R4 2026-11-23: robots.txt allows product pages (disallows checkout, customer, search, etc.); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "ETON CXS28 +",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": null,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodym",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1340,
+    "re_ohm": 6.5,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 8.1,
+    "xmax_mm": null,
+    "mms_g": 0.26,
+    "bl_tm": null,
+    "le_mh": 0.03,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 15.5,
+   "cutout_mm": 44,
+   "frame_mm": 49,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/cxs28-plus.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "ETON CXS28+ 28 mm High Performance Hochtöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON GRAPHIT 28",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodym",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1090,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 8.1,
+    "xmax_mm": null,
+    "mms_g": 0.33,
+    "bl_tm": null,
+    "le_mh": 0.03,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 15.5,
+   "cutout_mm": 44,
+   "frame_mm": 49,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/graphit-28.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "ETON GRAPHIT 28 High End 28 mm (1 1/8\") Hochtöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON HEX 28",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": null,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 730,
+    "re_ohm": 3.6,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 9.5,
+    "xmax_mm": null,
+    "mms_g": 0.36,
+    "bl_tm": null,
+    "le_mh": 0.09,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 22.9,
+   "cutout_mm": 53,
+   "frame_mm": 60.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/hex-28.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "HEX 28 High-End 28 mm (1 1/8\") Hochtöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON RSC 25 TW",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1410,
+    "re_ohm": 3.8,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 6.8,
+    "xmax_mm": null,
+    "mms_g": 0.23,
+    "bl_tm": null,
+    "le_mh": 0.03,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 15.5,
+   "cutout_mm": 44,
+   "frame_mm": 49,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/rsc-25-tw.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "RSC 25 TW High-Performance 25 mm (1\") Hochtöner kaufen | ETON Audio"
+  }
+ ],
+ "no_specs_published": []
+}

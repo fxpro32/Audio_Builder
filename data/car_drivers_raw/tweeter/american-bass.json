@@ -1,0 +1,616 @@
+{
+ "brand": "American Bass",
+ "country": "USA",
+ "brand_url": "https://www.americanbassusa.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed, R3 local copy) + spec sheet PDFs on the maker CDN (11, 3 s apart). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "American Bass ABT-NDBC",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 150,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/abt-nd-bc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "ABT-NDBC Compression Super Tweeter | 150 Watts"
+  },
+  {
+   "model": "American Bass MX-251T",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 150,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/mx-251t-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Title says pair: power may be the pair rating as printed.",
+   "title": "MX 251T Tweeters (Pair)"
+  },
+  {
+   "model": "American Bass TW-05T",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/tw-05tv2",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Title says pair: power may be the pair rating as printed.",
+   "title": "TW-05 Titanium Bullet Tweeters, 150 Watts (Pair)"
+  },
+  {
+   "model": "American Bass MX-700CR",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 250,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3500,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/mx-700cr-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "MX 700CR Compression Super Tweeter, 250 Watts"
+  },
+  {
+   "model": "American Bass MX-444T",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/mx444t-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "MX 444 Compression Super Tweeter, 200 Watts"
+  },
+  {
+   "model": "American Bass MX-443T",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 200,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/mx-443t-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "MX 443 Compression Super Tweeter, 200 Watts"
+  },
+  {
+   "model": "American Bass MX-252T-BLK",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 150,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/mx-252t-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "MX 252 Compression Super Tweeter (Black), 150 Watts"
+  },
+  {
+   "model": "American Bass MX-250T",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 150,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    5000,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/mx-250t-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Title says pair: power may be the pair rating as printed.",
+   "title": "MX 250 Compression Super Tweeters, 150 Watts (Pair)"
+  },
+  {
+   "model": "American Bass SQ-T2",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1400,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/sq-t2-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Title says pair: power may be the pair rating as printed.",
+   "title": "SQ T2 Teteron Dome Tweeters, 120 Watts (Pair)"
+  },
+  {
+   "model": "American Bass SQ-T1",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 150,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/sq-t1-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Title says pair: power may be the pair rating as printed.",
+   "title": "SQ T1 Tweeters, 150 Watts (Pair)"
+  },
+  {
+   "model": "American Bass SQ-05T",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.americanbassusa.com/products/sq-05t-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Title says pair: power may be the pair rating as printed.",
+   "title": "SQ 05 Titanium Bullet Tweeters, 100 Watts (Pair)"
+  }
+ ],
+ "no_specs_published": []
+}

@@ -1,0 +1,480 @@
+{
+ "brand": "DLS Svenska",
+ "country": "Sweden",
+ "brand_url": "https://dls.se",
+ "terms_note": "R4 2026-11-23: robots.txt 'Allow: /'; product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "Cruise CRPP-TOT.25",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "1\"/25mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "tweeter_hp_hz": 4800.0,
+    "slope_db_oct": 12,
+    "note": "included crossover as printed: 4.8kHz 12dB/Oct"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-tot-25/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": [
+    "tweeter"
+   ]
+  },
+  {
+   "model": "Cruise CRPP-UT25",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "tweeter_hp_hz": 4800.0,
+    "slope_db_oct": 12,
+    "note": "included crossover as printed: 4.8kHz 12dB/Oct"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-ut25/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "Cruise CRPP-VO2.14",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "1\"/25mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "tweeter_hp_hz": 4800.0,
+    "slope_db_oct": 12,
+    "note": "included crossover as printed: 4.8kHz 12dB/Oct"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-vo2-14/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "Cruise CRPP-VO2.18",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "1\"/25mm",
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "tweeter_hp_hz": 4800.0,
+    "slope_db_oct": 12,
+    "note": "included crossover as printed: 4.8kHz 12dB/Oct"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-vo2-18/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "RC25",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1500,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 20,
+   "cutout_mm": 46,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/rc25/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 30,
+   "maker_tagline_type_words": [
+    "tweeter",
+    "kit"
+   ]
+  },
+  {
+   "model": "RC50",
+   "type": "tweeter",
+   "size_in": 2,
+   "size_label": "50 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 83.2,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    500,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 65,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/rc50/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 32,
+   "maker_tagline_type_words": [
+    "tweeter"
+   ]
+  },
+  {
+   "model": "Reference RCS25",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    27000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 18,
+   "cutout_mm": 46,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/reference-rcs25/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": [
+    "tweeter"
+   ]
+  },
+  {
+   "model": "Scandinavia 30",
+   "type": "tweeter",
+   "size_in": 1.18,
+   "size_label": "30 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 92.2,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1000,
+    30000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 18,
+   "cutout_mm": 53,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/scandinavia-30/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": [
+    "tweeter"
+   ]
+  }
+ ],
+ "no_specs_published": []
+}

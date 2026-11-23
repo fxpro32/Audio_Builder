@@ -1,0 +1,596 @@
+{
+ "brand": "Focal (Focal-JMlab)",
+ "country": "France",
+ "brand_url": "https://www.focal.com",
+ "terms_note": "R4 2026-11-23: robots.txt disallows only '/*query=*'; product pages and technical sheet PDFs read 3 s apart, one at a time. Numbers only; sheets and graphs not copied into the dataset.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "HDA 165 (hda-165-982013)",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "16.5 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 20,
+   "peak_w": 200,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 70,
+    "re_ohm": 3.5,
+    "qms": 7.5,
+    "qes": 1.03,
+    "qts": 0.9,
+    "vas_l": 8.9,
+    "sd_cm2": 136,
+    "xmax_mm": 3,
+    "mms_g": 14,
+    "bl_tm": 4.7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/hda-165-982013",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/7cefa7d24209dca0/original/FT_HDA165_982013-pdf.pdf",
+     "doc": "Technical Sheet (woofer)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown.",
+   "cone_material": "Aluminium",
+   "focal_product_type": null
+  },
+  {
+   "model": "IS TOY 165 TWU (is-toy-165-twu)",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "16.5 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 91.7,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 75,
+    "re_ohm": 3.3,
+    "qms": 5.87,
+    "qes": 0.986,
+    "qts": 0.84,
+    "vas_l": 8.2,
+    "sd_cm2": 136.85,
+    "xmax_mm": 3,
+    "mms_g": 13.7,
+    "bl_tm": 4.73,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/is-toy-165-twu",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/34ceaa3de22b7b3d/original/FT_ISTOY165-pdf.pdf",
+     "doc": "Technical Sheet (woofer)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "tweeter_part"
+     ],
+     "url": "https://dam.focal-naim.com/m/14fe1d403ebd7561/original/FT_TweeterTWU1-5-pdf.pdf",
+     "doc": "Technical Sheet (tweeter)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown. Vehicle-specific Focal Inside kit (fits the named vehicle brand).",
+   "cone_material": "Black",
+   "focal_product_type": null
+  },
+  {
+   "model": "IFR 130 (ifr-130-2)",
+   "type": "midbass",
+   "size_in": 5.25,
+   "size_label": "13 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 120,
+   "sensitivity_db": 91.8,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 96.03,
+    "re_ohm": 2.8,
+    "qms": 6.76,
+    "qes": 0.88,
+    "qts": 0.779,
+    "vas_l": 3.82,
+    "sd_cm2": 84.95,
+    "xmax_mm": 2.5,
+    "mms_g": 7.29,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/ifr-130-2",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/1974c50665ed51e1/original/FT_FocalMusicDrive_IFR130-2-pdf.pdf",
+     "doc": "Technical Sheet (woofer)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown. Vehicle-specific Focal Inside kit (fits the named vehicle brand).",
+   "cone_material": "Polyglass",
+   "focal_product_type": null
+  },
+  {
+   "model": "IFR 165 (ifr-165-2)",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "16.5 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 79.28,
+    "re_ohm": 3.5,
+    "qms": 7.94,
+    "qes": 1.04,
+    "qts": 0.92,
+    "vas_l": 7.44,
+    "sd_cm2": 1373,
+    "xmax_mm": 2.5,
+    "mms_g": 12.5,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/ifr-165-2",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/71f654f147a6202/original/FT_FocalMusicDrive_IFR165-2-pdf.pdf",
+     "doc": "Technical Sheet (woofer)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown. Vehicle-specific Focal Inside kit (fits the named vehicle brand).",
+   "cone_material": "Braided glass fiber",
+   "focal_product_type": null
+  },
+  {
+   "model": "IFR A165 (ifr-a165-41-ibus)",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "16.5 cm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 69.24,
+    "re_ohm": 2.7,
+    "qms": 9.53,
+    "qes": 0.79,
+    "qts": 0.73,
+    "vas_l": 10.65,
+    "sd_cm2": 132.73,
+    "xmax_mm": 2.75,
+    "mms_g": 12.27,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/ifr-a165-41-ibus",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/3fcdb7e3ad8120ca/original/FT_FocalMusicLive_IFR165-4-pdf.pdf",
+     "doc": "Technical Sheet (woofer)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown. Vehicle-specific Focal Inside kit (fits the named vehicle brand).",
+   "cone_material": "Polyglass",
+   "focal_product_type": null
+  },
+  {
+   "model": "165 W (165-w-rc)",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "16.5 cm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 160,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 60.85,
+    "re_ohm": 1.7,
+    "qms": 10.43,
+    "qes": 0.6,
+    "qts": 0.56,
+    "vas_l": 3.68,
+    "sd_cm2": 132.73,
+    "xmax_mm": null,
+    "mms_g": 17.49,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/165-w-rc",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/68c5744f52980b5e/original/165wrc_FT_Elite_6WRC-pdf.pdf",
+     "doc": "Technical Sheet (woofer)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown.",
+   "cone_material": "W",
+   "focal_product_type": null
+  },
+  {
+   "model": "IS RNI 690 (is-rni-690)",
+   "type": "midbass",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 160,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 57,
+    "re_ohm": null,
+    "qms": 8,
+    "qes": 0.81,
+    "qts": 0.74,
+    "vas_l": 24,
+    "sd_cm2": 210,
+    "xmax_mm": null,
+    "mms_g": 20,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "sensitivity_db",
+      "impedance_ohm",
+      "freq_range_hz",
+      "cutout_mm",
+      "mounting_depth_mm",
+      "magnet"
+     ],
+     "url": "https://www.focal.com/products/is-rni-690",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://dam.focal-naim.com/m/bc4f8f504adc9db/original/FT_ISRNI690-pdf.pdf",
+     "doc": "Technical Sheet (woofer)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference (V or W) on the page; basis unknown. Vehicle-specific Focal Inside kit (fits the named vehicle brand).",
+   "cone_material": "type Polyglass",
+   "focal_product_type": null
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "RSE 130",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/rse-130",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "RSE 165",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/rse-165",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "HDA 165",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/hda-165-2014-up",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "PC 130",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/pc-130",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "IS REN 130",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/is-ren-130",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "RCX",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/rcx-130",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "RCX",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/rcx-165",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "ES 130 K",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/es-130-k",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "EC 165 K",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/ec-165-k",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "ES 165 K",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/es-165-k",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "ES 165 K2",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/es-165-k2",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "ES 165 KX2",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/es-165-kx2",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "ES 165 KX3",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/es-165-kx3",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  },
+  {
+   "model": "IC REN 130",
+   "type": "midbass",
+   "url": "https://www.focal.com/products/ic-ren-130",
+   "note": "Product page has no specification list or technical sheet (older model); not read further."
+  }
+ ]
+}

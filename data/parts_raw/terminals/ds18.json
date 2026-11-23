@@ -1,0 +1,222 @@
+{
+ "schema": "parts_raw/1",
+ "category": "terminals",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, products.json (title, vendor field = model, body numbers); scripts/parts/build_ds18_accessories.py",
+ "terms_note": "Numbers only, URL per record; USD maker-store prices.",
+ "units": {
+  "length_m": "m (converted from feet)",
+  "awg_nominal_mm2": "mm2 for the stated AWG (ASTM B258 formula), NOT measured",
+  "actual_area_mm2_from_strands": "mm2 = strands x pi/4 x d^2 from the maker strand count"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 9,
+ "records": [
+  {
+   "id": "ds18-pi0-4",
+   "model": "PI0/4",
+   "title": "1/0-GA to 1/4-GA Amp Input Reducers with Offset Stub and Silicone Cover - BLACK/RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pi0-4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp input reducer",
+   "awg": [
+    "1/0",
+    "1/4"
+   ],
+   "pack_qty": null
+  },
+  {
+   "id": "ds18-pi4-8",
+   "model": "PI4/8",
+   "title": "1/4-GA to 1/8-GA Amp Input Reducers with Offset Stub and Silicone Cover - BLACK/RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pi4-8",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp input reducer",
+   "awg": [
+    "1/4",
+    "1/8"
+   ],
+   "pack_qty": null
+  },
+  {
+   "id": "ds18-pid0-4",
+   "model": "PID0/4",
+   "title": "Dual 1/0-GA to 1/4-GA Amp Input Reducers with Offset Stub and Silicone Cover - BLACK/RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pid0-4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp input reducer",
+   "awg": [
+    "1/0",
+    "1/4"
+   ],
+   "pack_qty": null
+  },
+  {
+   "id": "ds18-pid0-0",
+   "model": "PID0/0",
+   "title": "Dual 1/0-GA to 1/0-GA Amp Input Reducers with Offset Stub and Silicone Cover - BLACK/RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pid0-0",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp input reducer",
+   "awg": [
+    "1/0",
+    "1/0"
+   ],
+   "pack_qty": null
+  },
+  {
+   "id": "ds18-copper-cable-lugs-awg-6-10-pack",
+   "model": "CCL/6",
+   "title": "6-Ga Copper Ring Terminals Pack of 10",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/copper-cable-lugs-awg-6-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "ring terminal",
+   "awg": [
+    "6"
+   ],
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-dual-1-0-ga-to-1-0-ga-amp-input-reducers-with-offset-stub",
+   "model": "DPIV1/0",
+   "title": "Dual 1/0-GA to 1/0-GA Amp Input Reducers with Offset Stub",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dual-1-0-ga-to-1-0-ga-amp-input-reducers-with-offset-stub",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp input reducer",
+   "awg": [
+    "1/0",
+    "1/0"
+   ],
+   "pack_qty": null
+  },
+  {
+   "id": "ds18-copper-cable-lugs-awg-4-10-pack",
+   "model": "CCL/4",
+   "title": "4-Ga Copper Ring Terminals Pack of 10",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/copper-cable-lugs-awg-4-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "ring terminal",
+   "awg": [
+    "4"
+   ],
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-copper-cable-lugs-awg-1-0-10-pack",
+   "model": "CCL1/0",
+   "title": "1/0-Ga Copper Ring Terminals Pack of 10",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/copper-cable-lugs-awg-1-0-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "ring terminal",
+   "awg": [
+    "1/0"
+   ],
+   "pack_qty": 10
+  },
+  {
+   "id": "ds18-copper-cable-lugs-awg-2-0",
+   "model": "CCL2/0",
+   "title": "2/0-Ga Copper Ring Terminals Pack of 10",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/copper-cable-lugs-awg-2-0",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "ring terminal",
+   "awg": [
+    "2/0"
+   ],
+   "pack_qty": 10
+  }
+ ],
+ "not_recorded": []
+}

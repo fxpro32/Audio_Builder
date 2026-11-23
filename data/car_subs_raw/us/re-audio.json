@@ -1,0 +1,1086 @@
+{
+ "brand": "RE Audio",
+ "country": "USA",
+ "brand_url": "http://reaudio.com",
+ "terms_note": "R2 2026-11-23: 15 INFO sheets and 2 series pages read 4 s apart (A2's saved series pages re-used). Copyright notice only. Numbers only. | hp_subs_raw terms note: Static PHP site (no robots restrictions found on pages used); 6 pages/PDFs read 4-5 s apart. Copyright notice only. MX v2 (1700 W), XX v2 (1500 W), SXX v2 (1200 W) excluded.",
+ "coverage": "every T/S INFO sheet linked from the maker's Thiele-Small page (REX, SCX v2, SEX v2, SX, SXX v2, XX v2, XXX v2)",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/re-audio.json",
+ "drivers": [
+  {
+   "model": "XXX v2 12 D4 (XXX12D2/4 v2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 24.5366,
+    "re_ohm": 1.7431,
+    "qms": 6.5034,
+    "qes": 0.3151,
+    "qts": 0.3005,
+    "vas_l": 34.9421,
+    "sd_cm2": 483.05,
+    "xmax_mm": null,
+    "mms_g": 399.1306,
+    "bl_tm": 18.4497,
+    "le_mh": 2.0124,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 323.8,
+   "cutout_mm": null,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 65.61,
+     "tuning_hz": 30.74,
+     "source": "maker box design http://reaudio.com/products/BOX%20V2%20PDF/XXX%2012%20VENTED(1).pdf",
+     "note": "published as 2.317 cu ft; maker BassBox file, design 'VENTED(1)'; net Vb as printed"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/xxx12v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "ts_basis",
+      "recommended_boxes"
+     ],
+     "url": "http://reaudio.com/products/BOX%20V2%20PDF/XXX%2012%20VENTED(1).pdf",
+     "doc": "maker box design PDF (BassBox 6 export)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "mounting_depth_mm",
+      "displacement_l",
+      "coil"
+     ],
+     "url": "http://reaudio.com/products/woofers_xxx.php",
+     "doc": "XXX v2 series page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "The INFO sheet is titled 'XXX12D2/4 v2' and gives one T/S set; the maker's own box files use the same values as 'XXX 12 D4' with 'Dual voice coils = parallel' (2 ohm). So the set is entered for the D4 model wired in parallel. A D2 version exists (dual 2 ohm, 1 or 4 ohm final) but no separate T/S was found. Sd converted from mm2. Box files print Xmax 2.3 in (58 mm), implausible beside the sheet, not entered. Peak not published. Cut-out not published. Converted from imperial as published: mounting depth 12.75 in, displacement 0.24 cu ft.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "XXX v2 15 D4 (XXX15D2/4 v2)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 21.521,
+    "re_ohm": 1.7156,
+    "qms": 6.4006,
+    "qes": 0.3799,
+    "qts": 0.3586,
+    "vas_l": 108.662,
+    "sd_cm2": 829.58,
+    "xmax_mm": null,
+    "mms_g": 492.0586,
+    "bl_tm": 17.3341,
+    "le_mh": 2.0173,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 342.9,
+   "cutout_mm": null,
+   "displacement_l": 7.65,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 77.96,
+     "tuning_hz": 30.51,
+     "source": "maker box design http://reaudio.com/products/BOX%20V2%20PDF/XXX%2015%20VENTED(1).pdf",
+     "note": "published as 2.753 cu ft; maker BassBox file, design 'VENTED(1)'; net Vb as printed"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/xxx15v2_info%20(1).pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "ts_basis",
+      "recommended_boxes"
+     ],
+     "url": "http://reaudio.com/products/BOX%20V2%20PDF/XXX%2015%20VENTED(1).pdf",
+     "doc": "maker box design PDF (BassBox 6 export)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "mounting_depth_mm",
+      "displacement_l",
+      "coil"
+     ],
+     "url": "http://reaudio.com/products/woofers_xxx.php",
+     "doc": "XXX v2 series page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "The INFO sheet is titled 'XXX15D2/4 v2' and gives one T/S set; the maker's own box files use the same values as 'XXX 15 D4' with 'Dual voice coils = parallel' (2 ohm). So the set is entered for the D4 model wired in parallel. A D2 version exists (dual 2 ohm, 1 or 4 ohm final) but no separate T/S was found. Sd converted from mm2. Box files print Xmax 2.3 in (58 mm), implausible beside the sheet, not entered. Peak not published. Cut-out not published. Converted from imperial as published: mounting depth 13.5 in, displacement 0.27 cu ft.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "XXX v2 18 D4 (XXX18D2/4 v2)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 28.9352,
+    "re_ohm": 1.8805,
+    "qms": 5.4033,
+    "qes": 0.8015,
+    "qts": 0.698,
+    "vas_l": 96.4004,
+    "sd_cm2": 1256.64,
+    "xmax_mm": null,
+    "mms_g": 704.0347,
+    "bl_tm": 17.3291,
+    "le_mh": 2.0774,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 374.6,
+   "cutout_mm": null,
+   "displacement_l": 8.5,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 111.31,
+     "tuning_hz": 30.84,
+     "source": "maker box design http://reaudio.com/products/BOX%20V2%20PDF/XXX%2018%20VENTED(1).pdf",
+     "note": "published as 3.931 cu ft; maker BassBox file, design 'VENTED(1)'; net Vb as printed"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/xxx18v2_info%20(1).pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "ts_basis",
+      "recommended_boxes"
+     ],
+     "url": "http://reaudio.com/products/BOX%20V2%20PDF/XXX%2018%20VENTED(1).pdf",
+     "doc": "maker box design PDF (BassBox 6 export)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "mounting_depth_mm",
+      "displacement_l",
+      "coil"
+     ],
+     "url": "http://reaudio.com/products/woofers_xxx.php",
+     "doc": "XXX v2 series page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "The INFO sheet is titled 'XXX18D2/4 v2' and gives one T/S set; the maker's own box files use the same values as 'XXX 18 D4' with 'Dual voice coils = parallel' (2 ohm). So the set is entered for the D4 model wired in parallel. A D2 version exists (dual 2 ohm, 1 or 4 ohm final) but no separate T/S was found. Sd converted from mm2. Box files print Xmax 2.3 in (58 mm), implausible beside the sheet, not entered. Peak not published. Cut-out not published. Converted from imperial as published: mounting depth 14.75 in, displacement 0.3 cu ft.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "REX 10 (REX10S4)",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 24.354,
+    "re_ohm": 3.8253,
+    "qms": 6.0921,
+    "qes": 0.4917,
+    "qts": 0.455,
+    "vas_l": 57.2251,
+    "sd_cm2": 366.44,
+    "xmax_mm": null,
+    "mms_g": 142.3548,
+    "bl_tm": 13.0181,
+    "le_mh": 4.9677,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/rex10s4_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_rex.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'REX10S4'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "REX 12 (REX12S4)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 23.918,
+    "re_ohm": 3.6073,
+    "qms": 5.5583,
+    "qes": 0.6965,
+    "qts": 0.6189,
+    "vas_l": 97.3351,
+    "sd_cm2": 551.55,
+    "xmax_mm": null,
+    "mms_g": 196.5838,
+    "bl_tm": 12.3696,
+    "le_mh": 5.0172,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/rex12s4_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_rex.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'REX12S4'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "REX 8 (REX8S4)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 19.7995,
+    "re_ohm": 3.4625,
+    "qms": 5.2972,
+    "qes": 0.2592,
+    "qts": 0.2471,
+    "vas_l": 42.0246,
+    "sd_cm2": 221.67,
+    "xmax_mm": null,
+    "mms_g": 107.3275,
+    "bl_tm": 13.3559,
+    "le_mh": 6.5039,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/rex8s4_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_rex.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'REX8S4'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SCX v2 10 (SCX10D4 v2)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 450,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.6461,
+    "re_ohm": 1.8564,
+    "qms": 5.6059,
+    "qes": 0.602,
+    "qts": 0.5436,
+    "vas_l": 21.92,
+    "sd_cm2": 320.47,
+    "xmax_mm": null,
+    "mms_g": 205.4567,
+    "bl_tm": 10.6788,
+    "le_mh": 1.6085,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/scx10d4v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_scxv2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SCX10D4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SCX v2 12 (SCX12D4 v2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 450,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 24.6413,
+    "re_ohm": 1.7709,
+    "qms": 5.4888,
+    "qes": 0.6111,
+    "qts": 0.5499,
+    "vas_l": 52.6485,
+    "sd_cm2": 490.87,
+    "xmax_mm": null,
+    "mms_g": 271.2262,
+    "bl_tm": 11.031,
+    "le_mh": 1.5266,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/scx12d4v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_scxv2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SCX12D4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SEX v2 10 (SEX10D2/4 v2)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.0258,
+    "re_ohm": 1.4089,
+    "qms": 6.291,
+    "qes": 0.5825,
+    "qts": 0.5331,
+    "vas_l": 13.4504,
+    "sd_cm2": 323.65,
+    "xmax_mm": null,
+    "mms_g": 174.9258,
+    "bl_tm": 10.3155,
+    "le_mh": 1.3243,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/sex10v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_sex_v2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SEX10D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SEX v2 12 (SEX12D2/4 v2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.1905,
+    "re_ohm": 2.0205,
+    "qms": 6.1068,
+    "qes": 0.7807,
+    "qts": 0.6922,
+    "vas_l": 29.7814,
+    "sd_cm2": 490.87,
+    "xmax_mm": null,
+    "mms_g": 199.6134,
+    "bl_tm": 11.1338,
+    "le_mh": 1.7462,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/sex12v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_sex_v2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SEX12D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SEX v2 15 (SEX15D2/4 v2)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.5274,
+    "re_ohm": 1.3836,
+    "qms": 6.0943,
+    "qes": 0.8386,
+    "qts": 0.7371,
+    "vas_l": 71.5431,
+    "sd_cm2": 819.4,
+    "xmax_mm": null,
+    "mms_g": 339.7436,
+    "bl_tm": 10.5377,
+    "le_mh": 1.2727,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/sex15v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_sex_v2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SEX15D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SX 18 (SX18D2/4)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 45.0614,
+    "re_ohm": 1.9869,
+    "qms": 10.9125,
+    "qes": 1.6005,
+    "qts": 1.3958,
+    "vas_l": 50.0716,
+    "sd_cm2": 1164.16,
+    "xmax_mm": null,
+    "mms_g": 479.6518,
+    "bl_tm": 12.9841,
+    "le_mh": 2.2744,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/sx18_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SX18D2/4'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SXX v2 10 (SXX10D2/4 v2)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 55.4056,
+    "re_ohm": 2.0064,
+    "qms": 9.9219,
+    "qes": 0.797,
+    "qts": 0.7377,
+    "vas_l": 5.7484,
+    "sd_cm2": 323.65,
+    "xmax_mm": null,
+    "mms_g": 213.6061,
+    "bl_tm": 13.6821,
+    "le_mh": 2.5047,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/sxx10v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_sxx_v2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SXX10D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SXX v2 12 (SXX12D2/4 v2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 45.2057,
+    "re_ohm": 1.9909,
+    "qms": 9.2252,
+    "qes": 0.7601,
+    "qts": 0.7023,
+    "vas_l": 16.4359,
+    "sd_cm2": 483.05,
+    "xmax_mm": null,
+    "mms_g": 249.9838,
+    "bl_tm": 13.6372,
+    "le_mh": 1.9733,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/sxx12v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_sxx_v2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SXX12D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SXX v2 15 (SXX15D2/4 v2)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 44.6719,
+    "re_ohm": 2.0339,
+    "qms": 10.2197,
+    "qes": 0.9975,
+    "qts": 0.9088,
+    "vas_l": 37.125,
+    "sd_cm2": 829.58,
+    "xmax_mm": null,
+    "mms_g": 334.2579,
+    "bl_tm": 13.8311,
+    "le_mh": 2.268,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/sxx15v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_sxx_v2.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'SXX15D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XX v2 12 (XX12D2/4 v2)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.0985,
+    "re_ohm": 1.5185,
+    "qms": 6.0784,
+    "qes": 0.4214,
+    "qts": 0.394,
+    "vas_l": 32.7471,
+    "sd_cm2": 483.05,
+    "xmax_mm": null,
+    "mms_g": 376.4326,
+    "bl_tm": 14.915,
+    "le_mh": 1.9509,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/xx12v2_info.pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_xx.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'XX12D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XX v2 15 (XX15D2/4 v2)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 22.2341,
+    "re_ohm": 1.512,
+    "qms": 6.1385,
+    "qes": 0.4435,
+    "qts": 0.4136,
+    "vas_l": 101.7267,
+    "sd_cm2": 829.58,
+    "xmax_mm": null,
+    "mms_g": 492.4288,
+    "bl_tm": 15.3148,
+    "le_mh": 2.0787,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/xx15v2_info%20(1).pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_xx.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'XX15D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XX v2 18 (XX18D2/4 v2)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 20.5104,
+    "re_ohm": null,
+    "qms": 5.7597,
+    "qes": 0.5671,
+    "qts": 0.5163,
+    "vas_l": 172.2253,
+    "sd_cm2": 1256.64,
+    "xmax_mm": null,
+    "mms_g": 784.2916,
+    "bl_tm": 16.2424,
+    "le_mh": 1.7267,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "http://reaudio.com/THIELESPDF/xx18v2_info%20(1).pdf",
+     "doc": "maker INFO sheet (T/S)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w"
+     ],
+     "url": "http://reaudio.com/products/woofers_xx.php",
+     "doc": "series page (one Power Handling figure for the series)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title 'XX18D2/4 v2'. Sd converted from mm2 as printed. Series page gives one RMS figure for all sizes. Sheet covers both coil options (D2 and D4); ohms_per_coil left null because the measured option and wiring are not stated.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "XXX v2 12/15/18 D2",
+   "rms_w": 2000,
+   "url": "http://reaudio.com/products/woofers_xxx.php",
+   "note": "Dual 2 ohm variant; maker publishes one shared 'D2/4' T/S sheet, entered under D4 (see notes there).",
+   "source": "hp_subs_raw"
+  }
+ ]
+}

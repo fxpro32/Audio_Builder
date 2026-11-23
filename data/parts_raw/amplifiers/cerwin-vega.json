@@ -1,0 +1,4205 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "Cerwin-Vega Mobile",
+ "maker_site": "https://cerwinvega.com",
+ "method": "maker's own Shopify store, public products.json, body text and titles; numbers only (values parsed by scripts/parts/build_amps_shopify.py, spot-checked)",
+ "terms_note": "Numbers (facts) only with source URL; no text, images or PDFs copied. Store prices are USD maker-store prices on the read date.",
+ "units": {
+  "w_per_ch": "W RMS per channel",
+  "ohm": "ohm load per channel (bridged = load across the bridged pair)",
+  "dims_mm": "mm, converted from inches when published in inches"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 80,
+ "records": [
+  {
+   "id": "cerwin-vega-4-channel-1200w-bridgeable-class-d-amplifier-cvp1200-4d",
+   "model": "CVP1200.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CVP SERIES 4-Channel Class-AB Amplifier - CVP1200.4D",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-1200w-bridgeable-class-d-amplifier-cvp1200-4d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-1600w-bridgeable-class-d-amplifier-cvp1600-4d",
+   "model": "CVP1600.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CVP Series 4-Channel Full Range Class AB Amplifier - CVP1600.4D",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-1600w-bridgeable-class-d-amplifier-cvp1600-4d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-5-channel-2500w-bridgeable-class-d-amplifier-cvp2500-5d",
+   "model": "CVP2500.5D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CVP Series 5-Channel Class AB Full Range Amplifier - CVP2500.5D",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/5-channel-2500w-bridgeable-class-d-amplifier-cvp2500-5d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-single-channel-2000w-2-ohm-stable-class-d-monoblock",
+   "model": "CVP2000.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "1-Channel CVP Series Class AB Monoblock Amplifier - CVP2000.1D",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/single-channel-2000w-2-ohm-stable-class-d-monoblock",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-2-ohm-1600w-monoblock-amplifier",
+   "model": "CVP1600.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "1-Channel CVP Series  Class AB Monoblock Amplifier - CVP1600.1D",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/2-ohm-1600w-monoblock-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp1600.1d",
+     "model": "CVP1600.1D",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP1600.1D",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-cvp-mini-series-amplifier-cvpm10001d",
+   "model": "CVPM1000.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "1-Channel CVPM Mini-Series Mono Block Class-D Amplifier - CVPM1000.1D",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-cvp-mini-series-amplifier-cvpm10001d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-cvp-mini-series-amplifier-cvpm4004d",
+   "model": "CVPM400.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "4-Channel CVPM Mini-Series Full Range Class-D Amplifier - CVPM400.4D",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-cvp-mini-series-amplifier-cvpm4004d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-6-channel-full-range-digital-amplifier-with-2ch-dsp-output",
+   "model": "VCU86DSP",
+   "model_basis": "maker SKU",
+   "title": "6 Channel Full Range Digital Amplifier with 2CH DSP Output",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     265.7,
+     101.6,
+     36.1
+    ],
+    "as_published_in": [
+     10.46,
+     4.0,
+     1.42
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://cerwinvega.com/products/6-channel-full-range-digital-amplifier-with-2ch-dsp-output",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-built-in-digital-signal-processor-amplifier",
+   "model": "VCU84DSP",
+   "model_basis": "maker SKU",
+   "title": "4 Channel Built-in Digital Signal Processor Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     205.7,
+     101.6,
+     36.1
+    ],
+    "as_published_in": [
+     8.1,
+     4.0,
+     1.42
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-built-in-digital-signal-processor-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-5-channel-built-in-digital-signal-processor-amplifier",
+   "model": "VCU85DSP",
+   "model_basis": "maker SKU",
+   "title": "5 Channel Built-in Digital Signal Processor Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     245.6,
+     101.6,
+     36.1
+    ],
+    "as_published_in": [
+     9.67,
+     4.0,
+     1.42
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://cerwinvega.com/products/5-channel-built-in-digital-signal-processor-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-built-in-digital-signal-processor-amplifier",
+   "model": "VCU81DSP",
+   "model_basis": "maker SKU",
+   "title": "1 Channel Built-in Digital Signal Processor Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     205.7,
+     101.6,
+     36.1
+    ],
+    "as_published_in": [
+     8.1,
+     4.0,
+     1.42
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-built-in-digital-signal-processor-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-full-range-digital-amplifier",
+   "model": "VMAX300.4",
+   "model_basis": "maker SKU",
+   "title": "4 Channel Full Range High-Performance Digital Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-full-range-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-vmaxx-amplifier-vmax2200-1",
+   "model": "VMAX2200.1",
+   "model_basis": "maker SKU",
+   "title": "Monoblock High-Performance Digital Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     353.6,
+     170.2,
+     50.8
+    ],
+    "as_published_in": [
+     13.92,
+     6.7,
+     2.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-vmaxx-amplifier-vmax2200-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-monoblock-digital-amplifier",
+   "model": "VMAX3000.1",
+   "model_basis": "maker SKU",
+   "title": "Monoblock High-Performance Digital Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     393.7,
+     170.2,
+     50.8
+    ],
+    "as_published_in": [
+     15.5,
+     6.7,
+     2.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-monoblock-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-8-channel-160-x-8-at4o-rms-power-rpm-series-stroker-powered-amplifier",
+   "model": "SRPM1100.8DSP",
+   "model_basis": "maker SKU",
+   "title": "8-CHANNEL / 160 x 8 @4Ω RMS Power RPM SERIES STROKER-POWERED Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 8,
+   "rms_ratings": [
+    {
+     "w_per_ch": 160,
+     "channels": 8,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 4.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/8-channel-160-x-8-at4o-rms-power-rpm-series-stroker-powered-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "cerwin-vega-cvpmxe10",
+   "model": "CVPMXE10",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "10\" Dual XED Bass Package - CVPM Amplifier w/Vented Enclosure - CVPMXE10",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvpmxe10",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "bundle": true,
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cvpmxe12",
+   "model": "CVPMXE12",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "12\" Dual XED Bass Package - CVPM Amplifier w/Vented Enclosure - CVPMXE12",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvpmxe12",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "bundle": true,
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-xedbp10-xed-300w-rms-mono-amplifier-xe10dv-10-dual-vented",
+   "model": "XEDBP10",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "10\" XED Bass Package - XED 600W Amplifier & Vented Enclosure - XEDBP10",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/xedbp10-xed-300w-rms-mono-amplifier-xe10dv-10-dual-vented",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "bundle": true,
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-xedbp12-300w-rms-mono-amplifier-xe12dv-dual-12-subwoofer",
+   "model": "XEDBP12",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "12\" XED Bass Package - XED 600W Amplifier w/Vented Enclosure - XEDBP12",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/xedbp12-300w-rms-mono-amplifier-xe12dv-dual-12-subwoofer",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "bundle": true,
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cvp3600-1-cvp-performance-3600w-max-1-ch-small-amplifier",
+   "model": "CVP3600.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP3600.1 CVP Series 1-Channel Class-D Monoblock Amplifier 3600W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvp3600-1-cvp-performance-3600w-max-1-ch-small-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp3600.1",
+     "model": "CVP3600.1",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP3600.1",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cvp2700-5-cvp-performance-2700w-max-5-ch-small-amplifier",
+   "model": "CVP2700.5",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP2700.5 CVP Series 5-Channel Class-D Amplifier 2700W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvp2700-5-cvp-performance-2700w-max-5-ch-small-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp2700.5",
+     "model": "CVP2700.5",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP2700.5",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cvp2400-4-cvp-performance-1400w-max-4-ch-small-amplifier",
+   "model": "CVP2400.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP2400.4 CVP Series 4-Channel Class-D Amplifier 2400W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvp2400-4-cvp-performance-1400w-max-4-ch-small-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp2400.4",
+     "model": "CVP2400.4",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP2400.4",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cvp2400-1-cvp-performance-2400w-max-1-ch-small-amplifier",
+   "model": "CVP2400.1",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP2400.1 CVP Series 1-Channel Class-D Monoblock Amplifier 2400W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvp2400-1-cvp-performance-2400w-max-1-ch-small-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp2400.1",
+     "model": "CVP2400.1",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP2400.1",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cvp1400-4-cvp-performance-1400w-max-4-ch-small-amplifier",
+   "model": "CVP1400.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP1400.4 CVP Series 4-Channel Class-D Amplifier 1400W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvp1400-4-cvp-performance-1400w-max-4-ch-small-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp1400.4",
+     "model": "CVP1400.4",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP1400.4",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cvp700-2",
+   "model": "CVP700.2",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP700.2 CVP Series 2-Channel Class-D Amplifier 700W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cvp700-2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp700.2",
+     "model": "CVP700.2",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP700.2",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-amplifier-b51",
+   "model": "B51",
+   "model_basis": "maker SKU (series page)",
+   "title": "Cerwin Vega Stealth Bomber Amplifier / B51",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "series_listing": true,
+   "sources": [
+    {
+     "fields": [
+      "model code"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "series page listing several models; values not assigned per model (see the model's own page / manual)",
+   "notes": "",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-amplifier-b52",
+   "model": "B52",
+   "model_basis": "maker SKU (series page)",
+   "title": "Cerwin Vega Stealth Bomber Amplifier / B52",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "series_listing": true,
+   "sources": [
+    {
+     "fields": [
+      "model code"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "series page listing several models; values not assigned per model (see the model's own page / manual)",
+   "notes": "",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-amplifier-b54",
+   "model": "B54",
+   "model_basis": "maker SKU (series page)",
+   "title": "Cerwin Vega Stealth Bomber Amplifier / B54",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "series_listing": true,
+   "sources": [
+    {
+     "fields": [
+      "model code"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "series page listing several models; values not assigned per model (see the model's own page / manual)",
+   "notes": "",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-amplifier-b55",
+   "model": "B55",
+   "model_basis": "maker SKU (series page)",
+   "title": "Cerwin Vega Stealth Bomber Amplifier / B55",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "series_listing": true,
+   "sources": [
+    {
+     "fields": [
+      "model code"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "series page listing several models; values not assigned per model (see the model's own page / manual)",
+   "notes": "",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stroker-amplifier-s91100.5d",
+   "model": "S91100.5D",
+   "model_basis": "maker SKU (series page)",
+   "title": "Cerwin Vega - Stroker Amplifier / S91100.5D",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "series_listing": true,
+   "sources": [
+    {
+     "fields": [
+      "model code"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "series page listing several models; values not assigned per model (see the model's own page / manual)",
+   "notes": "",
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stroker-pro-amplifier",
+   "model": "SPRO2100.1D",
+   "model_basis": "maker SKU",
+   "title": "Cerwin Vega Stroker Pro Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-pro-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/spro2100-1d-stroker-pro-2100w-class-d-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-spro2100-1d-stroker-pro-2100w-class-d-mono-amplifier",
+     "model": "SPRO2100.1D",
+     "title": "Cerwin Vega SPRO2100.1D Stroker Pro Series 1-Channel Class-D Monoblock Amplifier 2100W",
+     "url": "https://cerwinvega.com/products/spro2100-1d-stroker-pro-2100w-class-d-mono-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-full-range-class-d-monoblock-cvp-pro-amplifier-cvpro5k",
+   "model": "CVPRO5K",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVPRO5K CVPRO Series 1-Channel Class-D Monoblock Amplifier 5000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/full-range-class-d-monoblock-cvp-pro-amplifier-cvpro5k",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-pro-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-pro-amplifiers-cvpro5k",
+     "model": "CVPRO5K",
+     "title": "CVP Pro Amplifiers / CVPRO5K",
+     "url": "https://cerwinvega.com/products/cvp-pro-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-hed-6-channel-digital-amplifier",
+   "model": "H900.6D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega H900.6D HED Series 6-Channel Class-D Amplifier 900W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/hed-6-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/hed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-hed-amplifiers-h900.6d",
+     "model": "H900.6D",
+     "title": "Cerwin Vega HED Series Amplifiers / H900.6D",
+     "url": "https://cerwinvega.com/products/hed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-h800-5d-hed-5-channel-digital-amplifier",
+   "model": "H800.5D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega H800.5D HED Series 5-Channel Class-D Amplifier 800W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/h800-5d-hed-5-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/hed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-hed-amplifiers-h800.5d",
+     "model": "H800.5D",
+     "title": "Cerwin Vega HED Series Amplifiers / H800.5D",
+     "url": "https://cerwinvega.com/products/hed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cerwing-vega-mobile-h440-4d",
+   "model": "H440.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega H440.4D HED Series 4-Channel Class-D Amplifier 440W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/cerwing-vega-mobile-h440-4d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/hed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-hed-amplifiers-h440.4d",
+     "model": "H440.4D",
+     "title": "Cerwin Vega HED Series Amplifiers / H440.4D",
+     "url": "https://cerwinvega.com/products/hed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1500w-hed-monoblock-series-class-d-amplifier",
+   "model": "H1500.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega H1500.1D HED Series 1-Channel Class-D Monoblock Amplifier 1500W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1500w-hed-monoblock-series-class-d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/hed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-hed-amplifiers-h1500.1d",
+     "model": "H1500.1D",
+     "title": "Cerwin Vega HED Series Amplifiers / H1500.1D",
+     "url": "https://cerwinvega.com/products/hed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1000w-monoblock-class-d-amplifier",
+   "model": "H1000.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega H1000.1D HED Series 1-Channel Class-D Monoblock Amplifier 1000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1000w-monoblock-class-d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/hed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-hed-amplifiers-h1000.1d",
+     "model": "H1000.1D",
+     "title": "Cerwin Vega HED Series Amplifiers / H1000.1D",
+     "url": "https://cerwinvega.com/products/hed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cerwin-vega-mobile-bkx212s",
+   "model": "BKX212S",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "12\" Dual XED Series Sealed Enclosure & Amplifier Bass Package - BKX212S",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [],
+     "url": "https://cerwinvega.com/products/cerwin-vega-mobile-bkx212s",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "bundle": true,
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-h400-2d-2-channel-digital-amplifier",
+   "model": "H400.2D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega H400.2D HED Series 2-Channel Class-D Amplifier 400W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/h400-2d-2-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/hed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-hed-amplifiers-h400.2d",
+     "model": "H400.2D",
+     "title": "Cerwin Vega HED Series Amplifiers / H400.2D",
+     "url": "https://cerwinvega.com/products/hed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-h800-4d-hed-4-channel-digital-amplifier",
+   "model": "H800.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega H800.4D HED Series 4-Channel Class-D Amplifier 800W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/h800-4d-hed-4-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/hed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-hed-amplifiers-h800.4d",
+     "model": "H800.4D",
+     "title": "Cerwin Vega HED Series Amplifiers / H800.4D",
+     "url": "https://cerwinvega.com/products/hed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-full-range-class-d-4-channel-amplifier-cvpro2k4",
+   "model": "CVPRO2K4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVPRO2K4 CVPRO Series 4-Channel Full Range Class D Amplifier 2000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/full-range-class-d-4-channel-amplifier-cvpro2k4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-pro-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-pro-amplifiers-cvpro2k4",
+     "model": "CVPRO2K4",
+     "title": "CVP Pro Amplifiers / CVPRO2K4",
+     "url": "https://cerwinvega.com/products/cvp-pro-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-monoblock-amplifier-single-channel-cvp3000-1d",
+   "model": "CVP3000.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP3000.1D CVP Series 1-Channel Class AB Monoblock Amplifier 3000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/monoblock-amplifier-single-channel-cvp3000-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp3000.1d",
+     "model": "CVP3000.1D",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP3000.1D",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-2-channel-800w-bridgeable-class-d-amplifier",
+   "model": "CVP800.2D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVP800.2D CVP Series 2-Channel Class AB Full Range Amplifier 800W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/2-channel-800w-bridgeable-class-d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-amplifiers-cvp800.2d",
+     "model": "CVP800.2D",
+     "title": "Cerwin Vega CVP Series Amplifiers / CVP800.2D",
+     "url": "https://cerwinvega.com/products/cvp-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-full-range-class-d-monoblock-cvp-pro-amplifier-cvpro3k",
+   "model": "CVPRO3K",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega CVPRO3K CVPRO Series 1-Channel Class-D Monoblock Amplifier 3000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/full-range-class-d-monoblock-cvp-pro-amplifier-cvpro3k",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-pro-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-cvp-pro-amplifiers-cvpro3k",
+     "model": "CVPRO3K",
+     "title": "CVP Pro Amplifiers / CVPRO3K",
+     "url": "https://cerwinvega.com/products/cvp-pro-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-xed-series-amplifier-300w-max-xed3001d",
+   "model": "XED3001D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED3001D XED Series 1-Channel Class-D Monoblock Amplifier 300W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-xed-series-amplifier-300w-max-xed3001d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed3001d",
+     "model": "XED3001D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED3001D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-xed-series-amplifier-600w-max-xed6001d",
+   "model": "XED6001D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED6001D XED Series 1-Channel Class-D Monoblock Amplifier 600W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-xed-series-amplifier-600w-max-xed6001d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed6001d",
+     "model": "XED6001D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED6001D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-xed-series-amplifier-800w-max-xed8001d",
+   "model": "XED8001D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED8001D XED Series 1-Channel Class-D Monoblock Amplifier 800W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-xed-series-amplifier-800w-max-xed8001d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed8001d",
+     "model": "XED8001D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED8001D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-xed-series-amplifier-1100w-max-xed11001d",
+   "model": "XED11001D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED11001D XED Series 1-Channel Class-D Monoblock Amplifier 1100W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-xed-series-amplifier-1100w-max-xed11001d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed11001d",
+     "model": "XED11001D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED11001D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-2-channel-xed-series-amplifier-300w-max-xed3002d",
+   "model": "XED3002D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED3002D XED Series 2-Channel Full Range Class-D Amplifier 300W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/2-channel-xed-series-amplifier-300w-max-xed3002d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed3002d",
+     "model": "XED3002D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED3002D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-xed-series-amplifier-400w-max-xed4004d",
+   "model": "XED4004D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED4004D XED Series 4-Channel Full Range Class-D Amplifier 400W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-xed-series-amplifier-400w-max-xed4004d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed4004d",
+     "model": "XED4004D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED4004D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-xed-series-480w-4-channel-amplifier",
+   "model": "XED6004D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED6004D XED Series 4-Channel Full Range Class-D Amplifier 600W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/xed-series-480w-4-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed6004d",
+     "model": "XED6004D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED6004D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-5-channel-class-d-amplifier",
+   "model": "XED8005D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega XED8005D XED Series 5-Channel Class-D Amplifier 1000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/5-channel-class-d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/xed-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-xed-amplifiers-xed8005d",
+     "model": "XED8005D",
+     "title": "Cerwin Vega XED Series Amplifiers / XED8005D",
+     "url": "https://cerwinvega.com/products/xed-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-waterproof-1-channel-350w-marine-grade-class-d",
+   "model": "HRPM350.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega HRPM350.1D RPM HED Series 1-Channel Marine Grade Class D Monoblock Amplifier 350W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/waterproof-1-channel-350w-marine-grade-class-d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-hed-marine-amplifiers-hrpm350.1d",
+     "model": "HRPM350.1D",
+     "title": "Cerwin Vega RPM HED Marine Amplifiers / HRPM350.1D",
+     "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-waterproof-360w-4-channel-marine-grade-class-d-amplifier",
+   "model": "HRPM360.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega HRPM360.4D RPM HED Series 4-Channel Marine Grade Class D Amplifier 600W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/waterproof-360w-4-channel-marine-grade-class-d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-hed-marine-amplifiers-hrpm360.4d",
+     "model": "HRPM360.4D",
+     "title": "Cerwin Vega RPM HED Marine Amplifiers / HRPM360.4D",
+     "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-vega-900w-full-range-class-d-digital-6-channel-amplifier",
+   "model": "VCU86",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega VCU86 Vega Series 6-Channel Class-D Amplifier 900W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/vega-900w-full-range-class-d-digital-6-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/vega-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-vega-amplifier-vcu86",
+     "model": "VCU86",
+     "title": "Cerwin Vega VEGA Series Amplifier / VCU86",
+     "url": "https://cerwinvega.com/products/vega-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-300w-2-channel-marine-grade-amplifer-with-bass-knob",
+   "model": "HRPM300.2D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega HRPM300.2D RPM HED Series 2-Channel Marine Grade Class D Amplifier 500W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/300w-2-channel-marine-grade-amplifer-with-bass-knob",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-hed-marine-amplifiers-hrpm300.2d",
+     "model": "HRPM300.2D",
+     "title": "Cerwin Vega RPM HED Marine Amplifiers / HRPM300.2D",
+     "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stroker-500w-full-range-class-d-digital-2-channel-amplifier",
+   "model": "S9500.2D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega S9500.2D Stroker Series 2-Channel Class-D Amplifier 500W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-500w-full-range-class-d-digital-2-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-stroker-amplifier-s9500.2d",
+     "model": "S9500.2D",
+     "title": "Cerwin Vega - Stroker Amplifier / S9500.2D",
+     "url": "https://cerwinvega.com/products/stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-digital-amplifier",
+   "model": "S9600.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega S9600.4D Stroker Series 4-Channel Class-D Amplifier 600W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-stroker-amplifier-s9600.4d",
+     "model": "S9600.4D",
+     "title": "Cerwin Vega - Stroker Amplifier / S9600.4D",
+     "url": "https://cerwinvega.com/products/stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stroker-500w-full-range-class-d-digital-mono-amplifier",
+   "model": "S9750.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega S9750.1D Stroker Series 1-Channel Class-D Monoblock Amplifier 750W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-500w-full-range-class-d-digital-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-stroker-amplifier-s9750.1d",
+     "model": "S9750.1D",
+     "title": "Cerwin Vega - Stroker Amplifier / S9750.1D",
+     "url": "https://cerwinvega.com/products/stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stroker-1000w-full-range-class-d-digital-mono-amplifier",
+   "model": "S91000.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega S91000.1D Stroker Series 1-Channel Class-D Monoblock Amplifier 1000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-1000w-full-range-class-d-digital-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-stroker-amplifier-s91000.1d",
+     "model": "S91000.1D",
+     "title": "Cerwin Vega - Stroker Amplifier / S91000.1D",
+     "url": "https://cerwinvega.com/products/stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-5-channel-digital-amplifier",
+   "model": "S9110.5D",
+   "model_basis": "title (store SKU differs: S91100.5D)",
+   "title": "Cerwin Vega S9110.5D Stroker Series 5-Channel Class-D Amplifier 1100W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/5-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-rpm-stroker-600w-full-range-4-channel-class-d-amplifier",
+   "model": "SRPM700.4DW",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM700.4DW SRPM Stroker Series 4-Channel Class-D Amplifier 700W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-600w-full-range-4-channel-class-d-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.4dw",
+     "model": "SRPM700.4DW",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.4DW",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-700w-stroker-marine-digital-amplifier",
+   "model": "SRPM700.4D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM700.4D SRPM Stroker Series 4-Channel Class-D Amplifier 700W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-700w-stroker-marine-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.4d",
+     "model": "SRPM700.4D",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.4D",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-vega-950w-full-range-class-d-digital-5-channel-amplifier",
+   "model": "VCU85",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega VCU85 Vega Series 5-Channel Class-D Amplifier 950W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/vega-950w-full-range-class-d-digital-5-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/vega-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-vega-amplifier-vcu85",
+     "model": "VCU85",
+     "title": "Cerwin Vega VEGA Series Amplifier / VCU85",
+     "url": "https://cerwinvega.com/products/vega-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-4-channel-800w-micro-series-digital-amplifier",
+   "model": "VCU84",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega VCU84 Vega Series 4-Channel Class-D Amplifier 600W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/4-channel-800w-micro-series-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/vega-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-vega-amplifier-vcu84",
+     "model": "VCU84",
+     "title": "Cerwin Vega VEGA Series Amplifier / VCU84",
+     "url": "https://cerwinvega.com/products/vega-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-2-channel-800w-micro-series-digital-amplifier",
+   "model": "VCU82",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega VCU82 Vega Series 2-Channel Class-D Amplifier 500W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/2-channel-800w-micro-series-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/vega-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-vega-amplifier-vcu82",
+     "model": "VCU82",
+     "title": "Cerwin Vega VEGA Series Amplifier / VCU82",
+     "url": "https://cerwinvega.com/products/vega-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1-channel-600w-micro-series-digital-amplifier",
+   "model": "VCU81",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega VCU81 Vega Series 1-Channel Class-D Monoblock Amplifier 500W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1-channel-600w-micro-series-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/vega-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-vega-amplifier-vcu81",
+     "model": "VCU81",
+     "title": "Cerwin Vega VEGA Series Amplifier / VCU81",
+     "url": "https://cerwinvega.com/products/vega-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-rpm-stroker-750w-full-range-digital-amplifier-white",
+   "model": "SRPM750.1DW",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM750.1DW SRPM Stroker Series 1-Channel Class-D Monoblock Amplifier 750W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-750w-full-range-digital-amplifier-white",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm750.1dw",
+     "model": "SRPM750.1DW",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM750.1DW",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-rpm-stroker-750w-full-range-class-d-mono-digital-amplifier",
+   "model": "SRPM750.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM750.1D SRPM Stroker Series 1-Channel Class-D Monoblock Amplifier 750W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-750w-full-range-class-d-mono-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm750.1d",
+     "model": "SRPM750.1D",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM750.1D",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-rpm-stroker-700w-full-range-2-channel-amplifier-white",
+   "model": "SRPM700.2DW",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM700.2DW SRPM Stroker Series 2-Channel Class-D Amplifier 700W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-700w-full-range-2-channel-amplifier-white",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.2dw",
+     "model": "SRPM700.2DW",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.2DW",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-700rms-2-channel-stroker-series-marine-digital-amplifier",
+   "model": "SRPM700.2D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM700.2D SRPM Stroker Series 2-Channel Class-D Amplifier 700W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/700rms-2-channel-stroker-series-marine-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.2d",
+     "model": "SRPM700.2D",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.2D",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1100-rms-5-channel-class-d-marine-and-powersports-amplifier",
+   "model": "SRPM1100.5DW",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM1100.5DW SRPM Stroker Series 5-Channel Class-D Amplifier 1100W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1100-rms-5-channel-class-d-marine-and-powersports-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm1100.5dw",
+     "model": "SRPM1100.5DW",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1100.5DW",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-1100-rms-5-channel-class-d-marine-and-powersport-amplifier",
+   "model": "SRPM1100.5D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM1100.5D SRPM Stroker Series 5-Channel Class-D Amplifier 1100W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/1100-rms-5-channel-class-d-marine-and-powersport-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm1100.5d",
+     "model": "SRPM1100.5D",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1100.5D",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-rpm-stroker-1000w-class-d-mono-digital-amplifier-white",
+   "model": "SRPM1000.1DW",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM1000.1DW SRPM Stroker Series 1-Channel Class-D Monoblock Amplifier 1000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-1000w-class-d-mono-digital-amplifier-white",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm1000.1dw",
+     "model": "SRPM1000.1DW",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1000.1DW",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-rpm-stroker-1000w-full-range-class-d-mono-digital-amplifier",
+   "model": "SRPM1000.1D",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega SRPM1000.1D SRPM Stroker Series 1-Channel Class-D Monoblock Amplifier 1000W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-1000w-full-range-class-d-mono-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (variants)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "variants": [
+    {
+     "id": "cerwin-vega-rpm-stroker-amplifier-srpm1000.1d",
+     "model": "SRPM1000.1D",
+     "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1000.1D",
+     "url": "https://cerwinvega.com/products/rpm-stroker-amplifier"
+    }
+   ],
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-cerwin-vega-bkx212v",
+   "model": "BKX212V",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "12\" Dual XED Series Vented Enclosure & Amplifier Bass Package - BKX212V",
+   "status": "listed on maker store 2026-11-23",
+   "class": null,
+   "channels": null,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [],
+     "url": "https://cerwinvega.com/products/cerwin-vega-bkx212v",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; class not stated in store text",
+   "bundle": true,
+   "quality_issues": [
+    "channels_null",
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-950w-5-channel-digital-amplifier",
+   "model": "B55",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega B55 Stealth Bomber Series 5-Channel Class-D Amplifier 950W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-950w-5-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-600w-full-range-4-channel-amplifier",
+   "model": "B54",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega B54 Stealth Bomber Series 4-Channel Class-D Amplifier 600W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-600w-full-range-4-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-500w-full-range-class-d-2-channel-digital-amplifier",
+   "model": "B52",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega B52 Stealth Bomber Series 2-Channel Class-D Amplifier 500W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-500w-full-range-class-d-2-channel-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "cerwin-vega-stealth-bomber-500w-full-range-mono-digital-amplifier",
+   "model": "B51",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Cerwin Vega B51 Stealth Bomber Series 1-Channel Class-D Monoblock Amplifier 500W",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://cerwinvega.com/products/stealth-bomber-500w-full-range-mono-digital-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://cerwinvega.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  }
+ ],
+ "not_recorded": [
+  {
+   "title": "Cerwin Vega CV4-18H CV4 Series 4-Channel Power Amplifier 4x820W @ 4Ω 2x1820W Bridged",
+   "reason": "not a car amplifier (accessory, home / pro-audio / mains amplifier)"
+  },
+  {
+   "title": "Cerwin Vega CV4-8H CV4 Series 4-Channel Power Amplifier 4x490W @ 4Ω 2x1420W Bridged",
+   "reason": "not a car amplifier (accessory, home / pro-audio / mains amplifier)"
+  },
+  {
+   "title": "Cerwin Vega CV2-46H CV2 Series 2-Channel Power Amplifier 2x1810W @ 4Ω 3820W Bridged",
+   "reason": "not a car amplifier (accessory, home / pro-audio / mains amplifier)"
+  },
+  {
+   "title": "Cerwin Vega CV2-33H CV2 Series 2-Channel Power Amplifier 2x1370W @ 4Ω 2880W Bridged",
+   "reason": "not a car amplifier (accessory, home / pro-audio / mains amplifier)"
+  },
+  {
+   "title": "Cerwin Vega CV2-22H CV2 Series 2-Channel Power Amplifier 2x1070W @ 4Ω 2260W Bridged",
+   "reason": "not a car amplifier (accessory, home / pro-audio / mains amplifier)"
+  },
+  {
+   "title": "CVP Pro Amplifiers / CVPRO2K4",
+   "id": "cerwin-vega-cvp-pro-amplifiers-cvpro2k4",
+   "url": "https://cerwinvega.com/products/cvp-pro-amplifiers",
+   "reason": "duplicate listing of CVPRO2K4 (colour / variant / repeat), merged into cerwin-vega-full-range-class-d-4-channel-amplifier-cvpro2k4"
+  },
+  {
+   "title": "CVP Pro Amplifiers / CVPRO3K",
+   "id": "cerwin-vega-cvp-pro-amplifiers-cvpro3k",
+   "url": "https://cerwinvega.com/products/cvp-pro-amplifiers",
+   "reason": "duplicate listing of CVPRO3K (colour / variant / repeat), merged into cerwin-vega-full-range-class-d-monoblock-cvp-pro-amplifier-cvpro3k"
+  },
+  {
+   "title": "CVP Pro Amplifiers / CVPRO5K",
+   "id": "cerwin-vega-cvp-pro-amplifiers-cvpro5k",
+   "url": "https://cerwinvega.com/products/cvp-pro-amplifiers",
+   "reason": "duplicate listing of CVPRO5K (colour / variant / repeat), merged into cerwin-vega-full-range-class-d-monoblock-cvp-pro-amplifier-cvpro5k"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1000.1D",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm1000.1d",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM1000.1D (colour / variant / repeat), merged into cerwin-vega-rpm-stroker-1000w-full-range-class-d-mono-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1000.1DW",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm1000.1dw",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM1000.1DW (colour / variant / repeat), merged into cerwin-vega-rpm-stroker-1000w-class-d-mono-digital-amplifier-white"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1100.5D",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm1100.5d",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM1100.5D (colour / variant / repeat), merged into cerwin-vega-1100-rms-5-channel-class-d-marine-and-powersport-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM1100.5DW",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm1100.5dw",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM1100.5DW (colour / variant / repeat), merged into cerwin-vega-1100-rms-5-channel-class-d-marine-and-powersports-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.2D",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.2d",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM700.2D (colour / variant / repeat), merged into cerwin-vega-700rms-2-channel-stroker-series-marine-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.2DW",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.2dw",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM700.2DW (colour / variant / repeat), merged into cerwin-vega-rpm-stroker-700w-full-range-2-channel-amplifier-white"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.4D",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.4d",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM700.4D (colour / variant / repeat), merged into cerwin-vega-4-channel-700w-stroker-marine-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM700.4DW",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm700.4dw",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM700.4DW (colour / variant / repeat), merged into cerwin-vega-rpm-stroker-600w-full-range-4-channel-class-d-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM750.1D",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm750.1d",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM750.1D (colour / variant / repeat), merged into cerwin-vega-rpm-stroker-750w-full-range-class-d-mono-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM Stroker Amplifier / SRPM750.1DW",
+   "id": "cerwin-vega-rpm-stroker-amplifier-srpm750.1dw",
+   "url": "https://cerwinvega.com/products/rpm-stroker-amplifier",
+   "reason": "duplicate listing of SRPM750.1DW (colour / variant / repeat), merged into cerwin-vega-rpm-stroker-750w-full-range-digital-amplifier-white"
+  },
+  {
+   "title": "Cerwin Vega HED Series Amplifiers / H1000.1D",
+   "id": "cerwin-vega-hed-amplifiers-h1000.1d",
+   "url": "https://cerwinvega.com/products/hed-amplifiers",
+   "reason": "duplicate listing of H1000.1D (colour / variant / repeat), merged into cerwin-vega-1000w-monoblock-class-d-amplifier"
+  },
+  {
+   "title": "Cerwin Vega HED Series Amplifiers / H1500.1D",
+   "id": "cerwin-vega-hed-amplifiers-h1500.1d",
+   "url": "https://cerwinvega.com/products/hed-amplifiers",
+   "reason": "duplicate listing of H1500.1D (colour / variant / repeat), merged into cerwin-vega-1500w-hed-monoblock-series-class-d-amplifier"
+  },
+  {
+   "title": "Cerwin Vega HED Series Amplifiers / H400.2D",
+   "id": "cerwin-vega-hed-amplifiers-h400.2d",
+   "url": "https://cerwinvega.com/products/hed-amplifiers",
+   "reason": "duplicate listing of H400.2D (colour / variant / repeat), merged into cerwin-vega-h400-2d-2-channel-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega HED Series Amplifiers / H440.4D",
+   "id": "cerwin-vega-hed-amplifiers-h440.4d",
+   "url": "https://cerwinvega.com/products/hed-amplifiers",
+   "reason": "duplicate listing of H440.4D (colour / variant / repeat), merged into cerwin-vega-cerwing-vega-mobile-h440-4d"
+  },
+  {
+   "title": "Cerwin Vega HED Series Amplifiers / H800.4D",
+   "id": "cerwin-vega-hed-amplifiers-h800.4d",
+   "url": "https://cerwinvega.com/products/hed-amplifiers",
+   "reason": "duplicate listing of H800.4D (colour / variant / repeat), merged into cerwin-vega-h800-4d-hed-4-channel-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega HED Series Amplifiers / H800.5D",
+   "id": "cerwin-vega-hed-amplifiers-h800.5d",
+   "url": "https://cerwinvega.com/products/hed-amplifiers",
+   "reason": "duplicate listing of H800.5D (colour / variant / repeat), merged into cerwin-vega-h800-5d-hed-5-channel-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega HED Series Amplifiers / H900.6D",
+   "id": "cerwin-vega-hed-amplifiers-h900.6d",
+   "url": "https://cerwinvega.com/products/hed-amplifiers",
+   "reason": "duplicate listing of H900.6D (colour / variant / repeat), merged into cerwin-vega-hed-6-channel-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED11001D",
+   "id": "cerwin-vega-xed-amplifiers-xed11001d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED11001D (colour / variant / repeat), merged into cerwin-vega-1-channel-xed-series-amplifier-1100w-max-xed11001d"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED3001D",
+   "id": "cerwin-vega-xed-amplifiers-xed3001d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED3001D (colour / variant / repeat), merged into cerwin-vega-1-channel-xed-series-amplifier-300w-max-xed3001d"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED3002D",
+   "id": "cerwin-vega-xed-amplifiers-xed3002d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED3002D (colour / variant / repeat), merged into cerwin-vega-2-channel-xed-series-amplifier-300w-max-xed3002d"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED4004D",
+   "id": "cerwin-vega-xed-amplifiers-xed4004d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED4004D (colour / variant / repeat), merged into cerwin-vega-4-channel-xed-series-amplifier-400w-max-xed4004d"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED6001D",
+   "id": "cerwin-vega-xed-amplifiers-xed6001d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED6001D (colour / variant / repeat), merged into cerwin-vega-1-channel-xed-series-amplifier-600w-max-xed6001d"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED6004D",
+   "id": "cerwin-vega-xed-amplifiers-xed6004d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED6004D (colour / variant / repeat), merged into cerwin-vega-xed-series-480w-4-channel-amplifier"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED8001D",
+   "id": "cerwin-vega-xed-amplifiers-xed8001d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED8001D (colour / variant / repeat), merged into cerwin-vega-1-channel-xed-series-amplifier-800w-max-xed8001d"
+  },
+  {
+   "title": "Cerwin Vega XED Series Amplifiers / XED8005D",
+   "id": "cerwin-vega-xed-amplifiers-xed8005d",
+   "url": "https://cerwinvega.com/products/xed-amplifiers",
+   "reason": "duplicate listing of XED8005D (colour / variant / repeat), merged into cerwin-vega-5-channel-class-d-amplifier"
+  },
+  {
+   "title": "Cerwin Vega VEGA Series Amplifier / VCU81",
+   "id": "cerwin-vega-vega-amplifier-vcu81",
+   "url": "https://cerwinvega.com/products/vega-amplifier",
+   "reason": "duplicate listing of VCU81 (colour / variant / repeat), merged into cerwin-vega-1-channel-600w-micro-series-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega VEGA Series Amplifier / VCU82",
+   "id": "cerwin-vega-vega-amplifier-vcu82",
+   "url": "https://cerwinvega.com/products/vega-amplifier",
+   "reason": "duplicate listing of VCU82 (colour / variant / repeat), merged into cerwin-vega-2-channel-800w-micro-series-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega VEGA Series Amplifier / VCU84",
+   "id": "cerwin-vega-vega-amplifier-vcu84",
+   "url": "https://cerwinvega.com/products/vega-amplifier",
+   "reason": "duplicate listing of VCU84 (colour / variant / repeat), merged into cerwin-vega-4-channel-800w-micro-series-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega VEGA Series Amplifier / VCU85",
+   "id": "cerwin-vega-vega-amplifier-vcu85",
+   "url": "https://cerwinvega.com/products/vega-amplifier",
+   "reason": "duplicate listing of VCU85 (colour / variant / repeat), merged into cerwin-vega-vega-950w-full-range-class-d-digital-5-channel-amplifier"
+  },
+  {
+   "title": "Cerwin Vega VEGA Series Amplifier / VCU86",
+   "id": "cerwin-vega-vega-amplifier-vcu86",
+   "url": "https://cerwinvega.com/products/vega-amplifier",
+   "reason": "duplicate listing of VCU86 (colour / variant / repeat), merged into cerwin-vega-vega-900w-full-range-class-d-digital-6-channel-amplifier"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP1400.4",
+   "id": "cerwin-vega-cvp-amplifiers-cvp1400.4",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP1400.4 (colour / variant / repeat), merged into cerwin-vega-cvp1400-4-cvp-performance-1400w-max-4-ch-small-amplifier"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP1600.1D",
+   "id": "cerwin-vega-cvp-amplifiers-cvp1600.1d",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP1600.1D (colour / variant / repeat), merged into cerwin-vega-2-ohm-1600w-monoblock-amplifier"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP2400.1",
+   "id": "cerwin-vega-cvp-amplifiers-cvp2400.1",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP2400.1 (colour / variant / repeat), merged into cerwin-vega-cvp2400-1-cvp-performance-2400w-max-1-ch-small-amplifier"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP2400.4",
+   "id": "cerwin-vega-cvp-amplifiers-cvp2400.4",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP2400.4 (colour / variant / repeat), merged into cerwin-vega-cvp2400-4-cvp-performance-1400w-max-4-ch-small-amplifier"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP2700.5",
+   "id": "cerwin-vega-cvp-amplifiers-cvp2700.5",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP2700.5 (colour / variant / repeat), merged into cerwin-vega-cvp2700-5-cvp-performance-2700w-max-5-ch-small-amplifier"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP3000.1D",
+   "id": "cerwin-vega-cvp-amplifiers-cvp3000.1d",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP3000.1D (colour / variant / repeat), merged into cerwin-vega-monoblock-amplifier-single-channel-cvp3000-1d"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP3600.1",
+   "id": "cerwin-vega-cvp-amplifiers-cvp3600.1",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP3600.1 (colour / variant / repeat), merged into cerwin-vega-cvp3600-1-cvp-performance-3600w-max-1-ch-small-amplifier"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP700.2",
+   "id": "cerwin-vega-cvp-amplifiers-cvp700.2",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP700.2 (colour / variant / repeat), merged into cerwin-vega-cvp700-2"
+  },
+  {
+   "title": "Cerwin Vega CVP Series Amplifiers / CVP800.2D",
+   "id": "cerwin-vega-cvp-amplifiers-cvp800.2d",
+   "url": "https://cerwinvega.com/products/cvp-amplifiers",
+   "reason": "duplicate listing of CVP800.2D (colour / variant / repeat), merged into cerwin-vega-2-channel-800w-bridgeable-class-d-amplifier"
+  },
+  {
+   "title": "Cerwin Vega RPM HED Marine Amplifiers / HRPM300.2D",
+   "id": "cerwin-vega-rpm-hed-marine-amplifiers-hrpm300.2d",
+   "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers",
+   "reason": "duplicate listing of HRPM300.2D (colour / variant / repeat), merged into cerwin-vega-300w-2-channel-marine-grade-amplifer-with-bass-knob"
+  },
+  {
+   "title": "Cerwin Vega RPM HED Marine Amplifiers / HRPM350.1D",
+   "id": "cerwin-vega-rpm-hed-marine-amplifiers-hrpm350.1d",
+   "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers",
+   "reason": "duplicate listing of HRPM350.1D (colour / variant / repeat), merged into cerwin-vega-waterproof-1-channel-350w-marine-grade-class-d"
+  },
+  {
+   "title": "Cerwin Vega RPM HED Marine Amplifiers / HRPM360.4D",
+   "id": "cerwin-vega-rpm-hed-marine-amplifiers-hrpm360.4d",
+   "url": "https://cerwinvega.com/products/rpm-hed-marine-amplifiers",
+   "reason": "duplicate listing of HRPM360.4D (colour / variant / repeat), merged into cerwin-vega-waterproof-360w-4-channel-marine-grade-class-d-amplifier"
+  },
+  {
+   "title": "Cerwin Vega - Stroker Amplifier / S91000.1D",
+   "id": "cerwin-vega-stroker-amplifier-s91000.1d",
+   "url": "https://cerwinvega.com/products/stroker-amplifier",
+   "reason": "duplicate listing of S91000.1D (colour / variant / repeat), merged into cerwin-vega-stroker-1000w-full-range-class-d-digital-mono-amplifier"
+  },
+  {
+   "title": "Cerwin Vega - Stroker Amplifier / S9500.2D",
+   "id": "cerwin-vega-stroker-amplifier-s9500.2d",
+   "url": "https://cerwinvega.com/products/stroker-amplifier",
+   "reason": "duplicate listing of S9500.2D (colour / variant / repeat), merged into cerwin-vega-stroker-500w-full-range-class-d-digital-2-channel-amplifier"
+  },
+  {
+   "title": "Cerwin Vega - Stroker Amplifier / S9600.4D",
+   "id": "cerwin-vega-stroker-amplifier-s9600.4d",
+   "url": "https://cerwinvega.com/products/stroker-amplifier",
+   "reason": "duplicate listing of S9600.4D (colour / variant / repeat), merged into cerwin-vega-4-channel-digital-amplifier"
+  },
+  {
+   "title": "Cerwin Vega - Stroker Amplifier / S9750.1D",
+   "id": "cerwin-vega-stroker-amplifier-s9750.1d",
+   "url": "https://cerwinvega.com/products/stroker-amplifier",
+   "reason": "duplicate listing of S9750.1D (colour / variant / repeat), merged into cerwin-vega-stroker-500w-full-range-class-d-digital-mono-amplifier"
+  },
+  {
+   "title": "Cerwin Vega SPRO2100.1D Stroker Pro Series 1-Channel Class-D Monoblock Amplifier 2100W",
+   "id": "cerwin-vega-spro2100-1d-stroker-pro-2100w-class-d-mono-amplifier",
+   "url": "https://cerwinvega.com/products/spro2100-1d-stroker-pro-2100w-class-d-mono-amplifier",
+   "reason": "duplicate listing of SPRO2100.1D (colour / variant / repeat), merged into cerwin-vega-stroker-pro-amplifier"
+  }
+ ]
+}

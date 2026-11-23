@@ -1,0 +1,3 @@
+{ "id": "example-b-low-qts-12in", "brand": "Example", "model": "B low-Qts 12in (assumed values)",
+  "params": { "fs": 36, "Re": 3.5, "Qms": 6.0, "Qes": 0.38, "Vas": 0.03, "Sd": 0.0507, "Xmax": 0.012, "Znom": 4, "dia": 0.31, "cutout": 0.28, "depth": 0.17, "displacement": 0.004 },
+  "sources": [{ "param": "*", "source": "references/research_c_design_maths_part2.md §1.4 Driver B", "where": "assumed values (Xmax, sizes added for the demo), not a real product" }] }

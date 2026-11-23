@@ -1,0 +1,356 @@
+{
+ "brand": "Rockford Fosgate",
+ "country": "USA",
+ "brand_url": "https://rockfordfosgate.com",
+ "terms_note": "R4 2026-11-23: robots.txt 'Disallow:' (empty, all allowed); product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "Rockford Fosgate P1T-S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25.4 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3500,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 13,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": null,
+    "note": "maker 'Crossover' as printed: High-Pass (HP): 3.5KHz @ 12dB/octave Butterworth"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p1t-s/",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "Punch 1&quot; Series Tweeter Kit (pair) | P1T-S"
+  },
+  {
+   "model": "Rockford Fosgate P1T",
+   "type": "tweeter",
+   "size_in": 0.75,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    4000,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p1t/",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "P1T .75&quot; Tweeter Kit"
+  },
+  {
+   "model": "Rockford Fosgate R1T-S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25.4 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": 80,
+   "sensitivity_db": 72.5,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2500,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 19.3,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 4500.0,
+    "note": "maker 'Crossover' as printed: Tweeter High-Pass (HP): 4.5kHz @ 6dB/octave"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r1t-s/",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "Prime 1&quot; Tweeter Kit (pair) | R1T-S"
+  },
+  {
+   "model": "Rockford Fosgate T1T-S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25.4 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 150,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 23,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Crossover' as printed: High-Pass (HP): 3.0kHz @ 18dB/octave Butterworth"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t1t-s/",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "Power 1&quot; Tweeter Kit (pr)"
+  },
+  {
+   "model": "Rockford Fosgate T1T",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    4000,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": null,
+    "note": "maker 'Crossover' as printed: High-Pass (HP): 24dB"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t1t/",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "T1T .75&quot; Tweeter Kit"
+  },
+  {
+   "model": "Rockford Fosgate T2T-S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25.4 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 150,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 23,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Crossover' as printed: High-Pass (HP): 3.0kHz @ 18dB/octave Butterworth"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t2t-s/",
+     "doc": "product page, Specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "Power 1&quot; Aluminum Tweeter Kit (pr)"
+  }
+ ],
+ "no_specs_published": []
+}

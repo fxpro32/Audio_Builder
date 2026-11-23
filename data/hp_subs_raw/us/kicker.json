@@ -1,0 +1,1073 @@
+{
+ "brand": "KICKER (Stillwater Designs)",
+ "country": "USA",
+ "brand_url": "https://www.kicker.com",
+ "terms_note": "robots.txt: Allow / (only /cart/ and one script disallowed). Footer has Terms & Conditions and a Copyright and Trademark Notice (not read in full). Pages read 4-5 s apart. Numbers only.",
+ "drivers": [
+  {
+   "model": "L7X SoloX 10 D1 (49L7X101)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43.1,
+    "re_ohm": 1.91,
+    "qms": 8.743,
+    "qes": 0.501,
+    "qts": 0.474,
+    "vas_l": 6.7928,
+    "sd_cm2": 380.25,
+    "xmax_mm": 31.25,
+    "mms_g": 410.19,
+    "bl_tm": 20.609,
+    "le_mh": null,
+    "spl_db_1w1m": 82.39,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 240,
+   "cutout_mm": 237.0,
+   "displacement_l": 5.09,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 56.6,
+     "tuning_hz": 31,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X101.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 82.58 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7X SoloX 10 D2 (49L7X102)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.6,
+    "re_ohm": 3.56,
+    "qms": 7.522,
+    "qes": 0.5,
+    "qts": 0.469,
+    "vas_l": 8.6702,
+    "sd_cm2": 380.25,
+    "xmax_mm": 31.25,
+    "mms_g": 381.211,
+    "bl_tm": 25.991,
+    "le_mh": null,
+    "spl_db_1w1m": 82.35,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 240,
+   "cutout_mm": 237.0,
+   "displacement_l": 5.09,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 56.6,
+     "tuning_hz": 31,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X102.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 82.86 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7X SoloX 12 D1 (49L7X121)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.3,
+    "re_ohm": 1.825,
+    "qms": 8.947,
+    "qes": 0.5155,
+    "qts": 0.487,
+    "vas_l": 18.0484,
+    "sd_cm2": 585.64,
+    "xmax_mm": 31.25,
+    "mms_g": 419.6845,
+    "bl_tm": 19.3945,
+    "le_mh": null,
+    "spl_db_1w1m": 85.63,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 257.0,
+   "cutout_mm": 281.0,
+   "displacement_l": 5.38,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 84.9,
+     "tuning_hz": 31,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X121.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 86.03 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7X SoloX 12 D2 (49L7X122)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41.6,
+    "re_ohm": 3.595,
+    "qms": 7.275,
+    "qes": 0.5435,
+    "qts": 0.506,
+    "vas_l": 18.3618,
+    "sd_cm2": 585.64,
+    "xmax_mm": 31.25,
+    "mms_g": 387.1865,
+    "bl_tm": 25.871,
+    "le_mh": null,
+    "spl_db_1w1m": 85.885,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 257.0,
+   "cutout_mm": 281.0,
+   "displacement_l": 5.38,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 84.9,
+     "tuning_hz": 31,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X122.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 86.35 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7X SoloX 15 D1 (49L7X151)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.3,
+    "re_ohm": 1.89,
+    "qms": 8.252,
+    "qes": 0.613,
+    "qts": 0.57,
+    "vas_l": 42.105,
+    "sd_cm2": 961.01,
+    "xmax_mm": 31.25,
+    "mms_g": 598.093,
+    "bl_tm": 20.482,
+    "le_mh": null,
+    "spl_db_1w1m": 87.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 293.0,
+   "cutout_mm": 349.0,
+   "displacement_l": 5.94,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 141.6,
+     "tuning_hz": 30,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X151.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 87.26 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7X SoloX 15 D2 (49L7X152)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.4,
+    "re_ohm": 3.575,
+    "qms": 7.39,
+    "qes": 0.6895,
+    "qts": 0.631,
+    "vas_l": 44.798,
+    "sd_cm2": 961.01,
+    "xmax_mm": 31.25,
+    "mms_g": 557.7175,
+    "bl_tm": 25.7225,
+    "le_mh": null,
+    "spl_db_1w1m": 86.815,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 293.0,
+   "cutout_mm": 349.0,
+   "displacement_l": 5.94,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 141.6,
+     "tuning_hz": 30,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X152.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 87.295 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7X SoloX 18 D1 (49L7X181)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.9,
+    "re_ohm": 1.845,
+    "qms": 7.0165,
+    "qes": 0.6055,
+    "qts": 0.5575,
+    "vas_l": 125.93455,
+    "sd_cm2": 1406.25,
+    "xmax_mm": 31.25,
+    "mms_g": 800.7905,
+    "bl_tm": 20.3575,
+    "le_mh": null,
+    "spl_db_1w1m": 87.995,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 335.0,
+   "cutout_mm": 420,
+   "displacement_l": 10.19,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 214.5,
+     "tuning_hz": 28,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X181.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 88.335 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7X SoloX 18 D2 (49L7X182)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.9,
+    "re_ohm": 3.55,
+    "qms": 6.605,
+    "qes": 0.7025,
+    "qts": 0.6345,
+    "vas_l": 113.94675,
+    "sd_cm2": 1406.25,
+    "xmax_mm": 31.25,
+    "mms_g": 749.0225,
+    "bl_tm": 26.2455,
+    "le_mh": null,
+    "spl_db_1w1m": 87.94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 335.0,
+   "cutout_mm": 420,
+   "displacement_l": 10.19,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 214.5,
+     "tuning_hz": 28,
+     "source": "maker manual 49L7X.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/49L7X182.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49L7X.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 88.455 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored.",
+   "rms_range_w": [
+    1000,
+    2000
+   ]
+  },
+  {
+   "model": "L7XS SoloX-S 12 D1 (52L7XS121)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.8,
+    "re_ohm": 2.08,
+    "qms": 4.371,
+    "qes": 0.497,
+    "qts": 0.4465,
+    "vas_l": 17.89565,
+    "sd_cm2": 625.0,
+    "xmax_mm": 43.0,
+    "mms_g": 612.687,
+    "bl_tm": 23.9945,
+    "le_mh": null,
+    "spl_db_1w1m": 84.015,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 257.0,
+   "cutout_mm": 281.0,
+   "displacement_l": 5.38,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 84.9,
+     "tuning_hz": 31,
+     "source": "maker manual 52L7XS.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/52L7XS121.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/52L7XS.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 83.85 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored. L7XS manual prints the same cutout and mounting depth as L7X for 12/15/18 (possible copy; check).",
+   "rms_range_w": [
+    1500,
+    3000
+   ]
+  },
+  {
+   "model": "L7XS SoloX-S 12 D2 (52L7XS122)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.95,
+    "re_ohm": 3.64,
+    "qms": 4.114,
+    "qes": 0.5765,
+    "qts": 0.5055,
+    "vas_l": 18.01585,
+    "sd_cm2": 625.0,
+    "xmax_mm": 43.0,
+    "mms_g": 602.6835,
+    "bl_tm": 29.3005,
+    "le_mh": null,
+    "spl_db_1w1m": 83.46,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 257.0,
+   "cutout_mm": 281.0,
+   "displacement_l": 5.38,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 84.9,
+     "tuning_hz": 31,
+     "source": "maker manual 52L7XS.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/52L7XS122.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/52L7XS.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 83.87 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored. L7XS manual prints the same cutout and mounting depth as L7X for 12/15/18 (possible copy; check).",
+   "rms_range_w": [
+    1500,
+    3000
+   ]
+  },
+  {
+   "model": "L7XS SoloX-S 15 D1 (52L7XS151)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.75,
+    "re_ohm": 2.07,
+    "qms": 4.263,
+    "qes": 0.562,
+    "qts": 0.4965,
+    "vas_l": 40.5033,
+    "sd_cm2": 961.0,
+    "xmax_mm": 43.0,
+    "mms_g": 813.8665,
+    "bl_tm": 24.446,
+    "le_mh": null,
+    "spl_db_1w1m": 85.46,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 293.0,
+   "cutout_mm": 349.0,
+   "displacement_l": 5.94,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 141.6,
+     "tuning_hz": 30,
+     "source": "maker manual 52L7XS.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/52L7XS151.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/52L7XS.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 85.305 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored. L7XS manual prints the same cutout and mounting depth as L7X for 12/15/18 (possible copy; check).",
+   "rms_range_w": [
+    1500,
+    3000
+   ]
+  },
+  {
+   "model": "L7XS SoloX-S 15 D2 (52L7XS152)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.4,
+    "re_ohm": 3.625,
+    "qms": 4.2425,
+    "qes": 0.695,
+    "qts": 0.597,
+    "vas_l": 39.90155,
+    "sd_cm2": 961.0,
+    "xmax_mm": 43.0,
+    "mms_g": 792.8655,
+    "bl_tm": 29.037,
+    "le_mh": null,
+    "spl_db_1w1m": 84.745,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 293.0,
+   "cutout_mm": 349.0,
+   "displacement_l": 5.94,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 141.6,
+     "tuning_hz": 30,
+     "source": "maker manual 52L7XS.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/52L7XS152.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/52L7XS.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 85.17 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored. L7XS manual prints the same cutout and mounting depth as L7X for 12/15/18 (possible copy; check).",
+   "rms_range_w": [
+    1500,
+    3000
+   ]
+  },
+  {
+   "model": "L7XS SoloX-S 18 D1 (52L7XS181)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.05,
+    "re_ohm": 2.025,
+    "qms": 4.042,
+    "qes": 0.492,
+    "qts": 0.439,
+    "vas_l": 77.76615,
+    "sd_cm2": 1521.0,
+    "xmax_mm": 49.1,
+    "mms_g": 1184.2695,
+    "bl_tm": 30.317,
+    "le_mh": null,
+    "spl_db_1w1m": 88.34,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 335.0,
+   "cutout_mm": 420,
+   "displacement_l": 10.19,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 214.5,
+     "tuning_hz": 28,
+     "source": "maker manual 52L7XS.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/52L7XS181.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/52L7XS.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 88.285 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored. DATA PROBLEM: T/S page gives Xmax 49.1 mm; the manual gives 43.1 mm for all L7XS sizes. L7XS manual prints the same cutout and mounting depth as L7X for 12/15/18 (possible copy; check).",
+   "rms_range_w": [
+    2000,
+    4000
+   ]
+  },
+  {
+   "model": "L7XS SoloX-S 18 D2 (52L7XS182)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.15,
+    "re_ohm": 3.54,
+    "qms": 3.985,
+    "qes": 0.581,
+    "qts": 0.507,
+    "vas_l": 80.45075,
+    "sd_cm2": 1521.0,
+    "xmax_mm": 43.1,
+    "mms_g": 1135.479,
+    "bl_tm": 36.2245,
+    "le_mh": null,
+    "spl_db_1w1m": 87.82,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 335.0,
+   "cutout_mm": 420,
+   "displacement_l": 10.19,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 214.5,
+     "tuning_hz": 28,
+     "source": "maker manual 52L7XS.pdf p.10",
+     "note": "published as Recommended Vented Box Volume (L as printed); port displacement excluded per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.kicker.com/app/tsparam/52L7XS182.html",
+     "doc": "KICKER Thiele/Small Parameters page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "rms_range_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l",
+      "recommended_boxes",
+      "coil",
+      "final_loads_ohm"
+     ],
+     "url": "https://www.kicker.com/files/manuals/52L7XS.pdf",
+     "doc": "Owner's Manual",
+     "page": "4, 5, 10",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker rates 'Recommended Amplifier Power' as a range; upper bound entered as rms_w, full range in rms_range_w. spl_db_1w1m = maker 'Lm' (SPL at 1 m for 1 W at Re); maker also gives Lnom 88.355 dB at nominal impedance. ts_basis not stated; Re about twice the nominal coil impedance suggests coils in series (inference). Le given only as a Wright model, not stored. Maker T/S page labels this row 'Xmas' (typo for Xmax). L7XS manual prints the same cutout and mounting depth as L7X for 12/15/18 (possible copy; check).",
+   "rms_range_w": [
+    2000,
+    4000
+   ]
+  }
+ ],
+ "no_ts_published": []
+}

@@ -1,0 +1,467 @@
+{
+ "brand": "B2 Audio",
+ "country": "Denmark",
+ "brand_url": "https://www.b2audio.com",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart (A2 read the same site for subs). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "B2 Audio Rage CFM 8P",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 93.8,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    10000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 78,
+    "re_ohm": null,
+    "qms": 12.4,
+    "qes": 1.15,
+    "qts": 1.05,
+    "vas_l": 14.74,
+    "sd_cm2": 206,
+    "xmax_mm": null,
+    "mms_g": 16.8,
+    "bl_tm": null,
+    "le_mh": 0.59,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/rage-cfm-8p/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 7.3 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.6 %.",
+   "magnet_as_printed": "Ferrite",
+   "cone_material": "Coated Carbonfiber",
+   "voice_coil_as_printed": "1.5\""
+  },
+  {
+   "model": "B2 Audio Rage6P",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 250,
+   "sensitivity_db": 95.7,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    90,
+    6000
+   ],
+   "magnet": "ccar",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 94,
+    "re_ohm": null,
+    "qms": 13.5,
+    "qes": 0.65,
+    "qts": 0.62,
+    "vas_l": 5.4,
+    "sd_cm2": 145.7,
+    "xmax_mm": null,
+    "mms_g": 16,
+    "bl_tm": null,
+    "le_mh": 1.5,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/rage6p/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 14.4 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.7 %.",
+   "magnet_as_printed": "CCAR",
+   "cone_material": "30",
+   "voice_coil_as_printed": "Winding Material / Type:"
+  },
+  {
+   "model": "B2 Audio Rage8P",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 99.7,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    87,
+    10000
+   ],
+   "magnet": "neo / ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 87,
+    "re_ohm": null,
+    "qms": 11.025,
+    "qes": 0.256,
+    "qts": 0.251,
+    "vas_l": 14.69,
+    "sd_cm2": 226,
+    "xmax_mm": null,
+    "mms_g": 16.4,
+    "bl_tm": null,
+    "le_mh": 0.303,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/rage8p/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 35.28 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 3.74%.",
+   "magnet_as_printed": "Neo / Ferrite",
+   "cone_material": "UV Treated weatherproof paper",
+   "voice_coil_as_printed": "2.4\""
+  },
+  {
+   "model": "B2 Audio Rage CFM 6P",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 250,
+   "sensitivity_db": 90.2,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    90,
+    8000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 120,
+    "re_ohm": null,
+    "qms": 12.44,
+    "qes": 1.9,
+    "qts": 1.64,
+    "vas_l": 3,
+    "sd_cm2": 132.7,
+    "xmax_mm": null,
+    "mms_g": 14.6,
+    "bl_tm": null,
+    "le_mh": 0.51,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/ragecfm6p/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 5.9 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.26 %.",
+   "magnet_as_printed": "Ferrite",
+   "cone_material": "Coated Carbonfiber",
+   "voice_coil_as_printed": "1.5\""
+  },
+  {
+   "model": "B2 Audio Riot6p",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 94.2,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    120,
+    15000
+   ],
+   "magnet": "kccaw",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 115,
+    "re_ohm": null,
+    "qms": 11,
+    "qes": 1.1,
+    "qts": 1,
+    "vas_l": 4,
+    "sd_cm2": 132.3,
+    "xmax_mm": null,
+    "mms_g": 9,
+    "bl_tm": null,
+    "le_mh": 1.5,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/riot6p/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 6.8 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.8 %.",
+   "magnet_as_printed": "KCCAW",
+   "cone_material": "23",
+   "voice_coil_as_printed": "Winding Material / Type:"
+  },
+  {
+   "model": "B2 Audio Riot6pwr",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    110,
+    10000
+   ],
+   "magnet": "kccaw",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 115,
+    "re_ohm": null,
+    "qms": 3.2,
+    "qes": 0.74,
+    "qts": 0.6,
+    "vas_l": 3.6,
+    "sd_cm2": 132.3,
+    "xmax_mm": null,
+    "mms_g": 13,
+    "bl_tm": null,
+    "le_mh": 1.5,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/riot6pwr/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 12.9 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.74 %.",
+   "magnet_as_printed": "KCCAW",
+   "cone_material": "23",
+   "voice_coil_as_printed": "Winding Material / Type:"
+  },
+  {
+   "model": "B2 Audio Riot8p",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 94.1,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    11000
+   ],
+   "magnet": "kccaw",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 90,
+    "re_ohm": null,
+    "qms": 9.4,
+    "qes": 1,
+    "qts": 0.93,
+    "vas_l": 8,
+    "sd_cm2": 223.9,
+    "xmax_mm": null,
+    "mms_g": 23,
+    "bl_tm": null,
+    "le_mh": 1.5,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/riot8p/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 14.4 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.74 %.",
+   "magnet_as_printed": "KCCAW",
+   "cone_material": "23",
+   "voice_coil_as_printed": "Winding Material / Type:"
+  },
+  {
+   "model": "B2 Audio Riot8pwr",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 94.7,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    6000
+   ],
+   "magnet": "kccaw",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 90,
+    "re_ohm": null,
+    "qms": 4,
+    "qes": 0.94,
+    "qts": 0.76,
+    "vas_l": 7.7,
+    "sd_cm2": 223.9,
+    "xmax_mm": null,
+    "mms_g": 22,
+    "bl_tm": null,
+    "le_mh": 1.5,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/riot8pwr/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 15.2 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.86 %.",
+   "magnet_as_printed": "KCCAW",
+   "cone_material": "23",
+   "voice_coil_as_printed": "Winding Material / Type:"
+  }
+ ],
+ "no_specs_published": []
+}

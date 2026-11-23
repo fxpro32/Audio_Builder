@@ -1,0 +1,569 @@
+{
+ "brand": "Audiotec Fischer (HELIX, BRAX, MATCH)",
+ "country": "Germany",
+ "brand_url": "https://www.audiotec-fischer.de",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms of service (not read in full). Numbers only, no text or images copied; 'Maker features' notes are short paraphrase-free quotes of material names only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "BRAX GRAPHIC GL1 MK2",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm class (maker: GL1)",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 900,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 4.9,
+    "xmax_mm": null,
+    "mms_g": 0.36,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": 21.5,
+   "cutout_mm": 52,
+   "frame_mm": 60,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "slope_db_oct": 12,
+    "min_hp_by_slope": [
+     {
+      "slope_db_oct": 6,
+      "min_hp_hz": 4000
+     },
+     {
+      "slope_db_oct": 12,
+      "min_hp_hz": 3000
+     },
+     {
+      "slope_db_oct": 24,
+      "min_hp_hz": 2000
+     }
+    ],
+    "note": "maker table 'Recommended crossover frequencies for the highpass' (minimum per slope); hp_hz/slope = the 12 dB/oct row when given"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/speakers/graphic-gl1-mk2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power rating condition as printed: (highpass > 3,000 Hz at 12 dB/Oct.)",
+   "cone_material": "Ceramic aluminum hard dome",
+   "scope_of_delivery": [
+    "2 x High-End Tweeter BRAX GRAPHIC GL1 MK2",
+    "2 x Mounting ring",
+    "2 x Grille",
+    "1 x Allen key",
+    "1 x Data sheet"
+   ]
+  },
+  {
+   "model": "BRAX MATRIX ML28 PRO",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 170,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 760,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 6.2,
+    "xmax_mm": null,
+    "mms_g": 0.32,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": 25,
+   "cutout_mm": 52,
+   "frame_mm": 60,
+   "recommended_crossover": {
+    "hp_hz": 2500,
+    "slope_db_oct": 12,
+    "min_hp_by_slope": [
+     {
+      "slope_db_oct": 6,
+      "min_hp_hz": 3500
+     },
+     {
+      "slope_db_oct": 12,
+      "min_hp_hz": 2500
+     },
+     {
+      "slope_db_oct": 24,
+      "min_hp_hz": 1800
+     }
+    ],
+    "note": "maker table 'Recommended crossover frequencies for the highpass' (minimum per slope); hp_hz/slope = the 12 dB/oct row when given"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/speakers/matrix-ml28-pro",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power rating condition as printed: (highpass > 3,000 Hz at 12 dB/Oct.)",
+   "cone_material": "Silk dome with a visco-elastic Acronal coating on both sides",
+   "scope_of_delivery": [
+    "2 x High-End Tweeter BRAX MATRIX ML28 PRO",
+    "2 x Mounting ring",
+    "4 x Grille",
+    "1 x Allen key",
+    "1 x Certificate",
+    "1 x Data sheet"
+   ]
+  },
+  {
+   "model": "HELIX Ci3 T20FM-AL MK2",
+   "type": "tweeter",
+   "size_in": 0.79,
+   "size_label": "20 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1800,
+    "re_ohm": 3.2,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 9.8,
+   "cutout_mm": 28,
+   "frame_mm": 32,
+   "recommended_crossover": {
+    "hp_hz": 3500,
+    "slope_db_oct": 12,
+    "min_hp_by_slope": [
+     {
+      "slope_db_oct": 6,
+      "min_hp_hz": 5000
+     },
+     {
+      "slope_db_oct": 12,
+      "min_hp_hz": 3500
+     },
+     {
+      "slope_db_oct": 24,
+      "min_hp_hz": 3000
+     }
+    ],
+    "note": "maker table 'Recommended crossover frequencies for the highpass' (minimum per slope); hp_hz/slope = the 12 dB/oct row when given"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX Ci3 K100.2FM-S3 MK2",
+    "HELIX Ci3 K130.2-S3 MK2",
+    "HELIX Ci3 K165.2FM-S2 MK2",
+    "HELIX Ci3 K165.2FM-S3 MK2",
+    "HELIX Ci3 K200.2FM-S3 MK2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i3/ci3-t20fm-al-mk2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Aluminum",
+   "scope_of_delivery": [
+    "2 x Ci3 T20FM-AL MK2",
+    "2 x Tweeter flush mount",
+    "2 x Tweeter pod",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 T25FM-CA",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1800,
+    "re_ohm": 3.2,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 91,
+    "spl_db_2v83": 94
+   },
+   "mounting_depth_mm": 11.7,
+   "cutout_mm": 38,
+   "frame_mm": 40,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "slope_db_oct": 12,
+    "min_hp_by_slope": [
+     {
+      "slope_db_oct": 6,
+      "min_hp_hz": 4000
+     },
+     {
+      "slope_db_oct": 12,
+      "min_hp_hz": 3000
+     },
+     {
+      "slope_db_oct": 24,
+      "min_hp_hz": 2500
+     }
+    ],
+    "note": "maker table 'Recommended crossover frequencies for the highpass' (minimum per slope); hp_hz/slope = the 12 dB/oct row when given"
+   },
+   "passive_crossover": {
+    "tweeter_slope_db_oct": null,
+    "woofer_slope_db_oct": null,
+    "tweeter_level_db": null,
+    "note": "Ci7 FX-UNI.2",
+    "dimensions": null
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-t25fm-ca",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Aluminum with ceramic coating",
+   "scope_of_delivery": [
+    "2 x Ci5 T25FM-CA",
+    "2 x Tweeter flush mount",
+    "2 x Tweeter pod",
+    "2 x Mounting material",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "HELIX Ci7 T20FM-SC",
+   "type": "tweeter",
+   "size_in": 0.79,
+   "size_label": "20 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    1500,
+    30000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 950,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 19,
+   "cutout_mm": 27.2,
+   "frame_mm": 32,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "slope_db_oct": 12,
+    "min_hp_by_slope": [
+     {
+      "slope_db_oct": 6,
+      "min_hp_hz": 4000
+     },
+     {
+      "slope_db_oct": 12,
+      "min_hp_hz": 3000
+     },
+     {
+      "slope_db_oct": 24,
+      "min_hp_hz": 2500
+     }
+    ],
+    "note": "maker table 'Recommended crossover frequencies for the highpass' (minimum per slope); hp_hz/slope = the 12 dB/oct row when given"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i7/ci7-t20fm-sc",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Silk dome with coupling volume",
+   "scope_of_delivery": [
+    "2 x Ci7 T20FM-SC",
+    "2 x Tweeter flush mount",
+    "2 x Tweeter pod",
+    "2 x Extension cable",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX PR T25-S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    2500,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1400,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 4.9,
+    "xmax_mm": null,
+    "mms_g": 0.3,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "slope_db_oct": 12,
+    "min_hp_by_slope": [
+     {
+      "slope_db_oct": 6,
+      "min_hp_hz": 4000
+     },
+     {
+      "slope_db_oct": 12,
+      "min_hp_hz": 3000
+     },
+     {
+      "slope_db_oct": 24,
+      "min_hp_hz": 2500
+     }
+    ],
+    "note": "maker table 'Recommended crossover frequencies for the highpass' (minimum per slope); hp_hz/slope = the 12 dB/oct row when given"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX PR K165.2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/pure/pr-t25-s",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Coated silk dome",
+   "scope_of_delivery": [
+    "2 x Hochtöner PR T25-S",
+    "2 x Aluminum flush mount housing",
+    "2 x OEM spacer",
+    "2 x Standard grille",
+    "2 x Exclusive HELIX grille",
+    "1 x Mounting material"
+   ]
+  },
+  {
+   "model": "MATCH UP T1MB-FRT",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": "tweeter (vehicle-specific)",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    3500,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "tweeter_slope_db_oct": null,
+    "woofer_slope_db_oct": null,
+    "tweeter_level_db": null,
+    "note": "Separate, 6 dB slope with 3-stage tweeter level adjustment | TW: 43.1 mm / 1.70\" | M: - | W: - | TW: 39 mm / 1.54\" | M: - | W: - | TW: 23,7 mm / 0.93\" | M: - | W: - | 70 x 35 x 19.7 mm / 2.76 x 1.38 x 0.78\"",
+    "dimensions": null
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-t1mb-frt",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "TW: Coated silk dome; M: -",
+   "scope_of_delivery": [
+    "2 x Tweeter UP S1MB-FRT",
+    "2 x Crossover",
+    "1 x Instruction manual"
+   ]
+  }
+ ],
+ "no_specs_published": []
+}

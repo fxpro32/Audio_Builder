@@ -1,0 +1,53 @@
+{
+ "schema": "parts_raw/1",
+ "category": "capacitors",
+ "brand": "Sundown Audio",
+ "maker_site": "https://sundownaudio.com",
+ "method": "maker Shopify store products.json (saved dump), title + body numbers; scripts/parts/build_caps_shopify.py",
+ "terms_note": "Numbers only with URL; USD maker-store prices.",
+ "units": {
+  "farads": "F",
+  "voltage_v": "V",
+  "esr_mohm": "milliohm"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 1,
+ "records": [
+  {
+   "id": "sundown-sb150-975l",
+   "model": "SA150-975L",
+   "model_basis": "title (store SKU differs: BT-SA150-975)",
+   "title": "SA150-975L Super Capacitor Battery",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "ultracapacitor / hybrid",
+   "farads": null,
+   "voltage_v": null,
+   "voltage_basis": null,
+   "voltage_max_v": null,
+   "voltage_surge_v": null,
+   "esr_as_published": null,
+   "esr_mohm": null,
+   "max_current_a_maker": 3000,
+   "recommended_amp_power_w": 1200,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://sundownaudio.com/products/sb150-975l",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://sundownaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": "",
+   "quality_issues": [
+    "farads_null",
+    "voltage_null"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

@@ -1,0 +1,10 @@
+{
+ "brand": "Skar Audio",
+ "country": "USA",
+ "brand_url": "https://www.skaraudio.com",
+ "terms_note": " | hp_subs_raw terms note: BLOCKED: skaraudio.com returns Cloudflare error 1005 (the network's ASN is banned by the site owner) to curl, WebFetch and the headless browser. Not bypassed. Skar high-power lines (e.g. ZVX, EVL, SDR) could not be read from the maker; aggregator values exist but are excluded by the brief. Needs fetching from another network (e.g. the owner's PC) or maker permission. 2026-11-22 VERIFIED on the maker page from a non-VPN connection: ZVX-18v2 D1 (Skar's largest sub) is 1600 W RMS / 3200 W peak (https://www.skaraudio.com/products/zvx-18v2-18-inch-car-subwoofer), so Skar has no sub at or above 2000 W RMS.",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/skar-audio.json",
+ "drivers": [],
+ "no_ts_published": []
+}

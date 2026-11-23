@@ -1,0 +1,2770 @@
+{
+ "schema": "parts_raw/1",
+ "category": "fuses",
+ "brand": "Narva",
+ "maker_site": "https://www.narva.com.au",
+ "method": "maker's Australian Shopify store, products.json titles, SKUs and AUD prices; parsed by scripts/parts/build_narva.py",
+ "terms_note": "Facts only (sizes, ratings, prices) with URL; no text or images copied.",
+ "units": {
+  "conductor_mm2": "mm2",
+  "current_rating_a": "A"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 115,
+ "records": [
+  {
+   "id": "narva-55978",
+   "model": "55978",
+   "title": "150A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-high-amp-manually-reset-circuit-breaker-box-of-2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 150
+  },
+  {
+   "id": "narva-55976",
+   "model": "55976",
+   "title": "120A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-120a-high-amp-manually-reset-circuit-breaker-box-of-2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 120
+  },
+  {
+   "id": "narva-55974",
+   "model": "55974",
+   "title": "100A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-high-amp-manually-reset-circuit-breaker-box-of-2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 100
+  },
+  {
+   "id": "narva-55972",
+   "model": "55972",
+   "title": "80A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-high-amp-manually-reset-circuit-breaker-box-of-2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 80
+  },
+  {
+   "id": "narva-55970",
+   "model": "55970",
+   "title": "60A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-high-amp-manually-reset-circuit-breaker-box-of-2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 60
+  },
+  {
+   "id": "narva-55968BL",
+   "model": "55968BL",
+   "title": "150A High Amp Manually Reset Circuit Breaker (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-high-amp-manually-reset-circuit-breaker-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 150,
+   "bundle": true
+  },
+  {
+   "id": "narva-55968",
+   "model": "55968",
+   "title": "150A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-high-amp-manually-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 150
+  },
+  {
+   "id": "narva-55966BL",
+   "model": "55966BL",
+   "title": "120A High Amp Manually Reset Circuit Breaker (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-120a-high-amp-manually-reset-circuit-breaker-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 120,
+   "bundle": true
+  },
+  {
+   "id": "narva-55966",
+   "model": "55966",
+   "title": "120A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-120a-high-amp-manually-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 120
+  },
+  {
+   "id": "narva-55964BL",
+   "model": "55964BL",
+   "title": "100A High Amp Manually Reset Circuit Breaker (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-high-amp-manually-reset-circuit-breaker-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 100,
+   "bundle": true
+  },
+  {
+   "id": "narva-55964",
+   "model": "55964",
+   "title": "100A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-high-amp-manually-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 100
+  },
+  {
+   "id": "narva-55962BL",
+   "model": "55962BL",
+   "title": "80A High Amp Manually Reset Circuit Breaker (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-high-amp-manually-reset-circuit-breaker-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 80,
+   "bundle": true
+  },
+  {
+   "id": "narva-55962",
+   "model": "55962",
+   "title": "80A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-high-amp-manually-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 80
+  },
+  {
+   "id": "narva-55960BL",
+   "model": "55960BL",
+   "title": "60A High Amp Manually Reset Circuit Breaker (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-high-amp-manually-reset-circuit-breaker-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 60,
+   "bundle": true
+  },
+  {
+   "id": "narva-55960",
+   "model": "55960",
+   "title": "60A High Amp Manually Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-high-amp-manually-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "manual",
+   "rating_a": 60
+  },
+  {
+   "id": "narva-55958",
+   "model": "55958",
+   "title": "150A High Amp Automatic Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-high-amp-automatic-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "auto",
+   "rating_a": 150
+  },
+  {
+   "id": "narva-55956",
+   "model": "55956",
+   "title": "120A High Amp Automatic Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-120a-high-amp-automatic-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "auto",
+   "rating_a": 120
+  },
+  {
+   "id": "narva-55954",
+   "model": "55954",
+   "title": "100A High Amp Automatic Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-high-amp-automatic-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "auto",
+   "rating_a": 100
+  },
+  {
+   "id": "narva-55952",
+   "model": "55952",
+   "title": "80A High Amp Automatic Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-high-amp-automatic-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "auto",
+   "rating_a": 80
+  },
+  {
+   "id": "narva-55950",
+   "model": "55950",
+   "title": "60A High Amp Automatic Reset Circuit Breaker (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-high-amp-automatic-reset-circuit-breaker-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "circuit breaker",
+   "fuse_type": "high-amp circuit breaker",
+   "reset": "auto",
+   "rating_a": 60
+  },
+  {
+   "id": "narva-54470BL",
+   "model": "54470BL",
+   "title": "In-LineMidi Fuse Holder With Cover (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-in-linemidi-fuse-holder-with-cover-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "Midi",
+   "accepts_mm2": null,
+   "bundle": true
+  },
+  {
+   "id": "narva-54470-80BL",
+   "model": "54470-80BL",
+   "title": "80A Midi Fuse Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-midi-fuse-wiring-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "Midi",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54470-50BL",
+   "model": "54470-50BL",
+   "title": "50A Midi Fuse Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50a-midi-fuse-wiring-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "Midi",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54470",
+   "model": "54470",
+   "title": "In-Line Midi Fuse Holder With Cover (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-in-line-midi-fuse-holder-with-cover-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "Midi",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54436",
+   "model": "54436",
+   "title": "Twin In Line ANL Fuse Holder With Transparent Cover (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-twin-in-line-anl-fuse-holder-with-transparent-cover-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54427BL",
+   "model": "54427BL",
+   "title": "Battery Fuse Holder Block (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-battery-fuse-holder-block-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": null,
+   "accepts_mm2": null,
+   "bundle": true,
+   "quality_issues": [
+    "type_null"
+   ],
+   "check": "not clean: type_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "narva-54427/10",
+   "model": "54427/10",
+   "title": "Battery Fuse Holder Block (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-battery-fuse-holder-block-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": null,
+   "accepts_mm2": null,
+   "bundle": true,
+   "quality_issues": [
+    "type_null"
+   ],
+   "check": "not clean: type_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "narva-54419",
+   "model": "54419",
+   "title": "In-Line ANL Fuse Holder With Transparent Cover (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-in-line-anl-fuse-holder-with-transparent-cover-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54418",
+   "model": "54418",
+   "title": "In-Line ANL Fuse Holder With Transparent Cover & 250A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-in-line-anl-fuse-holder-with-transparent-cover-250a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54417",
+   "model": "54417",
+   "title": "In-Line ANL Fuse Holder With Transparent Cover & 150A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-in-line-anl-fuse-holder-with-transparent-cover-150a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54416",
+   "model": "54416",
+   "title": "In-Line ANL Fuse Holder With Transparent Cover & 100A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-in-line-anl-fuse-holder-with-transparent-cover-100a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "accepts_mm2": null
+  },
+  {
+   "id": "narva-54250BL",
+   "model": "54250BL",
+   "title": "250A Bolt-Down Battery Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-250a-bolt-down-battery-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "bolt-down battery terminal fuse",
+   "maker_type_name": "Bolt-Down Battery",
+   "rating_a": 250,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-54200BL",
+   "model": "54200BL",
+   "title": "200A Bolt-Down Battery Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-200a-bolt-down-battery-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "bolt-down battery terminal fuse",
+   "maker_type_name": "Bolt-Down Battery",
+   "rating_a": 200,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-54175BL",
+   "model": "54175BL",
+   "title": "175A Bolt-Down Battery Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-175a-bolt-down-battery-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "bolt-down battery terminal fuse",
+   "maker_type_name": "Bolt-Down Battery",
+   "rating_a": 175,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-54150BL",
+   "model": "54150BL",
+   "title": "150A Bolt-Down Battery Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-bolt-down-battery-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "bolt-down battery terminal fuse",
+   "maker_type_name": "Bolt-Down Battery",
+   "rating_a": 150,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-54125BL",
+   "model": "54125BL",
+   "title": "125A Bolt-Down Battery Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-bolt-down-battery-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "bolt-down battery terminal fuse",
+   "maker_type_name": "Bolt-Down Battery",
+   "rating_a": 125,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-54100BL",
+   "model": "54100BL",
+   "title": "100A Bolt-Down Battery Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-bolt-down-battery-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "bolt-down battery terminal fuse",
+   "maker_type_name": "Bolt-Down Battery",
+   "rating_a": 100,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-54080BL",
+   "model": "54080BL",
+   "title": "80A Bolt-Down Battery Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-bolt-down-battery-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "bolt-down battery terminal fuse",
+   "maker_type_name": "Bolt-Down Battery",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-54009",
+   "model": "54009",
+   "title": "175A ANG Fuse Strips (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-175a-ang-fuse-strips-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANG fuse strip",
+   "maker_type_name": "ANG",
+   "rating_a": 175,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-54007",
+   "model": "54007",
+   "title": "110A ANG Fuse Strips (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-110a-ang-fuse-strips-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANG fuse strip",
+   "maker_type_name": "ANG",
+   "rating_a": 110,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-54006",
+   "model": "54006",
+   "title": "80A ANG Fuse Strips (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-ang-fuse-strips-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANG fuse strip",
+   "maker_type_name": "ANG",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-54005",
+   "model": "54005",
+   "title": "60A ANG Fuse Strips (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-ang-fuse-strips-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANG fuse strip",
+   "maker_type_name": "ANG",
+   "rating_a": 60,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-54004",
+   "model": "54004",
+   "title": "50A ANG Fuse Strips (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50a-ang-fuse-strips-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANG fuse strip",
+   "maker_type_name": "ANG",
+   "rating_a": 50,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-54003",
+   "model": "54003",
+   "title": "40A ANG Fuse Strips (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-40a-ang-fuse-strips-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANG fuse strip",
+   "maker_type_name": "ANG",
+   "rating_a": 40,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-54002",
+   "model": "54002",
+   "title": "30A ANG Fuse Strips (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-30a-ang-fuse-strips-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANG fuse strip",
+   "maker_type_name": "ANG",
+   "rating_a": 30,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-53925BL",
+   "model": "53925BL",
+   "title": "250A ANL Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-250a-anl-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 250,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53925",
+   "model": "53925",
+   "title": "250A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-250a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 250,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53920BL",
+   "model": "53920BL",
+   "title": "200A ANL Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-200a-anl-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 200,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53920",
+   "model": "53920",
+   "title": "200A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-200a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 200,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53918BL",
+   "model": "53918BL",
+   "title": "175A ANL Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-175a-anl-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 175,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53918",
+   "model": "53918",
+   "title": "175A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-175a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 175,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53915BL",
+   "model": "53915BL",
+   "title": "150A ANL Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-anl-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 150,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53915",
+   "model": "53915",
+   "title": "150A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 150,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53912BL",
+   "model": "53912BL",
+   "title": "125A ANL Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-anl-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 125,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53912",
+   "model": "53912",
+   "title": "125A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 125,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53910BL",
+   "model": "53910BL",
+   "title": "100A ANL Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-anl-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 100,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53910",
+   "model": "53910",
+   "title": "100A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 100,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53908BL",
+   "model": "53908BL",
+   "title": "80A ANL Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-anl-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53908",
+   "model": "53908",
+   "title": "80A ANL Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-anl-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "maker_type_name": "ANL",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53878",
+   "model": "53878",
+   "title": "200A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-200a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 200,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53876",
+   "model": "53876",
+   "title": "150A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 150,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53874",
+   "model": "53874",
+   "title": "125A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 125,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53872",
+   "model": "53872",
+   "title": "100A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 100,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53870",
+   "model": "53870",
+   "title": "80A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 80,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53868",
+   "model": "53868",
+   "title": "60A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 60,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53866",
+   "model": "53866",
+   "title": "50A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 50,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53864",
+   "model": "53864",
+   "title": "40A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-40a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 40,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53862",
+   "model": "53862",
+   "title": "30A ANS (Midi) 6mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-30a-ans-midi-6mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 30,
+   "stud_mm": 6,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53850",
+   "model": "53850",
+   "title": "500A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-500a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 500,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53848",
+   "model": "53848",
+   "title": "400A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-400a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 400,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53846",
+   "model": "53846",
+   "title": "350A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-350a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 350,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53844",
+   "model": "53844",
+   "title": "300A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-300a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 300,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53842BL",
+   "model": "53842BL",
+   "title": "250A ANM (Mega) Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-250a-anm-mega-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 250,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53842",
+   "model": "53842",
+   "title": "250A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-250a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 250,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53840BL",
+   "model": "53840BL",
+   "title": "200A ANM (Mega) Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-200a-anm-mega-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 200,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53840",
+   "model": "53840",
+   "title": "200A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-200a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 200,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53838BL",
+   "model": "53838BL",
+   "title": "175A ANM (Mega) Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-175a-anm-mega-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 175,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53838",
+   "model": "53838",
+   "title": "175A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-175a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 175,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53836BL",
+   "model": "53836BL",
+   "title": "150A ANM (Mega) Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-anm-mega-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 150,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53836",
+   "model": "53836",
+   "title": "150A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 150,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53834BL",
+   "model": "53834BL",
+   "title": "125A ANM (Mega) Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-anm-mega-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 125,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53834",
+   "model": "53834",
+   "title": "125A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 125,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53832BL",
+   "model": "53832BL",
+   "title": "100A ANM (Mega) Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-anm-mega-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 100,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53832",
+   "model": "53832",
+   "title": "100A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 100,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53830BL",
+   "model": "53830BL",
+   "title": "80A ANM (Mega) Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-anm-mega-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53830",
+   "model": "53830",
+   "title": "80A ANM (Mega) Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-anm-mega-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MEGA",
+   "maker_type_name": "ANM (Mega)",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53816BL",
+   "model": "53816BL",
+   "title": "150A ANS (Midi) 4mm Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-ans-midi-4mm-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 150,
+   "stud_mm": 4,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53816",
+   "model": "53816",
+   "title": "150A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-150a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 150,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53814BL",
+   "model": "53814BL",
+   "title": "125A ANS (Midi) 4mm Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-ans-midi-4mm-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 125,
+   "stud_mm": 4,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53814",
+   "model": "53814",
+   "title": "125A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-125a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 125,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53812BL",
+   "model": "53812BL",
+   "title": "100A ANS (Midi) 4mm Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-ans-midi-4mm-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 100,
+   "stud_mm": 4,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53812",
+   "model": "53812",
+   "title": "100A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 100,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53810BL",
+   "model": "53810BL",
+   "title": "80A ANS (Midi) 4mm Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-ans-midi-4mm-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 80,
+   "stud_mm": 4,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53810",
+   "model": "53810",
+   "title": "80A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 80,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53808BL",
+   "model": "53808BL",
+   "title": "60A ANS (Midi) 4mm Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-ans-midi-4mm-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 60,
+   "stud_mm": 4,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53808",
+   "model": "53808",
+   "title": "60A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 60,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53806BL",
+   "model": "53806BL",
+   "title": "50A ANS (Midi) 4mm Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50a-ans-midi-4mm-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 50,
+   "stud_mm": 4,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53806",
+   "model": "53806",
+   "title": "50A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 50,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53804BL",
+   "model": "53804BL",
+   "title": "40A ANS (Midi) 4mm Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-40a-ans-midi-4mm-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 40,
+   "stud_mm": 4,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-53804",
+   "model": "53804",
+   "title": "40A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-40a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 40,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-53802",
+   "model": "53802",
+   "title": "30A ANS (Midi) 4mm Fuse (Box of 1)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-30a-ans-midi-4mm-fuse-box-of-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MIDI",
+   "maker_type_name": "ANS",
+   "rating_a": 30,
+   "stud_mm": 4,
+   "pack_qty": 1
+  },
+  {
+   "id": "narva-52990BL",
+   "model": "52990BL",
+   "title": "100A Maxi Blade Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-maxi-blade-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 100,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-52990",
+   "model": "52990",
+   "title": "100A Maxi Blade Fuse (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-100a-maxi-blade-fuse-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 100,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-52980BL",
+   "model": "52980BL",
+   "title": "80A Maxi Blade Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-maxi-blade-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-52980",
+   "model": "52980",
+   "title": "80A Maxi Blade Fuse (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-80a-maxi-blade-fuse-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 80,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-52960BL",
+   "model": "52960BL",
+   "title": "60A Maxi Blade Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-maxi-blade-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 60,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-52960",
+   "model": "52960",
+   "title": "60A Maxi Blade Fuse (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-60a-maxi-blade-fuse-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 60,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-52950BL",
+   "model": "52950BL",
+   "title": "50A Maxi Blade Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50a-maxi-blade-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 50,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-52950",
+   "model": "52950",
+   "title": "50A Maxi Blade Fuse (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50a-maxi-blade-fuse-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 50,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-52940BL",
+   "model": "52940BL",
+   "title": "40A Maxi Blade Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-40a-maxi-blade-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 40,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-52940",
+   "model": "52940",
+   "title": "40A Maxi Blade Fuse (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-40a-maxi-blade-fuse-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 40,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-52930BL",
+   "model": "52930BL",
+   "title": "30A Maxi Blade Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-30a-maxi-blade-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 30,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-52930",
+   "model": "52930",
+   "title": "30A Maxi Blade Fuse (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-30a-maxi-blade-fuse-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 30,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-52920BL",
+   "model": "52920BL",
+   "title": "20A Maxi Blade Fuse (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-20a-maxi-blade-fuse-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 20,
+   "stud_mm": null,
+   "pack_qty": 1,
+   "bundle": true
+  },
+  {
+   "id": "narva-52920",
+   "model": "52920",
+   "title": "20A Maxi Blade Fuse (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-20a-maxi-blade-fuse-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "maker_type_name": "Maxi Blade",
+   "rating_a": 20,
+   "stud_mm": null,
+   "pack_qty": 10,
+   "bundle": true
+  }
+ ],
+ "not_recorded": []
+}

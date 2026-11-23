@@ -1,0 +1,153 @@
+{
+ "brand": "Soundstream",
+ "country": "USA",
+ "brand_url": "https://soundstream.com",
+ "terms_note": "Shopify store; /products.json read once, X5 product pages read 5 s apart. No terms on automated reading found (not read in full). Other 'xxxx W' models (Reference R1/R5, Tarantula T5, Reserve) carry max power in the title; RMS 1000 to 1300 W, so excluded.",
+ "drivers": [
+  {
+   "model": "X5.12 Team Subwoofer (DVC 1 ohm)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43.08,
+    "re_ohm": 1,
+    "qms": 6.983,
+    "qes": 0.556,
+    "qts": 0.515,
+    "vas_l": 11.855,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 328.9,
+    "bl_tm": 18.04,
+    "le_mh": 1.0274,
+    "spl_db_1w1m": 87.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 215.9,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 42.48,
+     "tuning_hz": null,
+     "source": "maker page https://soundstream.com/products/x5-12",
+     "note": "published as 1.5 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 99.11,
+     "tuning_hz": null,
+     "source": "maker page",
+     "note": "published as 3.5 cu ft; port 3\" x 11.5\" long; F3 published, tuning not"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/x5-12",
+     "doc": "product page Specifications / Thiele-Small Parameters",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://soundstream.com/cdn/shop/files/Owners-Manual-X5.12-and-X5.15.pdf",
+     "doc": "Team Subwoofer Owners Manual (linked, not read)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "'Limited Edition'. Re printed as 1 (equals the nominal coil impedance; basis not stated). Sd, Xmax not published. Spec table gives 'Optimum Sealed 1.50' and 'Optimum Ported 3.50' (cu ft, printed with an inch mark); the 'Recommended Enclosures' block on the same page says sealed 2.00 / ported 4.50 ft, identical to the X5.15 page (likely copied). The Optimum values are entered. Converted from imperial as published: mounting depth 8.5 in."
+  },
+  {
+   "model": "X5.15 Team Subwoofer (DVC 1 ohm)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.18,
+    "re_ohm": 1,
+    "qms": 9.098,
+    "qes": 0.546,
+    "qts": 0.507,
+    "vas_l": 36.97,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 334.74,
+    "bl_tm": 17.59,
+    "le_mh": 1.0274,
+    "spl_db_1w1m": 88.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 241.3,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page https://soundstream.com/products/x5-15",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 127.43,
+     "tuning_hz": null,
+     "source": "maker page",
+     "note": "published as 4.5 cu ft; port 4\" x 15.75\" long; F3 published, tuning not"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/x5-15",
+     "doc": "product page Specifications / Thiele-Small Parameters",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://soundstream.com/cdn/shop/files/Owners-Manual-X5.12-and-X5.15.pdf",
+     "doc": "Team Subwoofer Owners Manual (linked, not read)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "'Limited Edition'. Re printed as 1 (equals the nominal coil impedance; basis not stated). Sd, Xmax not published. Le 1.0274 mH identical to X5.12 (possible copy). Converted from imperial as published: mounting depth 9.5 in."
+  }
+ ],
+ "no_ts_published": []
+}

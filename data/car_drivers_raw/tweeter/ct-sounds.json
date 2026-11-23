@@ -1,0 +1,690 @@
+{
+ "brand": "CT Sounds",
+ "country": "USA",
+ "brand_url": "https://www.ctsounds.com",
+ "terms_note": "R4 2026-11-23: Shopify products.json read (2 requests, 3 s apart). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "CT Sounds HD-1",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    500,
+    13000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 108,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 112.0,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "note": "maker 'Recommended High Pass Crossover' 2.5 kHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/hd-1",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '150 Watts'.",
+   "title": "HD-1 // 1\" 300 Watt Compression Horn Driver, Single"
+  },
+  {
+   "model": "CT Sounds TX-35D",
+   "type": "tweeter",
+   "size_in": 3.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33,
+   "cutout_mm": 71.4,
+   "frame_mm": 95.0,
+   "recommended_crossover": {
+    "hp_hz": 4500.0,
+    "note": "maker 'Recommended High Pass Crossover' 4.5 kHz"
+   },
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Crossover Filter": "12 dB / octave",
+     "Capacitor Included": "Yes"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tx-35d",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...').",
+   "title": "TX-35D // 3.5\" 480 Watt Titanium Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds TX-35C",
+   "type": "tweeter",
+   "size_in": 3.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41.4,
+   "cutout_mm": 71.9,
+   "frame_mm": 96.5,
+   "recommended_crossover": {
+    "hp_hz": 4500.0,
+    "note": "maker 'Recommended High Pass Crossover' 4.5 kHz"
+   },
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Crossover Filter": "12 dB / octave",
+     "Capacitor Included": "Yes"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tx-35c",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...').",
+   "title": "TX-35C // 3.5\" 480 Watt Titanium Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds TX-35B",
+   "type": "tweeter",
+   "size_in": 3.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 42.9,
+   "cutout_mm": 71.1,
+   "frame_mm": 99.1,
+   "recommended_crossover": {
+    "hp_hz": 3750.0,
+    "note": "maker 'Recommended High Pass Crossover' 3.75 kHz"
+   },
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Crossover Filter": "12 dB / octave",
+     "Capacitor Included": "Yes"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tx-35b",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...').",
+   "title": "TX-35B // 3.5\" 480 Watt Titanium Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds TX-35A",
+   "type": "tweeter",
+   "size_in": 3.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 105,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 52.6,
+   "cutout_mm": 70.6,
+   "frame_mm": 95.0,
+   "recommended_crossover": {
+    "hp_hz": 3750.0,
+    "note": "maker 'Recommended High Pass Crossover' 3.75 kHz"
+   },
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Crossover Filter": "12 dB / octave",
+     "Capacitor Included": "Yes"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tx-35a",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...').",
+   "title": "TX-35A // 3.5\" 600 Watt Titanium Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds TX-175C",
+   "type": "tweeter",
+   "size_in": 1.75,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 102,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 102,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 39.6,
+   "cutout_mm": 43.4,
+   "frame_mm": 63.0,
+   "recommended_crossover": {
+    "hp_hz": 3500.0,
+    "note": "maker 'Recommended High Pass Crossover' 3.5 kHz"
+   },
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Crossover Filter": "12 dB / octave",
+     "Capacitor Included": "Yes"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tx-175c",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...').",
+   "title": "TX-175C // 1.75\" 480 Watt Neodymium Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds TX-175B",
+   "type": "tweeter",
+   "size_in": 1.75,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 105,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 38.9,
+   "cutout_mm": 42.4,
+   "frame_mm": 57.9,
+   "recommended_crossover": {
+    "hp_hz": 5000,
+    "note": "maker 'Recommended High Pass Crossover' 5 kHz"
+   },
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Crossover Filter": "12 dB / octave",
+     "Capacitor Included": "Yes"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tx-175b",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...').",
+   "title": "TX-175B // 1.75\" 480 Watt Neodymium Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds TX-175A",
+   "type": "tweeter",
+   "size_in": 1.75,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 104,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 104,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43.7,
+   "cutout_mm": 43.4,
+   "frame_mm": 57.9,
+   "recommended_crossover": {
+    "hp_hz": 5000,
+    "note": "maker 'Recommended High Pass Crossover' 5 kHz"
+   },
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Crossover Filter": "12 dB / octave",
+     "Capacitor Included": "Yes"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tx-175a",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...').",
+   "title": "TX-175A // 1.75\" 480 Watt Neodymium Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds TROPO-20-TWT",
+   "type": "tweeter",
+   "size_in": 0.8,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 60,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-tweeters",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '30 Watts (Pair)' (pair rating).",
+   "title": "TROPO-20-TWT // 0.8\" 60 Watt Silk-Dome Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds PRO-4-TWT",
+   "type": "tweeter",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 101,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 101,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": null,
+   "frame_mm": 85.6,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover circuit": "3.3 μF capacitor / 100 V"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/pro-audio-tweeter",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '90 Watts (Pair)' (pair rating).",
+   "title": "PRO-4-TWT // 4\" 180 Watt Aluminum Super Tweeters, Pair"
+  },
+  {
+   "model": "CT Sounds MESO-25-TWT",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 92,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 19,
+   "cutout_mm": 44.4,
+   "frame_mm": 53.8,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover circuit": "4.0 μF capacitor / 100 V"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-t25",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '50 Watts (Pair)' (pair rating).",
+   "title": "MESO-25-TWT // 1\" 100 Watt Premium Silk-Dome Tweeters, Pair"
+  }
+ ],
+ "no_specs_published": []
+}

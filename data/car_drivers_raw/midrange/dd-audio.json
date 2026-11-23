@@ -1,0 +1,726 @@
+{
+ "brand": "DD Audio (Resonance, Inc.)",
+ "country": "USA",
+ "brand_url": "https://ddaudio.com",
+ "terms_note": "R4 2026-11-23: WordPress site, robots.txt disallows only /wp-admin/ (A2); pages read 5 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "DD Audio VO-M10",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 600,
+   "peak_w": 1200,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    40,
+    3000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": null,
+    "qms": 1.5,
+    "qes": 0.27,
+    "qts": 0.23,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": 11,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 125,
+   "cutout_mm": 238,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-m10/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-M106",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    130,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 130,
+    "re_ohm": null,
+    "qms": 12.55,
+    "qes": 1.34,
+    "qts": 1.21,
+    "vas_l": 4.5,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 142,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-m106/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-M206",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    120,
+    16000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 120,
+    "re_ohm": null,
+    "qms": 4.91,
+    "qes": 1.26,
+    "qts": 1.01,
+    "vas_l": 4.88,
+    "sd_cm2": null,
+    "xmax_mm": 3.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 69,
+   "cutout_mm": 140,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-m206/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-M208",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    100,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 78,
+    "re_ohm": null,
+    "qms": 4.56,
+    "qes": 0.82,
+    "qts": 0.69,
+    "vas_l": 20.22,
+    "sd_cm2": null,
+    "xmax_mm": 3.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 89,
+   "cutout_mm": 181,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-m208/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-M210",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    80,
+    12000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 71,
+    "re_ohm": null,
+    "qms": 5.57,
+    "qes": 1.17,
+    "qts": 0.97,
+    "vas_l": 40.35,
+    "sd_cm2": null,
+    "xmax_mm": 3.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 95,
+   "cutout_mm": 233,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-m210/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-M406-C",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    80,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 125,
+    "re_ohm": null,
+    "qms": 8.53,
+    "qes": 0.9,
+    "qts": 0.81,
+    "vas_l": 3.56,
+    "sd_cm2": null,
+    "xmax_mm": 5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 85,
+   "cutout_mm": 149,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-m406-c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-M408-C",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    80,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 94,
+    "re_ohm": null,
+    "qms": 11.74,
+    "qes": 0.49,
+    "qts": 0.47,
+    "vas_l": 17.45,
+    "sd_cm2": null,
+    "xmax_mm": 5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 98,
+   "cutout_mm": 183,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-m408-c/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MN104",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    120,
+    18000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 140,
+    "re_ohm": null,
+    "qms": 3.4,
+    "qes": 1.02,
+    "qts": 0.79,
+    "vas_l": 1.5,
+    "sd_cm2": null,
+    "xmax_mm": 2,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 47.7,
+   "cutout_mm": 94,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-mn104/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MN105",
+   "type": "midrange",
+   "size_in": 5.25,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    120,
+    18000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 145,
+    "re_ohm": null,
+    "qms": 4,
+    "qes": 1.08,
+    "qts": 0.85,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": 2,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 110,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-mn105/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MN306",
+   "type": "midrange",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    100,
+    14000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 116,
+    "re_ohm": null,
+    "qms": 3.86,
+    "qes": 0.32,
+    "qts": 0.29,
+    "vas_l": 3.89,
+    "sd_cm2": null,
+    "xmax_mm": 5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-mn306/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MN308",
+   "type": "midrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    100,
+    14000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 102,
+    "re_ohm": null,
+    "qms": 11.96,
+    "qes": 0.57,
+    "qts": 0.55,
+    "vas_l": 14.77,
+    "sd_cm2": null,
+    "xmax_mm": 5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86,
+   "cutout_mm": 181,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-mn308/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MN310",
+   "type": "midrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    70,
+    14000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 63,
+    "re_ohm": null,
+    "qms": 5.48,
+    "qes": 0.5,
+    "qts": 0.45,
+    "vas_l": 48.48,
+    "sd_cm2": null,
+    "xmax_mm": 5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 95,
+   "cutout_mm": 233,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-mn310/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MN369",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    100,
+    14000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 117,
+    "re_ohm": null,
+    "qms": 9.59,
+    "qes": 0.52,
+    "qts": 0.49,
+    "vas_l": 7.975,
+    "sd_cm2": null,
+    "xmax_mm": 5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 152.4,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/midrange/vo-mn369/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  }
+ ],
+ "no_specs_published": []
+}

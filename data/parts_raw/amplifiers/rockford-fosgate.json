@@ -1,0 +1,3183 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "Rockford Fosgate",
+ "maker_site": "https://rockfordfosgate.com",
+ "method": "maker product pages from https://rockfordfosgate.com/products/selector/car-amplifiers/ (3 s apart)",
+ "terms_note": "Numbers only with URL. Rated power is CTA-2006 at 14.4 V per maker; current draw figures are at 13.8 V (music average and sine max) as labelled by the maker.",
+ "units": {
+  "w_per_ch": "W RMS",
+  "current_draw_*": "A",
+  "dims_mm": "mm (from the maker cm values)"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 36,
+ "records": [
+  {
+   "id": "rockford-p1000x1bd",
+   "model": "P1000X1bd",
+   "title": "Power 400 Watt Class-ad 4-Channel Amplifier | P1000X1bd | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BD",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 491,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 874,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 1430,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 1000,
+   "efficiency_pct": [
+    {
+     "pct": 86.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 140,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 65,
+   "current_draw_max_sine_13v8_a": 130,
+   "suggested_alternator_a": 100,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     337.29999999999995
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p1000x1bd/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p1000x2",
+   "model": "P1000X2",
+   "title": "Punch 1,000 Watt 2-Channel Amplifier | P1000X2 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 401,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 656,
+     "channels": 2,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 1000,
+   "efficiency_pct": [
+    {
+     "pct": 69.0,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 64.0,
+     "ohm": 2.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 140,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 70,
+   "current_draw_max_sine_13v8_a": 140,
+   "suggested_alternator_a": 100,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     381.8
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p1000x2/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p1000x5",
+   "model": "P1000X5",
+   "title": "Punch 1,000 Watt Class-bd 5-Channel Amp  | P1000X5 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B + Class BD (Sub)",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": "main channels",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 299,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 540,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 863,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 1000,
+   "efficiency_pct": [
+    {
+     "pct": 66.0,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 80.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 150,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 75,
+   "current_draw_max_sine_13v8_a": 150,
+   "suggested_alternator_a": 100,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     381.8
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p1000x5/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p300x1",
+   "model": "P300X1",
+   "title": "Punch 300 Watt Full-Range Mono Amplifier | P300X1 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 260,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 444,
+     "channels": 1,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 300,
+   "efficiency_pct": [
+    {
+     "pct": 74.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 50,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 23,
+   "current_draw_max_sine_13v8_a": 45,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     250.39999999999998
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p300x1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p300x2",
+   "model": "P300X2",
+   "title": "Punch 300 Watt 2-Channel Amplifier | P300X2 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 122,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 215,
+     "channels": 2,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 435,
+     "channels": 1,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 300,
+   "efficiency_pct": [
+    {
+     "pct": 69.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 50,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 23,
+   "current_draw_max_sine_13v8_a": 45,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     250.39999999999998
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p300x2/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p400x4",
+   "model": "P400X4",
+   "title": "P400X4 4-Channel Punch Amplifier | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 82,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 137,
+     "channels": 4,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 266,
+     "channels": 2,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 400,
+   "efficiency_pct": [
+    {
+     "pct": 67.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 60,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 30,
+   "current_draw_max_sine_13v8_a": 60,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     280.2
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p400x4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p500x1bd",
+   "model": "P500X1bd",
+   "title": "Punch 500 Watt Class-bd Mono Amplifier | P500X1bd | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BD",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 224,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 410,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 787,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 500,
+   "efficiency_pct": [
+    {
+     "pct": 86.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 80,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 35,
+   "current_draw_max_sine_13v8_a": 70,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     280.2
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p500x1bd/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p500x2",
+   "model": "P500X2",
+   "title": "Punch 500 Watt 2-Channel Amplifier | P500X2 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 223,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 365,
+     "channels": 2,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 500,
+   "efficiency_pct": [
+    {
+     "pct": 73.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 80,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 40,
+   "current_draw_max_sine_13v8_a": 80,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     337.29999999999995
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p500x2/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-p600x4",
+   "model": "P600X4",
+   "title": "Punch 600 Watt 4-Channel Amplifier | P600X4 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 129,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 211,
+     "channels": 4,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 600,
+   "efficiency_pct": [
+    {
+     "pct": 68.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 100,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 45,
+   "current_draw_max_sine_13v8_a": 90,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     60.5,
+     197.10000000000002,
+     337.29999999999995
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/p600x4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-pbr300x1",
+   "model": "PBR300X1",
+   "title": "Punch 300 Watt Mono Amplifier | PBR300X1 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BR",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 96,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 189,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 326,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 300,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 75.0,
+     "ohm": 2.0,
+     "note": null
+    },
+    {
+     "pct": 75.0,
+     "ohm": 1.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "10",
+   "recommended_fuse_a": 30,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 15,
+   "current_draw_max_sine_13v8_a": 30,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     39.0,
+     108.0,
+     172.0
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/pbr300x1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-pbr300x2",
+   "model": "PBR300X2",
+   "title": "Punch 300 Watt 2-Channel Amplifier | PBR300X2 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BR",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 114,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 160,
+     "channels": 2,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 387,
+     "channels": 1,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 300,
+   "efficiency_pct": [
+    {
+     "pct": 68.0,
+     "ohm": 4.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "10",
+   "recommended_fuse_a": 50,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 23,
+   "current_draw_max_sine_13v8_a": 45,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     39.0,
+     108.0,
+     172.0
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/pbr300x2/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-pbr400x4d",
+   "model": "PBR400X4D",
+   "title": "Punch 400 Watt Full-Range 4-Channel Amplifier | PBR400X4D | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 130,
+     "channels": 4,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 270,
+     "channels": 2,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 400,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": null,
+     "note": ">"
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 60,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 27,
+   "current_draw_max_sine_13v8_a": 50,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     39.0,
+     107.89999999999999,
+     171.6
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/pbr400x4d/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-pm100x1k",
+   "model": "PM100X1K",
+   "title": "Punch 400 Watt Full-Range 4-Channel Amplifier | PM100X1K | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 60,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 61,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 109,
+     "channels": 1,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 100,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": null,
+   "recommended_fuse_a": null,
+   "fuse_included": true,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": null,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     33.0,
+     76.2,
+     99.1
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/pm100x1k/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-1200x1",
+   "model": "R2-1200X1",
+   "title": "Prime 1200 Watt Mono Amplifier | R2-1200X1 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 489,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 889,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 1389,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 1200,
+   "efficiency_pct": [
+    {
+     "pct": 80.0,
+     "ohm": null,
+     "note": ">"
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 200,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 121,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-1200x1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-200x2",
+   "model": "R2-200X2",
+   "title": "Prime 200 Watt 2-Channel Amplifier | R2-200X2 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 60,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 107,
+     "channels": 2,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 215,
+     "channels": 1,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 200,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 30,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 18,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-200x2/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-250x1",
+   "model": "R2-250X1",
+   "title": "Prime 250 Watt Mono Amplifier | R2-250X1 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 209,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 328,
+     "channels": 1,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 250,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 50,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": null,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-250x1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-300x4",
+   "model": "R2-300X4",
+   "title": "Prime 300 Watt 4-Channel Amplifier | R2-300X4 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 70,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 115,
+     "channels": 4,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 230,
+     "channels": 2,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 300,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 60,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 39,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-300x4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-500x1",
+   "model": "R2-500X1",
+   "title": "R2-500X1 500W Mono Amplifier | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 590,
+     "channels": 1,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 500,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 80,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 52,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-500x1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-500x4",
+   "model": "R2-500X4",
+   "title": "Prime 500 Watt 4-Channel Amplifier | R2-500X4 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 160,
+     "channels": 4,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 500,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 80,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 59,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-500x4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-750x1",
+   "model": "R2-750X1",
+   "title": "Prime 750 Watt Mono Amplifier | R2-750X1 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 545,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 830,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 750,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 120,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 71,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-750x1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-r2-750x5",
+   "model": "R2-750X5",
+   "title": "Prime 750 Watt 5-Channel Amplifier | R2-750X5 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 241,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 426,
+     "channels": 1,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 750,
+   "efficiency_pct": null,
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 120,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 71,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/r2-750x5/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t1000-1bdcp",
+   "model": "T1000-1bdCP",
+   "title": "Power 1,000 Watt Class-bd Constant Power Amplifier | T1000-1bdCP | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BD",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 772,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 1299,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 1395,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 1000,
+   "efficiency_pct": [
+    {
+     "pct": 85.6,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 82.1,
+     "ohm": 2.0,
+     "note": null
+    },
+    {
+     "pct": 70.0,
+     "ohm": 1.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 150,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 70,
+   "current_draw_max_sine_13v8_a": 140,
+   "suggested_alternator_a": 100,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     54.400000000000006,
+     206.8,
+     346.9
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t1000-1bdcp/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t1000-4ad",
+   "model": "T1000-4ad",
+   "title": "Power 1,000 Watt Class-ad Full-Range 4-Channel Amp | T1000-4ad | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class AD",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 270,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 327,
+     "channels": 4,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 365,
+     "channels": 4,
+     "ohm": 1.0
+    },
+    {
+     "w_per_ch": 619,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 654,
+     "channels": 2,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 1000,
+   "efficiency_pct": [
+    {
+     "pct": 84.1,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 81.6,
+     "ohm": 2.0,
+     "note": null
+    },
+    {
+     "pct": 81.0,
+     "ohm": 1.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 150,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 60,
+   "current_draw_max_sine_13v8_a": 120,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     54.2,
+     206.8,
+     378.6
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t1000-4ad/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t1000x5ad",
+   "model": "T1000X5ad",
+   "title": "Power 1,000 Watt Class-ad 5-Channel Amplifier |  T1000X5ad | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class AD + Class BD (Sub)",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 487,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 748,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 663,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 1000,
+   "efficiency_pct": [
+    {
+     "pct": 85.0,
+     "ohm": null,
+     "note": ">"
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 100,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 108,
+   "suggested_alternator_a": null,
+   "operating_voltage": "Recommended Fuse",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     41.0,
+     108.0,
+     305.0
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t1000x5ad/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t1500-1bdcp",
+   "model": "T1500-1bdCP",
+   "title": "Power 1,500 Watt Class-bd Constant Power Amp  | T1500-1bdCP | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BD",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 1045,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 1549,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 1715,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 1500,
+   "efficiency_pct": [
+    {
+     "pct": 86.2,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 74.6,
+     "ohm": 2.0,
+     "note": null
+    },
+    {
+     "pct": 63.0,
+     "ohm": 1.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 200,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 100,
+   "current_draw_max_sine_13v8_a": 200,
+   "suggested_alternator_a": 100,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     54.2,
+     206.8,
+     378.6
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t1500-1bdcp/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t2500-1bdcp",
+   "model": "T2500-1bdCP",
+   "title": "Power 2500 Watt Class-bd Constant Power Amp | T2500-1bdCP | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BD",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped (two amps)",
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 1823,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 2940,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 2980,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 2500,
+   "efficiency_pct": [
+    {
+     "pct": 81.9,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 77.7,
+     "ohm": 2.0,
+     "note": null
+    },
+    {
+     "pct": 64.5,
+     "ohm": 1.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "1/0",
+   "recommended_fuse_a": 300,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 175,
+   "current_draw_max_sine_13v8_a": 350,
+   "suggested_alternator_a": 200,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     54.400000000000006,
+     206.8,
+     556.5999999999999
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t2500-1bdcp/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t400-4",
+   "model": "T400-4",
+   "title": "Power 400 Watt 4-Channel Amplifier | T400-4 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 60,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 84,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 139,
+     "channels": 4,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 272,
+     "channels": 2,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 400,
+   "efficiency_pct": [
+    {
+     "pct": 69.0,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 68.0,
+     "ohm": 2.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 60,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 30,
+   "current_draw_max_sine_13v8_a": 60,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     54.2,
+     206.8,
+     346.9
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t400-4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t400x2ad",
+   "model": "T400X2ad",
+   "title": "Power 400 Watt Class-AD 2-Channel Amplifier | T400X2ad | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class AD",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 223,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 248,
+     "channels": 2,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 449,
+     "channels": 1,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 400,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": null,
+     "note": ">"
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 60,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 23,
+   "current_draw_max_sine_13v8_a": 45,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     41.0,
+     108.0,
+     178.0
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t400x2ad/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t400x4ad",
+   "model": "T400X4ad",
+   "title": "Power 400 Watt Class-ad 4-Channel Amplifier | T400X4ad | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class AD",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 128,
+     "channels": 4,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 152,
+     "channels": 4,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 290,
+     "channels": 2,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 400,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": null,
+     "note": ">"
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 60,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 28,
+   "current_draw_max_sine_13v8_a": 55,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     41.0,
+     108.0,
+     211.0
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t400x4ad/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t500-1bdcp",
+   "model": "T500-1bdCP",
+   "title": "Power 500 Watt Class-bd Constant Power Amplifier | T500-1bdCP | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BD",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 328,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 537,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 707,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 500,
+   "efficiency_pct": [
+    {
+     "pct": 86.2,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 82.3,
+     "ohm": 2.0,
+     "note": null
+    },
+    {
+     "pct": 73.4,
+     "ohm": 1.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 80,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 35,
+   "current_draw_max_sine_13v8_a": 70,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     54.2,
+     206.8,
+     289.7
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t500-1bdcp/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t600-4",
+   "model": "T600-4",
+   "title": "Power 600 Watt 4-Channel Amplifier | T600-4 | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class A/B",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 139,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 236,
+     "channels": 2,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 140,
+     "channels": 2,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 236,
+     "channels": 2,
+     "ohm": 2.0
+    }
+   ],
+   "total_power_w": 600,
+   "efficiency_pct": [
+    {
+     "pct": 70.0,
+     "ohm": 4.0,
+     "note": null
+    },
+    {
+     "pct": 64.0,
+     "ohm": 2.0,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": 80,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 40,
+   "current_draw_max_sine_13v8_a": 80,
+   "suggested_alternator_a": 75,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     54.2,
+     206.8,
+     378.6
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t600-4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-t750x1bd",
+   "model": "T750X1bd",
+   "title": "Power 750 Watt Class-bd Mono Amplifier | T750X1bd | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class BD",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 538,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 909,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 990,
+     "channels": 1,
+     "ohm": 1.0
+    }
+   ],
+   "total_power_w": 750,
+   "efficiency_pct": [
+    {
+     "pct": 85.0,
+     "ohm": null,
+     "note": ">"
+    }
+   ],
+   "power_wire_awg_maker": "8",
+   "recommended_fuse_a": 100,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": 86,
+   "suggested_alternator_a": null,
+   "operating_voltage": "9 - 16 VDC",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     41.0,
+     108.0,
+     211.0
+    ],
+    "order": "H x W x D (maker order)"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t750x1bd/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-tma-1000x1",
+   "model": "TMA-1000X1",
+   "title": "Power 1,000-Watt Adaptive Mono Channel Amplifier | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-A/D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [],
+   "total_power_w": 1000,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": null,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": null,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": null,
+   "suggested_alternator_a": null,
+   "operating_voltage": "8 – 16 V DC",
+   "min_load_ohm": 1.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/tma-1000x1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-tma-1200x5",
+   "model": "TMA-1200X5",
+   "title": "Power 1,200-Watt Adaptive 5-Channel Amplifier | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-A/D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "main channels",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0
+    }
+   ],
+   "total_power_w": 1200,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": null,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": null,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": null,
+   "suggested_alternator_a": null,
+   "operating_voltage": "8 – 16 V DC",
+   "min_load_ohm": 1.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/tma-1200x5/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-tma-600x4",
+   "model": "TMA-600X4",
+   "title": "Power 600-Watt Adaptive 4-Channel Amplifier | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-A/D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [],
+   "total_power_w": 600,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": null,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": null,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": 27,
+   "current_draw_max_sine_13v8_a": 76,
+   "suggested_alternator_a": null,
+   "operating_voltage": "8 – 16 V DC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/tma-600x4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "rockford-tma-750x6",
+   "model": "TMA-750X6",
+   "title": "Power 750-Watt Adaptive 6-Channel Amplifier | Rockford Fosgate &reg;",
+   "status": "listed in the maker car-amplifier selector 2026-11-23",
+   "class": "Class-A/D",
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 6,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 6,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 3,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power": [],
+   "total_power_w": 750,
+   "efficiency_pct": [
+    {
+     "pct": 75.0,
+     "ohm": null,
+     "note": null
+    }
+   ],
+   "power_wire_awg_maker": "4",
+   "recommended_fuse_a": null,
+   "fuse_included": false,
+   "current_draw_avg_music_13v8_a": null,
+   "current_draw_max_sine_13v8_a": null,
+   "suggested_alternator_a": null,
+   "operating_voltage": "8 – 16 V DC",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/tma-750x6/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec table by scripts/parts/build_rockford_amps.py",
+   "notes": ""
+  }
+ ],
+ "not_recorded": []
+}

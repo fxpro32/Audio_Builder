@@ -1,0 +1,1982 @@
+{
+ "brand": "Ground Zero",
+ "country": "Germany",
+ "brand_url": "https://www.ground-zero-audio.com",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms and Conditions (not read in full). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "GZCF 165NEO-PROC",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": 4,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86,
+   "cutout_mm": 147,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-165neo-proc/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Printed Xmax '8 mm / 0.31″' is peak-to-peak; xmax_mm = printed / 2 (calculated).",
+   "maker_description": "2-way coaxial speakers for active use"
+  },
+  {
+   "model": "GZCF 200COAX",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 250,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 155.8,
+    "re_ohm": 3.4,
+    "qms": 13.25,
+    "qes": 0.71,
+    "qts": 0.68,
+    "vas_l": 8,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 11.9,
+    "bl_tm": 7.4,
+    "le_mh": 0.29,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 89,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-200coax-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.fs_hz",
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCF-200COAX_OM_112014.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZCF-200COAX_OM_112014.pdf p.3). T/S are the woofer's (manual table).",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZCF 200NEO-PROC",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": 6,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 104,
+   "cutout_mm": 181,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-200neo-proc/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Printed Xmax '12 mm / 0.47″' is peak-to-peak; xmax_mm = printed / 2 (calculated).",
+   "maker_description": "2-way coaxial speakers for active use"
+  },
+  {
+   "model": "GZCF 6.5XSPL",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 250,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 145,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-6-5xspl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZCF 6.5XSPL-NEO",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 250,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 145,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover frequency": "7500 Hz"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-6-5xspl-neo-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": null
+  },
+  {
+   "model": "GZCF 69SPL",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 84,
+   "cutout_mm": [
+    152,
+    214
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-69spl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZCF 69XSPL-NEO",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 79,
+   "cutout_mm": [
+    152,
+    214
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover frequency": "7000 Hz"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-69xspl-neo-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": null
+  },
+  {
+   "model": "GZCF 7104XSPL",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "7x10",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 300,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    35,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-7104xspl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "4-way coaxial speakers"
+  },
+  {
+   "model": "GZCF 7104XSPL PINK EDITION",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "7x10",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 300,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    35,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86,
+   "cutout_mm": [
+    165,
+    239
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-7104xspl-pink-edition/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "4-way coaxial speakers"
+  },
+  {
+   "model": "GZCF 8.0SPL",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": 183,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-8-0spl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZCF 8.0XSPL-NEO",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 183,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover frequency": "7000 Hz"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcf-8-0xspl-neo-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": null
+  },
+  {
+   "model": "GZCS 12CX",
+   "type": "coaxial",
+   "size_in": 4.75,
+   "size_label": "120 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 100,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    75,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 109,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-12cx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific 2-way speakers"
+  },
+  {
+   "model": "GZCS 46CX",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 48,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-46cx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific 2-way speakers"
+  },
+  {
+   "model": "GZCS 8.7CX",
+   "type": "coaxial",
+   "size_in": 3.5,
+   "size_label": "87 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 90,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-8-7cx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific 2-way speakers"
+  },
+  {
+   "model": "GZCS BMW-CENTER",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 90,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-bmw-center/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific 2-way coax-speaker"
+  },
+  {
+   "model": "GZCS F-4.0BMW",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 90,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-f-4-0bmw-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific 2-way coax-speaker",
+   "voice_coil_as_printed": "25 mm / 1″ copper"
+  },
+  {
+   "model": "GZCS F-4.0MB",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 100,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-f-4-0mb-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific 2-way coax-speaker",
+   "voice_coil_as_printed": "25 mm / 1″ copper"
+  },
+  {
+   "model": "GZCS F-4.0X",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 100,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-f-4-0x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific 2-way coax-speaker",
+   "voice_coil_as_printed": "25 mm / 1″ copper"
+  },
+  {
+   "model": "GZIF 4.0",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 100,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 93,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-4-0-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZIF 4001FX",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 90,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 93,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-4001fx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZIF 5.2",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 117.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-5-2-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZIF 5201FX",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 37,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-5201fx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": null
+  },
+  {
+   "model": "GZIF 6.5",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 142.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-6-5-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZIF 6.5HE",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 142.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-6-5he-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": null
+  },
+  {
+   "model": "GZIF 6501FX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 44,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-6501fx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZIF 69",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 180,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": [
+    152,
+    214
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzif-69-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "3-way coaxial speakers"
+  },
+  {
+   "model": "GZRC 165.2SQ-IVX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 190,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    35,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68,
+   "cutout_mm": 142.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "12/12 dB/Okt.": "Crossover frequency"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrc-165-2sq-ivx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": null
+  },
+  {
+   "model": "GZRF 4.0SQX",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 47,
+   "cutout_mm": 93,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrf-4-0sqx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZRF 5.2SQX",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 59,
+   "cutout_mm": 117.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrf-5-2sqx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZRF 6.5SQX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 140,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68,
+   "cutout_mm": 142.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrf-6-5sqx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZRF 69SQX",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 130,
+   "peak_w": 200,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": [
+    152,
+    214
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrf-69sqx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "3-way coaxial speakers"
+  },
+  {
+   "model": "GZTF 4.0X",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 51,
+   "cutout_mm": 93,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gztf-4-0x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZTF 5.2X",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 110,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 117.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gztf-5-2x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZTF 6.5X",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 143.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gztf-6-5x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way coaxial speakers"
+  },
+  {
+   "model": "GZTF 69X",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 130,
+   "peak_w": 190,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": [
+    152,
+    214
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gztf-69x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "3-way coaxial speakers"
+  }
+ ],
+ "no_specs_published": []
+}

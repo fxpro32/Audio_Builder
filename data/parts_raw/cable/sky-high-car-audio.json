@@ -1,0 +1,1000 @@
+{
+ "schema": "parts_raw/1",
+ "category": "cable",
+ "brand": "Sky High Car Audio",
+ "maker_site": "https://skyhighcaraudio.com",
+ "method": "skyhighcaraudio.com listing pages (first page of each category + site search), title / SKU / USD price; scripts/parts/build_skyhigh.py",
+ "terms_note": "Numbers only with URL; USD prices. Sky High's own brand.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 34,
+ "records": [
+  {
+   "id": "skyhigh-shca-1-0-g-ofc-wire",
+   "model": "SHCA-OFC0-BTF",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio 1/0 Gauge OFC Wire - By the Foot",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-1-0-g-ofc-wire",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_power-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "power/ground",
+   "awg": "1/0",
+   "awg_nominal_mm2": 53.48,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null,
+   "length_note": "sold by the foot (price is per foot)"
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-16-gauge-primary-wire-500ft-spool-25ft-500ft",
+   "model": "SHCA-OFC16P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 16 Gauge Primary Wire- 500ft Spool 25ft-500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-16-gauge-primary-wire-500ft-spool-25ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-14-gauge-primary-wire-25ft-500ft",
+   "model": "SHCA-OFC14P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 14 Gauge Primary Wire 25ft-500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-14-gauge-primary-wire-25ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "14",
+   "awg_nominal_mm2": 2.08,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-12-gauge-primary-wire-25ft-500ft",
+   "model": "SHCA-OFC12P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 12 Gauge Primary Wire 25ft-500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-12-gauge-primary-wire-25ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-ofc-4-conductor-wire",
+   "model": "SHCA-OFC4CORE",
+   "model_basis": "store SKU",
+   "title": "OFC 4 Conductor Wire",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/ofc-4-conductor-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "remote/primary",
+   "awg": null,
+   "awg_nominal_mm2": null,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null,
+   "length_note": null,
+   "quality_issues": [
+    "size_null",
+    "length_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-18-gauge-primary-wire-100ft-500ft",
+   "model": "SHCA-CCA18P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 18 Gauge Primary Wire 100ft-500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-18-gauge-primary-wire-100ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-12-gauge-primary-wire-25ft-500ft",
+   "model": "SHCA-CCA12P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 12 Gauge Primary Wire 25ft-500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-12-gauge-primary-wire-25ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-14-gauge-primary-wire-25ft-500ft",
+   "model": "SHCA-CCA14P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 14 Gauge Primary Wire 25ft-500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-14-gauge-primary-wire-25ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "14",
+   "awg_nominal_mm2": 2.08,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-16-gauge-primary-wire-25ft-500ft",
+   "model": "SHCA-CCA16P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 16 Gauge Primary Wire 25ft-500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-16-gauge-primary-wire-25ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-18-gauge-primary-wire-100ft-500ft",
+   "model": "SHCA-OFC18P",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 18 Gauge Primary Wire 100ft - 500ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-18-gauge-primary-wire-100ft-500ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "remote/primary",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-ofc-9-core-wire",
+   "model": "SHCA-OFC9CORE",
+   "model_basis": "store SKU",
+   "title": "OFC 9 Core Wire",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/ofc-9-core-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "remote/primary",
+   "awg": null,
+   "awg_nominal_mm2": null,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null,
+   "length_note": null,
+   "quality_issues": [
+    "size_null",
+    "length_null"
+   ]
+  },
+  {
+   "id": "skyhigh-cca-9-core-wire",
+   "model": "SHCA-CCA9CORE",
+   "model_basis": "store SKU",
+   "title": "CCA 9 Core Wire",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/cca-9-core-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "remote/primary",
+   "awg": null,
+   "awg_nominal_mm2": null,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null,
+   "length_note": null,
+   "quality_issues": [
+    "size_null",
+    "length_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-wire-rack",
+   "model": "SHCA-WIRERACK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Wire Rack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-wire-rack/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_primary-remote-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "remote/primary",
+   "awg": null,
+   "awg_nominal_mm2": null,
+   "awg_note": null,
+   "material": null,
+   "length_m": null,
+   "length_note": null,
+   "quality_issues": [
+    "size_null",
+    "material_null",
+    "length_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-8-gauge-speaker-wire-1ft-100ft",
+   "model": "SHCA-OFC8SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 8 Gauge Speaker Wire 1ft-100ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-8-gauge-speaker-wire-1ft-100ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-10-gauge-speaker-wire-1ft-200ft",
+   "model": "SHCA-OFC10SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 10 Gauge Speaker Wire 1ft-200ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-10-gauge-speaker-wire-1ft-200ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "10",
+   "awg_nominal_mm2": 5.26,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-8-gauge-speaker-wire-1ft-100ft",
+   "model": "SHCA-CCA8SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 8 Gauge Speaker Wire 1ft-100ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-8-gauge-speaker-wire-1ft-100ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-14-gauge-speaker-wire-25ft-400ft",
+   "model": "SHCA-OFC14SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 14 Gauge Speaker Wire 25ft-400ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-14-gauge-speaker-wire-25ft-400ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "14",
+   "awg_nominal_mm2": 2.08,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-12-gauge-speaker-wire-25ft-300ft",
+   "model": "SHCA-OFC12SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 12 Gauge Speaker Wire 25ft-300ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-12-gauge-speaker-wire-25ft-300ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-16-gauge-speaker-wire-50ft-600ft",
+   "model": "SHCA-OFC16SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 16 Gauge Speaker Wire 50ft-600ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-16-gauge-speaker-wire-50ft-600ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-10-gauge-speaker-wire-1ft-200ft",
+   "model": "SHCA-CCA10SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 10 Gauge Speaker Wire 1ft-200ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-10-gauge-speaker-wire-1ft-200ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "10",
+   "awg_nominal_mm2": 5.26,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-14-gauge-speaker-wire-50ft-1000ft",
+   "model": "SHCA-CCA14SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 14 Gauge Speaker Wire 50ft-1000ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-14-gauge-speaker-wire-50ft-1000ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "14",
+   "awg_nominal_mm2": 2.08,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-16-gauge-speaker-wire-25ft-1000ft",
+   "model": "SHCA-CCA16SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 16 Gauge Speaker Wire 25ft-1000ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-16-gauge-speaker-wire-25ft-1000ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-12-gauge-speaker-wire-25ft-1000ft",
+   "model": "SHCA-CCA12SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 12 Gauge Speaker Wire 25ft-1000ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-12-gauge-speaker-wire-25ft-1000ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-18-gauge-speaker-wire-25ft-700ft",
+   "model": "SHCA-CCA18SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 18 Gauge Speaker Wire 25ft-700ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-18-gauge-speaker-wire-25ft-700ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-ofc-18-gauge-speaker-wire-25ft-700ft",
+   "model": "SHCA-OFC18SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio OFC 18 Gauge Speaker Wire 25ft-700ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-ofc-18-gauge-speaker-wire-25ft-700ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "awg_note": null,
+   "material": "OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-speaker-wire-pants-1",
+   "model": "SCHA-SWPANTS",
+   "model_basis": "store SKU",
+   "title": "Speaker Wire Pants",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/speaker-wire-pants-1/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "speaker",
+   "awg": null,
+   "awg_nominal_mm2": null,
+   "awg_note": null,
+   "material": null,
+   "length_m": null,
+   "length_note": null,
+   "quality_issues": [
+    "size_null",
+    "material_null",
+    "length_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-tinned-ofc-10-gauge-speaker-wire-1ft-200ft",
+   "model": "SHCA-OFCT10SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Tinned OFC 10 Gauge Speaker Wire 1ft-200ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-tinned-ofc-10-gauge-speaker-wire-1ft-200ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "10",
+   "awg_nominal_mm2": 5.26,
+   "awg_note": null,
+   "material": "tinned OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-100-feet-each-12-14-16-gauge-awg-300-speaker-wire",
+   "model": "SHCA-CCA121416SW",
+   "model_basis": "store SKU",
+   "title": "100' feet EACH 12 14 & 16 Gauge AWG 300' Speaker Wire",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/100-feet-each-12-14-16-gauge-awg-300-speaker-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "awg_note": null,
+   "material": null,
+   "length_m": null,
+   "length_note": null,
+   "quality_issues": [
+    "material_null",
+    "length_null"
+   ]
+  },
+  {
+   "id": "skyhigh-101216ga-speaker-wire",
+   "model": "SHCA-CCA101216SW",
+   "model_basis": "store SKU",
+   "title": "100 ft ea. 10, 12 and 16 ga Speaker Wire Combo Pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/101216ga-speaker-wire",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "awg_note": null,
+   "material": null,
+   "length_m": 30.48,
+   "length_note": null,
+   "bundle": true,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "skyhigh-100-feet-each-14-16-18-gauge-awg-300-speaker-wire",
+   "model": "SHCA-CCA141618SW",
+   "model_basis": "store SKU",
+   "title": "100' feet EACH 14 16 & 18 Gauge AWG 300' Speaker Wire",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/100-feet-each-14-16-18-gauge-awg-300-speaker-wire/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "awg_note": null,
+   "material": null,
+   "length_m": null,
+   "length_note": null,
+   "quality_issues": [
+    "material_null",
+    "length_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-cca-20-gauge-speaker-wire-800ft",
+   "model": "SHCA-CCA20SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio CCA 20 Gauge Speaker Wire 800ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-cca-20-gauge-speaker-wire-800ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "20",
+   "awg_nominal_mm2": 0.52,
+   "awg_note": null,
+   "material": "CCA",
+   "length_m": 243.84,
+   "length_note": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-tinned-ofc-14-gauge-speaker-wire-25ft-400ft",
+   "model": "SHCA-OFCT14SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Tinned OFC 14 Gauge Speaker Wire 25ft-400ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-tinned-ofc-14-gauge-speaker-wire-25ft-400ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "14",
+   "awg_nominal_mm2": 2.08,
+   "awg_note": null,
+   "material": "tinned OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-tinned-ofc-16-gauge-speaker-wire-50ft-600ft",
+   "model": "SHCA-OFCT16SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Tinned OFC 16 Gauge Speaker Wire 50ft-600ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-tinned-ofc-16-gauge-speaker-wire-50ft-600ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "awg_note": null,
+   "material": "tinned OFC",
+   "length_m": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-tinned-ofc-12-gauge-speaker-wire-25ft-300ft",
+   "model": "SHCA-OFCT12SW",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Tinned OFC 12 Gauge Speaker Wire 25ft-300ft",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-tinned-ofc-12-gauge-speaker-wire-25ft-300ft/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_speaker-wire_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "length_note": "several lengths on one listing (price shown is the lowest variant)",
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "awg_note": null,
+   "material": "tinned OFC",
+   "length_m": null
+  }
+ ],
+ "not_recorded": []
+}

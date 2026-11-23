@@ -1,0 +1,401 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "Ampere Audio",
+ "maker_site": "https://www.ampereaudio.com",
+ "method": "maker's own Shopify store, public products.json, body text and titles; numbers only (values parsed by scripts/parts/build_amps_shopify.py, spot-checked)",
+ "terms_note": "Numbers (facts) only with source URL; no text, images or PDFs copied. Store prices are USD maker-store prices on the read date.",
+ "units": {
+  "w_per_ch": "W RMS per channel",
+  "ohm": "ohm load per channel (bridged = load across the bridged pair)",
+  "dims_mm": "mm, converted from inches when published in inches"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 6,
+ "records": [
+  {
+   "id": "ampere-ampere-audio-aa-3k-3-000w-mono-block-car-amplifier-high-power-car-audio-amp-copy",
+   "model": "AA-3K",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Ampere Audio AA-3K 3,000W Mono Block Car Amplifier – High Power Car Audio Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 6000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ampereaudio.com/products/ampere-audio-aa-3k-3-000w-mono-block-car-amplifier-high-power-car-audio-amp-copy",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ampereaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "strapped (two amps linked) rating counted as 1 channel"
+   ]
+  },
+  {
+   "id": "ampere-ampere-audio-aa-200-4-350wx4-four-channel-car-amplifier-high-power-car-audio-amp-co",
+   "model": "AA-200.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Ampere Audio AA-200.4 350Wx4 Four Channel Car Amplifier – High Power Car Audio Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ampereaudio.com/products/ampere-audio-aa-200-4-350wx4-four-channel-car-amplifier-high-power-car-audio-amp-copy",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ampereaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ampere-ampere-audio-aa-500-4-700wx4-four-channel-car-amplifier-high-power-car-audio-amp",
+   "model": "AA-500.4",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Ampere Audio AA-500.4 700Wx4 Four Channel Car Amplifier – High Power Car Audio Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ampereaudio.com/products/ampere-audio-aa-500-4-700wx4-four-channel-car-amplifier-high-power-car-audio-amp",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ampereaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ampere-ampere-audio-aa-5k-5-000w-mono-block-car-amplifier-high-power-car-audio-amp",
+   "model": "AA-5K",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Ampere Audio AA-5K 5,000W Mono Block Car Amplifier – High Power Car Audio Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 10000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ampereaudio.com/products/ampere-audio-aa-5k-5-000w-mono-block-car-amplifier-high-power-car-audio-amp",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ampereaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "strapped (two amps linked) rating counted as 1 channel"
+   ]
+  },
+  {
+   "id": "ampere-ampere-audio-aa-8k-8-000w-mono-block-car-amplifier-high-power-car-audio-amp",
+   "model": "AA-8K",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Ampere Audio AA-8K 8,000W Mono Block Car Amplifier – High Power Car Audio Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 8000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 16000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ampereaudio.com/products/ampere-audio-aa-8k-8-000w-mono-block-car-amplifier-high-power-car-audio-amp",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ampereaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "strapped (two amps linked) rating counted as 1 channel"
+   ]
+  },
+  {
+   "id": "ampere-aa-12k-mono-block-car-audio-amplifier",
+   "model": "AA-12K",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "Ampere Audio AA-12K 12,000W Mono Block Car Amplifier – High Power Car Audio Amp",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 12000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 7000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 24000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": "strapped",
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ampereaudio.com/products/aa-12k-mono-block-car-audio-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ampereaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "strapped (two amps linked) rating counted as 1 channel"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

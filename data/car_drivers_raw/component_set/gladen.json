@@ -1,0 +1,810 @@
+{
+ "brand": "GLADEN (Gladen Europe GmbH)",
+ "country": "Germany",
+ "brand_url": "https://www.gladen.com",
+ "terms_note": "R4 2026-11-23: gladen.com series pages and gladen-audio.de data sheets read 3 s apart (robots.txt: Joomla default, gladen-audio.de has none). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [
+  {
+   "model": "GLADEN Beta 130.2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 45,
+   "peak_w": 90,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 82,
+    "re_ohm": 2.65,
+    "qms": 4.26,
+    "qes": 0.99,
+    "qts": 0.96,
+    "vas_l": 4.94,
+    "sd_cm2": 88.25,
+    "xmax_mm": null,
+    "mms_g": 6.98,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 3500,
+    "tweeter_level_as_printed": "0 dB -3 dB",
+    "as_printed": {
+     "Trennfrequenz": "3500 Hz / 12 dB",
+     "Pegelanpassung(Hochtöner)": "0 dB -3 dB"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-beta-lautsprecher/gladen-beta-130-2",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '90 45 Watt' (larger value taken as max, smaller as RMS).",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "25 mm",
+    "Leistung": "80 60 Watt (3,5 kHz 24dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "1500 Hz",
+    "Re": "3,3 Ohm",
+    "Sq": "6,6 cm²"
+   }
+  },
+  {
+   "model": "GLADEN ENA 165.2",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 60,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 86,
+    "re_ohm": 3.27,
+    "qms": 4.88,
+    "qes": 1.74,
+    "qts": 1.28,
+    "vas_l": 8,
+    "sd_cm2": 136.8,
+    "xmax_mm": null,
+    "mms_g": 11.05,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": null,
+    "tweeter_level_as_printed": null,
+    "as_printed": {
+     "Bauart": "Weichenkabel mit Vorschaltkondensator in der Plusleitung",
+     "Kondensator": "3,3 µF, bipolarer Elko",
+     "Filter Hochtöner": "Hochpass 6 dB/Oktave, elektrisch ≈ 12 kHz Artikeldaten",
+     "Art des Produkts": "Lautsprecher (passives 2-Wege-Komponentensystem für Fahrzeuge)",
+     "Artikelnummer": "GA-ENA165.2",
+     "EAN": "4260242461250"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-ena-lautsprecher/gladen-ena-165-2",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '60 30 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "20 mm",
+    "Belastbarkeit im System": "60 30 Watt",
+    "Impedanz": "4 Ohm",
+    "Fs": "2700 Hz",
+    "Re": "3,53 Ohm"
+   }
+  },
+  {
+   "model": "GLADEN G-FIT 100.2",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 100,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 110,
+    "re_ohm": 2.9,
+    "qms": 4.23,
+    "qes": 0.91,
+    "qts": 0.75,
+    "vas_l": 1.55,
+    "sd_cm2": 53,
+    "xmax_mm": null,
+    "mms_g": 5.03,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 4000,
+    "tweeter_level_as_printed": "3 dB",
+    "as_printed": {
+     "Trennfrequenz": "4000 Hz",
+     "Pegelanpassung (Hochtöner)": "3 dB",
+     "Bi-Amping fähig": "nein"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-g-fit/gladen-g-fit-100-2",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '100 80 Watt' (larger value taken as max, smaller as RMS).",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "22 mm",
+    "Belastbarkeit": "100 80 Watt (4 kHz 12dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "850 Hz",
+    "Re": "3,9 Ohm",
+    "Sq": "3,8 cm²"
+   }
+  },
+  {
+   "model": "GLADEN GAMMA 100.2",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 123,
+    "re_ohm": 2.6,
+    "qms": 2.5,
+    "qes": 1.02,
+    "qts": 0.73,
+    "vas_l": 1.5,
+    "sd_cm2": 60,
+    "xmax_mm": null,
+    "mms_g": 5.6,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 2800,
+    "tweeter_level_as_printed": "4 x 2 dB",
+    "as_printed": {
+     "Trennfrequenz": "2800 Hz",
+     "Pegelanpassung (Hochtöner)": "4 x 2 dB",
+     "Bi-Amping-fähig": "Ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-gamma-lautsprecher/gladen-gamma-100-2",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '140 80 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "25 mm",
+    "Leistung": "80 60 Watt (3,5 kHz 24dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "1075 Hz",
+    "Re": "3,30 Ohm",
+    "Sq": "6,6 cm²"
+   }
+  },
+  {
+   "model": "GLADEN GAMMA 130.2 Slim",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 108,
+    "re_ohm": 2.6,
+    "qms": 4.97,
+    "qes": 1.65,
+    "qts": 1.24,
+    "vas_l": 4.36,
+    "sd_cm2": 85,
+    "xmax_mm": null,
+    "mms_g": 5.01,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 2800,
+    "tweeter_level_as_printed": "4 x 2 dB",
+    "as_printed": {
+     "Trennfrequenz": "2800 Hz",
+     "Pegelanpassung (Hochtöner)": "4 x 2 dB",
+     "Bi-Amping-fähig": "Ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-gamma-lautsprecher/gladen-gamma-130-2-slim",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '130 80 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "25 mm",
+    "Leistung": "80 60 Watt (3,5 kHz 24dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "1075 Hz",
+    "Re": "3,30 Ohm",
+    "Sq": "6,6 cm²"
+   }
+  },
+  {
+   "model": "GLADEN GAMMA 130.2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 150,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 81,
+    "re_ohm": 2.61,
+    "qms": 2.5,
+    "qes": 0.59,
+    "qts": 0.48,
+    "vas_l": 6,
+    "sd_cm2": 95,
+    "xmax_mm": null,
+    "mms_g": 8.1,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 2800,
+    "tweeter_level_as_printed": "4 x 2 dB",
+    "as_printed": {
+     "Trennfrequenz": "2800 Hz",
+     "Pegelanpassung (Hochtöner)": "4 x 2 dB",
+     "Bi-Amping-fähig": "Ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-gamma-lautsprecher/gladen-gamma-130-2",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '150 90 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "25 mm",
+    "Leistung": "80 60 Watt (3,5 kHz 24dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "1075 Hz",
+    "Re": "3,30 Ohm",
+    "Sq": "6,6 cm²"
+   }
+  },
+  {
+   "model": "GLADEN GAMMA 165.2 (AC)",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 175,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 59,
+    "re_ohm": 2.63,
+    "qms": 2.7,
+    "qes": 0.55,
+    "qts": 0.45,
+    "vas_l": 16.2,
+    "sd_cm2": 135,
+    "xmax_mm": null,
+    "mms_g": 10.9,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 2800,
+    "tweeter_level_as_printed": "4 x 2 dB",
+    "as_printed": {
+     "Trennfrequenz": "2800 Hz",
+     "Pegelanpassung (Hochtöner)": "4 x 2 dB",
+     "Bi-Amping-fähig": "Ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-gamma-lautsprecher/gladen-gamma-165-2-ac",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '175 100 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "25 mm",
+    "Leistung": "80 60 Watt (3,5 kHz 24dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "1075 Hz",
+    "Re": "3,30 Ohm",
+    "Sq": "6,6 cm²"
+   }
+  },
+  {
+   "model": "GLADEN GAMMA 165.2 Slim",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 82,
+    "re_ohm": 2.6,
+    "qms": 5.21,
+    "qes": 0.99,
+    "qts": 0.83,
+    "vas_l": 9.5,
+    "sd_cm2": 135,
+    "xmax_mm": null,
+    "mms_g": 10.1,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 2800,
+    "tweeter_level_as_printed": "4 x 2 dB",
+    "as_printed": {
+     "Trennfrequenz": "2800 Hz",
+     "Pegelanpassung (Hochtöner)": "4 x 2 dB",
+     "Bi-Amping-fähig": "Ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-gamma-lautsprecher/gladen-gamma-165-2-slim",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '130 80 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "25 mm",
+    "Leistung": "80 60 Watt (3,5 kHz 24dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "1075 Hz",
+    "Re": "3,30 Ohm",
+    "Sq": "6,6 cm²"
+   }
+  },
+  {
+   "model": "GLADEN GAMMA 200.2 (AC)",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 2.51,
+    "qms": 3.69,
+    "qes": 0.81,
+    "qts": 0.67,
+    "vas_l": 26.78,
+    "sd_cm2": 216.5,
+    "xmax_mm": null,
+    "mms_g": 23.45,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 2800,
+    "tweeter_level_as_printed": "4 x 2 dB",
+    "as_printed": {
+     "Trennfrequenz": "2800 Hz",
+     "Pegelanpassung (Hochtöner)": "4 x 2 dB",
+     "Bi-Amping-fähig": "Ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-gamma-lautsprecher/gladen-gamma-200-2-ac",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '150 100 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "25 mm",
+    "Leistung": "80 60 Watt (3,5 kHz 24dB/Okt.)",
+    "Impedanz": "4 Ohm",
+    "Fs": "1075 Hz",
+    "Re": "3,30 Ohm",
+    "Sq": "6,6 cm²"
+   }
+  },
+  {
+   "model": "GLADEN SIGMA 130.2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 225,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 62.9,
+    "re_ohm": 2.63,
+    "qms": 3.895,
+    "qes": 0.49,
+    "qts": 0.44,
+    "vas_l": 7,
+    "sd_cm2": 86,
+    "xmax_mm": null,
+    "mms_g": 9.69,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 4000,
+    "tweeter_level_as_printed": "3 dB",
+    "as_printed": {
+     "Trennfrequenz (low)": "4000 Hz",
+     "Trennfrequenz (high)": "5500 Hz",
+     "Pegelanpassung (Hochtöner)": "3 dB",
+     "Bi-Amping-fähig": "ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-sigma-lautsprecher/gladen-sigma-130-2",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '225 150 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "22 mm",
+    "Impedanz": "4 Ohm",
+    "Belastbarkeit": "120 80 Watt (3,5 kHz 24dB/Okt.)",
+    "Fs": "668 Hz",
+    "Re": "3,61 Ohm",
+    "Sq": "3,8 cm²"
+   }
+  },
+  {
+   "model": "GLADEN SIGMA 165.2 AC",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 175,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46.2,
+    "re_ohm": 2.61,
+    "qms": 4.325,
+    "qes": 0.48,
+    "qts": 0.43,
+    "vas_l": 16.25,
+    "sd_cm2": 135,
+    "xmax_mm": null,
+    "mms_g": 18.1,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-sigma-lautsprecher/gladen-sigma-165-2-ac",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '250 175 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "22 mm",
+    "Impedanz": "4 Ohm",
+    "Belastbarkeit": "120 80 Watt (3,5 kHz 24dB/Okt.)",
+    "Fs": "668 Hz",
+    "Re": "3,61 Ohm",
+    "Sq": "3,8 cm²"
+   }
+  },
+  {
+   "model": "GLADEN SIGMA 165.2",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 175,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46.2,
+    "re_ohm": 2.61,
+    "qms": 4.325,
+    "qes": 0.48,
+    "qts": 0.43,
+    "vas_l": 16.25,
+    "sd_cm2": 135,
+    "xmax_mm": null,
+    "mms_g": 18.1,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": 4000,
+    "tweeter_level_as_printed": "3 dB",
+    "as_printed": {
+     "Trennfrequenz (low)": "4000 Hz",
+     "Trennfrequenz (high)": "5500 Hz",
+     "Pegelanpassung (Hochtöner)": "3 dB",
+     "Bi-Amping-fähig": "ja"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-sigma-lautsprecher/gladen-sigma-165-2",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '250 175 Watt' (larger value taken as max, smaller as RMS). T/S are those of the woofer section.",
+   "tweeter_part_as_printed": {
+    "Durchmesser": "22 mm",
+    "Impedanz": "4 Ohm",
+    "Belastbarkeit": "120 80 Watt (3,5 kHz 24dB/Okt.)",
+    "Fs": "668 Hz",
+    "Re": "3,61 Ohm",
+    "Sd": "135 cm²"
+   }
+  }
+ ],
+ "no_specs_published": []
+}

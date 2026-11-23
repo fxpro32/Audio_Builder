@@ -1,0 +1,185 @@
+{
+ "schema": "parts_raw/1",
+ "category": "wiring_kits",
+ "brand": "Rockford Fosgate",
+ "maker_site": "https://rockfordfosgate.com",
+ "method": "maker accessory pages from https://rockfordfosgate.com/products/selector/car-accessories/ (title and overview numbers); scripts/parts/build_rockford_acc.py",
+ "terms_note": "Numbers only with URL. Rockford accessory pages have no spec table.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 9,
+ "records": [
+  {
+   "id": "rockford-fosgate-rfk1",
+   "model": "RFK1",
+   "title": "1/0 Power Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "1/0"
+  },
+  {
+   "id": "rockford-fosgate-rfk1d",
+   "model": "RFK1D",
+   "title": "Dual Amp 1/0 AWG Dual Amp Wiring Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk1d/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "1/0"
+  },
+  {
+   "id": "rockford-fosgate-rfk4",
+   "model": "RFK4",
+   "title": "4 AWG Power Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "4"
+  },
+  {
+   "id": "rockford-fosgate-rfk4d",
+   "model": "RFK4D",
+   "title": "4 AWG Complete Dual Amp Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk4d/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "4"
+  },
+  {
+   "id": "rockford-fosgate-rfk4i",
+   "model": "RFK4I",
+   "title": "4 AWG Power & Signal Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk4i/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "4"
+  },
+  {
+   "id": "rockford-fosgate-rfk4x",
+   "model": "RFK4X",
+   "title": "4 AWG Complete Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk4x/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "4"
+  },
+  {
+   "id": "rockford-fosgate-rfk8",
+   "model": "RFK8",
+   "title": "8 AWG Power Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk8/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "8"
+  },
+  {
+   "id": "rockford-fosgate-rfk8i",
+   "model": "RFK8I",
+   "title": "8 AWG Power & Signal Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk8i/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "8"
+  },
+  {
+   "id": "rockford-fosgate-rfk8x",
+   "model": "RFK8X",
+   "title": "8 AWG Complete Installation Kit",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfk8x/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "awg": "8"
+  }
+ ],
+ "not_recorded": []
+}

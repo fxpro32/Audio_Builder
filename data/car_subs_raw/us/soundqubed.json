@@ -1,0 +1,1411 @@
+{
+ "brand": "SoundQubed",
+ "country": "USA",
+ "brand_url": "https://soundqubed.com",
+ "terms_note": "R2 2026-11-23: 7 spec PDFs from the maker's product-documentation list read 3 s apart. Numbers only. | hp_subs_raw terms note: WooCommerce site (robots.txt allows product pages); spec PDFs linked from the Product Documentation page, hosted on Google Cloud Storage; each read once, 4-5 s apart. Plain curl without a browser user agent gets HTTP 403. Terms of Service not read in full.",
+ "coverage": "every subwoofer spec sheet on the maker's product-documentation page (HDB2, HDS2.3, HDS3.3, HDX3.2, HDX4.2)",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/soundqubed.json",
+ "drivers": [
+  {
+   "model": "HDX4.2-12D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 16000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.4,
+    "re_ohm": null,
+    "qms": 3.82,
+    "qes": 0.47,
+    "qts": 0.42,
+    "vas_l": 30.8,
+    "sd_cm2": 530,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 15.8,
+    "le_mh": 1.05,
+    "spl_db_1w1m": 84.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 233,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX4.2-SERIES-SPECS.pdf",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX4.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX4.2-12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 16000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.6,
+    "re_ohm": null,
+    "qms": 3.71,
+    "qes": 0.5,
+    "qts": 0.44,
+    "vas_l": 29.4,
+    "sd_cm2": 530,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 21.7,
+    "le_mh": 1.71,
+    "spl_db_1w1m": 85.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 233,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX4.2-SERIES-SPECS.pdf",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX4.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX4.2-15D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 16000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.7,
+    "re_ohm": null,
+    "qms": 3.57,
+    "qes": 0.49,
+    "qts": 0.43,
+    "vas_l": 57.2,
+    "sd_cm2": 805,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 17.1,
+    "le_mh": 1.03,
+    "spl_db_1w1m": 88.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 243,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX4.2-SERIES-SPECS.pdf",
+     "note": "published as a range 3 to 6 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX4.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX4.2-15D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 16000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.9,
+    "re_ohm": null,
+    "qms": 3.56,
+    "qes": 0.51,
+    "qts": 0.45,
+    "vas_l": 56.6,
+    "sd_cm2": 805,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 22.8,
+    "le_mh": 1.67,
+    "spl_db_1w1m": 88.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 243,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX4.2-SERIES-SPECS.pdf",
+     "note": "published as a range 3 to 6 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX4.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX4.2-18D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 16000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.6,
+    "re_ohm": null,
+    "qms": 3.56,
+    "qes": 0.52,
+    "qts": 0.45,
+    "vas_l": 114.0,
+    "sd_cm2": 1200,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 17.8,
+    "le_mh": 0.99,
+    "spl_db_1w1m": 90.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 288,
+   "cutout_mm": 425,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      198.22
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX4.2-SERIES-SPECS.pdf",
+     "note": "published as a range 5 to 7 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX4.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX4.2-18D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 16000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.7,
+    "re_ohm": null,
+    "qms": 3.3,
+    "qes": 0.55,
+    "qts": 0.47,
+    "vas_l": 113.2,
+    "sd_cm2": 1200,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 23.3,
+    "le_mh": 1.65,
+    "spl_db_1w1m": 90.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 288,
+   "cutout_mm": 425,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      198.22
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX4.2-SERIES-SPECS.pdf",
+     "note": "published as a range 5 to 7 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX4.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX3.2-12D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 12500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.8,
+    "re_ohm": null,
+    "qms": 4.73,
+    "qes": 0.42,
+    "qts": 0.39,
+    "vas_l": 31.1,
+    "sd_cm2": 530,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 17.4,
+    "le_mh": 1.05,
+    "spl_db_1w1m": 84.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 225,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX3.2-SERIES-SPECS.pdf",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX3.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX3.2-12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 12500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.4,
+    "re_ohm": null,
+    "qms": 6.44,
+    "qes": 0.39,
+    "qts": 0.37,
+    "vas_l": 33.4,
+    "sd_cm2": 530,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 25.6,
+    "le_mh": 2.95,
+    "spl_db_1w1m": 84.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 225,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      49.55,
+      77.87
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX3.2-SERIES-SPECS.pdf",
+     "note": "published as a range 1.75 to 2.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX3.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX3.2-15D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 12500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.5,
+    "re_ohm": null,
+    "qms": 4.87,
+    "qes": 0.47,
+    "qts": 0.42,
+    "vas_l": 71.5,
+    "sd_cm2": 805,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 16.8,
+    "le_mh": 0.98,
+    "spl_db_1w1m": 87.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 235,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX3.2-SERIES-SPECS.pdf",
+     "note": "published as a range 3 to 6 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX3.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX3.2-15D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 12500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29,
+    "re_ohm": null,
+    "qms": 6.63,
+    "qes": 0.44,
+    "qts": 0.41,
+    "vas_l": 73.5,
+    "sd_cm2": 805,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 26.3,
+    "le_mh": 3.05,
+    "spl_db_1w1m": 87.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 235,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      84.95,
+      169.9
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX3.2-SERIES-SPECS.pdf",
+     "note": "published as a range 3 to 6 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX3.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX3.2-18D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 12500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.6,
+    "re_ohm": null,
+    "qms": 5.88,
+    "qes": 0.61,
+    "qts": 0.55,
+    "vas_l": 112.1,
+    "sd_cm2": 1200,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 16.4,
+    "le_mh": 1.02,
+    "spl_db_1w1m": 89.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 280,
+   "cutout_mm": 425,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      198.22
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX3.2-SERIES-SPECS.pdf",
+     "note": "published as a range 5 to 7 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX3.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDX3.2-18D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 12500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.3,
+    "re_ohm": null,
+    "qms": 5.52,
+    "qes": 0.74,
+    "qts": 0.43,
+    "vas_l": 112.9,
+    "sd_cm2": 1200,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 28.5,
+    "le_mh": 2.92,
+    "spl_db_1w1m": 89.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 280,
+   "cutout_mm": 425,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": null,
+     "volume_range_l": [
+      141.58,
+      198.22
+     ],
+     "tuning_hz": null,
+     "source": "maker spec sheet HDX3.2-SERIES-SPECS.pdf",
+     "note": "published as a range 5 to 7 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDX3.2-SERIES-SPECS.pdf",
+     "doc": "maker spec sheet 'Electro acoustic specifications & Thiele Small parameters' (text PDF)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "peak_w = maker 'Burst Rating Power'. Re not published. Cutout = drawing letter B and mounting depth = letter D (inferred from the drawing layout; letters only). Bl unit printed 'N/A'. ts_basis not stated. DATA PROBLEM: Qts 0.43 contradicts Qms 5.52 / Qes 0.74 (calculated 0.652).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HDS2.3-6D2",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 53,
+    "re_ohm": null,
+    "qms": 6.57,
+    "qes": 0.77,
+    "qts": 0.69,
+    "vas_l": 2.9,
+    "sd_cm2": 139,
+    "xmax_mm": 9,
+    "mms_g": null,
+    "bl_tm": 11.7,
+    "le_mh": 1.53,
+    "spl_db_1w1m": 79.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 109,
+   "cutout_mm": 150,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-6.5-AND-8-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS2.3-6D4",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 54.4,
+    "re_ohm": null,
+    "qms": 6.21,
+    "qes": 0.81,
+    "qts": 0.72,
+    "vas_l": 2.9,
+    "sd_cm2": 139,
+    "xmax_mm": 9,
+    "mms_g": null,
+    "bl_tm": 15.3,
+    "le_mh": 1.68,
+    "spl_db_1w1m": 80.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 109,
+   "cutout_mm": 150,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-6.5-AND-8-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS2.3-8D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": 1400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.1,
+    "re_ohm": null,
+    "qms": 6.13,
+    "qes": 0.69,
+    "qts": 0.62,
+    "vas_l": 5.1,
+    "sd_cm2": 196,
+    "xmax_mm": 13,
+    "mms_g": null,
+    "bl_tm": 15.1,
+    "le_mh": 2.2,
+    "spl_db_1w1m": 80.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 146,
+   "cutout_mm": 185,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-6.5-AND-8-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS2.3-8D4",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": 1400,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41.6,
+    "re_ohm": null,
+    "qms": 5.48,
+    "qes": 0.75,
+    "qts": 0.66,
+    "vas_l": 5.1,
+    "sd_cm2": 196,
+    "xmax_mm": 13,
+    "mms_g": null,
+    "bl_tm": 19.2,
+    "le_mh": 2.42,
+    "spl_db_1w1m": 81.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 146,
+   "cutout_mm": 185,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-6.5-AND-8-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading). Values from the separate fourth column printed after the main table.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS2.3-12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27,
+    "re_ohm": null,
+    "qms": 5.95,
+    "qes": 0.7,
+    "qts": 0.63,
+    "vas_l": 43.1,
+    "sd_cm2": 530,
+    "xmax_mm": 12,
+    "mms_g": null,
+    "bl_tm": 16.9,
+    "le_mh": 2.3,
+    "spl_db_1w1m": 82.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 192,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-AND-3.3-12-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS2.3-12D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.6,
+    "re_ohm": null,
+    "qms": 5.91,
+    "qes": 0.81,
+    "qts": 0.71,
+    "vas_l": 43.5,
+    "sd_cm2": 530,
+    "xmax_mm": 12,
+    "mms_g": null,
+    "bl_tm": 18,
+    "le_mh": 3.13,
+    "spl_db_1w1m": 84.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 192,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-AND-3.3-12-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS3.3-12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.6,
+    "re_ohm": null,
+    "qms": 6.49,
+    "qes": 0.61,
+    "qts": 0.56,
+    "vas_l": 36.3,
+    "sd_cm2": 530,
+    "xmax_mm": 13,
+    "mms_g": null,
+    "bl_tm": 19.7,
+    "le_mh": 2.46,
+    "spl_db_1w1m": 83.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 207,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-AND-3.3-12-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS3.3-12D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.2,
+    "re_ohm": null,
+    "qms": 6.37,
+    "qes": 0.74,
+    "qts": 0.66,
+    "vas_l": 34.5,
+    "sd_cm2": 530,
+    "xmax_mm": 13,
+    "mms_g": null,
+    "bl_tm": 21.5,
+    "le_mh": 3.43,
+    "spl_db_1w1m": 84.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 207,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-AND-3.3-12-SPECS.pdf",
+     "doc": "maker spec PDF (row table, one column per model)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Row table split per model column in printed order; BL printed in 'N/A' (taken as T m); ts_basis not stated. Mounting table B taken as cut-out, D as mounting depth (A2 reading).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDB2-10-D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 2,
+    "qms": 2.533,
+    "qes": 0.553,
+    "qts": 0.454,
+    "vas_l": 15.5,
+    "sd_cm2": 330.06,
+    "xmax_mm": 7.75,
+    "mms_g": 144.66,
+    "bl_tm": 16.567,
+    "le_mh": 7.1,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 137,
+   "cutout_mm": 234,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDB2-10-D2-SPECS.pdf",
+     "doc": "maker spec PDF (owner's manual)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet prints DC resistance as '2 + 2' / '4 + 4' ohms (per coil); Le printed in mH as shown; ts_basis not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDB2-10-D4",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 3.2,
+    "qms": 5.191,
+    "qes": 0.616,
+    "qts": 0.551,
+    "vas_l": 10.6,
+    "sd_cm2": 330.06,
+    "xmax_mm": 7.75,
+    "mms_g": 123.04,
+    "bl_tm": 10.905,
+    "le_mh": 8.22,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 137,
+   "cutout_mm": 234,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDB2-10-D4-SPECS.pdf",
+     "doc": "maker spec PDF (owner's manual)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet prints DC resistance as '2 + 2' / '4 + 4' ohms (per coil); Le printed in mH as shown; ts_basis not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDB2-12-D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 450,
+   "peak_w": 900,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 2,
+    "qms": 2.963,
+    "qes": 0.556,
+    "qts": 0.468,
+    "vas_l": 34.6,
+    "sd_cm2": 490.87,
+    "xmax_mm": 7.75,
+    "mms_g": 176.04,
+    "bl_tm": 17.33,
+    "le_mh": 30.7,
+    "spl_db_1w1m": 87.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": 280,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDB2-12-D2-SPECS.pdf",
+     "doc": "maker spec PDF (owner's manual)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet prints DC resistance as '2 + 2' / '4 + 4' ohms (per coil); Le printed in mH as shown; ts_basis not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDB2-12-D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 450,
+   "peak_w": 900,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.2,
+    "qms": 6.305,
+    "qes": 0.748,
+    "qts": 0.69,
+    "vas_l": 23.4,
+    "sd_cm2": 490.87,
+    "xmax_mm": 7.75,
+    "mms_g": 189.648,
+    "bl_tm": 21.65,
+    "le_mh": 32.18,
+    "spl_db_1w1m": 87.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": 280,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDB2-12-D4-SPECS.pdf",
+     "doc": "maker spec PDF (owner's manual)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet prints DC resistance as '2 + 2' / '4 + 4' ohms (per coil); Le printed in mH as shown; ts_basis not stated.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS3.3-15D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.7,
+    "re_ohm": null,
+    "qms": 8.64,
+    "qes": 0.63,
+    "qts": 0.58,
+    "vas_l": 69.2,
+    "sd_cm2": 805,
+    "xmax_mm": 13,
+    "mms_g": null,
+    "bl_tm": 19.2,
+    "le_mh": 2.34,
+    "spl_db_1w1m": 86.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 216,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-12-AND-HDS3.3-12-AND-15-SPECS.pdf",
+     "doc": "maker spec PDF (image only): T/S READ FROM IMAGE",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker sheet), double-checked: printed Qts vs Qms*Qes/(Qms+Qes) 0.587. No Re or Mms printed; BL unit printed 'N/A' (taken as T m); Cms printed 0.08 (mm/N). Mounting table D 216 mm taken as mounting depth; the table repeats the 12 in A/B figures (325 / 290 mm) on the 15 in rows (maker copy error), so the cut-out is left empty.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HDS3.3-15D4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.5,
+    "re_ohm": null,
+    "qms": 5.84,
+    "qes": 0.73,
+    "qts": 0.65,
+    "vas_l": 77.2,
+    "sd_cm2": 805,
+    "xmax_mm": 13,
+    "mms_g": null,
+    "bl_tm": 23.7,
+    "le_mh": 3.35,
+    "spl_db_1w1m": 85.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 216,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://storage.googleapis.com/pci-os-prod-sq-literature/SUBWOOFERS/HDS2.3-12-AND-HDS3.3-12-AND-15-SPECS.pdf",
+     "doc": "maker spec PDF (image only): T/S READ FROM IMAGE",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker sheet), double-checked: printed Qts vs Qms*Qes/(Qms+Qes) 0.649. No Re or Mms printed; BL unit printed 'N/A' (taken as T m); Cms printed 0.09 (mm/N). Mounting table D 216 mm taken as mounting depth; the table repeats the 12 in A/B figures (325 / 290 mm) on the 15 in rows (maker copy error), so the cut-out is left empty.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "HDX3 18 (older HDX3, listed in related products)",
+   "rms_w": null,
+   "url": "https://soundqubed.com/18-inch-car-subwoofers/",
+   "note": "Not checked further.",
+   "source": "hp_subs_raw"
+  }
+ ]
+}

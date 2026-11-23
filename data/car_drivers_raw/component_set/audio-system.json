@@ -1,0 +1,4200 @@
+{
+ "brand": "AUDIO SYSTEM Germany",
+ "country": "Germany",
+ "brand_url": "https://www.audio-system.de",
+ "terms_note": "R4 2026-11-23: robots.txt empty Disallow (all allowed); 13 series pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [
+  {
+   "model": "AUDIO SYSTEM AVALANCHE165",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 74,
+   "cutout_mm": 140,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/avalanche-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM AVALANCHE165 ACTIVE",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 74,
+   "cutout_mm": 140,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/avalanche-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM AVALANCHE165/3 ACTIVE",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 74,
+   "cutout_mm": 140,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/avalanche-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM CARBON100",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 55,
+   "peak_w": 95,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/carbon-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM CARBON130",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 53,
+   "cutout_mm": 114,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/carbon-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM CARBON165",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 61,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/carbon-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM CARBON165/3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 180,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 61,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/carbon-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X165 FLAT EVO2",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/flat-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X130 FLAT EVO2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/flat-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R165 FLAT EVO2",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/flat-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R130 FLAT EVO2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 125,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/flat-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X 200-4 FREEAIR EVO 2",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 300,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 78,
+   "cutout_mm": 184,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/freeair-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X 200-4 FL FREEAIR EVO 2",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 330,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 57,
+   "cutout_mm": 183,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/freeair-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R 200 FREE AIR EVO 2",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 78,
+   "cutout_mm": 184,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/freeair-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R 200 FL FREE AIR EVO 2",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 130,
+   "peak_w": 170,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 57,
+   "cutout_mm": 183,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/freeair-compo-systeme/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM H165 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 240,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 71,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/helon-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM H130 EVO2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 130,
+   "peak_w": 190,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58,
+   "cutout_mm": 114,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/helon-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM H165-4 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 320,
+   "peak_w": 480,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 71,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/helon-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM H165 PA",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 180,
+   "peak_w": 350,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 71,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/helon-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM H165-4 PA",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 360,
+   "peak_w": 700,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 71,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/helon-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM H200 PA",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 85,
+   "cutout_mm": 180,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/helon-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM H200-4 PA",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 800,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 85,
+   "cutout_mm": 180,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/helon-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX165 PHASE EVO 3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 175,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX130 PHASE EVO 3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 160,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 60,
+   "cutout_mm": 120,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX100 PHASE EVO 3",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 49.5,
+   "cutout_mm": 93,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX200 DUST EVO3",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 275,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 89,
+   "cutout_mm": 191,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX165 DUST EVO 3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 175,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX130 DUST EVO 3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 160,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 60,
+   "cutout_mm": 120,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX100 DUST EVO 3",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 49.5,
+   "cutout_mm": 93,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX165 DUST-4 EVO 3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 350,
+   "peak_w": 500,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX200 DUST EM EVO3",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 275,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 89,
+   "cutout_mm": 191,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX165 SQ EVO 3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX130 SQ EVO 3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX120 SQ EVO 3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 95,
+   "peak_w": 125,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 109,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX100 SQ EVO 3",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 51,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX165 SQ-4 EVO 3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 220,
+   "peak_w": 280,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX200 SQ EVO 3",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 220,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 176,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX406 SQ EVO 3",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 95,
+   "peak_w": 125,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 145,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page. Einbaudurchmesser printed as 145/88 mm (oval)."
+  },
+  {
+   "model": "AUDIO SYSTEM HX200 SQ EM EVO 3",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 145,
+   "peak_w": 210,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 176,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX165 SQ EM EVO3",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX130 SQ EM EVO3",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX120 SQ EM EVO3",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 195,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 109,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX100 SQ EM EVO3",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 51,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM HX406 SQ EM EVO3",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 145,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/hx-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page. Einbaudurchmesser printed as 145/88 mm (oval)."
+  },
+  {
+   "model": "AUDIO SYSTEM M165 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MS165 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM M130 EVO3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MS130 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM M100 EVO3",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 48,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MS100 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM M165/3 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MS80 EVO",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MS165 EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM M200 EVO3",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": 160,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 177,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MS200 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM MX165 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 59,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS19 W",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MXS165 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM MX130 EVO3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 115,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 53,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS19 W EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MXS130 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM MX130 EVO",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 115,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 53,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM MXS 130 EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/m-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R165 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS 24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS165 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R130 EVO3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS130 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R130 EVO2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS 24 EVO 2",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS 130 EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R100 EVO3",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS100 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R100 EVO2",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS 24 EVO 2",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS 100 EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R165-4 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 280,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS24 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS165 EVO3",
+     "count": 4
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R200 EM EVO3",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 180,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68,
+   "cutout_mm": 177,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS200 EMEVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R165 EM EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS 165 EM EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R130 EM EVO3",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS130 EM EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R130 EM EVO2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS 130 EM EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R507 EVO2",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "5x7",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 57,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS 24 EVO 2",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS 507 EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R609 EVO",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 180,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS 24 EVO 2",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS 609 EVO",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R165 PA EVO",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 200,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 79,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R165-4 PA EVO",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 240,
+   "peak_w": 400,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 79,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R200 PA EVO",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 88,
+   "cutout_mm": 184,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM R200-4 PA EVO",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 280,
+   "peak_w": 500,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 88,
+   "cutout_mm": 184,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/radion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X165 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": 150,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": [
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM HS25 EVO3",
+     "count": 2
+    },
+    {
+     "role": "part",
+     "model": "AUDIO SYSTEM AS165 EVO3",
+     "count": 2
+    }
+   ],
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X130 EVO2",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X100 EVO2",
+   "type": "component_set",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X165-4 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 220,
+   "peak_w": 300,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X165/3 EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 180,
+   "peak_w": 300,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X200 EM EVO3",
+   "type": "component_set",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 135,
+   "peak_w": 190,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 177,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X165 EM EVO3",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": 140,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X130 EM EVO2",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 130,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55,
+   "cutout_mm": 113,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X507 EVO2",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "5x7",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": 150,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  },
+  {
+   "model": "AUDIO SYSTEM X609 EVO2",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 200,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/x-ion-series-lautsprecher/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values). Set-level ratings per side as printed on the series page."
+  }
+ ],
+ "no_specs_published": []
+}

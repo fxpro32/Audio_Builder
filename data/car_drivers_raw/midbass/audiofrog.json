@@ -1,0 +1,191 @@
+{
+ "brand": "Audiofrog",
+ "country": "USA",
+ "brand_url": "https://www.audiofrog.com",
+ "terms_note": "R4 2026-11-23: robots.txt open (Yoast); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "Audiofrog GB60",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    60,
+    7000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 66,
+    "re_ohm": 3.4,
+    "qms": 7.4,
+    "qes": 0.51,
+    "qts": 0.48,
+    "vas_l": 6.23,
+    "sd_cm2": 122.7,
+    "xmax_mm": 9,
+    "mms_g": 20.1,
+    "bl_tm": 7.4,
+    "le_mh": 0.13,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 70,
+    "lp_hz": 3500.0,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 70 Hz, ≥ 12 dB/oct; LP ≤ 3.5 kHz, ≥ 12 dB/oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "discontinued (maker menu)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gb60-6-165mm-audiophile-grade-automotive-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '9mm (3/8”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.43 liters (0.015ft³)"
+  },
+  {
+   "model": "Audiofrog GS60",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 200,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    50,
+    7000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 80.5,
+    "re_ohm": 2.28,
+    "qms": 6.33,
+    "qes": 0.76,
+    "qts": 0.67,
+    "vas_l": 8.45,
+    "sd_cm2": 138.93,
+    "xmax_mm": 4,
+    "mms_g": 12.75,
+    "bl_tm": 4.4,
+    "le_mh": 0.14,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": null,
+    "lp_hz": 3500.0,
+    "slope_db_oct": null,
+    "note": "maker: HP -; LP ≤ 3.5 kHz, ≥ 12 dB/oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs60-premium-grade-automotive-midrange-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '4 mm (3/16”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.33 liters (0.011ft³)"
+  },
+  {
+   "model": "Audiofrog GS690",
+   "type": "midbass",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    42,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 58.3,
+    "re_ohm": 2.31,
+    "qms": 8.66,
+    "qes": 0.069,
+    "qts": 0.64,
+    "vas_l": 21.9,
+    "sd_cm2": 221,
+    "xmax_mm": 5,
+    "mms_g": 24.46,
+    "bl_tm": 5.43,
+    "le_mh": 0.18,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": null,
+    "lp_hz": 3500.0,
+    "slope_db_oct": null,
+    "note": "maker: HP -; LP ≤ 3.5 kHz, ≥ 12 dB/oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs690-6-x-9-premium-grade-automotive-woofermidrange-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '5 mm (7/32”)'.",
+   "basket_displacement_as_printed": "0.42 liters (0.015ft³)"
+  }
+ ],
+ "no_specs_published": []
+}

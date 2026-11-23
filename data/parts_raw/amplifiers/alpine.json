@@ -1,0 +1,990 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "Alpine",
+ "maker_site": "https://www.alpine-usa.com",
+ "method": "maker product pages (alpine), 3 s apart; generic parser",
+ "terms_note": "Numbers only with URL.",
+ "units": {
+  "w_per_ch": "W RMS",
+  "dims_mm": "mm"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 16,
+ "records": [
+  {
+   "id": "alpine-alpine-status-hda-f60-4-channel-amplifier",
+   "model": "HDA-F60",
+   "title": "Alpine Status Hi-Res 4-Channel Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     290.5,
+     190.5,
+     54.0
+    ],
+    "as_published_in": [
+     11.4375,
+     7.5,
+     2.125
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/alpine-status-hda-f60-4-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-alpine-status-hda-m80-mono-amplifier",
+   "model": "HDA-M80",
+   "title": "Alpine Status 800W Mono Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     290.5,
+     190.5,
+     54.0
+    ],
+    "as_published_in": [
+     11.4375,
+     7.5,
+     2.125
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/alpine-status-hda-m80-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-alpine-status-hda-v90-5-channel-amplifier",
+   "model": "HDA-V90",
+   "title": "Alpine Status Hi-Res 5-Channel Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     290.5,
+     190.5,
+     54.0
+    ],
+    "as_published_in": [
+     11.4375,
+     7.5,
+     2.125
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/alpine-status-hda-v90-5-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-kta-200m-power-pack-amplifier",
+   "model": "KTA-200M",
+   "title": "KTA-200M",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/kta-200m-power-pack-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "alpine-kta-30mw-car-amplifier",
+   "model": "KTA-30MW",
+   "title": "KTA-30MW Mono Weather Resistant Tough Power Pack Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/kta-30mw-car-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-kta-450-power-pack-amplifier",
+   "model": "KTA-450",
+   "title": "KTA-450 | 4-Ch Power Pack Amp",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 45,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 45,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/kta-450-power-pack-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name",
+   "inferred": [
+    "channels from title"
+   ]
+  },
+  {
+   "id": "alpine-ktp-445a",
+   "model": "KTP-445A",
+   "title": "KTP-445A",
+   "status": "maker page 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 45,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 45,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": true,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/ktp-445a",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "alpine-r-a90s-6-channel-amplifier",
+   "model": "R-A90S",
+   "title": "R-A90S | 6-Channel R-Series Amp",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": true,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     323.8,
+     273.1,
+     50.8
+    ],
+    "as_published_in": [
+     12.75,
+     10.75,
+     2.0
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-a90s-6-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-r-series-amplifier-r2a150m",
+   "model": "R2-A150M",
+   "title": "R-Series 1500W Mono Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     342.9,
+     66.0,
+     185.4
+    ],
+    "as_published_in": [
+     13.5,
+     2.6,
+     7.3
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-amplifier-r2a150m",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-r-series-amplifier-r2a60f",
+   "model": "R2-A60F",
+   "title": "R-Series 4-Channel Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     281.9,
+     55.1,
+     165.1
+    ],
+    "as_published_in": [
+     11.1,
+     2.17,
+     6.5
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-amplifier-r2a60f",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name",
+   "quality_issues": [
+    "bridged_suspect"
+   ]
+  },
+  {
+   "id": "alpine-r-series-amplifier-r2a75m",
+   "model": "R2-A75M",
+   "title": "R-Series 750W Mono Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     281.9,
+     55.1,
+     165.1
+    ],
+    "as_published_in": [
+     11.1,
+     2.17,
+     6.5
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/r-series-amplifier-r2a75m",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-s-series-amplifier-s2a120m",
+   "model": "S2-A120M",
+   "title": "S-Series 1200W Mono Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     332.7,
+     57.1,
+     209.5
+    ],
+    "as_published_in": [
+     13.1,
+     2.25,
+     8.25
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-amplifier-s2a120m",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-s-series-amplifier-s2a36f",
+   "model": "S2-A36F",
+   "title": "S-Series 4-Channel Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 60,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     221.0,
+     57.1,
+     209.5
+    ],
+    "as_published_in": [
+     8.7,
+     2.25,
+     8.25
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-amplifier-s2a36f",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-s-series-amplifier-s2a55v",
+   "model": "S2-A55V",
+   "title": "S-Series 5-Channel Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 40,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 60,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     302.3,
+     57.1,
+     209.5
+    ],
+    "as_published_in": [
+     11.9,
+     2.25,
+     8.25
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-amplifier-s2a55v",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-s-series-amplifier-s2a60m",
+   "model": "S2-A60M",
+   "title": "S-Series 600W Mono Amplifier",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 330,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": {
+    "mm": [
+     221.0,
+     57.1,
+     209.5
+    ],
+    "as_published_in": [
+     8.7,
+     2.25,
+     8.25
+    ]
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/s-series-amplifier-s2a60m",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  },
+  {
+   "id": "alpine-weather-resistant-audio-amplifier-kta-30fw",
+   "model": "KTA-30FW",
+   "title": "KTA-30FW",
+   "status": "maker page 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.alpine-usa.com/product/weather-resistant-audio-amplifier-kta-30fw",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "auto-parsed from the maker page text by scripts/parts/build_amps_pages.py; spot-check before relying on a value",
+   "notes": "",
+   "model_basis": "maker page product name"
+  }
+ ],
+ "not_recorded": [
+  {
+   "title": "pxe-c60-60-optim6-sound-processor",
+   "reason": "sound processor, not an amplifier (see dsp category)"
+  },
+  {
+   "title": "pxe-c80-88-optim8-sound-processor",
+   "reason": "sound processor, not an amplifier (see dsp category)"
+  }
+ ]
+}

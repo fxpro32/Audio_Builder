@@ -1,0 +1,2098 @@
+{
+ "brand": "DS18",
+ "country": "USA",
+ "brand_url": "https://www.ds18.com",
+ "terms_note": "R4 2026-11-23: Shopify products.json (public catalogue feed) read 3 s apart, 9 requests. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "DS18 PRO-TW220",
+   "type": "tweeter",
+   "size_in": 3.2,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 104,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 104,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58.4,
+   "cutout_mm": 72,
+   "frame_mm": 81,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TW220_SPANGLISH_MANUAL_WEB_V2.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-tw220",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TW220_SPANGLISH_MANUAL_WEB_V2.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3” PRO Aluminum Super Bullet Tweeter – 240 Watts with Built in Crossover - Silver"
+  },
+  {
+   "model": "DS18 PRO-TW120",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 42,
+   "cutout_mm": 72,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-tw120",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "3” PRO Aluminum Super Bullet Tweeter – 240 Watts with Built in Crossover"
+  },
+  {
+   "model": "DS18 PRO-TWX3.8TI",
+   "type": "tweeter",
+   "size_in": 3.8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 500,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1600,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 108,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55.8,
+   "cutout_mm": 92,
+   "frame_mm": 96.5,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "note": "maker 'Recommended Hi Pass Crossover' 2.5KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twx3-8ti-pro-3-8-super-bullet-tweeter-500-watts-1-5-aluminum-8-ohm-vc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "3.8\" Super Bullet Tweeter | 250W RMS 1.5\" Titanium 8-Ohm Vc",
+   "motor_diameter_mm": 90
+  },
+  {
+   "model": "DS18 PRO-TWX3TI",
+   "type": "tweeter",
+   "size_in": 3.8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 500,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1600,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 108,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 55.8,
+   "cutout_mm": 92,
+   "frame_mm": 96.5,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "note": "maker 'Recommended Hi Pass Crossover' 2.5KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twx3ti-pro-3-8-super-bullet-tweeter-500-watts-1-5-aluminum-4-ohm-vc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "3.8\" Super Bullet Tweeter | 250W RMS 1.5\" Titanium 4-Ohm Vc",
+   "motor_diameter_mm": 90
+  },
+  {
+   "model": "DS18 PRO-TWN6.8",
+   "type": "tweeter",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 300,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 109,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 82,
+   "frame_mm": 100,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twn6-8-pro-high-compression-neodymium-tweeter-1-25-vc-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "4\" High Compression Neodymium Tweeter | 150W 1.25\" Polyimide 8-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWN6.4",
+   "type": "tweeter",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 300,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 109,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 82,
+   "frame_mm": 100,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twn6-4-pro-high-compression-neodymium-tweeter-1-25-vc-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "4\" High Compression Neodymium Tweeter | 150W RMS 1.25 \" Polyimide 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TW420",
+   "type": "tweeter",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 560,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1500,
+    20000
+   ],
+   "magnet": "ferrite / ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 109,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 66,
+   "cutout_mm": 91,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TW420.8_WEB_MANUAL_SPANGLISH_2021_9a3d09a8-0a4d-47d0-afe4-71086d9c6112.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/aluminum-super-bullet-tweeter-1-75-550w-max-275w-rms-with-built-in-crossover-1-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TW420.8_WEB_MANUAL_SPANGLISH_2021_9a3d09a8-0a4d-47d0-afe4-71086d9c6112.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-TW420 4\" PRO Aluminum Super Bullet Tweeter 560 Watts (Single)"
+  },
+  {
+   "model": "DS18 PRO-TW720L",
+   "type": "tweeter",
+   "size_in": 1.6,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 280,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 32,
+   "cutout_mm": 44,
+   "frame_mm": 58,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-tw720l-pro-1-6-shallow-high-compression-neodymium-super-bullet-tweeter-200-watts-1-aluminum-4-ohm-vc-with-rgb-led-lights",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "1.6\" Shallow High Compression Neodymium Super Bullet Tweeter 140 Watts 1\" Polyether Ether Ketone 4-Ohm Vc With RGB LED Lights"
+  },
+  {
+   "model": "DS18 PRO-TWN2PL",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 200,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1500,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 108,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 47.5,
+   "cutout_mm": 57,
+   "frame_mm": 77.2,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twn2pl-3-high-compression-neodymium-hybrid-driver-tweeter-abs-horn-200-watts-1-phenolic-4-ohms-vc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "3\" High Compression Neodymium Hybrid Driver/Tweeter 100 Watts 1\" Polyester 4-Ohm Vc",
+   "motor_diameter_mm": 56
+  },
+  {
+   "model": "DS18 PRO-TWX3",
+   "type": "tweeter",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 500,
+   "sensitivity_db": 106,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 106,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 60,
+   "cutout_mm": 92,
+   "frame_mm": 102,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twx3-4-super-bullet-tweeter-480-watts-1-5-aluminum-4-ohm-voice-coil",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "4\" Super Bullet Tweeter 250 Watts 1.5\" Titanium 4-Ohm Vc",
+   "motor_diameter_mm": 90
+  },
+  {
+   "model": "DS18 CXT",
+   "type": "tweeter",
+   "size_in": 1.92,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 120,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 18,
+   "cutout_mm": 49,
+   "frame_mm": 43,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/CXT_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/high-quality-4-ohm-1-inch-voice-coil-drop-in-tweeter-pair",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual CXT_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "1.92\" Dome Neodymium Tweeter with Aluminum Body 60 Watts 1\" Silk 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 DTX",
+   "type": "tweeter",
+   "size_in": 2.2,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 15,
+   "peak_w": 60,
+   "sensitivity_db": 95.2,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    900,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 16.5,
+   "cutout_mm": 47,
+   "frame_mm": 58,
+   "recommended_crossover": {
+    "hp_hz": 3800.0,
+    "note": "maker 'Recommended Hi Pass Crossover' 3.8 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/2-2-sound-quality-titanium-dome-tweeter-with-aluminum-body",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "2.2\" Dome Neodymium Tweeter with Aluminum Body 30 Watts 1\" Titanium 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 ZXI-T1",
+   "type": "tweeter",
+   "size_in": 1.7,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 25,
+   "peak_w": 100,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1000,
+    20000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 92,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 20,
+   "cutout_mm": 48,
+   "frame_mm": 48,
+   "recommended_crossover": {
+    "hp_hz": 3500.0,
+    "note": "maker 'Recommended Hi Pass Crossover' 3.5KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/ZXI-T1_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/1-7-pei-dome-tweeter-with-1-aluminum-voice-coil-100-watts-max",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual ZXI-T1_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "1.7\" Dome Neodymium Tweeter 50 Watts 1\" Pei 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWX4",
+   "type": "tweeter",
+   "size_in": 4.53,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 560,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1500,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 108,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 92,
+   "frame_mm": 115,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-4-5-super-bullet-tweeter-560-watts-1-75-titanium-4-ohm-vc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "4.5\" Super Bullet Tweeter 280 Watts 1.75\" Titanium 4-Ohm Vc",
+   "motor_diameter_mm": 90
+  },
+  {
+   "model": "DS18 PRO-TWN3",
+   "type": "tweeter",
+   "size_in": 2.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 200,
+   "sensitivity_db": 107,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1600,
+    20000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 107,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33.5,
+   "cutout_mm": 54,
+   "frame_mm": 63,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWN3_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-2-5-high-compression-neodymium-tweeter-200-watts-1-vc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWN3_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "2.5\"High Compression Neodymium Tweeter 100 Watts 1\" Pen 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWX2",
+   "type": "tweeter",
+   "size_in": 3.78,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 103.5,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 72,
+   "frame_mm": 96,
+   "recommended_crossover": {
+    "hp_hz": 3500.0,
+    "note": "maker 'Recommended Hi Pass Crossover' 3.5KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-3-8-super-bullet-tweeter-240-watts-1-aluminum-4-ohm-vc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "3.8\" Super Bullet Tweeter 120 Watts 1\" Aluminum 4-Ohm Vc",
+   "motor_diameter_mm": 70
+  },
+  {
+   "model": "DS18 PRO-TWX6",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": "4x4",
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 112,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 112,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 92,
+   "frame_mm": 102,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "note": "maker 'Recommended Hi Pass Crossover' 2.5 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWX6_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-1-5-vc-aluminum-super-bullet-tweeter-480-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWX6_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "4\" x 4\" Super Bullet Tweeter 240 Watts 1.5\" Titanium 8-Ohm Vc",
+   "motor_diameter_mm": 90
+  },
+  {
+   "model": "DS18 PRO-TSQ3IN1",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 200,
+   "sensitivity_db": 102,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 26,
+   "cutout_mm": 57.5,
+   "frame_mm": 75,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TSQ3IN1_WEB_Manual_2021.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-1-vc-surface-flush-angle-aluminum-high-compression-neodymium-super-bullet-tweeter-200-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TSQ3IN1_WEB_Manual_2021.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3\" Surface/Flush/Angle High Compression Neodymium Super Bullet Tweeter 100 Watts 1\" Aluminum 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TW120B",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2000,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 42,
+   "cutout_mm": 72,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-tw120b",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak.",
+   "title": "3” PRO Aluminum Super Bullet Tweeter – 240 Watts with Built in Crossover"
+  },
+  {
+   "model": "DS18 PRO-TW320",
+   "type": "tweeter",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 480,
+   "sensitivity_db": 107,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 107,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56.5,
+   "cutout_mm": 90,
+   "frame_mm": 102,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TW320_WEB_MANUAL_2021_1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/aluminum-super-bullet-tweeter-1-5-500w-max-250w-rms-with-built-in-crossover-1-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TW320_WEB_MANUAL_2021_1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "DS18 PRO-TW320 4\" PRO Aluminum Super Bullet Tweeter 480 Watts with Built In Crossover (Single)"
+  },
+  {
+   "model": "DS18 PRO-TWX5",
+   "type": "tweeter",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 500,
+   "sensitivity_db": 107,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 107,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 75,
+   "cutout_mm": null,
+   "frame_mm": 136,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWX5_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/aluminum-super-bullet-tweeter-500-watts-with-built-in-crossover-single-new-edition",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWX5_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "4 x 5.35\" Super Bullet Tweeter 250 Watts 1.5\" Aluminum 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWN5",
+   "type": "tweeter",
+   "size_in": 3.6,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 400,
+   "sensitivity_db": 107,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1500,
+    20000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 107,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 32.3,
+   "cutout_mm": 70,
+   "frame_mm": 93,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWN5_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/1-5-super-tweeter-with-bullet-neo-magnet-400w",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWN5_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3.6\" High Compression Neodymium Hybrid Driver/Tweeter 200 Watts 1.5 \" Pen 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWN4",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 280,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1500,
+    20000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 105,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 28.7,
+   "cutout_mm": 52,
+   "frame_mm": 75,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWN4_WEB_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/1-super-tweeter-with-bullet-neo-magnet-2",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWN4_WEB_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3\" High Compression Neodymium Hybrid Driver/Tweeter 140 Watts 1\" Pen 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWN1",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 104,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 104,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41,
+   "cutout_mm": 59,
+   "frame_mm": 74.4,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWN1_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/1-super-tweeter-with-bullet-neo-magnet-1",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWN1_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3\" High Compression Neodymium Slim Super Bullet Tweeter 120 Watts 1\" Titanium 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 GTX1XL",
+   "type": "tweeter",
+   "size_in": 3.75,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 320,
+   "sensitivity_db": 100,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    2500,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 100,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 44,
+   "cutout_mm": 73,
+   "frame_mm": 95,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "note": "maker 'Recommended Hi Pass Crossover' 2.5KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/GTX1_XL_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/xl-aluminum-high-compression-neodymium-1-vc-240-watts-single-new-editon",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual GTX1_XL_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3.75\" Die Cast Compression Neodymium Super Bullet Tweeter 1.3\" Aluminum | 160W RMS 4-Ohm"
+  },
+  {
+   "model": "DS18 GTX1",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 98,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 37,
+   "cutout_mm": 57.3,
+   "frame_mm": 75,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "note": "maker 'Recommended Hi Pass Crossover' 3 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/GTX1_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/aluminum-high-compression-neodymium-1-vc-240-watts-single-new-editon",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual GTX1_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3\" Die Cast Compression Neodymium Super Bullet Tweeter 1\" Titanium | 120W RMS 4-Ohm"
+  },
+  {
+   "model": "DS18 PRO-TWX1",
+   "type": "tweeter",
+   "size_in": 3.8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3500,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 40,
+   "cutout_mm": 70,
+   "frame_mm": 96,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWX1_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twx1-1-pro-aluminum-super-bullet-tweeter-vc-240-watts-with-capacitor-crossover-pair-silver",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWX1_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3.8\" Super Bullet Tweeter 120W RMS 1\" Aluminum 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWX1/BK",
+   "type": "tweeter",
+   "size_in": 3.8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3500,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 103,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 40,
+   "cutout_mm": 70,
+   "frame_mm": 96,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2 KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWX1_WEB_MANUAL_SPANGLISH_2021_da430b37-32bc-4687-8350-bccc46e95c89.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-twx1-1-pro-aluminum-super-bullet-tweeter-vc-240-watts-capacitor-crossover-pair",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWX1_WEB_MANUAL_SPANGLISH_2021_da430b37-32bc-4687-8350-bccc46e95c89.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3.8\" Super Bullet Tweeter 120W RMS 1\" Aluminum 4-Ohm Vc"
+  },
+  {
+   "model": "DS18 PRO-TWN2",
+   "type": "tweeter",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 200,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    1000,
+    20000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 108,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 47.2,
+   "cutout_mm": 61,
+   "frame_mm": 80,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "note": "maker 'Recommended Hi Pass Crossover' 2KHz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-TWN2_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/1-super-tweeter-with-bullet-neo-magnet",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power: maker gives AES rating (stored as rms_w) and program/peak. Specifications read from the owner's manual PRO-TWN2_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "3\" High Compression Neodymium Hybrid Driver/Tweeter 100 Watts 1\" Polyimide 4-Ohm Vc"
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "DS18 NVY-8CFZTSEALED-N4",
+   "title": "8\" Coaxial Sealed Back Loudspeaker with Bullet Tweeter and Neodymium Magnet | 300W RMS 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/nvy-8cfztsealed-n4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 NVY-6CFZTSEALED-N4",
+   "title": "6.5\" Coaxial Sealed Back Loudspeaker with Bullet Tweeter and Neodymium Magnet | 300W RMS 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/nvy-6cfztsealed-n4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 RB-PRO-TW220B",
+   "title": "Refurbished - 3” PRO Aluminum Super Bullet Tweeter – 240 Watts with Built in Crossover",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/rb-pro-tw220b",
+   "note": "No specification list in the maker's product description; manual: manual does not name the SKU."
+  },
+  {
+   "model": "DS18 PRO-TW220B",
+   "title": "3” PRO Aluminum Super Bullet Tweeter – 240 Watts with Built in Crossover - Black",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-tw220b",
+   "note": "No specification list in the maker's product description; manual: manual does not name the SKU."
+  },
+  {
+   "model": "DS18 PRO-HY8.2MSL",
+   "title": "PRO 8\" Hybrid Slim Loudspeaker with a 1\" Compression Driver Horn | 200W RMS 2-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-hy8-2msl",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-HY6.2MSL",
+   "title": "PRO 6.5\" Hybrid Slim Loudspeaker with a 1\" Compression Driver Horn | 150W RMS 2-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-hy6-2msl",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-TW850CN-4/BK",
+   "title": "4\" High Compression Tweeter | Neodymium Magnet | 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-tw850cn-4-bk",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-ZT6",
+   "title": "PRO-ZT 6.5\" Coaxial Mid-Range Loudspeaker with Water-Resistant Cone Built-in Bullet Tweeter and Grill | 225W RMS 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-6-5-2-way-midrange-with-tweeter-built-in-225-rms",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-ZT8.2pk",
+   "title": "PRO-ZT 8\" Coaxial Mid-Range Loudspeaker with Water Resistant Cone Built-in Bullet Tweeter and Grill 275 Watts Rms 4-Ohm (2 Speakers)",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-zt-8-coaxial-mid-range-loudspeaker-with-water-resistant-cone-built-in-bullet-tweeter-and-grill-275-watts-rms-4-ohm-2-speaker",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-H44CL",
+   "title": "DS18 PRO-H44CL 1\" Throat Transparent Plastic Driver Horn With RGB Lights",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/ds18-pro-h44cl-transparent-plastic-driver-horn-with-rgb-light-easy-twist-on-off-installation",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-FR69NEO",
+   "title": "PRO 6x9\" Neodymium Full-Range Bullet Loudspeaker 250 Watts Rms 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-6x9-neodymium-full-range-loudspeaker-with-bullet-500-watts-4-ohm-with-grill",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-DR1P",
+   "title": "1\" Throat Twist On Compression Driver with 1\" Phenolic VC 240 Watts 8 ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-1-twist-on-throat-compression-driver-with-1-phenolic-voice-coil-240-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-SDF6",
+   "title": "6.5\" Loudspeaker Diffuser",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/mid-diffuser-for-extremely-loud-sound-6",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-FR6NEO",
+   "title": "PRO 6.5\" Neodymium Full-Range Bullet Loudspeaker 225 Watts Rms 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-6-neodymium-magnet-full-range-loudspeaker-500-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-FR5NEO",
+   "title": "PRO 5.25\" Neodymium Full-Range Bullet Loudspeaker 200 Watts Rms 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-5-25-neodymium-full-range-loudspeaker-400-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-ZT69",
+   "title": "PRO-ZT 6x9\" Coaxial Mid-Range Loudspeaker with Water-Resistant Cone Built-in Bullet Tweeter and Grill | 275W RMS 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-zt69-pro-6x9-2-way-midrange-with-built-in-bullet-tweeter-275-rms",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-TW320.8",
+   "title": "DS18 PRO-TW320.8 4\" Super Tweeter with Bullet 8 Ohms (Single)",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/ds18-1-5-super-tweeter-with-bullet-8-ohms",
+   "note": "No specification list in the maker's product description; manual: manual does not name the SKU."
+  },
+  {
+   "model": "DS18 PRO-SDF10RGB",
+   "title": "10\" Loudspeaker Horn Diffuser Horn with RGB Lights",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/10-mid-diffuser-for-extremely-loud-sound-with-rgb-lights",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-HPR/RD",
+   "title": "2\" Throat Bolt On Horn No Holes No Paint Raw",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-horn-bolt-on-2",
+   "note": "No specification list in the maker's product description; manual: manual does not name the SKU."
+  },
+  {
+   "model": "DS18 PRO-TW920",
+   "title": "2.7\" High Compression Neodymium Super Bullet Tweeter 160 Watts 1.4\" Titanium 4-Ohm Vc",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-aluminum-high-compression-neodymium-super-bullet-tweeter-1-4-vc-300-watts-single",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-TW5L",
+   "title": "4\" x 5.35\" Super Bullet Tweeter 250 Watts 1.5\" Aluminum 4-Ohm Vc with RGB LED Lights",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/ds18-pro-tw5l-1-5-rgb-pro-aluminum-super-bullet-tweeter-vc-500-watts-with-built-in-crossover-single",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-TW3L",
+   "title": "4\" Super Bullet Tweeter 250 Watts 1.5\" Titanium 4-Ohm Vc with RGB LED Lights",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/ds18-rgb-1-5-pro-aluminum-super-bullet-tweeter-vc-500-watts-with-built-in-crossover-single",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-TW2L",
+   "title": "3.8\" Super Bullet Tweeter 120 Watts 1\" Aluminum 4-Ohm Vc with RGB LED Lights",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/ds18-rgb-pro-tw2l-1-pro-aluminum-super-bullet-tweeter-vc-350-watts-with-built-in-crossover-pair",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-ZT8",
+   "title": "PRO-ZT 8\" Coaxial Mid-Range Loudspeaker with Water-Resistant Cone Built-in Bullet Tweeter and Grill | 275W RMS 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-8-2-way-midrange-with-tweeter-built-in-275-rms",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 TWPZ",
+   "title": "Piezo Super Tweeter 40 Watts",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-piezo-super-tweeter-80-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 TX1R",
+   "title": "TX1 2\" PEI Dome Ferrite Tweeter 0.5\" VC 200 Watts",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/tweeter-x1-1-38200-watts-max-pei-dome-ferrite-tweeters-with-mounting-kit-angle-flush-surface-set-of-2",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-DKH4",
+   "title": "DS18 PRO-DKH4 PRO 3\" Bolt On Throat Compression Driver with 4\" Titanium VC and Horn 1000 Watts 8 Ohms",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-4-titanium-compression-driver-with-horn-800-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-TW820",
+   "title": "2.3\" High Compression Neodymium Super Bullet Tweeter 100 Watts 1.4\" Aluminum 4-Ohm Vc",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-1-aluminum-high-compression-neodymium-super-bullet-tweeter-200-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-TW4L",
+   "title": "4.5\" Super Bullet Tweeter 280 Watts 1.75\" Titanium 4-Ohm Vc with RGB LED Lights",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/rgb-led-titanium-super-bullet-tweeter-1-75-600w-max-300w-rms-with-built-in-crossover-1-speaker",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 TW2.5",
+   "title": "2.5\" Dome Neodymium Tweeter with Aluminum Body 50 Watts 1\" Silk 4-Ohm Vc",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-2-5_-silk-dome-tweeter-100-watts",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-FR8NEO",
+   "title": "PRO 8\" Neodymium Full-Range Bullet Loudspeaker 250 Watts Rms 4-Ohm",
+   "type": "tweeter",
+   "url": "https://www.ds18.com/products/pro-8-neodymium-magnet-full-range-loudspeaker-500-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  }
+ ]
+}

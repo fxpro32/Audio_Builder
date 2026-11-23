@@ -1,0 +1,269 @@
+{
+ "brand": "Memphis Car Audio",
+ "country": "USA",
+ "brand_url": "https://www.memphiscaraudio.com",
+ "terms_note": "R2 2026-11-23: site served a bot challenge (HTTP 202) to this container; only A2's saved copies were used. Numbers only. | hp_subs_raw terms note: WooCommerce site; 6 product pages and 2 PDFs read 4-6 s apart. No terms on automated reading found. MOJO Pro (750 W), VIV 10/12 (1000 W) and the MJ1212 (1500 W, which has a T/S sheet) are below threshold.",
+ "coverage": "MJ1212 with T/S; other listed models by name only (site blocked)",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/memphis.json",
+ "drivers": [
+  {
+   "model": "MOJO MJ1212 (1 ohm)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 1,
+   "coils": 1,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 1,
+    "qms": 2.319,
+    "qes": 0.548,
+    "qts": 0.44,
+    "vas_l": 20.93,
+    "sd_cm2": 490.32,
+    "xmax_mm": 25.4,
+    "mms_g": 363.5,
+    "bl_tm": 11.81,
+    "le_mh": null,
+    "spl_db_1w1m": 83.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": 3.4,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 33,
+     "source": "maker spec sheet 'BALANCED BASS', single sub, net",
+     "note": "published as 2.5 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 93.45,
+     "tuning_hz": 29,
+     "source": "maker spec sheet 'DEEP BASS', single sub, net",
+     "note": "published as 3.3 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.memphiscaraudio.com/wp-content/uploads/2025/05/mj1212-spec-sheet-lr-1.pdf",
+     "doc": "maker spec sheet PDF (saved by A2)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Vas printed 0.739/0.79 cu ft and Xmax 1 in, converted. 'VOICE COIL AND MAGNET DCR' printed equal to the nominal impedance (1 / 2), entered as re_ohm as printed. RMS 1500 / peak 3000 W from the sheet's trailing row '15003000' (read as 1500 and 3000). Sheet linked from the maker MOJO product pages. Converted from imperial as published: displacement 0.12 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOJO MJ1212 (2 ohm)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 2,
+    "qms": 2.488,
+    "qes": 0.514,
+    "qts": 0.426,
+    "vas_l": 22.37,
+    "sd_cm2": 490.32,
+    "xmax_mm": 25.4,
+    "mms_g": 358,
+    "bl_tm": 16.9,
+    "le_mh": null,
+    "spl_db_1w1m": 83.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": 3.4,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 33,
+     "source": "maker spec sheet 'BALANCED BASS', single sub, net",
+     "note": "published as 2.5 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 93.45,
+     "tuning_hz": 29,
+     "source": "maker spec sheet 'DEEP BASS', single sub, net",
+     "note": "published as 3.3 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.memphiscaraudio.com/wp-content/uploads/2025/05/mj1212-spec-sheet-lr-1.pdf",
+     "doc": "maker spec sheet PDF (saved by A2)",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Vas printed 0.739/0.79 cu ft and Xmax 1 in, converted. 'VOICE COIL AND MAGNET DCR' printed equal to the nominal impedance (1 / 2), entered as re_ohm as printed. RMS 1500 / peak 3000 W from the sheet's trailing row '15003000' (read as 1500 and 3000). Sheet linked from the maker MOJO product pages. Converted from imperial as published: displacement 0.12 cu ft.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "MOJO MJ1212V (12 in, selectable 1 or 2 ohm)",
+   "rms_w": 2000,
+   "url": "https://www.memphiscaraudio.com/product/mj1212v",
+   "note": "2000/4000 W; mounting depth 8.5 in, cutout 11 in; no T/S (spec-sheet link points to the MJ1212 sheet).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "MOJO MJ1512 (15 in, selectable 1 or 2 ohm)",
+   "rms_w": 2000,
+   "url": "https://www.memphiscaraudio.com/product/mj1512",
+   "note": "2000/4000 W; depth 9.06 in, cutout 13.81 in; no T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "MOJO MJ1812LVS (18 in, selectable 1 or 2 ohm)",
+   "rms_w": 4000,
+   "url": "https://www.memphiscaraudio.com/product/mj1812lvs",
+   "note": "4000/8000 W; depth 10.49 in, cutout 16.73 in; no T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "VIV 14 in (VIVE14S1 loaded enclosure, 1 ohm)",
+   "rms_w": 2200,
+   "url": "https://www.memphiscaraudio.com/product/vive14s1",
+   "note": "Sold only as a loaded enclosure on the site; 2200/4400 W; no driver T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "76PRXL12FTV",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/76prxl12ftv/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJM612",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjm612/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJM812",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjm812/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP1022",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp1022/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP1044",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp1044/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP1222",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp1222/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP1244",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp1244/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP1522",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp1522/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP1544",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp1544/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP822",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp822/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MJP844",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mjp844/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MXASB9",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/mxasb9/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "PRX12FT",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/prx12ft/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VIV1012",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/viv1012/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VIV1212",
+   "rms_w": null,
+   "url": "https://www.memphiscaraudio.com/product/viv1212/",
+   "note": "Listed on the maker's subwoofer page (saved by A2 2026-11-21); product page not readable on 2026-11-23 (HTTP 202 bot challenge), so no values.",
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

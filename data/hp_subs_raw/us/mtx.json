@@ -1,0 +1,15 @@
+{
+ "brand": "MTX Audio",
+ "country": "USA",
+ "brand_url": "https://mtx.com",
+ "terms_note": "Cloudflare: curl gets 403; the headless browser loaded the home page and the 75-series page (750 W RMS, below threshold) but got 403 on the Jackhammer page. Not retried. Jackhammer (MTX's largest sub) could not be checked. 2026-11-22: the TS9924-22 page was read from a non-VPN connection and the PM downloaded the 2025 catalogue PDF through a non-VPN connection (local copy references/raw/hp_subs/us/mtx/catalog_dl/, sha256 404aa6ec...de51c, 237,602,879 bytes).",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "JackHammer TS9924-22 (24 in, Dual 2 ohm)",
+   "rms_w": 4000,
+   "url": "https://www.mtx.com/ts9924-22-jackhammer-car-audio-subwoofer",
+   "note": "4000 W RMS, Dual 2 ohm (final 1 ohm parallel or 4 ohm series), 92.0 dB, 18-150 Hz; MTX 2025 catalogue p.34 table (https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf, read 2026-11-22); recommended amp 2000-4000 W RMS, sealed 5.47 cu ft / vented 10.2 cu ft net, displacement 653.29 cu in (product page, read 2026-11-22). Cut-out and mounting depth differ between sources: catalogue 22-3/16 in (563 mm) and 24-1/16 in; page 22.25 in and 24.00 in. MTX publishes no T/S values, so it cannot be simulated. Only MTX sub at or above 2000 W RMS (next is the 7515 at 750 W). Older 22 in T9922-22 page returned an error."
+  }
+ ]
+}

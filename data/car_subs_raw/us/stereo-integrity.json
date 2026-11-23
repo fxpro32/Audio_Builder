@@ -1,0 +1,74 @@
+{
+ "brand": "Stereo Integrity",
+ "country": "USA",
+ "brand_url": "https://stereointegrity.com",
+ "terms_note": " | hp_subs_raw terms note: BLOCKED by bot check even on the direct route: https://stereointegrity.com/ returns HTTP 403 (Cloudflare) to plain curl from the VPN container (2026-11-21) and from a non-VPN connection (2026-11-22). No browser was run on a non-VPN connection (PM rule: read-only curl only). The pages are to be saved by hand. Not bypassed. 2026-11-22: HST-18 specs read on stereointegrity.com (Shop / Subwoofers / HST-18) from a non-VPN connection and pasted to the PM.",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/stereo-integrity.json",
+ "drivers": [
+  {
+   "model": "HST-18",
+   "size_in": 18,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 20.49,
+    "re_ohm": 1.5,
+    "qms": 4.89,
+    "qes": 0.4,
+    "qts": 0.37,
+    "vas_l": 209.54,
+    "sd_cm2": 1178.1,
+    "xmax_mm": 40,
+    "mms_g": 567.8,
+    "bl_tm": 16.6,
+    "le_mh": 1.2,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 330.2,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 113.3,
+     "volume_range_l": null,
+     "tuning_hz": null,
+     "source": "maker page",
+     "note": "4.0 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 169.9,
+     "volume_range_l": null,
+     "tuning_hz": 20.0,
+     "source": "maker page",
+     "note": "6.0 cu ft, 20 Hz, port area 40 sq in (258 cm2)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://stereointegrity.com",
+     "doc": "product page Shop / Subwoofers / HST-18 (specifications), read from a non-VPN connection and pasted to the PM",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Coil configuration and nominal impedance not in the pasted spec block (Re 1.5 ohm printed); final loads unknown until confirmed. SPL 95.28 dB printed without test condition (not put in spl fields). Converted as published: Sd 182.6 sq in, mounting depth 13 in, boxes 4.0/6.0 cu ft. PM cross-calculation: Vas from Sd and Cms = 209.3 L (printed 209.54), fs from Mms and Cms = 20.49 Hz, Qts from Qes and Qms = 0.370: all consistent. Xmax printed as '40 mm one-way 70% BL'.",
+   "source": "hp_subs_raw"
+  }
+ ],
+ "no_ts_published": [],
+ "excluded_notes": "No other Stereo Integrity sub reaches 2000 W RMS (stereointegrity.com, 2026-11-22); HST-18 is the only one."
+}

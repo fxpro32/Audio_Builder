@@ -1,0 +1,123 @@
+{
+ "brand": "Dynaudio",
+ "country": "Denmark",
+ "brand_url": "https://dynaudio.com/car-audio",
+ "terms_note": "R4 2026-11-23: 3 series pages + 2 PDFs read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "Dynaudio Esotar² 430",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 1000,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    200,
+    7000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 64,
+    "re_ohm": 4,
+    "qms": 1.5,
+    "qes": 0.21,
+    "qts": 0.18,
+    "vas_l": 3.5,
+    "sd_cm2": 45,
+    "xmax_mm": 2.45,
+    "mms_g": 4.9,
+    "bl_tm": 6.2,
+    "le_mh": 0.19,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 110,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dynaudio.com/hubfs/Car%20Audio/Downloads/dyn_automotive_brochure_int_dp.pdf",
+     "doc": "maker automotive brochure (PDF), Thiele Small Parameters table",
+     "page": "5",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Brochure page 5. Linear excursion printed peak to peak 4.9 mm; xmax_mm = half (calculated). Max. excursion peak to peak 21 mm. Power: nominal long-term IEC rating stored as rms_w, 10 ms transient as peak_w.",
+   "overall_height_mm": 49,
+   "voice_coil_mm": 34
+  },
+  {
+   "model": "Dynaudio Esotec MD 142",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 1000,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    700,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 475,
+    "re_ohm": 5.3,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 52,
+    "xmax_mm": 1.25,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 121,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dynaudio.com/hubfs/Car%20Audio/Downloads/dyn_automotive_brochure_int_dp.pdf",
+     "doc": "maker automotive brochure (PDF), Thiele Small Parameters table",
+     "page": "12",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Brochure page 12. Linear excursion printed peak to peak 2.5 mm; xmax_mm = half (calculated). Max. excursion peak to peak 5 mm. Power: nominal long-term IEC rating stored as rms_w, 10 ms transient as peak_w.",
+   "overall_height_mm": 66,
+   "voice_coil_mm": 75
+  }
+ ],
+ "no_specs_published": []
+}

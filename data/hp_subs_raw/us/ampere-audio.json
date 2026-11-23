@@ -1,0 +1,21 @@
+{
+ "brand": "Ampere Audio",
+ "country": "USA",
+ "brand_url": "https://ampereaudio.com",
+ "terms_note": "Shopify store; /products.json read once. No T/S in the descriptions.",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "AA-3.0 Series 10/12/15/18 (D1, D2)",
+   "rms_w": 2000,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-3-0-series-2000w-car-subwoofer",
+   "note": "'2000 Watts RMS power handling' (title says 4000W); no T/S published."
+  },
+  {
+   "model": "AA-2.75 Series (D2, D4)",
+   "rms_w": 1000,
+   "url": "https://ampereaudio.com/products/ampere-audio-aa-2-75-series-2000w-car-subwoofer-test",
+   "note": "Title 2000W is peak; RMS 1000 W (below threshold), listed for completeness."
+  }
+ ]
+}

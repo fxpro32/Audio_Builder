@@ -1,0 +1,1333 @@
+{
+ "brand": "Focal (Focal-JMlab)",
+ "country": "France",
+ "brand_url": "https://www.focal.com",
+ "terms_note": "R2 2026-11-23: focal.com robots.txt only disallows query URLs. 23 product pages and 21 technical sheets read 3 s apart. EU maker: per-model facts only (no substantial extraction of a database). Numbers only.",
+ "coverage": "all car subwoofer drivers listed in the maker's English sitemap (Access/Auditor SUB, Flax Evo P, K2 Power SUB KX, Integration iSUB, SF, marine SUB 10 WM)",
+ "hp_subs_raw_file": null,
+ "drivers": [
+  {
+   "model": "SUB 25 KXS (sub-25-kxs)",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": 700,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 3.2,
+    "qms": 5,
+    "qes": 0.97,
+    "qts": 0.8,
+    "vas_l": 18,
+    "sd_cm2": 327,
+    "xmax_mm": 14,
+    "mms_g": 180,
+    "bl_tm": 11.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/7a2868d3fabf6709/original/FT_Sub_25_KXS-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-25-kxs",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 25 KXE (sub-25-kxe)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.2,
+    "qms": 5,
+    "qes": 0.58,
+    "qts": 0.52,
+    "vas_l": 20,
+    "sd_cm2": 327,
+    "xmax_mm": 22.5,
+    "mms_g": 163,
+    "bl_tm": 21.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 84.5
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/3927ff13c76a5ade/original/FT_Sub_25_KXE-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-25-kxe",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Dual voice coil: Rdc printed per coil ('a+b'); re_ohm = one coil as printed; ts_basis not stated. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 30 KXE (sub-30-kxe)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29,
+    "re_ohm": 3.2,
+    "qms": 6.1,
+    "qes": 0.49,
+    "qts": 0.46,
+    "vas_l": 50,
+    "sd_cm2": 502,
+    "xmax_mm": 22.5,
+    "mms_g": 183,
+    "bl_tm": 21.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.5
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/49a452cf2f41073/original/FT_Sub_30_KXE-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-30-kxe",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Dual voice coil: Rdc printed per coil ('a+b'); re_ohm = one coil as printed; ts_basis not stated. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "P 20 FE (p-20-fe)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 38.5,
+    "re_ohm": 3.4,
+    "qms": 5.5,
+    "qes": 0.61,
+    "qts": 0.56,
+    "vas_l": 12,
+    "sd_cm2": 216,
+    "xmax_mm": 10,
+    "mms_g": 95,
+    "bl_tm": 11.5,
+    "le_mh": 1.7,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 82.5
+   },
+   "mounting_depth_mm": 117,
+   "cutout_mm": 214,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/7e9a8ed2acd6445f/original/FT_P_20_FE-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/p-20-fe",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "P 20 FSE (p-20-fse)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 3.2,
+    "qms": 5,
+    "qes": 1.8,
+    "qts": 1.3,
+    "vas_l": 9,
+    "sd_cm2": 213,
+    "xmax_mm": 11,
+    "mms_g": 150,
+    "bl_tm": 7.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 76,
+   "cutout_mm": 214,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/480f4820c16e5aaa/original/FT_P_20_FSE-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/p-20-fse",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "P 25 FSE (p-25-fse)",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 280,
+   "peak_w": 560,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 3.2,
+    "qms": 5,
+    "qes": 0.95,
+    "qts": 0.78,
+    "vas_l": 25,
+    "sd_cm2": 346,
+    "xmax_mm": 11,
+    "mms_g": 190,
+    "bl_tm": 11.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87
+   },
+   "mounting_depth_mm": 76,
+   "cutout_mm": 214,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/asset/93941ab1-9a72-4908-b1ff-2bcffad6704d/FT_P_25_FSE-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/p-25-fse",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "P 30 FSE (p-30-fse)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 3.2,
+    "qms": 7.2,
+    "qes": 1.3,
+    "qts": 1.1,
+    "vas_l": 42,
+    "sd_cm2": 510,
+    "xmax_mm": 11,
+    "mms_g": 220,
+    "bl_tm": 10.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": 108.5,
+   "cutout_mm": 276.34,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/aa0aea7ca797918/original/FT_P_30_FSE-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/p-30-fse",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB-P30-DB (sub-p30-db)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 29.4,
+    "re_ohm": 1.7,
+    "qms": 6,
+    "qes": 0.46,
+    "qts": 0.427,
+    "vas_l": 56.76,
+    "sd_cm2": 510.7,
+    "xmax_mm": 9,
+    "mms_g": 189.13,
+    "bl_tm": null,
+    "le_mh": 0.91,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/6344b3145829b3bf/original/FT_SUBP30DB-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-p30-db",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 20 SF (sub-20-sf)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 2.8,
+    "qms": 3.8,
+    "qes": 0.42,
+    "qts": 0.39,
+    "vas_l": 12,
+    "sd_cm2": 202,
+    "xmax_mm": 10,
+    "mms_g": 95,
+    "bl_tm": 11.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 90,
+   "cutout_mm": 200,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/588b5e4789b1e521/original/FT_SUB20_SF.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-20-sf",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 10 (sub-10)",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 21,
+    "re_ohm": 3.3,
+    "qms": 6.88,
+    "qes": 0.569,
+    "qts": 0.526,
+    "vas_l": 45,
+    "sd_cm2": 314,
+    "xmax_mm": null,
+    "mms_g": 180,
+    "bl_tm": 11.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 111,
+   "cutout_mm": 250,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/444b98410b6b4349/original/FT_Sub_10-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-10",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 12 (sub-12)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 24,
+    "re_ohm": 3,
+    "qms": 5.146,
+    "qes": 0.442,
+    "qts": 0.484,
+    "vas_l": 90,
+    "sd_cm2": 471,
+    "xmax_mm": null,
+    "mms_g": 150,
+    "bl_tm": 12,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 130,
+   "cutout_mm": 300,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/2954079eb7d9cb7c/original/FT_Sub_12-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-12",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 10 DUAL (sub-10-dual)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25,
+    "re_ohm": 3.5,
+    "qms": 5.208,
+    "qes": 0.748,
+    "qts": 0.654,
+    "vas_l": 49,
+    "sd_cm2": 314,
+    "xmax_mm": null,
+    "mms_g": 110,
+    "bl_tm": 6.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 111,
+   "cutout_mm": 250,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/4dfdcad6c0d28a10/original/FT_Sub_10_Dual-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-10-dual",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Dual voice coil: Rdc printed per coil ('a+b'); re_ohm = one coil as printed; ts_basis not stated. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 12 DUAL (sub-12-dual)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 24,
+    "re_ohm": 3.5,
+    "qms": 5.34,
+    "qes": 0.641,
+    "qts": 0.573,
+    "vas_l": 81,
+    "sd_cm2": 471,
+    "xmax_mm": null,
+    "mms_g": 150,
+    "bl_tm": 8.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 130,
+   "cutout_mm": 300,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/48fb88b46ea758b2/original/FT_Sub_12_Dual-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-12-dual",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Dual voice coil: Rdc printed per coil ('a+b'); re_ohm = one coil as printed; ts_basis not stated. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 10 SLIM (sub-10-slim)",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 230,
+   "peak_w": 460,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 25,
+    "re_ohm": 3.2,
+    "qms": 6.96,
+    "qes": 0.708,
+    "qts": 0.643,
+    "vas_l": 37,
+    "sd_cm2": 314,
+    "xmax_mm": null,
+    "mms_g": 155,
+    "bl_tm": 10.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72.8,
+   "cutout_mm": 250,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/1bf76831d6f77a8/original/FT_Sub_10_Slim-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-10-slim",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 12 SLIM (sub-12-slim)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 280,
+   "peak_w": 560,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 24,
+    "re_ohm": 3.2,
+    "qms": 6.882,
+    "qes": 0.764,
+    "qts": 0.687,
+    "vas_l": 62,
+    "sd_cm2": 471,
+    "xmax_mm": null,
+    "mms_g": 200,
+    "bl_tm": 11.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86.1,
+   "cutout_mm": 300,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/d7fa910dd12b12d/original/FT_Sub_12_Slim-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-12-slim",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ISUB BMW2 (isub-bmw-2)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 90,
+   "peak_w": 180,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 45,
+    "re_ohm": 2,
+    "qms": 5,
+    "qes": 1,
+    "qts": 0.9,
+    "vas_l": 20,
+    "sd_cm2": 213,
+    "xmax_mm": 6.5,
+    "mms_g": 45,
+    "bl_tm": 4.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 36,
+   "cutout_mm": 217,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/30a56245b5a5beef/original/FT_ISUBBMW2-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/isub-bmw-2",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. OEM-fit replacement driver for the named car maker's under-seat location. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ISUB BMW4 (isub-bmw4)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 90,
+   "peak_w": 180,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 46,
+    "re_ohm": 3.7,
+    "qms": 5,
+    "qes": 1.1,
+    "qts": 0.9,
+    "vas_l": 18,
+    "sd_cm2": 213,
+    "xmax_mm": 6.5,
+    "mms_g": 44,
+    "bl_tm": 5.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 36,
+   "cutout_mm": 217,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/4d796b9228afdffd/original/FT_ISUBBMW4-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/isub-bmw4",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. OEM-fit replacement driver for the named car maker's under-seat location. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ISUB BMW8 (isub-bmw-8)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 90,
+   "peak_w": 180,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 40,
+    "re_ohm": 6.6,
+    "qms": 3,
+    "qes": 0.9,
+    "qts": 0.65,
+    "vas_l": 18,
+    "sd_cm2": 213,
+    "xmax_mm": 6.5,
+    "mms_g": 40,
+    "bl_tm": 9.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 36,
+   "cutout_mm": 217,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/28a8cd7909818c5e/original/FT_ISUB_BMW_8-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/isub-bmw-8",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. OEM-fit replacement driver for the named car maker's under-seat location. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ISUB MBZ 2 LHD V2 (isub-mbz-2-lhd-v2)",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 75,
+   "peak_w": 150,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 52,
+    "re_ohm": 2.06,
+    "qms": 3.25,
+    "qes": 0.639,
+    "qts": 0.534,
+    "vas_l": 15.2,
+    "sd_cm2": 213.82,
+    "xmax_mm": 7.5,
+    "mms_g": 39.32,
+    "bl_tm": 6.46,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 99.5,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/66ccf6816d3df24e/original/FT_ISUB_MBZ_2_LHD_v2-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/isub-mbz-2-lhd-v2",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. OEM-fit replacement driver for the named car maker's under-seat location. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUB 10 WM (sub-10wm)",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 3.1,
+    "qms": 6.7,
+    "qes": 0.76,
+    "qts": 0.65,
+    "vas_l": 28,
+    "sd_cm2": 327,
+    "xmax_mm": 17,
+    "mms_g": 138,
+    "bl_tm": 16,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87.5
+   },
+   "mounting_depth_mm": 108,
+   "cutout_mm": 250,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/269ab282d0fe853c/original/FT_Utopia_SUB10WM-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/sub-10wm",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Dual voice coil: Rdc printed per coil ('a+b'); re_ohm = one coil as printed; ts_basis not stated. Marine model (listed as car/marine by the maker). Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "P 25 FE (p-25-fe)",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 3.7,
+    "qms": 4.5,
+    "qes": 0.51,
+    "qts": 0.45,
+    "vas_l": 29,
+    "sd_cm2": 347,
+    "xmax_mm": 14,
+    "mms_g": 145,
+    "bl_tm": 14.8,
+    "le_mh": 2.7,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 85
+   },
+   "mounting_depth_mm": 140.6,
+   "cutout_mm": 260,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "rms_w",
+      "peak_w",
+      "coil"
+     ],
+     "url": "https://dam.focal-naim.com/m/8846cd51618d4ac/original/FT_P_25_FE-pdf.pdf",
+     "doc": "Technical Sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "size_in"
+     ],
+     "url": "https://www.focal.com/products/p-25-fe",
+     "doc": "product page, specifications",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the maker Technical Sheet. Recommended sealed/ported volumes are printed on the sheet but not transcribed.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "E-25-KX",
+   "rms_w": null,
+   "url": "https://www.focal.com/products/e-25-kx",
+   "note": "Product page has no Technical Sheet link (older model); not read further.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "E-30-KX",
+   "rms_w": null,
+   "url": "https://www.focal.com/products/e-30-kx",
+   "note": "Product page has no Technical Sheet link (older model); not read further.",
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

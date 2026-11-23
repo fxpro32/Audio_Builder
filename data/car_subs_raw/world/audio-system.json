@@ -1,0 +1,2516 @@
+{
+ "brand": "Audio System",
+ "country": "Germany",
+ "brand_url": "https://www.audio-system.de",
+ "terms_note": "R2 2026-11-23: owner's manual PDFs linked from the maker's subwoofer category pages, read 3 s apart. EU maker: per-model facts only. Numbers only. | hp_subs_raw terms note: Site menu links only Datenschutz (privacy), Impressum and Kontakt; no website terms of use found. Pages read one at a time 2026-11-21. Numbers only taken; manuals kept locally in references/raw/hp_subs/world/audio_system/ (not shipped). EU maker: database right risk only for copying a substantial part of a protected database; we take per-model facts from the maker's own manuals, cited.",
+ "coverage": "all subwoofer series pages (Carbon, CO, H, HX, M, Radion, Subframe, SW, US, X-ion); data sheets with a 'Technische Daten / Data sheet' page",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/audio-system.json",
+ "drivers": [
+  {
+   "model": "H33 EVO",
+   "size_in": 33,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.17,
+    "re_ohm": 1,
+    "qms": 4.6,
+    "qes": 0.45,
+    "qts": 0.41,
+    "vas_l": 740,
+    "sd_cm2": 402,
+    "xmax_mm": 72,
+    "mms_g": 1234,
+    "bl_tm": 28,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 96.8
+   },
+   "mounting_depth_mm": 420,
+   "cutout_mm": 771,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/09/MANUAL-H-33-EVO.pdf",
+     "doc": "MANUAL-H-33-EVO.pdf (H-SERIES Anleitung / User Manual)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "status",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://www.audio-system.de/produkte/subwoofer/h-serie/",
+     "doc": "H-SERIES product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 2500 W, Music 2x 5000 W (rms_w and peak_w are the two coils summed). Product page also says 20000 W peak at 50 Hz. Re given as '2x 1' ohm (per coil). Outer diameter 840 mm. DATA PROBLEM: Sd 402 cm2 as printed is not consistent with Vas 740 L, Mms 1234 g and Fs 25.17 Hz; those imply Sd about 4010 cm2 (calculated), so the printed Sd looks a factor of 10 low. Weight and total depth printed as '???' on the sheet. Sensitivity at 2.83 V/1 m.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H15 EVO2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.3,
+    "re_ohm": 0.8,
+    "qms": 3.52,
+    "qes": 0.43,
+    "qts": 0.38,
+    "vas_l": 24.94,
+    "sd_cm2": 744.64,
+    "xmax_mm": 35,
+    "mms_g": 544.19,
+    "bl_tm": 11.04,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87.0
+   },
+   "mounting_depth_mm": 267,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 100,
+     "tuning_hz": null,
+     "source": "https://www.audio-system.de/wp-content/uploads/2026/08/manual-H15-EVO2-20260326.pdf p2 (port diameter 9 cm; tuning not printed)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/08/manual-H15-EVO2-20260326.pdf",
+     "doc": "manual-H15-EVO2-20260326.pdf (H-SERIES Anleitung / User Manual)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "mounting_depth_mm",
+      "cutout_mm",
+      "status"
+     ],
+     "url": "https://www.audio-system.de/produkte/subwoofer/h-serie/",
+     "doc": "H-SERIES product page",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 2000 W, Musik 2x 2500 W (summed here). Product page adds 20000 W peak at 60 Hz. Re printed '2x 0.8' ohm (per coil), impedance 2x 1 ohm. Voice coil 76.2 mm. Calculated: Qes from Bl, Mms, Fs matches Re 0.4 ohm, i.e. the T/S look like coils in parallel (sheet does not say). Vas from Mms/Fs/Sd calculates to 24.96 L, matches. Box-recommendation figures in the PDF are laid out as a drawing; the vented volume 100 L and port diameter 9 cm are clear, the other numbers (20, 30, 55, 70) could not be assigned with certainty and are left out.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H12 EVO",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2200,
+   "peak_w": 2600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.9,
+    "qms": 4.422,
+    "qes": 0.498,
+    "qts": 0.447,
+    "vas_l": 24.334,
+    "sd_cm2": 534.252,
+    "xmax_mm": 22,
+    "mms_g": 234.121,
+    "bl_tm": 22.402,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88.7
+   },
+   "mounting_depth_mm": 215,
+   "cutout_mm": 290,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 48,
+     "tuning_hz": 38,
+     "source": "BDA-H12EVO.pdf p2 (port d 90 mm, L 200 mm)"
+    },
+    {
+     "type": "bandpass",
+     "volume_l": null,
+     "tuning_hz": 50,
+     "source": "BDA-H12EVO.pdf p2 (V1 19 L, V2 32 L, Fm 50 Hz, port d 90 mm)"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 41,
+     "tuning_hz": null,
+     "source": "BDA-H12EVO.pdf p2"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2020/02/BDA-H12EVO.pdf",
+     "doc": "BDA-H12EVO.pdf (Bedienungsanleitung)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 1100 W, Music 2x 1300 W (summed here). Re printed '2 x 1,9' ohm (per coil). Total installation depth 255 mm; 215 mm is 'Einbautiefe (e)'. Sheet says all box calculations include the woofer and an aeroport. Calculated: Qes from Bl/Mms/Fs implies Re about 4 ohm, i.e. T/S look like coils in series (sheet does not say).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H10 EVO",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 2400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 1.9,
+    "qms": 3.932,
+    "qes": 0.405,
+    "qts": 0.368,
+    "vas_l": 13.764,
+    "sd_cm2": 366.44,
+    "xmax_mm": 22,
+    "mms_g": 203.42,
+    "bl_tm": 22.886,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.7
+   },
+   "mounting_depth_mm": 185,
+   "cutout_mm": 239,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 40,
+     "tuning_hz": 42,
+     "source": "BDA-H10EVO.pdf p2 (port d 90 mm, L 200 mm)"
+    },
+    {
+     "type": "bandpass",
+     "volume_l": null,
+     "tuning_hz": 55,
+     "source": "BDA-H10EVO.pdf p2 (V1 12 L, V2 24 L, Fm 55 Hz, port d 90 mm, L 190 mm)"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 25,
+     "tuning_hz": null,
+     "source": "BDA-H10EVO.pdf p2"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2020/02/BDA-H10EVO.pdf",
+     "doc": "BDA-H10EVO.pdf (Bedienungsanleitung)",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 1000 W, Music 2x 1200 W (summed here; exactly at the 2000 W threshold). Re printed '2 x 1,9' ohm (per coil). Total installation depth 197 mm; 185 mm is 'Einbautiefe (e)'. Calculated: Qes from Bl/Mms/Fs implies Re about 4.4 ohm, i.e. T/S look like coils in series (sheet does not say).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "CARBON 10",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 350,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 33.8,
+    "re_ohm": 3.2,
+    "qms": 5.6,
+    "qes": 0.77,
+    "qts": 0.68,
+    "vas_l": 30.3,
+    "sd_cm2": 314,
+    "xmax_mm": 11,
+    "mms_g": 102,
+    "bl_tm": 9.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 85
+   },
+   "mounting_depth_mm": 114,
+   "cutout_mm": 227,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 28,
+     "tuning_hz": 42,
+     "source": "maker data sheet CARBON-10-Manual-1.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet CARBON-10-Manual-1.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2020/12/CARBON-10-Manual-1.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CO 06 D8",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 8,
+   "coils": 2,
+   "rms_w": 160,
+   "peak_w": 240,
+   "final_loads_ohm": [
+    4,
+    16
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 59.8,
+    "re_ohm": 6.2,
+    "qms": 3.63,
+    "qes": 0.43,
+    "qts": 0.38,
+    "vas_l": 6.56,
+    "sd_cm2": 129,
+    "xmax_mm": 14,
+    "mms_g": 30,
+    "bl_tm": 9.58,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87.9
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 142,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/01/CO-06-D8-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 80 W, Music 2x 120 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CO 06 DC",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 160,
+   "peak_w": 240,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 53.8,
+    "re_ohm": 3.2,
+    "qms": 4.19,
+    "qes": 0.41,
+    "qts": 0.37,
+    "vas_l": 6.73,
+    "sd_cm2": 129,
+    "xmax_mm": 14,
+    "mms_g": 30,
+    "bl_tm": 13.1,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.6
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 142,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/09/CO-06-DC-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 80 W, Music 2x 120 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CO 06",
+   "size_in": 6.5,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 160,
+   "peak_w": 240,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 54.9,
+    "re_ohm": 3.2,
+    "qms": 3.9,
+    "qes": 0.47,
+    "qts": 0.42,
+    "vas_l": 6.38,
+    "sd_cm2": 129,
+    "xmax_mm": 14,
+    "mms_g": 30,
+    "bl_tm": 14.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.5
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 142,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/09/CO-06-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CO 06 qC",
+   "size_in": 6.5,
+   "coil": "QVC",
+   "ohms_per_coil": 2,
+   "coils": 4,
+   "rms_w": 160,
+   "peak_w": 240,
+   "final_loads_ohm": [
+    0.5,
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50.7,
+    "re_ohm": 2.2,
+    "qms": 5.25,
+    "qes": 0.36,
+    "qts": 0.34,
+    "vas_l": 6.2,
+    "sd_cm2": 129,
+    "xmax_mm": 14,
+    "mms_g": 37.2,
+    "bl_tm": 10.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.6
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 142,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/09/CO-06-QC-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 4x 40 W, Music 4x 60 W (summed here, A3 convention). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CO 08 DC",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 180,
+   "peak_w": 280,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42.3,
+    "re_ohm": 3.2,
+    "qms": 5.9,
+    "qes": 0.48,
+    "qts": 0.44,
+    "vas_l": 17,
+    "sd_cm2": 206,
+    "xmax_mm": 15,
+    "mms_g": 46,
+    "bl_tm": 13.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 177,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/09/CO-08-DC-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 90 W, Music 2x 140 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CO 08",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 180,
+   "peak_w": 280,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 41.9,
+    "re_ohm": 3.2,
+    "qms": 6.3,
+    "qes": 0.47,
+    "qts": 0.44,
+    "vas_l": 20.7,
+    "sd_cm2": 206,
+    "xmax_mm": 15,
+    "mms_g": 42.1,
+    "bl_tm": 8.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88.1
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 177,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/09/CO-08-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CO 08 qC",
+   "size_in": 8,
+   "coil": "QVC",
+   "ohms_per_coil": 2,
+   "coils": 4,
+   "rms_w": 180,
+   "peak_w": 280,
+   "final_loads_ohm": [
+    0.5,
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 2.2,
+    "qms": 4.8,
+    "qes": 0.59,
+    "qts": 0.49,
+    "vas_l": 19,
+    "sd_cm2": 206,
+    "xmax_mm": 15,
+    "mms_g": 46,
+    "bl_tm": 13.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87.9
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 177,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/09/CO-08-QC-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 4x 45 W, Music 4x 70 W (summed here, A3 convention). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HX08 EVO",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 350,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 2.1,
+    "qms": 4.46,
+    "qes": 0.59,
+    "qts": 0.52,
+    "vas_l": 11.8,
+    "sd_cm2": 185,
+    "xmax_mm": 10,
+    "mms_g": 75,
+    "bl_tm": 11,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87.6
+   },
+   "mounting_depth_mm": 118,
+   "cutout_mm": 185,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 16,
+     "tuning_hz": 48,
+     "source": "maker data sheet HX08-EVO-Manual.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 9,
+     "tuning_hz": null,
+     "source": "maker data sheet HX08-EVO-Manual.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2023/10/HX08-EVO-Manual.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 150 W, Music 2x 175 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HX10 EVO",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 2.1,
+    "qms": 4.54,
+    "qes": 0.56,
+    "qts": 0.5,
+    "vas_l": 35,
+    "sd_cm2": 275,
+    "xmax_mm": 10,
+    "mms_g": 98,
+    "bl_tm": 12,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": 147,
+   "cutout_mm": 238,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 30,
+     "tuning_hz": 40,
+     "source": "maker data sheet HX10-EVO-Manual.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 19,
+     "tuning_hz": null,
+     "source": "maker data sheet HX10-EVO-Manual.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/04/HX10-EVO-Manual.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 200 W, Music 2x 250 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HX12 EVO",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 2.1,
+    "qms": 3.33,
+    "qes": 0.6,
+    "qts": 0.51,
+    "vas_l": 35,
+    "sd_cm2": 435,
+    "xmax_mm": 12,
+    "mms_g": 145,
+    "bl_tm": 14,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 155,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 40,
+     "tuning_hz": 38,
+     "source": "maker data sheet HX12-EVO-Manual.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 29,
+     "tuning_hz": null,
+     "source": "maker data sheet HX12-EVO-Manual.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2023/10/HX12-EVO-Manual.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 250 W, Music 2x 300 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R10 FA EVO",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 450,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.3,
+    "qms": 7.47,
+    "qes": 0.7,
+    "qts": 0.65,
+    "vas_l": 19.8,
+    "sd_cm2": 330,
+    "xmax_mm": 22,
+    "mms_g": 200,
+    "bl_tm": 15,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 85
+   },
+   "mounting_depth_mm": 124,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 40,
+     "tuning_hz": 40,
+     "source": "maker data sheet MANUAL-R10-FA-EVO.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 200,
+     "tuning_hz": null,
+     "source": "maker data sheet MANUAL-R10-FA-EVO.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2022/01/MANUAL-R10-FA-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R12 EVO",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.9,
+    "re_ohm": 3.35,
+    "qms": 6.09,
+    "qes": 0.58,
+    "qts": 0.53,
+    "vas_l": 19.9,
+    "sd_cm2": 510,
+    "xmax_mm": 15,
+    "mms_g": 242,
+    "bl_tm": 25.04,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89.9
+   },
+   "mounting_depth_mm": 148,
+   "cutout_mm": 280,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 50,
+     "tuning_hz": 36,
+     "source": "maker data sheet MANUAL-R12-EVO.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 29,
+     "tuning_hz": null,
+     "source": "maker data sheet MANUAL-R12-EVO.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/01/MANUAL-R12-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 300 W, Music 2x 500 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R12 FA EVO",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 375,
+   "peak_w": 575,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 3.3,
+    "qms": 9.85,
+    "qes": 1.14,
+    "qts": 1.02,
+    "vas_l": 27,
+    "sd_cm2": 498,
+    "xmax_mm": 26,
+    "mms_g": 235,
+    "bl_tm": 12,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86
+   },
+   "mounting_depth_mm": 144,
+   "cutout_mm": 280,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 55,
+     "tuning_hz": 40,
+     "source": "maker data sheet MANUAL-R12-FA-EVO.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 250,
+     "tuning_hz": null,
+     "source": "maker data sheet MANUAL-R12-FA-EVO.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2022/01/MANUAL-R12-FA-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R12 FLAT EVO 3",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.2,
+    "re_ohm": 1.8,
+    "qms": 7.03,
+    "qes": 0.59,
+    "qts": 0.55,
+    "vas_l": 49,
+    "sd_cm2": 510,
+    "xmax_mm": 17.5,
+    "mms_g": 101,
+    "bl_tm": 13,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90.9
+   },
+   "mounting_depth_mm": 97,
+   "cutout_mm": 279,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 50,
+     "tuning_hz": 38,
+     "source": "maker data sheet MANUAL-R12-FLAT-EVO3.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 30,
+     "tuning_hz": null,
+     "source": "maker data sheet MANUAL-R12-FLAT-EVO3.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/01/MANUAL-R12-FLAT-EVO3.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 200 W, Music 2x 300 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "X10 EVO",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.6,
+    "re_ohm": 1.9,
+    "qms": 5.29,
+    "qes": 0.38,
+    "qts": 0.36,
+    "vas_l": 14.64,
+    "sd_cm2": 330,
+    "xmax_mm": 30,
+    "mms_g": 225.8,
+    "bl_tm": 21.9,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89.9
+   },
+   "mounting_depth_mm": 157,
+   "cutout_mm": 238,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 30,
+     "tuning_hz": 40,
+     "source": "maker data sheet MANUAL-X10-EVO.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet MANUAL-X10-EVO.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2023/03/MANUAL-X10-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 300 W, Music 2x 500 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "X12 EVO",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.9,
+    "re_ohm": 1.9,
+    "qms": 5.75,
+    "qes": 0.39,
+    "qts": 0.37,
+    "vas_l": 41.8,
+    "sd_cm2": 490,
+    "xmax_mm": 30,
+    "mms_g": 230,
+    "bl_tm": 21,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90.9
+   },
+   "mounting_depth_mm": 162,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 60,
+     "tuning_hz": 32,
+     "source": "maker data sheet MANUAL-X12-EVO.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 30,
+     "tuning_hz": null,
+     "source": "maker data sheet MANUAL-X12-EVO.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2023/03/MANUAL-X12-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 500 W, Music 2x 750 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "M08 EVO 2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": 300,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39,
+    "re_ohm": 1.9,
+    "qms": 3.8,
+    "qes": 0.44,
+    "qts": 0.4,
+    "vas_l": 30,
+    "sd_cm2": 215,
+    "xmax_mm": 15,
+    "mms_g": 40,
+    "bl_tm": 8.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 91,
+   "cutout_mm": 178,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 32,
+     "tuning_hz": 42,
+     "source": "maker data sheet Manual-M08-EVO2.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-M08-EVO2.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/08/Manual-M08-EVO2.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 100 W, Music 2x 150 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "M10 EVO 2-D4",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.8,
+    "re_ohm": 3.6,
+    "qms": 4.47,
+    "qes": 0.49,
+    "qts": 0.45,
+    "vas_l": 25.3,
+    "sd_cm2": 345,
+    "xmax_mm": 15,
+    "mms_g": 112,
+    "bl_tm": 13.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90.9
+   },
+   "mounting_depth_mm": 112,
+   "cutout_mm": 227,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 32,
+     "tuning_hz": 42,
+     "source": "maker data sheet Manual-M10-EVO2-D4.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-M10-EVO2-D4.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2024/04/Manual-M10-EVO2-D4.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 150 W, Music 2x 200 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "M10 EVO 2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.8,
+    "re_ohm": 1.8,
+    "qms": 4.47,
+    "qes": 0.49,
+    "qts": 0.45,
+    "vas_l": 25.3,
+    "sd_cm2": 345,
+    "xmax_mm": 15,
+    "mms_g": 112,
+    "bl_tm": 13.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90.9
+   },
+   "mounting_depth_mm": 112,
+   "cutout_mm": 227,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 32,
+     "tuning_hz": 42,
+     "source": "maker data sheet Manual-M10-EVO2.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-M10-EVO2.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2023/09/Manual-M10-EVO2.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 150 W, Music 2x 200 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "M12 EVO 2-d4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 650,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 3.6,
+    "qms": 4.01,
+    "qes": 0.49,
+    "qts": 0.43,
+    "vas_l": 58.7,
+    "sd_cm2": 510,
+    "xmax_mm": 12,
+    "mms_g": 120,
+    "bl_tm": 13.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 91.1
+   },
+   "mounting_depth_mm": 132,
+   "cutout_mm": 278,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 50,
+     "tuning_hz": 37,
+     "source": "maker data sheet Manual-M12-EVO2-D4.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 30,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-M12-EVO2-D4.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2024/04/Manual-M12-EVO2-D4.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 250 W, Music 2x 325 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "M12 EVO 2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 650,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 1.8,
+    "qms": 4.01,
+    "qes": 0.49,
+    "qts": 0.43,
+    "vas_l": 58.7,
+    "sd_cm2": 510,
+    "xmax_mm": 12,
+    "mms_g": 120,
+    "bl_tm": 13.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 91.1
+   },
+   "mounting_depth_mm": 132,
+   "cutout_mm": 278,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 50,
+     "tuning_hz": 37,
+     "source": "maker data sheet Manual-M12-EVO2.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 30,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-M12-EVO2.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2023/09/Manual-M12-EVO2.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 250 W, Music 2x 325 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R08 EVO",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.9,
+    "re_ohm": 3.45,
+    "qms": 3.1,
+    "qes": 0.43,
+    "qts": 0.38,
+    "vas_l": 11.6,
+    "sd_cm2": 215,
+    "xmax_mm": 16,
+    "mms_g": 50,
+    "bl_tm": 7.85,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89.5
+   },
+   "mounting_depth_mm": 107,
+   "cutout_mm": 178,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 20,
+     "tuning_hz": 45,
+     "source": "maker data sheet Manual-R08-EVO.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 10,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-R08-EVO.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2020/02/Manual-R08-EVO.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 150 W, Music 2x 250 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R08 FLAT EVO3-D4",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": 300,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 59,
+    "re_ohm": 3.6,
+    "qms": 5.58,
+    "qes": 0.51,
+    "qts": 0.46,
+    "vas_l": 7.7,
+    "sd_cm2": 211,
+    "xmax_mm": 12.5,
+    "mms_g": 45,
+    "bl_tm": 11.1,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88.7
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 178,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 17,
+     "tuning_hz": 40,
+     "source": "maker data sheet Manual-R08-FLAT-EVO3-D4-1.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 10,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-R08-FLAT-EVO3-D4-1.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2025/03/Manual-R08-FLAT-EVO3-D4-1.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 100 W, Music 2x 150 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R10 FLAT EVO3-D4",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.8,
+    "re_ohm": 3.6,
+    "qms": 6.75,
+    "qes": 0.47,
+    "qts": 0.44,
+    "vas_l": 27,
+    "sd_cm2": 330,
+    "xmax_mm": 17.5,
+    "mms_g": 70,
+    "bl_tm": 12.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90.2
+   },
+   "mounting_depth_mm": 80,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 30,
+     "tuning_hz": 38,
+     "source": "maker data sheet Manual-R10-FLAT-EVO3-D4.pdf",
+     "note": "maker: all calculations include woofer and port"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 22,
+     "tuning_hz": null,
+     "source": "maker data sheet Manual-R10-FLAT-EVO3-D4.pdf",
+     "note": "maker: volume includes woofer"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2024/04/Manual-R10-FLAT-EVO3-D4.pdf",
+     "doc": "owner's manual PDF, data sheet page",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet power: RMS 2x 150 W, Music 2x 200 W (summed here, A3 convention). Re printed per coil ('2x'); ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R10 EVO",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 700,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.5,
+    "re_ohm": 3.45,
+    "qms": 6.3,
+    "qes": 0.56,
+    "qts": 0.52,
+    "vas_l": 24.5,
+    "sd_cm2": 370,
+    "xmax_mm": 21.5,
+    "mms_g": 122,
+    "bl_tm": 14.06,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89.9
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2020/02/R10-EVO-manual.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.52 vs Qms*Qes/(Qms+Qes) 0.514. Power printed per coil (200 W RMS, 350 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 3.45'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out. Older (2020) sheet layout: the dimension values were not legible in the crop and are left empty.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R12 FLAT EVO",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 575,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 34.2,
+    "re_ohm": 3.4,
+    "qms": 6.59,
+    "qes": 0.56,
+    "qts": 0.52,
+    "vas_l": 45.6,
+    "sd_cm2": 510,
+    "xmax_mm": 15,
+    "mms_g": 162,
+    "bl_tm": 14.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90.9
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2021/01/R12-FLAT-EVO-manual.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.52 vs Qms*Qes/(Qms+Qes) 0.516. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out. Single coil: power printed '400 W RMS / 575 W Music' (not per coil), Re 3.4, Zn 4. Dimension values not legible in the crop, left empty.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "X06 EVO",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 56,
+    "re_ohm": 1.9,
+    "qms": 4.4,
+    "qes": 0.38,
+    "qts": 0.35,
+    "vas_l": 3.9,
+    "sd_cm2": 150,
+    "xmax_mm": 18,
+    "mms_g": 51,
+    "bl_tm": 14.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88.6
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2020/02/X06-EVO-manual.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.35 vs Qms*Qes/(Qms+Qes) 0.350. Power printed per coil (150 W RMS, 250 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 1.9'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out. Dimension values not legible in the crop, left empty.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "X08 EVO",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 700,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.4,
+    "re_ohm": 1.9,
+    "qms": 4.58,
+    "qes": 0.39,
+    "qts": 0.36,
+    "vas_l": 14.5,
+    "sd_cm2": 205,
+    "xmax_mm": 19,
+    "mms_g": 79.3,
+    "bl_tm": 15.7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88.9
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2020/02/X08-EVO-manual.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.36 vs Qms*Qes/(Qms+Qes) 0.359. Power printed per coil (200 W RMS, 350 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 1.9'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out. Dimension values not legible in the crop, left empty.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CARBON06 EVO",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 160,
+   "peak_w": 240,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 52.5,
+    "re_ohm": 2.1,
+    "qms": 3.13,
+    "qes": 0.45,
+    "qts": 0.36,
+    "vas_l": 3.65,
+    "sd_cm2": 128.6,
+    "xmax_mm": 10,
+    "mms_g": 46.52,
+    "bl_tm": 3.91,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.7
+   },
+   "mounting_depth_mm": 100,
+   "cutout_mm": 145,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/05/manual-Carbon06-EVO-20251110.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.36 vs Qms*Qes/(Qms+Qes) 0.393. Power printed per coil (80 W RMS, 120 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 2.1'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CARBON06 QC EVO",
+   "size_in": 6.5,
+   "coil": "QVC",
+   "ohms_per_coil": 2,
+   "coils": 4,
+   "rms_w": 80,
+   "peak_w": 120,
+   "final_loads_ohm": [
+    0.5,
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50.2,
+    "re_ohm": 2.1,
+    "qms": 4.44,
+    "qes": 0.4,
+    "qts": 0.36,
+    "vas_l": 3.74,
+    "sd_cm2": 128.6,
+    "xmax_mm": 10,
+    "mms_g": 53.46,
+    "bl_tm": 6.08,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.5
+   },
+   "mounting_depth_mm": 100,
+   "cutout_mm": 145,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/05/manual-Carbon06-QC-EVO-20251112.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.36 vs Qms*Qes/(Qms+Qes) 0.367. Power printed per coil (40 W RMS, 60 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 2.1'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out. Sheet prints Re '4x 2.1' and impedance '4x 2' (four coils) but power '2x 40 W RMS / 2x 60 W Musik'; rms_w/peak_w = 2 x printed as for the other rows (UNVERIFIED for a four-coil driver).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CARBON08 EVO",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": 280,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43.11,
+    "re_ohm": 2.1,
+    "qms": 3.14,
+    "qes": 0.45,
+    "qts": 0.39,
+    "vas_l": 14.17,
+    "sd_cm2": 210.87,
+    "xmax_mm": 12,
+    "mms_g": 60.77,
+    "bl_tm": 4.85,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": 89,
+   "cutout_mm": 180,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/05/manual-Carbon08-EVO-20251112.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.39 vs Qms*Qes/(Qms+Qes) 0.394. Power printed per coil (100 W RMS, 140 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 2.1'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CARBON10 EVO",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 250,
+   "peak_w": 350,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 2.1,
+    "qms": 5.14,
+    "qes": 0.45,
+    "qts": 0.39,
+    "vas_l": 28.17,
+    "sd_cm2": 314,
+    "xmax_mm": 14,
+    "mms_g": 90.77,
+    "bl_tm": 9.85,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 85.5
+   },
+   "mounting_depth_mm": 114,
+   "cutout_mm": 227,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/08/manual-Carbon10-EVO-20251210.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.39 vs Qms*Qes/(Qms+Qes) 0.414. Power printed per coil (125 W RMS, 175 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 2.1'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CARBON12 EVO",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27,
+    "re_ohm": 2.1,
+    "qms": 5.64,
+    "qes": 0.5,
+    "qts": 0.45,
+    "vas_l": 56,
+    "sd_cm2": 490,
+    "xmax_mm": 14,
+    "mms_g": 134,
+    "bl_tm": 11.85,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": 129,
+   "cutout_mm": 278,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/08/manual-Carbon12-EVO-20251210.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.45 vs Qms*Qes/(Qms+Qes) 0.459. Power printed per coil (150 W RMS, 200 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 2.1'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HX08 FLAT EVO4",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.2,
+    "re_ohm": 1.9,
+    "qms": 9.91,
+    "qes": 0.82,
+    "qts": 0.76,
+    "vas_l": 12.76,
+    "sd_cm2": 235.06,
+    "xmax_mm": 10,
+    "mms_g": 132.81,
+    "bl_tm": 11.45,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 83
+   },
+   "mounting_depth_mm": 72,
+   "cutout_mm": 192,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/11/manual-HX08-FLAT-EVO4-20260817.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.76 vs Qms*Qes/(Qms+Qes) 0.757. Power printed per coil (150 W RMS, 300 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 1.9'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HX10 FLAT EVO4",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.9,
+    "re_ohm": 2.1,
+    "qms": 4.86,
+    "qes": 0.66,
+    "qts": 0.58,
+    "vas_l": 19.84,
+    "sd_cm2": 380.13,
+    "xmax_mm": 12.5,
+    "mms_g": 256.47,
+    "bl_tm": 18.03,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 85
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 236,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/11/manual-HX10-FLAT-EVO4-20260817.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.58 vs Qms*Qes/(Qms+Qes) 0.581. Power printed per coil (250 W RMS, 500 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 2.1'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HX12 FLAT EVO4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.8,
+    "re_ohm": 2.1,
+    "qms": 5.98,
+    "qes": 0.48,
+    "qts": 0.44,
+    "vas_l": 56.87,
+    "sd_cm2": 551.56,
+    "xmax_mm": 12.5,
+    "mms_g": 266.5,
+    "bl_tm": 19.62,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87
+   },
+   "mounting_depth_mm": 89.2,
+   "cutout_mm": 286,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/11/manual-HX12-FLAT-EVO4-20260817.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.44 vs Qms*Qes/(Qms+Qes) 0.444. Power printed per coil (300 W RMS, 600 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 2.1'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R08 EVO3",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41,
+    "re_ohm": 1.8,
+    "qms": 4.65,
+    "qes": 0.58,
+    "qts": 0.51,
+    "vas_l": 11.53,
+    "sd_cm2": 198.56,
+    "xmax_mm": 16,
+    "mms_g": 71.83,
+    "bl_tm": 5.94,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.9
+   },
+   "mounting_depth_mm": 108,
+   "cutout_mm": 170,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/11/manual-R08-EVO3-20260803.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.51 vs Qms*Qes/(Qms+Qes) 0.516. Power printed per coil (150 W RMS, 250 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 1.8'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R10 EVO3",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 700,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.5,
+    "re_ohm": 1.8,
+    "qms": 5.56,
+    "qes": 0.53,
+    "qts": 0.49,
+    "vas_l": 25.68,
+    "sd_cm2": 320.47,
+    "xmax_mm": 22,
+    "mms_g": 142.6,
+    "bl_tm": 7.27,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.7
+   },
+   "mounting_depth_mm": 130,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/11/manual-R10-EVO3-20260803.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.49 vs Qms*Qes/(Qms+Qes) 0.484. Power printed per coil (200 W RMS, 350 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 1.8'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R12 EVO3",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.96,
+    "re_ohm": 1.8,
+    "qms": 7.84,
+    "qes": 0.87,
+    "qts": 0.78,
+    "vas_l": 35.86,
+    "sd_cm2": 498.76,
+    "xmax_mm": 22,
+    "mms_g": 225.88,
+    "bl_tm": 7.34,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.6
+   },
+   "mounting_depth_mm": 149,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/11/manual-R12-EVO3-20260804.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.78 vs Qms*Qes/(Qms+Qes) 0.783. Power printed per coil (300 W RMS, 500 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 1.8'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R15 EVO3",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 24.17,
+    "re_ohm": 1.8,
+    "qms": 6.32,
+    "qes": 0.6,
+    "qts": 0.55,
+    "vas_l": 118.4,
+    "sd_cm2": 814.33,
+    "xmax_mm": 25,
+    "mms_g": 339.11,
+    "bl_tm": 9.23,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88.6
+   },
+   "mounting_depth_mm": 170,
+   "cutout_mm": 351,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/wp-content/uploads/2026/11/manual-R15-EVO3-20260804.pdf",
+     "doc": "owner's manual PDF (image only), English Specifications table: READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: printed Qts 0.55 vs Qms*Qes/(Qms+Qes) 0.548. Power printed per coil (350 W RMS, 600 W Musik); rms_w/peak_w = 2 x printed. Re printed per coil ('2x 1.8'); ts_basis not stated. Xmax printed '+/-' (one-way). 'Mounting diameter' (b) taken as cut-out.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "R 10 FLAT EVO",
+   "rms_w": null,
+   "url": "https://www.audio-system.de/wp-content/uploads/2021/01/R-10-FLAT-EVO.pdf",
+   "note": "Owner's manual PDF has no text layer (image only); T/S not transcribed. Model name from the file name.",
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

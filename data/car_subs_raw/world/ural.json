@@ -1,0 +1,1168 @@
+{
+ "brand": "Ural (Урал / Ural Sound)",
+ "country": "Russia",
+ "brand_url": "https://ural-auto.ru/",
+ "terms_note": "R2 2026-11-23: re-used the pages A6 read through a non-VPN connection on 2026-11-22 (no new requests, non-VPN connection not used by R2). Numbers only. | hp_subs_raw terms note: ural-auto.ru refused the container's connections; read on 2026-11-22 through a non-VPN connection (direct route), plain curl.exe output to stdout only, nothing written on a non-VPN connection, at least 6 s between requests (sitemap, 2 category pages, 26 product/news pages, 2 Cyclone URLs). Numbers only. Russian maker: facts per model from the maker's own pages. Local copies (audit only): references/raw/hp_subs/direct/ural/.",
+ "coverage": "all passive sub pages A6 saved (current + archive)",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/ural.json",
+ "drivers": [
+  {
+   "model": "Ultimatum 12 (УЛЬТИМАТУМ 12)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.7,
+    "re_ohm": null,
+    "qms": 3.8,
+    "qes": 0.48,
+    "qts": 0.42,
+    "vas_l": 23.1,
+    "sd_cm2": null,
+    "xmax_mm": 40.0,
+    "mms_g": 392.9,
+    "bl_tm": 20.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 263.0,
+   "cutout_mm": 281.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/sabvufer-ural-ultimatum-12/",
+     "doc": "product page, Технические характеристики + Параметры Тиля-Смолла",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels translated: Номинальная мощность = rated power (treated as RMS, as for the other Russian makers), Максимальная мощность = maximum power, Сопротивление '1+1'/'2+2 Ом' = dual 1/2 ohm coils, Установочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out, Чувствительность = sensitivity (test condition not stated, so not put in spl fields). Re and Sd are not published; Cms printed without a unit (not used). Sensitivity 84,2 dB, outer diameter 317 mm, voice coil 4 in, Cms printed '0,041'. Ural news page calls the series 'real RMS 4 000 W' (https://ural-auto.ru/info/news/novinki-ot-kompanii-ural-moshhnejshie-sabvufery-serii-ultimatum/). Page shows 'Нет в наличии' (out of stock). CHECK: Re implied by the printed Qes, Bl, fs, Mms is about 2.7 ohm, high for 1+1 ohm coils (about 2 ohm expected in series); one printed value may be off.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Ultimatum 15 (УЛЬТИМАТУМ 15)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.3,
+    "re_ohm": null,
+    "qms": 3.1,
+    "qes": 0.41,
+    "qts": 0.37,
+    "vas_l": 38.3,
+    "sd_cm2": null,
+    "xmax_mm": 40.0,
+    "mms_g": 499.5,
+    "bl_tm": 20.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 300.0,
+   "cutout_mm": 358.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/sabvufer-ural-ultimatum-15/",
+     "doc": "product page, Технические характеристики + Параметры Тиля-Смолла",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels translated: Номинальная мощность = rated power (treated as RMS, as for the other Russian makers), Максимальная мощность = maximum power, Сопротивление '1+1'/'2+2 Ом' = dual 1/2 ohm coils, Установочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out, Чувствительность = sensitivity (test condition not stated, so not put in spl fields). Re and Sd are not published; Cms printed without a unit (not used). Sensitivity 87,9 dB, outer diameter 395 mm, voice coil 4 in, Cms printed '0,047'. Ural news page calls the series 'real RMS 4 000 W'. Page shows 'Нет в наличии' (out of stock).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Patriot Sport 12 (ПАТРИОТ СПОРТ 12)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41.3,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.45,
+    "vas_l": 18.3,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 291.5,
+    "bl_tm": 23.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 236.0,
+   "cutout_mm": 283.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/avtomobilnyy-sabvufer-ural-patriot-sport-12/",
+     "doc": "product page, Технические характеристики + Параметры Тиля-Смолла",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels translated: Номинальная мощность = rated power (treated as RMS, as for the other Russian makers), Максимальная мощность = maximum power, Сопротивление '1+1'/'2+2 Ом' = dual 1/2 ohm coils, Установочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out, Чувствительность = sensitivity (test condition not stated, so not put in spl fields). Re and Sd are not published; Cms printed without a unit (not used). Sensitivity 86,2 dB, outer diameter 320 mm, voice coil 3 in, Cms printed '0,00051'. Page gives Qts but not Qes or Qms, and no Re or Xmax.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Patriot Sport 15 (ПАТРИОТ СПОРТ 15)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.49,
+    "vas_l": 33.9,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 411.7,
+    "bl_tm": 27.0,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 266.0,
+   "cutout_mm": 358.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/avtomobilnyy-sabvufer-ural-patriot-15/",
+     "doc": "product page, Технические характеристики + Параметры Тиля-Смолла",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels translated: Номинальная мощность = rated power (treated as RMS, as for the other Russian makers), Максимальная мощность = maximum power, Сопротивление '1+1'/'2+2 Ом' = dual 1/2 ohm coils, Установочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out, Чувствительность = sensitivity (test condition not stated, so not put in spl fields). Re and Sd are not published; Cms printed without a unit (not used). Sensitivity 88,2 dB, outer diameter 398 mm, voice coil 3 in, Cms printed '0,00035'. URL slug says 'patriot-15' but the page title is ПАТРИОТ СПОРТ 15. Page gives Qts but not Qes or Qms, and no Re or Xmax.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Decibel 18",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 19.6,
+    "re_ohm": null,
+    "qms": 4.66,
+    "qes": 0.48,
+    "qts": 0.43,
+    "vas_l": 270.2,
+    "sd_cm2": null,
+    "xmax_mm": 41.0,
+    "mms_g": 478.3,
+    "bl_tm": 15.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 275.0,
+   "cutout_mm": 428.0,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/archive/archive-subwoofers/archive-passivnie-no-korpus/decibel-18/",
+     "doc": "product page, Технические характеристики + Параметры Тиля-Смолла",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels translated: Номинальная мощность = rated power (treated as RMS, as for the other Russian makers), Максимальная мощность = maximum power, Сопротивление '1+1'/'2+2 Ом' = dual 1/2 ohm coils, Установочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out, Чувствительность = sensitivity (test condition not stated, so not put in spl fields). Re and Sd are not published; Cms printed without a unit (not used). Sensitivity 88 dB, outer diameter 470 mm, voice coil 4 in, Cms printed '0,14'. In the maker's model archive, marked 'Снято с продажи' (discontinued).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "УРАЛ АК-12 М (ak-12-m)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": null,
+    "qms": 2.48,
+    "qes": 0.43,
+    "qts": 0.51,
+    "vas_l": 43.1,
+    "sd_cm2": null,
+    "xmax_mm": 12,
+    "mms_g": 93.64,
+    "bl_tm": 1.1,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 163,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/sabvufer-ural-ak-12-m/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used). Page gives no rated power.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "URAL (Урал) Bulava 18 (arch-bulava-18)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 900,
+   "peak_w": 1800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.8,
+    "re_ohm": null,
+    "qms": 5.36,
+    "qes": 0.83,
+    "qts": 0.72,
+    "vas_l": 164.4,
+    "sd_cm2": null,
+    "xmax_mm": 30,
+    "mms_g": 460.9,
+    "bl_tm": 19,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 203,
+   "cutout_mm": 427,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/archive/archive-subwoofers/archive-passivnie/bulava-18/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "URAL (Урал) Pobeda 12 (arch-pobeda-12)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": 2400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.2,
+    "re_ohm": null,
+    "qms": 4.2,
+    "qes": 0.47,
+    "qts": 0.42,
+    "vas_l": 25.7,
+    "sd_cm2": null,
+    "xmax_mm": 25,
+    "mms_g": 269.4,
+    "bl_tm": 22.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 145,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/archive/archive-subwoofers/archive-passivnie-no-korpus/pobeda-12/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "URAL (Урал) Pobeda 15 (arch-pobeda-15)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": 2400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.6,
+    "re_ohm": null,
+    "qms": 3.37,
+    "qes": 0.46,
+    "qts": 0.4,
+    "vas_l": 99.3,
+    "sd_cm2": null,
+    "xmax_mm": 25,
+    "mms_g": 277.9,
+    "bl_tm": 21.9,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 178,
+   "cutout_mm": 357,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/archive/archive-subwoofers/archive-passivnie-no-korpus/pobeda-15/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "URAL (Урал) Pobeda 18 (arch-pobeda-18)",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": 2400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.5,
+    "re_ohm": null,
+    "qms": 5.72,
+    "qes": 0.84,
+    "qts": 0.74,
+    "vas_l": 170.9,
+    "sd_cm2": null,
+    "xmax_mm": 27,
+    "mms_g": 454.4,
+    "bl_tm": 18.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 210,
+   "cutout_mm": 423,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/archive/archive-subwoofers/archive-passivnie/pobeda-18/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ Авангард 12 (avangard-12)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.6,
+    "vas_l": 122,
+    "sd_cm2": null,
+    "xmax_mm": 10,
+    "mms_g": 88.6,
+    "bl_tm": 9.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 145,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/avangard-12/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used). Page gives no rated power.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "URAL (Урал) Bulava 12 V.2 (bulava-12)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 900,
+   "peak_w": 1800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.9,
+    "re_ohm": null,
+    "qms": 4.63,
+    "qes": 0.48,
+    "qts": 0.43,
+    "vas_l": 45,
+    "sd_cm2": null,
+    "xmax_mm": 28,
+    "mms_g": 262.9,
+    "bl_tm": 19.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 151,
+   "cutout_mm": 286,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/bulava-12/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "URAL (Урал) Bulava 15 V.2 (bulava-15)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 900,
+   "peak_w": 1800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.7,
+    "re_ohm": null,
+    "qms": 4.73,
+    "qes": 0.61,
+    "qts": 0.54,
+    "vas_l": 105.5,
+    "sd_cm2": null,
+    "xmax_mm": 30,
+    "mms_g": 349.3,
+    "bl_tm": 19.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 175,
+   "cutout_mm": 354,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/bulava-15/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ МОЛНИЯ 12 (molniya-12)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.65,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.89,
+    "vas_l": 48.14,
+    "sd_cm2": null,
+    "xmax_mm": 7,
+    "mms_g": 148.35,
+    "bl_tm": 10.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 132,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/ural-molniya-12/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ МОЛОТ 12 (molot-12)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.5,
+    "re_ohm": null,
+    "qms": 6.96,
+    "qes": 1.01,
+    "qts": 0.88,
+    "vas_l": 43.1,
+    "sd_cm2": null,
+    "xmax_mm": 7,
+    "mms_g": 180.2,
+    "bl_tm": 12.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 133,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/ural-molot-12/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ПАТРИОТ 12 ГРОМ (patriot-12-grom)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.7,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.45,
+    "vas_l": 23.5,
+    "sd_cm2": null,
+    "xmax_mm": 25,
+    "mms_g": 337.4,
+    "bl_tm": 22.7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/patriot-12-grom/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ПАТРИОТ 15 ГРОМ (patriot-15-grom)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.5,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.53,
+    "vas_l": 55,
+    "sd_cm2": null,
+    "xmax_mm": 25,
+    "mms_g": 428,
+    "bl_tm": 22.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/patriot-15-grom/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ПАТРИОТ 12 (patriot12)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 900,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.6,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.7,
+    "vas_l": 38.6,
+    "sd_cm2": null,
+    "xmax_mm": 25,
+    "mms_g": 232.5,
+    "bl_tm": 14.9,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/patriot12/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ПАТРИОТ 15 (patriot15)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 900,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.6,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.78,
+    "vas_l": 90.6,
+    "sd_cm2": null,
+    "xmax_mm": 30,
+    "mms_g": 274.4,
+    "bl_tm": 14.7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/patriot15/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ТТ 12 (tt-12-black)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1100,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.2,
+    "re_ohm": null,
+    "qms": 3.45,
+    "qes": 0.77,
+    "qts": 0.63,
+    "vas_l": 34,
+    "sd_cm2": null,
+    "xmax_mm": 20,
+    "mms_g": 201.64,
+    "bl_tm": 19.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 150,
+   "cutout_mm": 280,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/tt-12-black/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ТТ 12 Красный (tt-12-red)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1100,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.2,
+    "re_ohm": null,
+    "qms": 3.45,
+    "qes": 0.77,
+    "qts": 0.63,
+    "vas_l": 34,
+    "sd_cm2": null,
+    "xmax_mm": 20,
+    "mms_g": 201.64,
+    "bl_tm": 19.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 150,
+   "cutout_mm": 280,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/tt-12-red/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ТТ 15 (tt-15-black)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1100,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.3,
+    "re_ohm": null,
+    "qms": 3.78,
+    "qes": 0.99,
+    "qts": 0.79,
+    "vas_l": 89.7,
+    "sd_cm2": null,
+    "xmax_mm": 20,
+    "mms_g": 277.16,
+    "bl_tm": 18.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 187,
+   "cutout_mm": 352,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/tt-15-black/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ ТТ 15 Красный (tt-15-red)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1100,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.3,
+    "re_ohm": null,
+    "qms": 3.78,
+    "qes": 0.99,
+    "qts": 0.79,
+    "vas_l": 89.7,
+    "sd_cm2": null,
+    "xmax_mm": 20,
+    "mms_g": 277.16,
+    "bl_tm": 18.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 187,
+   "cutout_mm": 352,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/tt-15-red/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "УРАЛ Warhead Grand 12 (warhead-grand-12)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": null,
+    "qms": 0.00032,
+    "qes": null,
+    "qts": 0.5,
+    "vas_l": 120,
+    "sd_cm2": null,
+    "xmax_mm": 10,
+    "mms_g": 91.8,
+    "bl_tm": 10.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 145,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ural-auto.ru/catalog/subwoofers/passive-sub/warhead-grand-12/",
+     "doc": "product page (read via a non-VPN connection by A6)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Labels as A6 read them: rated power ('Номинальная мощность') treated as RMS, max power as peak; Re and Sd not published; Cms printed without a unit (not used). Page gives no rated power.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "Cyclone 12 / Cyclone 15 (Циклон, dual coil)",
+   "rms_w": 2000,
+   "url": "https://ural-auto.ru/info/news/absolyutno-novaya-seriya-sabvuferov-cyclone-ciklon/",
+   "note": "Only the maker's news page remains: it describes a 3 in four-layer dual voice coil 'с настоящим RMS 2000 Вт' (with a real RMS of 2000 W). The product links (http://www.ural-auto.ru/shop/subwoofers/subwoofers-30-cm/cyclone-12/ and .../subwoofers-38-cm/cyclone-15/) now redirect to the passive-sub category, so no specs or T/S; coil impedance not stated on the maker page. Discontinued (inferred from removal). Read 2026-11-22.",
+   "source": "hp_subs_raw"
+  }
+ ]
+}

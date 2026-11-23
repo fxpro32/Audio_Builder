@@ -1,0 +1,1831 @@
+{
+ "brand": "Cerwin-Vega (Mobile)",
+ "country": "USA",
+ "brand_url": "https://cerwinvega.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store scanned: car subs up to 1500 W RMS (Vega V15); none qualifying.",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/cerwin-vega.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "W-SUB8",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/w-sub-8",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'W-SUB 8'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/w-sub-8",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS104D",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/hs104d-hed-dvc-shallow-subwoofer-10-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'HED Series 10\" Shallow Dual Voice Coil Subwoofer (4Ω)  - HS104D'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hs104d-hed-dvc-shallow-subwoofer-10-4-ohm",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS124D",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/hs124d-hed-dvc-shallow-subwoofer-12-4-ohm-black",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'HED Series 12\" Shallow Dual Voice Coil Subwoofer (4Ω) - HS124D'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hs124d-hed-dvc-shallow-subwoofer-12-4-ohm-black",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V84DV2",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/v84dv2-vega-series-8-750-watt-dvc-subwoofer-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'VEGA Series 8\" Dual Voice Coil Subwoofer (4Ω) - V84DV2'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v84dv2-vega-series-8-750-watt-dvc-subwoofer-4-ohm",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V82DV2",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/v82dv2-750w-max-250w-rms-8-vega-series-dual-2-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: '8\" Vega Subwoofer DVC (2Ω) - V82DV2'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v82dv2-750w-max-250w-rms-8-vega-series-dual-2-ohm",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V104DV2",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/v104dv2-10-dual-4-ohm-1100w-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'VEGA Series 10\" Dual Voice Coil Subwoofer (4Ω) - V104DV2'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v104dv2-10-dual-4-ohm-1100w-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V122DV2",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/v122dv2-12-inch-dual-2-ohm-high-performance-650w-rms-1300-max-power-handling-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'VEGA Series 12\" Dual Voice Coil Subwoofer (2Ω) - V122DV2'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v122dv2-12-inch-dual-2-ohm-high-performance-650w-rms-1300-max-power-handling-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V124DV2",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/v124dv2-12-inch-dual-4-ohm-high-performance-650w-rms-1300-max-power-handling-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'VEGA Series 12\" Dual Voice Coil Subwoofer (4Ω) - V124DV2'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v124dv2-12-inch-dual-4-ohm-high-performance-650w-rms-1300-max-power-handling-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "LSD12W",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/12-subwoofer-white-lsd12w",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: '12\" SUBWOOFER WHITE-LSD12W'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/12-subwoofer-white-lsd12w",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "LSD12B",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/12-subwoofer-black-lsd12b",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: '12\" SUBWOOFER BLACK-LSD12B'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/12-subwoofer-black-lsd12b",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EL-36D",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/folded-horn-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega Folded Horn Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/folded-horn-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RPMRZRSUB",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/rpmrzrsub-rzr-subwoofer-rpm104sl",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'RPMRZRSUB - RZR SUBWOOFER (RPM104SL)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/rpmrzrsub-rzr-subwoofer-rpm104sl",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS10DV4",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/cerwin-vega-hed-slim-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega - Hed Slim Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/cerwin-vega-hed-slim-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V10DV4",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/vega-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega - VEGA SUBWOOFER'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "FCSUBA18-SLP28",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/fcsuba18-slp28-flight-case-for-suba18-slp28",
+   "note": "No Fs/Qts/Vas published by the maker; size 18 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega FCSUBA18-SLP28 Line Array Flight Case for SUBA18-SLP28 18\" Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 18,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/fcsuba18-slp28-flight-case-for-suba18-slp28",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "FCSUB15-SLP26",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/fcsub15-slp26-flight-case-for-sub15-slp26",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega FCSUB15-SLP26 Line Array Flight Case for SUBA15-SLP26 15\" Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/fcsub15-slp26-flight-case-for-sub15-slp26",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "FCSUBA18-SLA210",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/fcsuba18-sla210-flight-case-for-suba18-sla210",
+   "note": "No Fs/Qts/Vas published by the maker; size 18 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega FCSUBA18-SLA210 Line Array Flight Case for SUBA18-SLA210 18\" Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 18,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/fcsuba18-sla210-flight-case-for-suba18-sla210",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "FCSUBA15-SLA83",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/fcsuba15-sla83-flight-case-for-suba15-sla83",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega FCSUBA15-SLA83 Line Array Flight Case for SUBA15-SLP83 15\" Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/fcsuba15-sla83-flight-case-for-suba15-sla83",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS12DV4",
+   "rms_w": 400,
+   "url": "https://cerwinvega.com/products/hed-edition-slim-subwoofer-hed-12-shallow-mount",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega HS12DV4 12\" HED Series Shallow Car Subwoofer 400W RMS 1200W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-edition-slim-subwoofer-hed-12-shallow-mount",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS12DV2",
+   "rms_w": 400,
+   "url": "https://cerwinvega.com/products/hed-slim-subwoofer-hed-12-shallow-mount-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega HS12DV2 12\" HED Series Shallow Car Subwoofer 400W RMS 1200W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-slim-subwoofer-hed-12-shallow-mount-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS10DV2",
+   "rms_w": 350,
+   "url": "https://cerwinvega.com/products/hed-slim-subwoofer-hed-10-shallow-mount-subwoofer-dual",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 1050 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega HS10DV2 10\" HED Series Shallow Car Subwoofer 350W RMS 1050W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1050,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-slim-subwoofer-hed-10-shallow-mount-subwoofer-dual",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H15DV4",
+   "rms_w": 750,
+   "url": "https://cerwinvega.com/products/hed-subwoofer-hed-15-subwoofer-dual-4ω",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak 2250 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H15DV4 15\" HED Series Car Subwoofer 750W RMS 2250W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2250,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-subwoofer-hed-15-subwoofer-dual-4ω",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H15DV2",
+   "rms_w": 750,
+   "url": "https://cerwinvega.com/products/hed-subwoofer-hed-15-subwoofer-dual-2ω",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak 2250 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H15DV2 15\" HED Series Car Subwoofer 750W RMS 2250W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2250,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-subwoofer-hed-15-subwoofer-dual-2ω",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H12DV4",
+   "rms_w": 650,
+   "url": "https://cerwinvega.com/products/hed-subwoofer-hed-12-subwoofer-dual-4ω",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1950 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H12DV4 12\" HED Series Car Subwoofer 650W RMS 1950W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1950,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-subwoofer-hed-12-subwoofer-dual-4ω",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H12DV2",
+   "rms_w": 650,
+   "url": "https://cerwinvega.com/products/hed-subwoofer-hed-12-subwoofer-dual-2ω",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 1950 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H12DV2 12\" HED Series Car Subwoofer 650W RMS 1950W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1950,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-subwoofer-hed-12-subwoofer-dual-2ω",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H10DV4",
+   "rms_w": 250,
+   "url": "https://cerwinvega.com/products/hed-2024-subwoofer-hed-10-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H10DV4 10\" HED Series Car Subwoofer 250W RMS 1200W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-2024-subwoofer-hed-10-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H10DV2",
+   "rms_w": 250,
+   "url": "https://cerwinvega.com/products/hed-2024-edition-subwoofer-hed-10-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H10DV2 10\" HED Series Car Subwoofer 250W RMS 1200W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-2024-edition-subwoofer-hed-10-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V15DV4",
+   "rms_w": 1500,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-15-4ω-dvc-subwoofer-v15dv4-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak 4500 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V15DV4 15\" Vega Series Car Subwoofer 1500W RMS 4500W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 4500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-15-4ω-dvc-subwoofer-v15dv4-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V15DV2",
+   "rms_w": 1500,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-15-2ω-dvc-subwoofer-v15dv2-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak 4500 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V15DV2 15\" Vega Series Car Subwoofer 1500W RMS 4500W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 4500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-15-2ω-dvc-subwoofer-v15dv2-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V12DV4",
+   "rms_w": 1200,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-12-4ω-dvc-subwoofer-v12dv4-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 3600 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V12DV4 12\" Vega Series Car Subwoofer 1200W RMS 3600W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 3600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-12-4ω-dvc-subwoofer-v12dv4-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V12DV2",
+   "rms_w": 1200,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-12-2ω-dvc-subwoofer-v12dv2-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 3600 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V12DV2 12\" Vega Series Car Subwoofer 1200W RMS 3600W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 3600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-12-2ω-dvc-subwoofer-v12dv2-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V10DV2",
+   "rms_w": 1000,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-10-2ω-dvc-subwoofer-v10dv2-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 3000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V10DV2 10\" Vega Series Car Subwoofer 1000W RMS 3000W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 3000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-10-2ω-dvc-subwoofer-v10dv2-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V8DV4",
+   "rms_w": 800,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-8-4ω-dvc-subwoofer-v8dv4-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak 2400 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V8DV4 8\" Vega Series Car Subwoofer 800W RMS 2400W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-8-4ω-dvc-subwoofer-v8dv4-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V8DV2",
+   "rms_w": 800,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-8-2ω-dvc-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 2 ohm, peak 2400 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V8DV2 8\" Vega Series Car Subwoofer 800W RMS 2400W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-8-2ω-dvc-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V65DV4",
+   "rms_w": 500,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-6-54ω-dvc-subwoofer-v65dv4-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 6.5 in, coil DVC 4 ohm, peak 1500 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V65DV4 6.5\" Vega Series Car Subwoofer 500W RMS 1500W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-6-54ω-dvc-subwoofer-v65dv4-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V65DV2",
+   "rms_w": 500,
+   "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-6-52ω-dvc-subwoofer-v65dv2-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 6.5 in, coil None None ohm, peak 1500 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V65DV2 6.5\" Vega Series Car Subwoofer 500W RMS 1500W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 6.5,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vega-2024-edition-subwoofer-6-52ω-dvc-subwoofer-v65dv2-1",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CVP10S4",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/cvp-subwoofers",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega CVP Series Subwoofers'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/cvp-subwoofers",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XED12V2",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/xed-subwoofers",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega  -   XED Subwoofers'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/xed-subwoofers",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS122D",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/hed-series-subwoofers",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega HED Series Subwoofers'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hed-series-subwoofers",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAXS102",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/vmaxx-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'VMAXX High Performance Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmaxx-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ST104D",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/stroker-series-subwoofers",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega Stroker Series Subwoofers'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-series-subwoofers",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SPCL182",
+   "rms_w": null,
+   "url": "https://cerwinvega.com/products/stroker-pro-classic-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega Stroker Pro Classic Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/stroker-pro-classic-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H7124S",
+   "rms_w": 200,
+   "url": "https://cerwinvega.com/products/h7124s-1000w-max-10-svc-4ohm-200w-rms-power-handling",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil SVC 4 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H7124S 12\" HED Series Car Subwoofer 200W RMS 1200W MAX Single Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/h7124s-1000w-max-10-svc-4ohm-200w-rms-power-handling",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H7124D",
+   "rms_w": 250,
+   "url": "https://cerwinvega.com/products/h7124d-1200w-max-10-dvc-4ohm-250w-rms-power-handling",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H7124D 12\" HED Series Car Subwoofer 250W RMS 1400W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/h7124d-1200w-max-10-dvc-4ohm-250w-rms-power-handling",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H7104S",
+   "rms_w": 200,
+   "url": "https://cerwinvega.com/products/h7104s-10-single-4-ohm-hed-series-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil SVC 4 ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H7104S 10\" HED Subwoofer 200W RMS 1000W MAX Single Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/h7104s-10-single-4-ohm-hed-series-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H7104D",
+   "rms_w": 250,
+   "url": "https://cerwinvega.com/products/h7104d-1200w-max-10-svc-4o-250w-rms-power-handling",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega H7104D 10\" HED Car Subwoofer 250W RMS 1200W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/h7104d-1200w-max-10-svc-4o-250w-rms-power-handling",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V154DV2",
+   "rms_w": 550,
+   "url": "https://cerwinvega.com/products/v154dv2-15-inch-dual-4-ohm-high-performance-550watts",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak 1500 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V154DV2 15\" Vega Series Car Subwoofer 550W RMS 1500W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v154dv2-15-inch-dual-4-ohm-high-performance-550watts",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V152DV2",
+   "rms_w": 550,
+   "url": "https://cerwinvega.com/products/v152dv2-15-inch-dual-2-ohm-high-performance-550w",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak 1500 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V152DV2 15\" Vega Series Car Subwoofer 550W RMS 1500W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v152dv2-15-inch-dual-2-ohm-high-performance-550w",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "V102DV2",
+   "rms_w": 400,
+   "url": "https://cerwinvega.com/products/v102dv2-10-dual-2-ohm-1100w-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 1100 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega V102DV2 10\" Vega Series Car Subwoofer 400W RMS 1100W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1100,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/v102dv2-10-dual-2-ohm-1100w-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAXS124",
+   "rms_w": 400,
+   "url": "https://cerwinvega.com/products/vmaxs124-12-dual-4-ohm-high-performance",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAXS124 12\" VMAXX Series Shallow Car Subwoofer 400W RMS 800W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmaxs124-12-dual-4-ohm-high-performance",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAXS122",
+   "rms_w": 400,
+   "url": "https://cerwinvega.com/products/vmaxs122-12-dual-2-ohm-high-performance-shallow-series",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAXS122 12\" VMAXX Series Shallow Car Subwoofer 400W RMS 800W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmaxs122-12-dual-2-ohm-high-performance-shallow-series",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAXS104",
+   "rms_w": 300,
+   "url": "https://cerwinvega.com/products/vmaxs104-10-dual-4-ohm-shallow-series-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 600 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAXS104 10\" VMAXX Series Shallow Car Subwoofer 300W RMS 600W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmaxs104-10-dual-4-ohm-shallow-series-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX15D4",
+   "rms_w": 1500,
+   "url": "https://cerwinvega.com/products/vmax15d4-15-dual-4-ohm-high-performance-subwoofer-3000w",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak 3000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX15D4 15\" VMAXX Series Car Subwoofer 1500W RMS 3000W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 3000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax15d4-15-dual-4-ohm-high-performance-subwoofer-3000w",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX15D2",
+   "rms_w": 1500,
+   "url": "https://cerwinvega.com/products/vmax15d2-15-dual-2-ohm-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak 3000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX15D2 15\" VMAXX Series Car Subwoofer 1500W RMS 3000W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 3000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax15d2-15-dual-2-ohm-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX12D4",
+   "rms_w": 1000,
+   "url": "https://cerwinvega.com/products/vmax12d4-12-dual-4-ohm-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX12D4 12\" VMAXX Series Car Subwoofer 1000W RMS 2000W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax12d4-12-dual-4-ohm-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX12D2",
+   "rms_w": 1000,
+   "url": "https://cerwinvega.com/products/vmax12d2-12-dual-2-ohm-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX12D2 12\" VMAXX Series Car Subwoofer 1000W RMS 2000W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax12d2-12-dual-2-ohm-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX10D4",
+   "rms_w": 800,
+   "url": "https://cerwinvega.com/products/vmax10d4-10-dual-4-ohm-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX10D4 10\" VMAXX Series Car Subwoofer 800W RMS 1600W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax10d4-10-dual-4-ohm-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX10D2",
+   "rms_w": 800,
+   "url": "https://cerwinvega.com/products/vmax10d2-10-dual-2-ohm-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX10D2 10\" VMAXX Series Car Subwoofer 800W RMS 1600W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax10d2-10-dual-2-ohm-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX8D4",
+   "rms_w": 500,
+   "url": "https://cerwinvega.com/products/vmax8d4-8-dual-4-ohm-high-performance-subwoofer-1000w-max",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX8D4 8\" VMAXX Series Car Subwoofer 500W RMS 1000W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax8d4-8-dual-4-ohm-high-performance-subwoofer-1000w-max",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX8D2",
+   "rms_w": 500,
+   "url": "https://cerwinvega.com/products/vmax8d2-8-dual-2-ohm-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 2 ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX8D2 8\" VMAXX Series Car Subwoofer 500W RMS 1000W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax8d2-8-dual-2-ohm-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX65D4",
+   "rms_w": 200,
+   "url": "https://cerwinvega.com/products/vmax65d4-6-5-4-ohm-high-performance-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6.5 in, coil DVC 4 ohm, peak 400 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX65D4 6.5\" VMAXX Series Car Subwoofer 200W RMS 400W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax65d4-6-5-4-ohm-high-performance-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VMAX65D2",
+   "rms_w": 200,
+   "url": "https://cerwinvega.com/products/vmax65d2-6-5-2-ohm-400w-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6.5 in, coil DVC 2 ohm, peak 400 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega VMAX65D2 6.5\" VMAXX Series Car Subwoofer 200W RMS 400W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/vmax65d2-6-5-2-ohm-400w-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ST124D",
+   "rms_w": 1000,
+   "url": "https://cerwinvega.com/products/st124d-stroker-2000-watts-4-ohms-1000watts-rms",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega ST124D 12\" Stroker Series Car Subwoofer 1000W RMS 2000W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/st124d-stroker-2000-watts-4-ohms-1000watts-rms",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ST102D",
+   "rms_w": 1000,
+   "url": "https://cerwinvega.com/products/st102d-stroker-1600-watts-2-ohms-800watts-rms-power",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega ST102D 10\" Stroker Series Car Subwoofer 1000W RMS 2000W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/st102d-stroker-1600-watts-2-ohms-800watts-rms-power",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SPCL152",
+   "rms_w": 1200,
+   "url": "https://cerwinvega.com/products/spcl152-stroker-pro-classic-15-dual-2-ohm-spl-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak 2400 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega SPCL152 15″ Stroker Pro Classic SPL Subwoofer 1200W RMS 2400W MAX Single Voice Coil  (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 2400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/spcl152-stroker-pro-classic-15-dual-2-ohm-spl-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HS102D",
+   "rms_w": 200,
+   "url": "https://cerwinvega.com/products/hs102d-hed-dvc-shallow-subwoofer-10-2-ohm-black",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega HS102D 10\" Shallow Car Subwoofer 200W RMS 800W MAX Dual Voice Coil (2Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/hs102d-hed-dvc-shallow-subwoofer-10-2-ohm-black",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XED10V2",
+   "rms_w": 125,
+   "url": "https://cerwinvega.com/products/xed10v2-10-single-4-ohm-xtreme-energy-design-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil SVC 4 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega XED10V2 10” XED Series Car Subwoofer 125W RMS 800W MAX Single Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/xed10v2-10-single-4-ohm-xtreme-energy-design-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CVP10D4",
+   "rms_w": 150,
+   "url": "https://cerwinvega.com/products/cvp104-10-dual-4-ohm-150w-rms-300w-max-power-handling",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 450 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega CVP10D4 10\" CVP Series Car Subwoofer 150W RMS 450W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 450,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/cvp104-10-dual-4-ohm-150w-rms-300w-max-power-handling",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CVP12S4",
+   "rms_w": 200,
+   "url": "https://cerwinvega.com/products/cvp12s4-12-150w-rms-300-w-max-power-handling-4-ohms",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil SVC 4 ohm, peak 550 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega CVP12S4 12\" CVP Series Car Subwoofer 200W RMS 550W MAX Single Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 550,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/cvp12s4-12-150w-rms-300-w-max-power-handling-4-ohms",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CVP12D4",
+   "rms_w": 200,
+   "url": "https://cerwinvega.com/products/cvp12d4-12-150w-rms-300-w-max-power-handling-4-ohms",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 550 W, mounting depth None mm, cut-out None mm. Product title: 'Cerwin Vega CVP12D4 12\" CVP Series Car Subwoofer 200W RMS 550W MAX Dual Voice Coil (4Ω)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 550,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cerwinvega.com/products/cvp12d4-12-150w-rms-300-w-max-power-handling-4-ohms",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

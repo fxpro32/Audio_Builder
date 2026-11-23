@@ -1,0 +1,4261 @@
+{
+ "brand": "Massive Audio",
+ "country": "USA",
+ "brand_url": "https://www.massiveaudio.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store; public /products.json read once; user-guide PDFs on cdn.shopify.com read once each, 5 s apart. Product pages carry a purchase 'Terms and Conditions' (warranty exclusion), no clause on reading found. Guides are image PDFs: values transcribed by eye.",
+ "coverage": "every car subwoofer product in the store listing; products whose description has no T/S table are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/massive-audio.json",
+ "drivers": [
+  {
+   "model": "H122XR",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 2,
+    "qms": 2.424,
+    "qes": 0.697,
+    "qts": 0.541,
+    "vas_l": 14.533,
+    "sd_cm2": 530,
+    "xmax_mm": 21,
+    "mms_g": 377.339,
+    "bl_tm": 17.1,
+    "le_mh": 0.802,
+    "spl_db_1w1m": 84.18,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 225.3,
+   "cutout_mm": 281.04,
+   "displacement_l": 4.53,
+   "recommended_boxes": [
+    {
+     "type": "ported (small)",
+     "volume_l": 45.31,
+     "tuning_hz": 29.2,
+     "source": "maker user guide p.1",
+     "note": "published as 1.6 cu ft"
+    },
+    {
+     "type": "ported (large)",
+     "volume_l": 67.96,
+     "tuning_hz": 26.2,
+     "source": "maker user guide p.1",
+     "note": "published as 2.4 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H122XR-H124XR-H152XR_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h122xr-12-3000-watts-rms-dual-2-ohm-3-v-c-mega-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Xmech 42 mm. Ported boxes from p.1 (small 1.6 cu ft Fb 29.2 Hz, large 2.4 cu ft Fb 26.2 Hz). The product page (2026-11-21) repeats Fs 43, Qms 2.424, Vas 14.533 and says web values supersede the manual. Converted from imperial as published: displacement 0.16 cu ft.",
+   "params_parallel": {
+    "fs_hz": 43,
+    "re_ohm": 1,
+    "qms": 2.424,
+    "qes": 0.382,
+    "qts": 0.33,
+    "vas_l": 14.533,
+    "sd_cm2": 530,
+    "xmax_mm": 21,
+    "mms_g": 377.339,
+    "bl_tm": 16.265,
+    "le_mh": 0.788,
+    "spl_db_1w1m": 86.8,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 43,
+    "re_ohm": 4,
+    "qms": 2.424,
+    "qes": 0.374,
+    "qts": 0.324,
+    "vas_l": 14.533,
+    "sd_cm2": 530,
+    "xmax_mm": 21,
+    "mms_g": 377.339,
+    "bl_tm": 33.02,
+    "le_mh": 3.923,
+    "spl_db_1w1m": 86.89,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H124XR",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 43.087,
+    "re_ohm": 3.2,
+    "qms": 3.119,
+    "qes": 0.942,
+    "qts": 0.724,
+    "vas_l": 16.841,
+    "sd_cm2": 530,
+    "xmax_mm": 21.6,
+    "mms_g": 324.295,
+    "bl_tm": 17.27,
+    "le_mh": 1.069,
+    "spl_db_1w1m": 83.54,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 225.3,
+   "cutout_mm": 281.04,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H122XR-H124XR-H152XR_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h124xr-12-3000-watts-rms-dual-4-ohm-4-v-c-mega-70-lbs-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Dual 4 ohm: parallel gives 2 ohm (meets the 2 ohm criterion). Xmech 43.2 mm. DATA PROBLEM: parallel Bl equals the individual Bl (17.27) while H122XR/H152XR show the expected small drop; series Bl 33.86 is about 2x as expected.",
+   "params_parallel": {
+    "fs_hz": 43.087,
+    "re_ohm": 1.6,
+    "qms": 3.119,
+    "qes": 0.471,
+    "qts": 0.402,
+    "vas_l": 16.841,
+    "sd_cm2": 530,
+    "xmax_mm": 21.6,
+    "mms_g": 324.295,
+    "bl_tm": 17.27,
+    "le_mh": 1.076,
+    "spl_db_1w1m": 86.55,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 43.087,
+    "re_ohm": 6.4,
+    "qms": 3.119,
+    "qes": 0.49,
+    "qts": 0.422,
+    "vas_l": 16.841,
+    "sd_cm2": 530,
+    "xmax_mm": 21.6,
+    "mms_g": 324.295,
+    "bl_tm": 33.86,
+    "le_mh": 5.434,
+    "spl_db_1w1m": 86.38,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H152XR",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 41.279,
+    "re_ohm": 2,
+    "qms": 2.882,
+    "qes": 0.864,
+    "qts": 0.664,
+    "vas_l": 45.207,
+    "sd_cm2": 834,
+    "xmax_mm": 21,
+    "mms_g": 325.33,
+    "bl_tm": 13.972,
+    "le_mh": 0.786,
+    "spl_db_1w1m": 87.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 353.1,
+   "displacement_l": 6.51,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H122XR-H124XR-H152XR_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h152xr-15-3000-watts-rms-dual-2-ohm-4-v-c-mega-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Xmech printed 24.1 mm (barely above Xmax 21; possible typo). Mounting depth 10 in and cutout 13.9 in from p.1 text block (order of values as printed: depth, mounting diameter 15.5 in, cutout, weight, displacement 0.23 cu ft); check. Converted from imperial as published: mounting depth 10 in, cut-out 13.9 in, displacement 0.23 cu ft.",
+   "params_parallel": {
+    "fs_hz": 41.279,
+    "re_ohm": 1,
+    "qms": 2.882,
+    "qes": 0.445,
+    "qts": 0.379,
+    "vas_l": 45.207,
+    "sd_cm2": 834,
+    "xmax_mm": 21,
+    "mms_g": 325.33,
+    "bl_tm": 13.77,
+    "le_mh": 0.777,
+    "spl_db_1w1m": 90.58,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 41.279,
+    "re_ohm": 4,
+    "qms": 2.882,
+    "qes": 0.456,
+    "qts": 0.391,
+    "vas_l": 45.207,
+    "sd_cm2": 834,
+    "xmax_mm": 21,
+    "mms_g": 325.33,
+    "bl_tm": 27.2,
+    "le_mh": 3.775,
+    "spl_db_1w1m": 90.47,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H104X",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 49.682,
+    "re_ohm": 3.2,
+    "qms": 3.722,
+    "qes": 1.17,
+    "qts": 0.89,
+    "vas_l": 5.713,
+    "sd_cm2": 366.44,
+    "xmax_mm": 20.5,
+    "mms_g": 342.519,
+    "bl_tm": 17.099,
+    "le_mh": 0.87,
+    "spl_db_1w1m": 79.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H104X-H124-H124X-H122X-H152X-H154X-_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h104x-10-2000-watts-rms-dual-4-ohm-3-v-c-mega-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed '366.44' with unit sq.m (evidently cm2; entered as 366.44 cm2, not x10000). Dual 4 ohm: parallel gives 2 ohm. Xmech 23.6 mm.",
+   "params_parallel": {
+    "fs_hz": 49.682,
+    "re_ohm": 1.6,
+    "qms": 3.722,
+    "qes": 0.599,
+    "qts": 0.506,
+    "vas_l": 5.713,
+    "sd_cm2": 366.44,
+    "xmax_mm": 20.5,
+    "mms_g": 342.519,
+    "bl_tm": 16.89,
+    "le_mh": 0.86,
+    "spl_db_1w1m": 82.7,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 49.682,
+    "re_ohm": 6.4,
+    "qms": 3.722,
+    "qes": 0.614,
+    "qts": 0.524,
+    "vas_l": 5.713,
+    "sd_cm2": 366.44,
+    "xmax_mm": 20.5,
+    "mms_g": 342.519,
+    "bl_tm": 33.38,
+    "le_mh": 4.004,
+    "spl_db_1w1m": 82.6,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H124X",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.2,
+    "qms": 2.481,
+    "qes": 0.878,
+    "qts": 0.648,
+    "vas_l": 23.875,
+    "sd_cm2": 530,
+    "xmax_mm": 20.5,
+    "mms_g": 236.1,
+    "bl_tm": 15.15,
+    "le_mh": 1.027,
+    "spl_db_1w1m": 85.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H104X-H124-H124X-H122X-H152X-H154X-_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h124x-2000-watts-3-v-c-mega-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Dual 4 ohm: parallel gives 2 ohm. Xmech 23.6 mm.",
+   "params_parallel": {
+    "fs_hz": 38,
+    "re_ohm": 1.6,
+    "qms": 2.481,
+    "qes": 0.43,
+    "qts": 0.365,
+    "vas_l": 23.875,
+    "sd_cm2": 530,
+    "xmax_mm": 20.5,
+    "mms_g": 236.1,
+    "bl_tm": 15.32,
+    "le_mh": 1.015,
+    "spl_db_1w1m": 88.3,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 38,
+    "re_ohm": 6.4,
+    "qms": 2.481,
+    "qes": 0.49,
+    "qts": 0.407,
+    "vas_l": 23.875,
+    "sd_cm2": 530,
+    "xmax_mm": 20.5,
+    "mms_g": 236.1,
+    "bl_tm": 28.7,
+    "le_mh": 4.984,
+    "spl_db_1w1m": 87.8,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H122X",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 1.8,
+    "qms": 2.309,
+    "qes": 0.687,
+    "qts": 0.53,
+    "vas_l": 20.642,
+    "sd_cm2": 530,
+    "xmax_mm": 20.5,
+    "mms_g": 284,
+    "bl_tm": 13.95,
+    "le_mh": 0.685,
+    "spl_db_1w1m": 85.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H104X-H124-H124X-H122X-H152X-H154X-_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h122x-12-2000-watts-rms-dual-2-ohm-3-v-c-mega-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Xmech 23.5 mm.",
+   "params_parallel": {
+    "fs_hz": 38,
+    "re_ohm": 0.9,
+    "qms": 2.309,
+    "qes": 0.389,
+    "qts": 0.334,
+    "vas_l": 20.642,
+    "sd_cm2": 530,
+    "xmax_mm": 20.5,
+    "mms_g": 284,
+    "bl_tm": 13.02,
+    "le_mh": 0.683,
+    "spl_db_1w1m": 87.8,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 38,
+    "re_ohm": 3.6,
+    "qms": 2.309,
+    "qes": 0.424,
+    "qts": 0.35,
+    "vas_l": 20.642,
+    "sd_cm2": 530,
+    "xmax_mm": 20.5,
+    "mms_g": 284,
+    "bl_tm": 25.18,
+    "le_mh": 3.382,
+    "spl_db_1w1m": 87.4,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H152X",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 39.585,
+    "re_ohm": 1.8,
+    "qms": 2.211,
+    "qes": 1.013,
+    "qts": 0.695,
+    "vas_l": 51.098,
+    "sd_cm2": 835,
+    "xmax_mm": 20,
+    "mms_g": 312.976,
+    "bl_tm": 11.76,
+    "le_mh": 0.609,
+    "spl_db_1w1m": 86.94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H104X-H124-H124X-H122X-H152X-H154X-_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h152x-15-2000-watts-rms-dual-2-ohm-3-v-c-mega-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Xmech 40 mm. Product page repeats Fs 39.5, Qms 2.211, Vas 51.098 L, Mms 312.97 g.",
+   "params_parallel": {
+    "fs_hz": 39.585,
+    "re_ohm": 0.9,
+    "qms": 2.211,
+    "qes": 0.497,
+    "qts": 0.398,
+    "vas_l": 51.098,
+    "sd_cm2": 835,
+    "xmax_mm": 20,
+    "mms_g": 312.976,
+    "bl_tm": 11.87,
+    "le_mh": 0.603,
+    "spl_db_1w1m": 90.04,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 39.585,
+    "re_ohm": 3.6,
+    "qms": 2.211,
+    "qes": 0.599,
+    "qts": 0.484,
+    "vas_l": 51.098,
+    "sd_cm2": 835,
+    "xmax_mm": 20,
+    "mms_g": 312.976,
+    "bl_tm": 21.63,
+    "le_mh": 4.373,
+    "spl_db_1w1m": 88.84,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "H154X",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 37.323,
+    "re_ohm": 3.2,
+    "qms": 2.154,
+    "qes": 1.107,
+    "qts": 0.731,
+    "vas_l": 60.456,
+    "sd_cm2": 834,
+    "xmax_mm": 20.5,
+    "mms_g": 297.571,
+    "bl_tm": 14.2,
+    "le_mh": 0.939,
+    "spl_db_1w1m": 86.52,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPO_H104X-H124-H124X-H122X-H152X-H154X-_manual.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/h154x-15-2000-watts-rms-dual-4-ohm-3-v-c-mega-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Dual 4 ohm: parallel gives 2 ohm. Xmech 41 mm. Series Le 4.373 mH is identical to H152X series Le (possible copy).",
+   "params_parallel": {
+    "fs_hz": 37.323,
+    "re_ohm": 1.6,
+    "qms": 2.154,
+    "qes": 0.615,
+    "qts": 0.49,
+    "vas_l": 60.456,
+    "sd_cm2": 834,
+    "xmax_mm": 20.5,
+    "mms_g": 297.571,
+    "bl_tm": 13.47,
+    "le_mh": 0.922,
+    "spl_db_1w1m": 89.07,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 37.323,
+    "re_ohm": 6.4,
+    "qms": 2.154,
+    "qes": 0.599,
+    "qts": 0.47,
+    "vas_l": 60.456,
+    "sd_cm2": 834,
+    "xmax_mm": 20.5,
+    "mms_g": 297.571,
+    "bl_tm": 27.3,
+    "le_mh": 4.373,
+    "spl_db_1w1m": 89.19,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA121",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 12000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 39,
+    "re_ohm": 0.9,
+    "qms": 7.08,
+    "qes": 1.06,
+    "qts": 0.92,
+    "vas_l": 11.8,
+    "sd_cm2": 450,
+    "xmax_mm": 25,
+    "mms_g": 401.2,
+    "bl_tm": 9.2,
+    "le_mh": 0.57,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 254.0,
+   "cutout_mm": 279.9,
+   "displacement_l": 6.57,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/BOA_SERIES_2021_MANUAL.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2 (T/S), 1 (dimensions)",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa151",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Xmech 62.5 mm. Sheet power per coil 3000 W ('Individual' Pe); 6000 W parallel/series. No product page matched BOA121 exactly; the BOA151 page (which links the same manual) is cited. Converted from imperial as published: mounting depth 10 in, cut-out 11.02 in, displacement 0.232 cu ft.",
+   "params_parallel": {
+    "fs_hz": 39,
+    "re_ohm": 0.5,
+    "qms": 7.08,
+    "qes": 0.62,
+    "qts": 0.57,
+    "vas_l": 11.8,
+    "sd_cm2": 450,
+    "xmax_mm": 25,
+    "mms_g": 401.2,
+    "bl_tm": 8.9,
+    "le_mh": 0.58,
+    "spl_db_1w1m": 88.5,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 39,
+    "re_ohm": 1.9,
+    "qms": 7.08,
+    "qes": 0.61,
+    "qts": 0.56,
+    "vas_l": 11.8,
+    "sd_cm2": 450,
+    "xmax_mm": 25,
+    "mms_g": 401.2,
+    "bl_tm": 17.6,
+    "le_mh": 0.59,
+    "spl_db_1w1m": 88.7,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA151",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 12000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 1,
+    "qms": 6.69,
+    "qes": 1.23,
+    "qts": 1.04,
+    "vas_l": 35.5,
+    "sd_cm2": 750,
+    "xmax_mm": 25,
+    "mms_g": 473.9,
+    "bl_tm": 9.2,
+    "le_mh": 0.57,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 286.0,
+   "cutout_mm": 357.1,
+   "displacement_l": 12.01,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/BOA_SERIES_2021_MANUAL.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2 (T/S), 1 (dimensions)",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa151",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Xmech 62.5 mm. Sheet power per coil 3000 W ('Individual' Pe); 6000 W parallel/series. Converted from imperial as published: mounting depth 11.26 in, cut-out 14.06 in, displacement 0.424 cu ft.",
+   "params_parallel": {
+    "fs_hz": 34,
+    "re_ohm": 0.5,
+    "qms": 6.69,
+    "qes": 0.64,
+    "qts": 0.59,
+    "vas_l": 35.5,
+    "sd_cm2": 750,
+    "xmax_mm": 25,
+    "mms_g": 473.9,
+    "bl_tm": 9.4,
+    "le_mh": 0.58,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 34,
+    "re_ohm": 2,
+    "qms": 6.69,
+    "qes": 0.67,
+    "qts": 0.62,
+    "vas_l": 35.5,
+    "sd_cm2": 750,
+    "xmax_mm": 25,
+    "mms_g": 473.9,
+    "bl_tm": 17.5,
+    "le_mh": 0.6,
+    "spl_db_1w1m": 89.5,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA181",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 12000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 1,
+    "qms": 8.471,
+    "qes": 0.39,
+    "qts": 0.373,
+    "vas_l": 89.54,
+    "sd_cm2": 1130,
+    "xmax_mm": 25,
+    "mms_g": 570,
+    "bl_tm": 16.6,
+    "le_mh": 0.57,
+    "spl_db_1w1m": 89.91,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 319.0,
+   "cutout_mm": 426.5,
+   "displacement_l": 8.78,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/BOA_SERIES_2021_MANUAL.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2 (T/S), 1 (dimensions)",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa181-18-inch-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Xmech 37.5 mm. DATA PROBLEM: BOA181 has much higher Bl (16.6 per coil) than BOA121/151 (9.2) with the same coil description; Vd 2.825 L vs 6.78 L for the 15 in (sheet as printed). Sheet power per coil 3000 W ('Individual' Pe); 6000 W parallel/series. Converted from imperial as published: mounting depth 12.56 in, cut-out 16.79 in, displacement 0.31 cu ft.",
+   "params_parallel": {
+    "fs_hz": 30,
+    "re_ohm": 0.5,
+    "qms": 8.471,
+    "qes": 0.18,
+    "qts": 0.176,
+    "vas_l": 89.54,
+    "sd_cm2": 1130,
+    "xmax_mm": 25,
+    "mms_g": 570,
+    "bl_tm": 17.29,
+    "le_mh": 0.58,
+    "spl_db_1w1m": 93.28,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 30,
+    "re_ohm": 2,
+    "qms": 8.471,
+    "qes": 0.215,
+    "qts": 0.21,
+    "vas_l": 89.54,
+    "sd_cm2": 1130,
+    "xmax_mm": 25,
+    "mms_g": 570,
+    "bl_tm": 31.59,
+    "le_mh": 0.6,
+    "spl_db_1w1m": 92.49,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA121N",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 12000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 56,
+    "re_ohm": 0.9,
+    "qms": 2.2,
+    "qes": 0.398,
+    "qts": 0.338,
+    "vas_l": 17,
+    "sd_cm2": 540,
+    "xmax_mm": 13,
+    "mms_g": 35.1,
+    "bl_tm": 17,
+    "le_mh": 0.39,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 273.1,
+   "cutout_mm": 281.9,
+   "displacement_l": 7.16,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/BOA_SERIES_2021_MANUAL.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2 (T/S), 1 (dimensions)",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa121-n-12-inch-6000-watts-1-ohm-mega-neodymium-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Neodymium. Xmech 46.5 mm. DATA PROBLEM: Mms printed 35.1 g is implausible for a 12 in high-power sub (likely 351 g). Sheet power per coil 3000 W ('Individual' Pe); 6000 W parallel/series. Converted from imperial as published: mounting depth 10.75 in, cut-out 11.1 in, displacement 0.253 cu ft.",
+   "params_parallel": {
+    "fs_hz": 56,
+    "re_ohm": 0.5,
+    "qms": 2.2,
+    "qes": 0.19,
+    "qts": 0.172,
+    "vas_l": 17,
+    "sd_cm2": 540,
+    "xmax_mm": 13,
+    "mms_g": 35.1,
+    "bl_tm": 18,
+    "le_mh": 0.39,
+    "spl_db_1w1m": 88.7,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 56,
+    "re_ohm": 1.9,
+    "qms": 2.2,
+    "qes": 0.202,
+    "qts": 0.204,
+    "vas_l": 17,
+    "sd_cm2": 540,
+    "xmax_mm": 13,
+    "mms_g": 35.1,
+    "bl_tm": 33,
+    "le_mh": 1.88,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA151N",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 12000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 1,
+    "qms": 2.1,
+    "qes": 0.39,
+    "qts": 0.33,
+    "vas_l": 25,
+    "sd_cm2": 750,
+    "xmax_mm": 13,
+    "mms_g": 529,
+    "bl_tm": 19.12,
+    "le_mh": 0.403,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 303.0,
+   "cutout_mm": 359.9,
+   "displacement_l": 12.94,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params",
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm",
+      "cutout_mm",
+      "displacement_l"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/BOA_SERIES_2021_MANUAL.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": "2 (T/S), 1 (dimensions)",
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa151-n-15-inch-car-subwoofer",
+     "doc": "product page (links the PDF)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet gives columns 'Individual' (one coil), 'Parallel' and 'Series': params = Individual; the other two are in params_parallel / params_series. Sd printed in sq.m, entered x10000 as cm2. Neodymium. Xmech 46.5 mm. Sheet power per coil 3000 W ('Individual' Pe); 6000 W parallel/series. Converted from imperial as published: mounting depth 11.93 in, cut-out 14.17 in, displacement 0.457 cu ft.",
+   "params_parallel": {
+    "fs_hz": 42,
+    "re_ohm": 0.5,
+    "qms": 2.1,
+    "qes": 0.195,
+    "qts": 0.176,
+    "vas_l": 25,
+    "sd_cm2": 750,
+    "xmax_mm": 13,
+    "mms_g": 529,
+    "bl_tm": 18.63,
+    "le_mh": 0.409,
+    "spl_db_1w1m": 92.6,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 42,
+    "re_ohm": 2,
+    "qms": 2.1,
+    "qes": 0.228,
+    "qts": 0.21,
+    "vas_l": 25,
+    "sd_cm2": 750,
+    "xmax_mm": 13,
+    "mms_g": 529,
+    "bl_tm": 34.81,
+    "le_mh": 1.988,
+    "spl_db_1w1m": 92,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPOXL102",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 3.6,
+    "qms": 5.62,
+    "qes": 0.561,
+    "qts": 0.51,
+    "vas_l": 7.74,
+    "sd_cm2": 360,
+    "xmax_mm": 17.5,
+    "mms_g": 263,
+    "bl_tm": 22.59,
+    "le_mh": 1.423,
+    "spl_db_1w1m": 83.83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params_parallel",
+      "params_series",
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPOXL_USER_GUIDE_2020_Combined.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "params = guide 'Series' column. Guide Parallel and Series columns in params_parallel / params_series (shared mechanical values copied into both). Sd printed in sq.m, entered x10000 as cm2. Guide 'Pe' row shows 1500 W while Watts RMS is 2000 W (sheet inconsistency). Xmech 26.25 mm.",
+   "params_parallel": {
+    "fs_hz": 48,
+    "re_ohm": 0.9,
+    "qms": 5.62,
+    "qes": 0.535,
+    "qts": 0.488,
+    "vas_l": 7.74,
+    "sd_cm2": 360,
+    "xmax_mm": 17.5,
+    "mms_g": 263,
+    "bl_tm": 11.59,
+    "le_mh": 0.4373,
+    "spl_db_1w1m": 84.03,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 48,
+    "re_ohm": 3.6,
+    "qms": 5.62,
+    "qes": 0.561,
+    "qts": 0.51,
+    "vas_l": 7.74,
+    "sd_cm2": 360,
+    "xmax_mm": 17.5,
+    "mms_g": 263,
+    "bl_tm": 22.59,
+    "le_mh": 1.423,
+    "spl_db_1w1m": 83.83,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPOXL104",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 52,
+    "re_ohm": 6.4,
+    "qms": 6.139,
+    "qes": 0.709,
+    "qts": 0.635,
+    "vas_l": 7.744,
+    "sd_cm2": 360,
+    "xmax_mm": 17.5,
+    "mms_g": 223.6,
+    "bl_tm": 25.68,
+    "le_mh": 1.883,
+    "spl_db_1w1m": 83.83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params_parallel",
+      "params_series",
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPOXL_USER_GUIDE_2020_Combined.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "params = guide 'Series' column. Guide Parallel and Series columns in params_parallel / params_series (shared mechanical values copied into both). Sd printed in sq.m, entered x10000 as cm2. Dual 4 ohm: parallel gives 2 ohm. Guide 'Pe' 1500 W vs 2000 W RMS. SPL rows identical to HIPPOXL102 (possible copy). Xmech 26.25 mm.",
+   "params_parallel": {
+    "fs_hz": 52,
+    "re_ohm": 1.6,
+    "qms": 6.139,
+    "qes": 0.708,
+    "qts": 0.635,
+    "vas_l": 7.744,
+    "sd_cm2": 360,
+    "xmax_mm": 17.5,
+    "mms_g": 223.6,
+    "bl_tm": 12.89,
+    "le_mh": 0.5969,
+    "spl_db_1w1m": 84.03,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 52,
+    "re_ohm": 6.4,
+    "qms": 6.139,
+    "qes": 0.709,
+    "qts": 0.635,
+    "vas_l": 7.744,
+    "sd_cm2": 360,
+    "xmax_mm": 17.5,
+    "mms_g": 223.6,
+    "bl_tm": 25.68,
+    "le_mh": 1.883,
+    "spl_db_1w1m": 83.83,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPOXL124",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 45.32,
+    "re_ohm": 6.4,
+    "qms": 5.468,
+    "qes": 0.506,
+    "qts": 0.464,
+    "vas_l": 14.621,
+    "sd_cm2": 530,
+    "xmax_mm": 17.5,
+    "mms_g": 332.165,
+    "bl_tm": 27.223,
+    "le_mh": 7.245,
+    "spl_db_1w1m": 86.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "unknown",
+   "sources": [
+    {
+     "fields": [
+      "params_parallel",
+      "params_series",
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPOXL_USER_GUIDE_2020_Combined.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "params = guide 'Series' column. Guide Parallel and Series columns in params_parallel / params_series (shared mechanical values copied into both). Sd printed in sq.m, entered x10000 as cm2. Dual 4 ohm: parallel gives 2 ohm. No product page found in the store listing for HIPPOXL124 (guide only; status unknown). Xmech 45 mm.",
+   "params_parallel": {
+    "fs_hz": 45.32,
+    "re_ohm": 1.6,
+    "qms": 5.468,
+    "qes": 0.587,
+    "qts": 0.481,
+    "vas_l": 14.621,
+    "sd_cm2": 530,
+    "xmax_mm": 17.5,
+    "mms_g": 332.165,
+    "bl_tm": 14.571,
+    "le_mh": 2.368,
+    "spl_db_1w1m": 86.3,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 45.32,
+    "re_ohm": 6.4,
+    "qms": 5.468,
+    "qes": 0.506,
+    "qts": 0.464,
+    "vas_l": 14.621,
+    "sd_cm2": 530,
+    "xmax_mm": 17.5,
+    "mms_g": 332.165,
+    "bl_tm": 27.223,
+    "le_mh": 7.245,
+    "spl_db_1w1m": 86.4,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPOXL122",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 44.71,
+    "re_ohm": 3.6,
+    "qms": 5.46,
+    "qes": 0.388,
+    "qts": 0.364,
+    "vas_l": 14.22,
+    "sd_cm2": 530,
+    "xmax_mm": 17.5,
+    "mms_g": 356.7,
+    "bl_tm": 30.49,
+    "le_mh": 9.8,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl122-12-inch-2000-watts-2-ohm-mega-subwoofer",
+     "doc": "product page T/S block (states web values supersede the manual)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPOXL_USER_GUIDE_2020_Combined.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "params = product-page values (Re equals the guide's series Re, so taken as series basis). Guide Parallel and Series columns in params_parallel / params_series (shared mechanical values copied into both). Sd printed in sq.m, entered x10000 as cm2. Guide and web differ (web Fs 44.71, Qms 5.46, Qes 0.388; guide series Fs 46.203, Qms 7.983, Qes 0.446).",
+   "params_parallel": {
+    "fs_hz": 46.203,
+    "re_ohm": 0.9,
+    "qms": 7.983,
+    "qes": 0.477,
+    "qts": 0.45,
+    "vas_l": 14.202,
+    "sd_cm2": 530,
+    "xmax_mm": 17.5,
+    "mms_g": 334.435,
+    "bl_tm": 14.958,
+    "le_mh": 1.683,
+    "spl_db_1w1m": 86.6,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 46.203,
+    "re_ohm": 3.6,
+    "qms": 7.983,
+    "qes": 0.446,
+    "qts": 0.45,
+    "vas_l": 14.202,
+    "sd_cm2": 530,
+    "xmax_mm": 17.5,
+    "mms_g": 334.435,
+    "bl_tm": 29.939,
+    "le_mh": 6.123,
+    "spl_db_1w1m": 86.8,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPOXL152",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 38.34,
+    "re_ohm": 3.6,
+    "qms": 5.15,
+    "qes": 0.8,
+    "qts": 0.511,
+    "vas_l": 31.25,
+    "sd_cm2": 804,
+    "xmax_mm": 17.5,
+    "mms_g": 506.7,
+    "bl_tm": 27.84,
+    "le_mh": 8.46,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl152-15-inch-2000-watts-2-ohm-mega-subwoofer",
+     "doc": "product page T/S block (states web values supersede the manual)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPOXL_USER_GUIDE_2020_Combined.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "params = product-page values (Re equals the guide's series Re, so taken as series basis). Guide Parallel and Series columns in params_parallel / params_series (shared mechanical values copied into both). Sd printed in sq.m, entered x10000 as cm2. DATA PROBLEM: web Qts 0.511 contradicts web Qms 5.15 / Qes 0.8 (calculated 0.692). Web Fs 38.34 vs guide 43.089.",
+   "params_parallel": {
+    "fs_hz": 43.089,
+    "re_ohm": 0.9,
+    "qms": 4.437,
+    "qes": 0.428,
+    "qts": 0.391,
+    "vas_l": 30.194,
+    "sd_cm2": 804,
+    "xmax_mm": 17.5,
+    "mms_g": 480.854,
+    "bl_tm": 17.423,
+    "le_mh": 1.741,
+    "spl_db_1w1m": 88.6,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 43.089,
+    "re_ohm": 3.6,
+    "qms": 4.437,
+    "qes": 0.749,
+    "qts": 0.672,
+    "vas_l": 30.194,
+    "sd_cm2": 804,
+    "xmax_mm": 17.5,
+    "mms_g": 480.854,
+    "bl_tm": 26.368,
+    "le_mh": 7.246,
+    "spl_db_1w1m": 88.8,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPOXL122R",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 45.32,
+    "re_ohm": 6.4,
+    "qms": 5.46,
+    "qes": 0.507,
+    "qts": 0.46,
+    "vas_l": 14.62,
+    "sd_cm2": 530,
+    "xmax_mm": 22,
+    "mms_g": 332.2,
+    "bl_tm": 34.55,
+    "le_mh": 7.24,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl122r-12-3000-watts-4-v-c-mega-subwoofer",
+     "doc": "product page T/S block (states web values supersede the manual)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params_parallel",
+      "params_series",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPOXL_USER_GUIDE_2020_Combined.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "params = product-page values (Re equals the guide's series Re, so taken as series basis). Guide Parallel and Series columns in params_parallel / params_series (shared mechanical values copied into both). Sd printed in sq.m, entered x10000 as cm2. DATA PROBLEM: web block prints Re 6.4 ohm for this Dual 2 ohm model (guide series Re 3.6); web Re kept as printed. Xmech 35 mm.",
+   "params_parallel": {
+    "fs_hz": 44.712,
+    "re_ohm": 0.9,
+    "qms": 5.968,
+    "qes": 0.424,
+    "qts": 0.397,
+    "vas_l": 14.218,
+    "sd_cm2": 530,
+    "xmax_mm": 22,
+    "mms_g": 356.707,
+    "bl_tm": 14.693,
+    "le_mh": 5.572,
+    "spl_db_1w1m": 86.1,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 44.712,
+    "re_ohm": 3.6,
+    "qms": 5.968,
+    "qes": 0.388,
+    "qts": 0.364,
+    "vas_l": 14.218,
+    "sd_cm2": 530,
+    "xmax_mm": 22,
+    "mms_g": 356.707,
+    "bl_tm": 30.493,
+    "le_mh": 9.876,
+    "spl_db_1w1m": 86.3,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPOXL152R",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 41.068,
+    "re_ohm": 3.6,
+    "qms": 5.15,
+    "qes": 0.567,
+    "qts": 0.398,
+    "vas_l": 31.246,
+    "sd_cm2": 804,
+    "xmax_mm": 22,
+    "mms_g": 506.721,
+    "bl_tm": 31.563,
+    "le_mh": 8.46,
+    "spl_db_1w1m": 82.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "params_parallel",
+      "params_series",
+      "params",
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/HIPPOXL_USER_GUIDE_2020_Combined.pdf",
+     "doc": "maker user guide PDF (image), Specifications",
+     "page": 3,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "params = guide 'Series' column. Guide Parallel and Series columns in params_parallel / params_series (shared mechanical values copied into both). Sd printed in sq.m, entered x10000 as cm2. DATA PROBLEM: series Qts 0.398 contradicts Qms 5.150 / Qes 0.567 (calculated 0.511); Xmech printed 356 mm (typo). No T/S on the product page.",
+   "params_parallel": {
+    "fs_hz": 41.068,
+    "re_ohm": 0.9,
+    "qms": 5.15,
+    "qes": 0.417,
+    "qts": 0.393,
+    "vas_l": 31.246,
+    "sd_cm2": 804,
+    "xmax_mm": 22,
+    "mms_g": 506.721,
+    "bl_tm": 15.608,
+    "le_mh": 5.46,
+    "spl_db_1w1m": 86.8,
+    "spl_db_2v83": null
+   },
+   "params_series": {
+    "fs_hz": 41.068,
+    "re_ohm": 3.6,
+    "qms": 5.15,
+    "qes": 0.567,
+    "qts": 0.398,
+    "vas_l": 31.246,
+    "sd_cm2": 804,
+    "xmax_mm": 22,
+    "mms_g": 506.721,
+    "bl_tm": 31.563,
+    "le_mh": 8.46,
+    "spl_db_1w1m": 82.0,
+    "spl_db_2v83": null
+   },
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "REV124",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 38.191,
+    "re_ohm": 6.8,
+    "qms": 4.194,
+    "qes": 0.707,
+    "qts": 0.605,
+    "vas_l": 23.256,
+    "sd_cm2": 494.8,
+    "xmax_mm": 15,
+    "mms_g": 259.625,
+    "bl_tm": 24.474,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/rev124-12-1200-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/REV_SERIES_User_Manual.pdf",
+     "doc": "maker manual PDF p.2 (text layer)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Ported Tuning: 46Hz (as printed, not converted). T/S from the maker manual text (REV_SERIES_User_Manual.pdf p.2), double-checked: printed Qts 0.605 vs Qms*Qes/(Qms+Qes) 0.605. Series column (parallel: Fs 38.976, Re 1.7, Qes 0.71, Qts 0.602, Bl 12.791). Sd printed 0.049481 m2. Factory-reported sensitivity 84.5 dB (not entered). Cms 66.891 um/N, Xmech 18.5 mm.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "REV84",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 47.118,
+    "re_ohm": 6.8,
+    "qms": 4.987,
+    "qes": 0.769,
+    "qts": 0.667,
+    "vas_l": 4.905,
+    "sd_cm2": 206.1,
+    "xmax_mm": 12.5,
+    "mms_g": 140.329,
+    "bl_tm": 19.161,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/rev84-8-800-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/REV_SERIES_User_Manual.pdf",
+     "doc": "maker manual PDF p.2 (text layer)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Ported Tuning: 54Hz (as printed, not converted). T/S from the maker manual text (REV_SERIES_User_Manual.pdf p.2), double-checked: printed Qts 0.667 vs Qms*Qes/(Qms+Qes) 0.666. Series column (parallel: Fs 46.999, Re 1.7, Qes 0.729, Qts 0.625, Bl 9.886). Sd printed 0.020612 m2. Factory-reported sensitivity 80.1 dB (stimulus not confirmed by the maker, not entered). Cms 81.304 um/N, Xmech 17.5 mm.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H84XX",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 1.7,
+    "qms": 2.369,
+    "qes": 0.87,
+    "qts": 0.63,
+    "vas_l": 5.12,
+    "sd_cm2": 213,
+    "xmax_mm": 15,
+    "mms_g": 138,
+    "bl_tm": 9.02,
+    "le_mh": 0.436,
+    "spl_db_1w1m": 80.17,
+    "spl_db_2v83": 86.9
+   },
+   "mounting_depth_mm": 173.0,
+   "cutout_mm": 182.9,
+   "displacement_l": 1.7,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/h84xx-8-1500-watts-rms-dual-4-ohm-2-8-v-c-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Sensitivity rows say 'parallel wiring'; the T/S basis is not stated (Re suggests parallel where Re is about half the coil impedance; inference). Sealed Enclosure Volume: 1.2–1.8 ft³ (as printed, not converted). Ported Enclosure Volume: 1.57–2.34 ft³ (as printed, not converted). Ported Tuning: 32.9 Hz at 1.57 ft³ / 28.2 Hz at 2.34 ft³ (as printed, not converted). Converted from imperial as published: mounting depth 6.81 in, cut-out 7.2 in, displacement 0.06 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "UFO12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 33.2,
+    "re_ohm": 6.8,
+    "qms": 5.18,
+    "qes": 0.89,
+    "qts": 0.73,
+    "vas_l": 31.3,
+    "sd_cm2": 471,
+    "xmax_mm": 8,
+    "mms_g": 217.2,
+    "bl_tm": 18.5,
+    "le_mh": 2.17,
+    "spl_db_1w1m": 83.0,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/ufo12-600w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/ufo-series-manual.pdf",
+     "doc": "maker manual PDF p.1 (text layer)",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S from the maker manual text (ufo-series-manual.pdf p.1), double-checked: printed Qts 0.73 vs Qms*Qes/(Qms+Qes) 0.760. Series column (parallel: Re 1.7, Qes 0.91, Qts 0.77, Bl 9.2; single coil: Re 3.4, Qes 1.62, Qts 1.18). Sd printed 0.0471 m2. Cms printed '0.11 um/N'.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "UFO10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 35.9,
+    "re_ohm": 6.8,
+    "qms": 5.64,
+    "qes": 1.16,
+    "qts": 0.96,
+    "vas_l": 20.1,
+    "sd_cm2": 330,
+    "xmax_mm": 8,
+    "mms_g": 149.2,
+    "bl_tm": 13.7,
+    "le_mh": 2.33,
+    "spl_db_1w1m": 81.0,
+    "spl_db_2v83": 86
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/ufo10-600w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/ufo-series-manual.pdf",
+     "doc": "maker manual PDF p.1 (text layer)",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S from the maker manual text (ufo-series-manual.pdf p.1), double-checked: printed Qts 0.96 vs Qms*Qes/(Qms+Qes) 0.962. Series column (parallel: Re 1.7, Qes 1.12, Qts 0.93, Bl 7.1; single coil: Re 3.4, Qes 2.24, Qts 1.56). Sd printed 0.0330 m2. Cms printed '0.13 um/N' (unit as printed). SPL@2.83V/1m 86 dB is the shared top-table figure.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H82XX",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47,
+    "re_ohm": 0.95,
+    "qms": 2.437,
+    "qes": 1.034,
+    "qts": 0.726,
+    "vas_l": 7.299,
+    "sd_cm2": 213,
+    "xmax_mm": 15,
+    "mms_g": 100.187,
+    "bl_tm": 5.238,
+    "le_mh": 0.228,
+    "spl_db_1w1m": 80.8,
+    "spl_db_2v83": 90.1
+   },
+   "mounting_depth_mm": 173.0,
+   "cutout_mm": 182.9,
+   "displacement_l": 1.7,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/h82xx-8-1500-watts-rms-dual-2-ohm-2-8-v-c-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Sensitivity rows say 'parallel wiring'; the T/S basis is not stated (Re suggests parallel where Re is about half the coil impedance; inference). Sealed Enclosure Volume: 1.2–1.8 ft³ (as printed, not converted). Ported Enclosure Volume: 1.57–2.34 ft³ (as printed, not converted). Ported Tuning: 32.9 Hz at 1.57 ft³ / 28.2 Hz at 2.34 ft³ (as printed, not converted). Converted from imperial as published: mounting depth 6.81 in, cut-out 7.2 in, displacement 0.06 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H84",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 1.75,
+    "qms": 4.817,
+    "qes": 0.705,
+    "qts": 0.609,
+    "vas_l": 2.363,
+    "sd_cm2": 211,
+    "xmax_mm": 11,
+    "mms_g": 199,
+    "bl_tm": 13.3,
+    "le_mh": 0.675,
+    "spl_db_1w1m": 79.92,
+    "spl_db_2v83": 86.52
+   },
+   "mounting_depth_mm": 138.2,
+   "cutout_mm": 182.9,
+   "displacement_l": 1.13,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/h84-8-600-watts-rms-dual-4-ohm-2-5-v-c-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Sensitivity rows say 'parallel wiring'; the T/S basis is not stated (Re suggests parallel where Re is about half the coil impedance; inference). Sealed Enclosure Volume: 0.36–0.80 ft³ (as printed, not converted). Ported Enclosure Volume: 0.55–0.91 ft³ (as printed, not converted). Ported Tuning: 30 Hz at 0.55 ft³ / 25 Hz at 0.91 ft³ (as printed, not converted). Converted from imperial as published: mounting depth 5.44 in, cut-out 7.2 in, displacement 0.04 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTS12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31.74,
+    "re_ohm": 6.8,
+    "qms": 2.628,
+    "qes": 1.088,
+    "qts": 0.769,
+    "vas_l": 43.266,
+    "sd_cm2": 470,
+    "xmax_mm": 9,
+    "mms_g": 183.41,
+    "bl_tm": 15.18,
+    "le_mh": 1.98,
+    "spl_db_1w1m": 83.03,
+    "spl_db_2v83": 83.68
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gts124-12-1000-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/GTS8-GTS10-GTS12-manual.pdf",
+     "doc": "maker manual PDF p.2 (image only): T/S READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (GTS8-GTS10-GTS12-manual.pdf p.2), double-checked: printed Qts 0.769 vs Qms*Qes/(Qms+Qes) 0.769. Series column (parallel: Qes 0.754, Re 1.7, Bl 9.08, Qts 0.586). Sd printed 0.047 m2. Manual p.1: depth 3.24 in, cut-out 10.57 in, displacement 0.08 cu ft; RMS 320-370 W, peak 600 W.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTS10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 40.46,
+    "re_ohm": 6.8,
+    "qms": 1.344,
+    "qes": 1.25,
+    "qts": 0.648,
+    "vas_l": 21.45,
+    "sd_cm2": 330,
+    "xmax_mm": 8,
+    "mms_g": 113,
+    "bl_tm": 12.47,
+    "le_mh": 1.893,
+    "spl_db_1w1m": 82.5,
+    "spl_db_2v83": 83.2
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gts104-10-1000-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/GTS8-GTS10-GTS12-manual.pdf",
+     "doc": "maker manual PDF p.2 (image only): T/S READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (GTS8-GTS10-GTS12-manual.pdf p.2), double-checked: printed Qts 0.648 vs Qms*Qes/(Qms+Qes) 0.648. Series column (parallel: Qes 0.588, Re 1.7, Bl printed 90.8 (sic), Qts 0.408). Qms 1.344 as printed (unusually low). Sd printed 0.033 m2. Manual p.1: depth 3.08 in, cut-out 9.13 in, displacement 0.06 cu ft; RMS 250-400 W, peak 600 W.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTS8",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 250,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 55.4,
+    "re_ohm": 6.8,
+    "qms": 4.661,
+    "qes": 1.201,
+    "qts": 0.95,
+    "vas_l": 8.638,
+    "sd_cm2": 213.8,
+    "xmax_mm": 7,
+    "mms_g": 61.898,
+    "bl_tm": 11.05,
+    "le_mh": 1.681,
+    "spl_db_1w1m": 82.8,
+    "spl_db_2v83": 83.5
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gts84-8-600-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/GTS8-GTS10-GTS12-manual.pdf",
+     "doc": "maker manual PDF p.2 (image only): T/S READ FROM IMAGE",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (GTS8-GTS10-GTS12-manual.pdf p.2), double-checked: printed Qts 0.95 vs Qms*Qes/(Qms+Qes) 0.955. Series column (parallel: Qes 1.138, Re 1.7, Bl 5.676, Qts 0.918). Sd printed 0.02138 m2. Manual p.1: mounting depth 2.84 in, cut-out 7.2 in, displacement 0.02 cu ft; RMS printed as a range 180-220 W, peak 400 W.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H84XR",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 1.7,
+    "qms": 2.037,
+    "qes": 0.576,
+    "qts": 0.457,
+    "vas_l": 4.47,
+    "sd_cm2": 211,
+    "xmax_mm": 14,
+    "mms_g": 113,
+    "bl_tm": 10.78,
+    "le_mh": 0.909,
+    "spl_db_1w1m": 83.4,
+    "spl_db_2v83": 90.1
+   },
+   "mounting_depth_mm": 149.9,
+   "cutout_mm": 182.9,
+   "displacement_l": 1.42,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/h84xr-8-1000-watts-rms-dual-4-ohm-2-5-v-c-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Sensitivity rows say 'parallel wiring'; the T/S basis is not stated (Re suggests parallel where Re is about half the coil impedance; inference). Sealed Enclosure Volume: 0.50–1.15 ft³ (as printed, not converted). Ported Enclosure Volume: 0.75–1.50 ft³ (as printed, not converted). Ported Tuning: 34 Hz at 0.75 ft³ / 26 Hz at 1.50 ft³ (as printed, not converted). Converted from imperial as published: mounting depth 5.9 in, cut-out 7.2 in, displacement 0.05 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H84X",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 1.7,
+    "qms": 3.04,
+    "qes": 0.69,
+    "qts": 0.563,
+    "vas_l": 5.09,
+    "sd_cm2": 211,
+    "xmax_mm": 14,
+    "mms_g": 97.96,
+    "bl_tm": 9.27,
+    "le_mh": 0.839,
+    "spl_db_1w1m": 83.2,
+    "spl_db_2v83": 89.8
+   },
+   "mounting_depth_mm": 140.0,
+   "cutout_mm": 182.9,
+   "displacement_l": 1.13,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/h84x-8-800-watts-rms-dual-4-ohm-2-5-v-c-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Sensitivity rows say 'parallel wiring'; the T/S basis is not stated (Re suggests parallel where Re is about half the coil impedance; inference). Sealed Enclosure Volume: 0.40–1.00 ft³ (as printed, not converted). Ported Enclosure Volume: 0.60–1.20 ft³ (as printed, not converted). Ported Tuning: 36 Hz at 0.60 ft³ / 27 Hz at 1.20 ft³ (as printed, not converted). Converted from imperial as published: mounting depth 5.51 in, cut-out 7.2 in, displacement 0.04 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H82XR",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 0.95,
+    "qms": 2.347,
+    "qes": 0.426,
+    "qts": 0.36,
+    "vas_l": 5.095,
+    "sd_cm2": 211,
+    "xmax_mm": 14,
+    "mms_g": 91.01,
+    "bl_tm": 8.67,
+    "le_mh": 0.596,
+    "spl_db_1w1m": 85.9,
+    "spl_db_2v83": 95.2
+   },
+   "mounting_depth_mm": 149.9,
+   "cutout_mm": 182.9,
+   "displacement_l": 1.42,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/h82xr-8-1000-watts-rms-dual-2-ohm-2-5-v-c-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). Sensitivity rows say 'parallel wiring'; the T/S basis is not stated (Re suggests parallel where Re is about half the coil impedance; inference). Sealed Enclosure Volume: 0.50–1.15 ft³ (as printed, not converted). Ported Enclosure Volume: 0.75–1.50 ft³ (as printed, not converted). Ported Tuning: 34 Hz at 0.75 ft³ / 26 Hz at 1.50 ft³ (as printed, not converted). Converted from imperial as published: mounting depth 5.9 in, cut-out 7.2 in, displacement 0.05 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "UFO10V2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 40.46,
+    "re_ohm": 6.8,
+    "qms": 1.344,
+    "qes": 1.252,
+    "qts": 0.648,
+    "vas_l": 21.45,
+    "sd_cm2": 330,
+    "xmax_mm": 7,
+    "mms_g": 113,
+    "bl_tm": 12.47,
+    "le_mh": 1.893,
+    "spl_db_1w1m": 82.39,
+    "spl_db_2v83": 82.63
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/ufo10v2-10-300-watts-rms-dual-4-ohm-slim-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/UFO10V2-12V2-MANUAL.pdf",
+     "doc": "maker manual PDF p.1 (image only): T/S READ FROM IMAGE",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (UFO10V2-12V2-MANUAL.pdf p.1), double-checked: printed Qts 0.648 vs Qms*Qes/(Qms+Qes) 0.648. Series column. DATA PROBLEM: the mechanical rows and the series Qts are the same figures as the GTS10 sheet (likely copied by the maker); kept as printed. RMS 300 W, peak 600 W.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "UFO12V2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31.74,
+    "re_ohm": 6.8,
+    "qms": 2.628,
+    "qes": 1.088,
+    "qts": 0.769,
+    "vas_l": 43.2,
+    "sd_cm2": 471,
+    "xmax_mm": 5.5,
+    "mms_g": 183.4,
+    "bl_tm": 15.18,
+    "le_mh": 1.98,
+    "spl_db_1w1m": 83.03,
+    "spl_db_2v83": 83.68
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/ufo12v2-12-300-watts-rms-dual-4-ohm-slim-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/UFO10V2-12V2-MANUAL.pdf",
+     "doc": "maker manual PDF p.1 (image only): T/S READ FROM IMAGE",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (UFO10V2-12V2-MANUAL.pdf p.1), double-checked: printed Qts 0.769 vs Qms*Qes/(Qms+Qes) 0.769. Series column. DATA PROBLEM: figures match the GTS12 sheet almost exactly (likely copied by the maker); kept as printed. RMS 300 W, peak 600 W.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "KILOX154",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.0,
+    "re_ohm": 7.2,
+    "qms": 4.68,
+    "qes": 0.77,
+    "qts": 0.66,
+    "vas_l": 46.9,
+    "sd_cm2": 810,
+    "xmax_mm": 14,
+    "mms_g": 341.0,
+    "bl_tm": 26.9,
+    "le_mh": 3.25,
+    "spl_db_1w1m": 86.4,
+    "spl_db_2v83": 88.3
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/kilox154-15-inch-1000-watts-4-ohm-vc-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/KILOX_Manual.pdf",
+     "doc": "maker manual PDF p.1 (image only): T/S READ FROM IMAGE",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (KILOX_Manual.pdf p.1), double-checked: printed Qts 0.66 vs Qms*Qes/(Qms+Qes) 0.661. Series column (parallel: Qes 0.71, Re 1.8, Bl 13.8, Qts 0.62). Cms 0.06 mm/N.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "KILOX124",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.4,
+    "re_ohm": 7.2,
+    "qms": 4.2,
+    "qes": 0.66,
+    "qts": 0.57,
+    "vas_l": 23.5,
+    "sd_cm2": 510,
+    "xmax_mm": 14,
+    "mms_g": 287.9,
+    "bl_tm": 26.7,
+    "le_mh": 3.18,
+    "spl_db_1w1m": 84.0,
+    "spl_db_2v83": 86.7
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/kilox124-12-inch-1000-watts-4-ohm-vc-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/KILOX_Manual.pdf",
+     "doc": "maker manual PDF p.1 (image only): T/S READ FROM IMAGE",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (KILOX_Manual.pdf p.1), double-checked: printed Qts 0.57 vs Qms*Qes/(Qms+Qes) 0.570. Series column (parallel: Qes 0.67, Re 1.8, Bl 13.3, Qts 0.57). Cms 0.07 mm/N.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "KILOX122",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 37.2,
+    "re_ohm": 3.6,
+    "qms": 5.11,
+    "qes": 0.6,
+    "qts": 0.54,
+    "vas_l": 22.2,
+    "sd_cm2": 510,
+    "xmax_mm": 14,
+    "mms_g": 286.2,
+    "bl_tm": 20.0,
+    "le_mh": 2.44,
+    "spl_db_1w1m": 84.6,
+    "spl_db_2v83": 87.0
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/kilox122-12-inch-1000-watts-2-ohm-vc-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/KILOX_Manual.pdf",
+     "doc": "maker manual PDF p.1 (image only): T/S READ FROM IMAGE",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (KILOX_Manual.pdf p.1), double-checked: printed Qts 0.54 vs Qms*Qes/(Qms+Qes) 0.537. Sheet 'KILOX 122', series column (parallel: Qes 0.55, Re 0.9, Bl 10.4, Qts 0.50). RMS 1000 W, peak 2000 W, Cms 0.06 mm/N, Xmech 40 mm.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MMA104",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 37.5,
+    "re_ohm": 6.8,
+    "qms": 7.14,
+    "qes": 0.68,
+    "qts": 0.61,
+    "vas_l": 28.71,
+    "sd_cm2": 330,
+    "xmax_mm": 10,
+    "mms_g": 99.1,
+    "bl_tm": 15.74,
+    "le_mh": 0.72,
+    "spl_db_1w1m": 86.3,
+    "spl_db_2v83": 88.3
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/mma104-1000w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0658/1297/files/mma-series-manual.pdf",
+     "doc": "maker manual PDF p.1 (image only): T/S READ FROM IMAGE",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications table in the product description (maker: website T/S supersede the user manual). T/S READ FROM IMAGE (mma-series-manual.pdf p.1), double-checked: printed Qts 0.61 vs Qms*Qes/(Qms+Qes) 0.621. Sheet 'MMA 104', series column (parallel: Qes 0.67, Re 1.7, Bl 7.88, Qts 0.61). RMS 500 W, peak 1000 W; Cms printed '0.18 um/N'.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "BOA102R (8000 W RMS)",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa102r-10-8-000-watts-rms-dual-2-ohm-mega-subwoofer-caution-85-pounds-special-handling-required",
+   "note": "No T/S or spec PDF on the product page (2026-11-21).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA121R (8000 W RMS)",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa121r-12-8-000-watts-rms-dual-1-ohm-mega-subwoofer-caution-100-pounds-special-handling-required",
+   "note": "No T/S or spec PDF on the product page (2026-11-21).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA122R (8000 W RMS)",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa122r-12-8-000-watts-rms-dual-2-ohm-mega-subwoofer-caution-132-pounds-special-handling-required",
+   "note": "No T/S or spec PDF on the product page (2026-11-21).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA151R (8000 W RMS)",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa151r-15-8000-watts-rms-dual-1-ohm-mega-subwoofer",
+   "note": "No T/S or spec PDF on the product page (2026-11-21).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA152R (8000 W RMS)",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa152r-15-8-000-watts-rms-dual-2-ohm-mega-subwoofer",
+   "note": "No T/S or spec PDF on the product page (2026-11-21).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA182R (8000 W RMS)",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa182r-18-8-000-watts-rms-dual-2-ohm-mega-subwoofer",
+   "note": "No T/S or spec PDF on the product page (2026-11-21).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA181NV2 (6000 W RMS, Dual 1)",
+   "rms_w": 6000,
+   "url": "https://www.massiveaudio.com/products/boa181nv2-18-6-000-watts-rms-dual-1-ohm-mega-neodymium-subwoofer",
+   "note": "Links the 2021 BOA manual, which has no 181N column.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "HIPPO124 (title '4000w')",
+   "rms_w": null,
+   "url": "https://www.massiveaudio.com/products/hippo124-4000w-dual-4-ohm",
+   "note": "Text says coils 'hold 4000 Watts'; RMS not clearly stated; no T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "BOA102R",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa102r-10-8-000-watts-rms-dual-2-ohm-mega-subwoofer-caution-85-pounds-special-handling-required",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 16000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 16000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa102r-10-8-000-watts-rms-dual-2-ohm-mega-subwoofer-caution-85-pounds-special-handling-required",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPO84",
+   "rms_w": 500,
+   "url": "https://www.massiveaudio.com/products/hippo84-100w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippo84-100w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BOA122R",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa122r-12-8-000-watts-rms-dual-2-ohm-mega-subwoofer-caution-132-pounds-special-handling-required",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 16000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 16000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa122r-12-8-000-watts-rms-dual-2-ohm-mega-subwoofer-caution-132-pounds-special-handling-required",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BOA121R",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa121r-12-8-000-watts-rms-dual-1-ohm-mega-subwoofer-caution-100-pounds-special-handling-required",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 1 ohm, peak 16000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "peak_w": 16000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa121r-12-8-000-watts-rms-dual-1-ohm-mega-subwoofer-caution-100-pounds-special-handling-required",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H124",
+   "rms_w": 1500,
+   "url": "https://www.massiveaudio.com/products/h124-12-1500-watts-rms-dual-4-ohm-3-v-c-mega-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/h124-12-1500-watts-rms-dual-4-ohm-3-v-c-mega-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BOA182R",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa182r-18-8-000-watts-rms-dual-2-ohm-mega-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 18 in, coil DVC 2 ohm, peak 16000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 16000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa182r-18-8-000-watts-rms-dual-2-ohm-mega-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX122H",
+   "rms_w": 800,
+   "url": "https://www.massiveaudio.com/products/gtx122h-12-800-watts-rms-dual-2-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx122h-12-800-watts-rms-dual-2-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GT12",
+   "rms_w": 500,
+   "url": "https://www.massiveaudio.com/products/gt12-12-500-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gt12-12-500-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX104H",
+   "rms_w": 800,
+   "url": "https://www.massiveaudio.com/products/gtx104h-10-800-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx104h-10-800-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MMA124V2",
+   "rms_w": 500,
+   "url": "https://www.massiveaudio.com/products/mma124v2-12-500-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/mma124v2-12-500-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPOXL84RV2",
+   "rms_w": 900,
+   "url": "https://www.massiveaudio.com/products/hippoxl84rv2-8-900-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl84rv2-8-900-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BOA152R",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa152r-15-8-000-watts-rms-dual-2-ohm-mega-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak 16000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 16000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa152r-15-8-000-watts-rms-dual-2-ohm-mega-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX124H",
+   "rms_w": 800,
+   "url": "https://www.massiveaudio.com/products/gtx124h-12-800-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx124h-12-800-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BOA181NV2",
+   "rms_w": 6000,
+   "url": "https://www.massiveaudio.com/products/boa181nv2-18-6-000-watts-rms-dual-1-ohm-mega-neodymium-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 18 in, coil DVC 1 ohm, peak 12000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "peak_w": 12000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa181nv2-18-6-000-watts-rms-dual-1-ohm-mega-neodymium-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "KILOX104V2",
+   "rms_w": 1000,
+   "url": "https://www.massiveaudio.com/products/kilox104v2-10-1000-watts-rms-dual-4-ohm-3-v-c-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/kilox104v2-10-1000-watts-rms-dual-4-ohm-3-v-c-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPOXL84V2",
+   "rms_w": 700,
+   "url": "https://www.massiveaudio.com/products/hippoxl84v2-8-700-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl84v2-8-700-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPOXL82RV2",
+   "rms_w": 900,
+   "url": "https://www.massiveaudio.com/products/hippoxl82rv2-8-900-watts-rms-dual-2-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl82rv2-8-900-watts-rms-dual-2-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTR84",
+   "rms_w": 600,
+   "url": "https://www.massiveaudio.com/products/gtr84-8-600-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak 1000 W, mounting depth 147.0 mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual). Converted from imperial as published: mounting depth 5.787 in.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": 147.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtr84-8-600-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTR64",
+   "rms_w": 400,
+   "url": "https://www.massiveaudio.com/products/gtr64-6-400-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6.5 in, coil DVC 4 ohm, peak 600 W, mounting depth 138.0 mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual). Converted from imperial as published: mounting depth 5.433 in.",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 600,
+   "mounting_depth_mm": 138.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtr64-6-400-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTR124",
+   "rms_w": 1000,
+   "url": "https://www.massiveaudio.com/products/gtr124-12-1000-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1500 W, mounting depth 184.0 mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual). Converted from imperial as published: mounting depth 7.244 in.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1500,
+   "mounting_depth_mm": 184.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtr124-12-1000-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTR122",
+   "rms_w": 1000,
+   "url": "https://www.massiveaudio.com/products/gtr122-12-1000-watts-rms-dual-2-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 1500 W, mounting depth 184.0 mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual). Converted from imperial as published: mounting depth 7.244 in.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1500,
+   "mounting_depth_mm": 184.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtr122-12-1000-watts-rms-dual-2-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTR104",
+   "rms_w": 1000,
+   "url": "https://www.massiveaudio.com/products/gtr104-10-1000-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1500 W, mounting depth 173.0 mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual). Converted from imperial as published: mounting depth 6.811 in.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1500,
+   "mounting_depth_mm": 173.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtr104-10-1000-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTR102",
+   "rms_w": 1000,
+   "url": "https://www.massiveaudio.com/products/gtr102-10-1000-watts-rms-dual-2-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 1500 W, mounting depth 173.0 mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual). Converted from imperial as published: mounting depth 6.811 in.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1500,
+   "mounting_depth_mm": 173.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtr102-10-1000-watts-rms-dual-2-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX84",
+   "rms_w": 400,
+   "url": "https://www.massiveaudio.com/products/gtx84-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx84-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BOA151R",
+   "rms_w": 8000,
+   "url": "https://www.massiveaudio.com/products/boa151r-15-8000-watts-rms-dual-1-ohm-mega-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 1 ohm, peak 16000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "peak_w": 16000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/boa151r-15-8000-watts-rms-dual-1-ohm-mega-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX154",
+   "rms_w": 700,
+   "url": "https://www.massiveaudio.com/products/gtx154-1400w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx154-1400w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MGK124",
+   "rms_w": 750,
+   "url": "https://www.massiveaudio.com/products/mgk124-1500w-dual-4-ohm-1",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1500 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/mgk124-1500w-dual-4-ohm-1",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ECO10S4",
+   "rms_w": null,
+   "url": "https://www.massiveaudio.com/products/eco10s4-10-inch-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil SVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/eco10s4-10-inch-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUMMO84XL",
+   "rms_w": 400,
+   "url": "https://www.massiveaudio.com/products/summo84xl-300-watts-rms-dual4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/summo84xl-300-watts-rms-dual4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUMMO64XL",
+   "rms_w": 200,
+   "url": "https://www.massiveaudio.com/products/summo64xl-150-watts-rms-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6.5 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/summo64xl-150-watts-rms-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPO84V2",
+   "rms_w": 500,
+   "url": "https://www.massiveaudio.com/products/hippo84v2-8-inch-500-watts-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth 131.1 mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual). Converted from imperial as published: mounting depth 5.16 in.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": 131.1,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippo84v2-8-inch-500-watts-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUMMO84S",
+   "rms_w": 400,
+   "url": "https://www.massiveaudio.com/products/summo84s-400-watts-rms-dual-4-ohm-shallow-mount-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/summo84s-400-watts-rms-dual-4-ohm-shallow-mount-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUMMO64S",
+   "rms_w": 200,
+   "url": "https://www.massiveaudio.com/products/summo64s-200-watts-rms-dual-4-ohm-shallow-mount-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 6,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/summo64s-200-watts-rms-dual-4-ohm-shallow-mount-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPOXL82R",
+   "rms_w": 900,
+   "url": "https://www.massiveaudio.com/products/hippoxl82r-8-inch-900-watts-2-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl82r-8-inch-900-watts-2-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPOXL84R",
+   "rms_w": 900,
+   "url": "https://www.massiveaudio.com/products/hippoxl84r-8-inch-900-watts-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl84r-8-inch-900-watts-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX124R",
+   "rms_w": 1000,
+   "url": "https://www.massiveaudio.com/products/gtx124r-2000w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 2000 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx124r-2000w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX124",
+   "rms_w": 700,
+   "url": "https://www.massiveaudio.com/products/gtx124-1400w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx124-1400w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX122",
+   "rms_w": 700,
+   "url": "https://www.massiveaudio.com/products/gtx122-1400w-dual-2-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx122-1400w-dual-2-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX64",
+   "rms_w": 250,
+   "url": "https://www.massiveaudio.com/products/gtx64-dual-4-ohm-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6 in, coil DVC 4 ohm, peak 500 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 6,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx64-dual-4-ohm-subwoofer",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX102",
+   "rms_w": 700,
+   "url": "https://www.massiveaudio.com/products/gtx102-1400w-dual-2-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx102-1400w-dual-2-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTX104",
+   "rms_w": 700,
+   "url": "https://www.massiveaudio.com/products/gtx104-1400w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1400 W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/gtx104-1400w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPOXL64",
+   "rms_w": 300,
+   "url": "https://www.massiveaudio.com/products/hippoxl64-600w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 6 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 6,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl64-600w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HIPPOXL84",
+   "rms_w": 700,
+   "url": "https://www.massiveaudio.com/products/hippoxl84-1400w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/hippoxl84-1400w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUMMOXL104",
+   "rms_w": 1500,
+   "url": "https://www.massiveaudio.com/products/summoxl104-3000w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/summoxl104-3000w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUMMOXL154",
+   "rms_w": 1500,
+   "url": "https://www.massiveaudio.com/products/summoxl154-3000w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/summoxl154-3000w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SUMMOXL124",
+   "rms_w": 1500,
+   "url": "https://www.massiveaudio.com/products/summo-xl124-3000w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/summo-xl124-3000w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TKO12S4",
+   "rms_w": 300,
+   "url": "https://www.massiveaudio.com/products/tko12s4-600w-single-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil SVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/tko12s4-600w-single-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TKO124",
+   "rms_w": 300,
+   "url": "https://www.massiveaudio.com/products/tko124-600w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/tko124-600w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TKO104",
+   "rms_w": 300,
+   "url": "https://www.massiveaudio.com/products/tko104-600w-dual-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/tko104-600w-dual-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "ECO12S4",
+   "rms_w": 250,
+   "url": "https://www.massiveaudio.com/products/eco12s4-single-4-ohm",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil SVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Specifications table in the product description (maker: website T/S supersede the user manual).",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.massiveaudio.com/products/eco12s4-single-4-ohm",
+     "doc": "product page description, SPECIFICATIONS (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "brand": "B2 Audio",
+ "country": "Denmark",
+ "brand_url": "https://www.b2audio.com",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart (A2 read the same site for subs). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "B2 Audio Rage8CXP",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    20000
+   ],
+   "magnet": "neo (driver) / ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 69.4,
+    "re_ohm": null,
+    "qms": 5.13,
+    "qes": 0.723,
+    "qts": 0.64,
+    "vas_l": 11.16,
+    "sd_cm2": 213,
+    "xmax_mm": null,
+    "mms_g": 25.7,
+    "bl_tm": null,
+    "le_mh": 0.76,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.b2audio.com/produkt/rage8cxp/",
+     "doc": "product page, spec sheet block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Power printed as 'peak / RMS' (larger value taken as peak). Maker prints BL^2/RE 16.5 (not Bl). Sensitivity printed without a drive reference; basis unknown. Maker efficiency 0.6%.",
+   "magnet_as_printed": "Neo (driver) / Ferrite",
+   "cone_material": "UV Treated paper",
+   "voice_coil_as_printed": "2.5\""
+  }
+ ],
+ "no_specs_published": []
+}

@@ -1,0 +1,215 @@
+{
+ "brand": "Crunch (Audio Design)",
+ "country": "Germany",
+ "brand_url": "https://www.crunchaudio.de",
+ "terms_note": "R2 2026-11-23: subwoofer page, 3 product pages and 3 data sheets read 3 s apart. Numbers only.",
+ "coverage": "all three GTi subwoofer drivers on the maker's Subwoofer page",
+ "hp_subs_raw_file": null,
+ "drivers": [
+  {
+   "model": "GTI84",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 3.8,
+    "qms": 7.84,
+    "qes": 0.678,
+    "qts": 0.624,
+    "vas_l": 10.8,
+    "sd_cm2": 214,
+    "xmax_mm": 7.5,
+    "mms_g": 84,
+    "bl_tm": 11.6,
+    "le_mh": 1.28,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 77,
+   "cutout_mm": 182,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 20,
+     "tuning_hz": 41,
+     "source": "maker data sheet gti84.pdf"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 8,
+     "tuning_hz": null,
+     "source": "maker data sheet gti84.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.crunchaudio.de/assets/gti84.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.crunchaudio.de/gti84.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 15 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTI104",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 3.8,
+    "qms": 8.22,
+    "qes": 0.636,
+    "qts": 0.59,
+    "vas_l": 24.9,
+    "sd_cm2": 353,
+    "xmax_mm": 9.5,
+    "mms_g": 147.7,
+    "bl_tm": 14.2,
+    "le_mh": 1.56,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 89,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 35,
+     "tuning_hz": 37,
+     "source": "maker data sheet gti104.pdf"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 15,
+     "tuning_hz": null,
+     "source": "maker data sheet gti104.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.crunchaudio.de/assets/gti104.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.crunchaudio.de/gti104.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 18 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GTI124",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 3.8,
+    "qms": 7.94,
+    "qes": 0.746,
+    "qts": 0.68,
+    "vas_l": 58.5,
+    "sd_cm2": 525,
+    "xmax_mm": 9.5,
+    "mms_g": 227,
+    "bl_tm": 14.6,
+    "le_mh": 1.59,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 99,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 35,
+     "tuning_hz": null,
+     "source": "maker data sheet gti124.pdf"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.crunchaudio.de/assets/gti124.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://www.crunchaudio.de/gti124.html",
+     "doc": "product page (links the sheet)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Data sheet prints labels and values in separate columns; paired in printed order; row 'Flux Density' carries the B/L value in N/A (Tm), entered as bl_tm. Max. mechanical excursion +/- 18 mm; Xmax entered is the linear one-way value.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

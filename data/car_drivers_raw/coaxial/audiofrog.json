@@ -1,0 +1,231 @@
+{
+ "brand": "Audiofrog",
+ "country": "USA",
+ "brand_url": "https://www.audiofrog.com",
+ "terms_note": "R4 2026-11-23: robots.txt open (Yoast); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "Audiofrog GS42",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 150,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    90,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 145.8,
+    "re_ohm": 2.33,
+    "qms": 5.74,
+    "qes": 0.99,
+    "qts": 0.8,
+    "vas_l": 1.02,
+    "sd_cm2": 50.3,
+    "xmax_mm": 3.2,
+    "mms_g": 4.19,
+    "bl_tm": 3.06,
+    "le_mh": 0.08,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs42-4-120mm-premium-grade-automotive-full-range-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '3.2 mm (5/32”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.113 liters (0.004ft³)"
+  },
+  {
+   "model": "Audiofrog GS62",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 200,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 80.5,
+    "re_ohm": 2.28,
+    "qms": 6.33,
+    "qes": 0.76,
+    "qts": 0.67,
+    "vas_l": 8.45,
+    "sd_cm2": 138.93,
+    "xmax_mm": 4,
+    "mms_g": 12.75,
+    "bl_tm": 4.4,
+    "le_mh": 0.14,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs62-6-165mm-premium-grade-automotive-full-range-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '4 mm (3/16”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.33 liters (0.011ft³)"
+  },
+  {
+   "model": "Audiofrog GS682",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x8",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 200,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    47,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 68,
+    "re_ohm": 2.35,
+    "qms": 6.66,
+    "qes": 0.95,
+    "qts": 0.83,
+    "vas_l": 13.33,
+    "sd_cm2": 163,
+    "xmax_mm": 4,
+    "mms_g": 15.54,
+    "bl_tm": 4.05,
+    "le_mh": 0.14,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs682-6x8-premium-grade-automotive-full-range-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '4 mm (3/16”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.37 liters (0.013ft³)"
+  },
+  {
+   "model": "Audiofrog GS693",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    42,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 58.6,
+    "re_ohm": 2.31,
+    "qms": 8.64,
+    "qes": 0.068,
+    "qts": 0.63,
+    "vas_l": 21.9,
+    "sd_cm2": 221,
+    "xmax_mm": 5,
+    "mms_g": 23.46,
+    "bl_tm": 5.43,
+    "le_mh": 0.22,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs693-6x9-premium-grade-automotive-full-range-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '5 mm (7/32”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.42 liters (0.015ft³)"
+  }
+ ],
+ "no_specs_published": []
+}

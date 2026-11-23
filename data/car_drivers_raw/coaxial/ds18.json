@@ -1,0 +1,1050 @@
+{
+ "brand": "DS18",
+ "country": "USA",
+ "brand_url": "https://www.ds18.com",
+ "terms_note": "R4 2026-11-23: Shopify products.json (public catalogue feed) read 3 s apart, 9 requests. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "DS18 G6.5Xi",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 150,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 54.5,
+   "cutout_mm": 142,
+   "frame_mm": 165,
+   "recommended_crossover": {
+    "hp_hz": 60,
+    "note": "maker 'Recommended Hi Pass Crossover' 60Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g6-5xi-gen-x-6-5-2-way-coaxial-speakers-150-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "GEN-X 6.5\" 2-Way Coaxial Speakers 50 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 86
+  },
+  {
+   "model": "DS18 PRO-HY6MSL",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    120,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 93,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70.5,
+   "cutout_mm": 142,
+   "frame_mm": 176,
+   "recommended_crossover": {
+    "hp_hz": 140,
+    "note": "maker 'Recommended Hi Pass Crossover' 140Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-hy6msl-6-5-mid-range-shallow-slim-loudspeaker-with-built-in-driver-300-watts-8-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 6.5\" Shallow Coaxial Hybrid Mid-Range Loudspeaker with Built-in Driver | 150W RMS 8-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 G5.25Xi",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 45,
+   "peak_w": 135,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50,
+   "cutout_mm": 115,
+   "frame_mm": 130.4,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g5-25xi-gen-x-5-25-2-way-coaxial-speakers-135-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "GEN-X 5.25\" 2-Way Coaxial Speakers 45 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 76
+  },
+  {
+   "model": "DS18 G4.6Xi",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 45,
+   "peak_w": 135,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": 151,
+   "frame_mm": 155,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/g4-6xi",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "GEN-X 4x6 2-Way Coaxial Speakers 45 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 76
+  },
+  {
+   "model": "DS18 G6.9Xi",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 180,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 75,
+   "cutout_mm": 220,
+   "frame_mm": 234,
+   "recommended_crossover": {
+    "hp_hz": 50,
+    "note": "maker 'Recommended Hi Pass Crossover' 50Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g69xi-gen-x-6x9-4-way-coaxial-speakers-180-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "GEN-X 6x9\" 3-Way Coaxial Speakers | 60W RMS 4-Ohm",
+   "motor_diameter_mm": 106
+  },
+  {
+   "model": "DS18 G6.5XC",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 150,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 57,
+   "cutout_mm": 142,
+   "frame_mm": 165.5,
+   "recommended_crossover": {
+    "hp_hz": 60,
+    "note": "maker 'Recommended Hi Pass Crossover' 60Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g6-5xc-gen-x-6-5-2-way-component-set-speaker-system-150-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "G6.5XC GEN-X 6.5\" 2-Way Component Set Speaker System 150 Watts 4-Ohm",
+   "motor_diameter_mm": 80
+  },
+  {
+   "model": "DS18 G5.7Xi",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "5x7",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 150,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 54,
+   "cutout_mm": 180,
+   "frame_mm": 193,
+   "recommended_crossover": {
+    "hp_hz": 70,
+    "note": "maker 'Recommended Hi Pass Crossover' 70Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/g5-7xi",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "GEN-X 5x7\" 2-Way Coaxial Speakers 50 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 86
+  },
+  {
+   "model": "DS18 G4Xi",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": 120,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43.5,
+   "cutout_mm": 92,
+   "frame_mm": 103.5,
+   "recommended_crossover": {
+    "hp_hz": 90,
+    "note": "maker 'Recommended Hi Pass Crossover' 90Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g4xi-gen-x-4-2-way-coaxial-speakers-120-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "GEN-X 4\" 2-Way Coaxial Speakers 40 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 76
+  },
+  {
+   "model": "DS18 8HD800NCFD-8",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 800,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 105,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 117.8,
+   "cutout_mm": 183,
+   "frame_mm": 209.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-8hd800ncfd-8-8-water-proof-carbon-fiber-mid-bass-and-driver-coaxial-hybrid-neodymium-magnet-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "8\" Neodymium Coaxial Hybrid Mid-Bass Water resistant Carbon Fiber Cone Loudspeaker with Built-in Driver  400 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 145
+  },
+  {
+   "model": "DS18 8HD800NCFD-4",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": 800,
+   "sensitivity_db": 105,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 105,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 117.8,
+   "cutout_mm": 183,
+   "frame_mm": 209.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-8hd800ncfd-4-8-water-proof-carbon-fiber-mid-bass-and-driver-coaxial-hybrid-neodymium-magnet",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "8\" Neodymium Coaxial Hybrid Mid-Bass Water resistant Carbon Fiber Cone Loudspeaker with Built-in Driver  400 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 145
+  },
+  {
+   "model": "DS18 EXL-SQ6.5CX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 500,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    31.5,
+    20000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 62,
+    "re_ohm": null,
+    "qms": 3.72,
+    "qes": 0.76,
+    "qts": 0.63,
+    "vas_l": 8.62,
+    "sd_cm2": null,
+    "xmax_mm": 9,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 143,
+   "frame_mm": 165.5,
+   "recommended_crossover": {
+    "hp_hz": 40,
+    "note": "maker 'Recommended Hi Pass Crossover' 40Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/EXL-SQ65CX_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/high-volume-6-5-inch-4-ohm-component-set-with-added-tweeter-and-passive-crossover-pair",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual EXL-SQ65CX_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "EXL 6.5\" 2-Way Component Speaker System | 150W RMS 4-Ohm",
+   "motor_diameter_mm": 80
+  },
+  {
+   "model": "DS18 ZXI-694",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    31.5,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 92,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 221,
+   "frame_mm": 235,
+   "recommended_crossover": {
+    "hp_hz": 50,
+    "note": "maker 'Recommended Hi Pass Crossover' 50Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/elite-6x9-2-way-coaxial-speakers-with-glass-fiber-cone-240-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "ZXi 6x9\" 2-Way Coaxial Speakers with Kevlar Cone | 120W RMS 4-Ohm",
+   "motor_diameter_mm": 104
+  },
+  {
+   "model": "DS18 ZXI-654",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 240,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "barium ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 64,
+    "re_ohm": 3.5,
+    "qms": 9.44,
+    "qes": 0.79,
+    "qts": 0.73,
+    "vas_l": 10.84,
+    "sd_cm2": 131,
+    "xmax_mm": 2.7,
+    "mms_g": null,
+    "bl_tm": 5.1,
+    "le_mh": 228,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 60,
+   "cutout_mm": 141,
+   "frame_mm": 165,
+   "recommended_crossover": {
+    "hp_hz": 60,
+    "note": "maker 'Recommended Hi Pass Crossover' 60Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/zxi-elite-6-5-2-way-coaxial-speakers-with-glass-fiber-cone-180-watts-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way.",
+   "title": "ZXI 6.5\" 2-Way Coaxial Speakers with Glass Fiber Cone | 80W RMS 4-Ohm",
+   "motor_diameter_mm": 94
+  },
+  {
+   "model": "DS18 PRO-HY8.4B",
+   "type": "coaxial",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 135,
+    "re_ohm": 3.4,
+    "qms": 5.96,
+    "qes": 1.321,
+    "qts": 1.011,
+    "vas_l": 10.048,
+    "sd_cm2": 226.98,
+    "xmax_mm": 9.2,
+    "mms_g": 9.69,
+    "bl_tm": 4.58,
+    "le_mh": 4.22,
+    "spl_db_1w1m": 97,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 109,
+   "cutout_mm": 180.3,
+   "frame_mm": 211,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-8-hybrid-mid-range-loudspeaker-with-built-in-driver-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way.",
+   "title": "PRO 8\" Coaxial Hybrid Mid-Range Water resistant Cone Loudspeaker with Built-in Driver 250 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 116.6
+  },
+  {
+   "model": "DS18 PRO-HY6.4B",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 225,
+   "peak_w": 450,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    100,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 199,
+    "re_ohm": 3.2,
+    "qms": 5.96,
+    "qes": 1.524,
+    "qts": 1.214,
+    "vas_l": 2.211,
+    "sd_cm2": 145.26,
+    "xmax_mm": 9.2,
+    "mms_g": 8.654,
+    "bl_tm": 4.769,
+    "le_mh": 4.22,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 99.5,
+   "cutout_mm": 150,
+   "frame_mm": 174,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-6-5-hybrid-mid-range-loudspeaker-with-built-in-driver-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way.",
+   "title": "PRO 6.5\" Coaxial Hybrid Mid-Range Water resistant Cone Loudspeaker with Built-in Driver 225 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 118
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "DS18 DXQ6C3N",
+   "title": "DXQ 6.5\" 3-Way Component Speaker Set with Neodymium Magnet and Yellow Straw + Composite Foam Cone | | 180W RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/dxq6c3n",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 DXQ6.9CX",
+   "title": "DXQ 6x9\" 2-Way Coaxial Speaker with Yellow Straw and Composite Foam Cone | 150W RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/dxq6-9cx",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 DXQ6.5CX",
+   "title": "DXQ 6.5\" 2-Way Coaxial Speaker with Yellow Straw and Composite Foam Cone | 150W RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/dxq6-5cx",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 ZXI-3542",
+   "title": "ZXI 3.5” 2-Way Coaxial Speaker | 40 Watts RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/zxi-3542",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-HY6.4MSL",
+   "title": "PRO 6.5\" Shallow Coaxial Hybrid Mid-Range Loudspeaker with Built-in Driver | 150W RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/ds18-pro-hy6-4msl-6-5-mid-range-shadow-slim-loudspeaker-with-built-in-driver-300-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-HY8.4MSL",
+   "title": "PRO 8\" Shallow Coaxial Hybrid Mid-Range Loudspeaker with Built-in Driver | 200W RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/ds18-pro-hy8-4msl-8-mid-range-shadow-slim-loudspeaker-with-built-in-driver-400-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-HY8MSL",
+   "title": "PRO 8\" Shallow Coaxial Hybrid Mid-Range Loudspeaker with Built-in Driver | 200W RMS 8-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/ds18-pro-hy8msl-8-mid-range-shadow-slim-loudspeaker-with-built-in-driver-400-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 ZXI-574",
+   "title": "ZXI 5x7\" 2-Way Coaxial Speakers with Kevlar Cone | 70 Watts Rms 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/elite-5x7-2-way-coaxial-speakers-with-glass-fiber-cone-210-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 ZXI-464",
+   "title": "ZXI 4x6\" 2-Way Coaxial Speakers with Kevlar Cone | 60 Watts RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/elite-4x6-2-way-coaxial-speakers-with-glass-fiber-cone-180-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 ZXI-5254",
+   "title": "ZXI 5.25\" 2-Way Coaxial Speakers with Kevlar Cone | 60 Watts RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/elite-5-25-2-way-coaxial-speakers-with-glass-fiber-cone-150-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 ZXI-44",
+   "title": "ZXI 4\" 2-Way Coaxial Speakers with Kevlar Cone | 50 Watts RMS 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/elite-4-2-way-coaxial-speakers-with-glass-fiber-cone-120-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 GEN-X4.6",
+   "title": "DS18 GEN-X4.6 4x6 2-Way Coaxial Car Speaker 135 Watts 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/gen-x-4x6-2-way-coaxial-speakers-135-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 SLC-N69X",
+   "title": "DS18 SLC-N69X SELECT 6x9\" 5-Way Coaxial Speaker 260 Watts 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/select-6x9-5-way-coaxial-speaker-260-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 EXL-SQ6.5",
+   "title": "EXL 6.5\" 2-Way Coaxial Speaker with Fiber Glass Cone | 120W RMS 3-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/exl-6-5-3-ohm-2-way-coaxial-speaker-400-watts-with-fiber-glass-cone",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 GEN-X6.5C",
+   "title": "DS18 GEN-X6.5C 6.5\" 2-Way Component Speaker Car Speaker 150 Watts 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/gen-x-6-5-2-way-component-system-150-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 GEN-X6.5",
+   "title": "DS18 GEN-X6.5 6.5\" 3-Way Coaxial Car Speaker 150 Watts 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/gen-x-6-5-3-way-coaxial-speakers-150-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 GEN-X5.7",
+   "title": "DS18 GEN-X5.7 5x7\" 3-Way Coaxial Car Speaker 165 Watts 4-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/gen-x-5x7-3-way-coaxial-speakers-165-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 EXL-SQ6.5C",
+   "title": "EXL 6.5\" 2-Way Component Speaker System 400 Watts 4-Ohms (Pair)",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/exl-6-5-2-way-component-system-400-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 EXL-SQ4.0",
+   "title": "EXL 4\" 2-Way Coaxial Speaker with Fiber Glass Cone | 60W RMS 3-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/exl-4-3-ohm-2-way-coaxial-speaker-260-watts-with-fiber-glass-cone",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 EXL-SQ5.25",
+   "title": "EXL 5.25\" 2-Way Coaxial Speaker with Fiber Glass Cone | 80W RMS 3-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/exl-5-25-3-ohm-2-way-coaxial-speaker-340-watts-with-fiber-glass-cone",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 EXL-SQ6.9",
+   "title": "EXL 6x9\" 2-Way Coaxial Speaker with Fiber Glass Cone | 160W RMS 3-Ohm",
+   "type": "coaxial",
+   "url": "https://www.ds18.com/products/exl-6x9-3-ohm-2-way-coaxial-speaker-560-watts-with-fiber-glass-cone",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  }
+ ]
+}

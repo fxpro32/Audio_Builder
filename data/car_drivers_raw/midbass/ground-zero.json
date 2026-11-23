@@ -1,0 +1,1892 @@
+{
+ "brand": "Ground Zero",
+ "country": "Germany",
+ "brand_url": "https://www.ground-zero-audio.com",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms and Conditions (not read in full). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "GZ Reference K-165",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 110,
+   "peak_w": null,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    4500
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46,
+    "re_ohm": 3.4,
+    "qms": 7.28,
+    "qes": 0.42,
+    "qts": 0.39,
+    "vas_l": 17.1,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 18.9,
+    "bl_tm": 6.7,
+    "le_mh": 0.19,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 144,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gz-reference-k-165/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZReference-K-165_OM_AWV4.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 5,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZReference-K-165_OM_AWV4.0.pdf p.5).",
+   "maker_description": "Pure-high-end midwoofer",
+   "voice_coil_as_printed": "37 mm / 1.46″ copper"
+  },
+  {
+   "model": "GZ ULTRA K-165",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 160,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    45,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 3.4,
+    "qms": 5.56,
+    "qes": 0.56,
+    "qts": 0.51,
+    "vas_l": 20.4,
+    "sd_cm2": null,
+    "xmax_mm": 5.0,
+    "mms_g": 15.4,
+    "bl_tm": 5.05,
+    "le_mh": 0.12,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 147,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gz-ultra-k-165-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZ-ULTRA-K-165_OM_AWV1.0_PDFforWeb_EN.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZ-ULTRA-K-165_OM_AWV1.0_PDFforWeb_EN.pdf p.3). Manual Xmax 10 mm is peak to peak; xmax_mm = 10/2 (calculated).",
+   "maker_description": "Ultra-high-end midwoofer",
+   "voice_coil_as_printed": "32,5 mm / 1.28″"
+  },
+  {
+   "model": "GZCK 165XSPL",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    50,
+    10000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 56.8,
+    "re_ohm": 3.3,
+    "qms": 9.12,
+    "qes": 0.32,
+    "qts": 0.31,
+    "vas_l": 16.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 12.7,
+    "bl_tm": 6.9,
+    "le_mh": 0.29,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 145,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzck-165xspl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCK-165XSPL_OM_AWV4.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZCK-165XSPL_OM_AWV4.0.pdf p.3).",
+   "maker_description": "SPL midwoofer",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZCK 165XSPL-II",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 250,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    50,
+    10000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 56.8,
+    "re_ohm": 3.3,
+    "qms": 9.12,
+    "qes": 0.32,
+    "qts": 0.31,
+    "vas_l": 16.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 12.7,
+    "bl_tm": 6.9,
+    "le_mh": 0.29,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 71.5,
+   "cutout_mm": 145,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzck-165xspl-ii-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCK-165XSPL-II_OM_AWV4.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZCK-165XSPL-II_OM_AWV4.0.pdf p.3).",
+   "maker_description": "SPL midwoofer",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZCK 200XSPL",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 54.3,
+    "re_ohm": 3.3,
+    "qms": 9.61,
+    "qes": 0.39,
+    "qts": 0.38,
+    "vas_l": 31.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 18.9,
+    "bl_tm": 7.4,
+    "le_mh": 0.3,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 71.5,
+   "cutout_mm": 183,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzck-200xspl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCK-200XSPL_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZCK-200XSPL_OM_AWV2.1.pdf p.3).",
+   "maker_description": "SPL midwoofer",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZCK 200XSPL-II",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 54.3,
+    "re_ohm": 3.3,
+    "qms": 9.61,
+    "qes": 0.39,
+    "qts": 0.38,
+    "vas_l": 31.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 18.9,
+    "bl_tm": 7.4,
+    "le_mh": 0.3,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86,
+   "cutout_mm": 183,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzck-200xspl-ii/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCK-200XSPL-II_OM_AWV4.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZCK-200XSPL-II_OM_AWV4.0.pdf p.3). The separate technical data sheet (GZCK-200XSPL-II_TechnicalData_EN.pdf) prints Fs 54 Hz.",
+   "maker_description": "SPL midwoofer",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZCK 250XSPL",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": "250 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 44,
+    "re_ohm": 5.3,
+    "qms": 4.14,
+    "qes": 0.46,
+    "qts": 0.41,
+    "vas_l": 43.6,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 49.6,
+    "bl_tm": 12.66,
+    "le_mh": 0.7,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 110,
+   "cutout_mm": 235,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzck-250xspl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCK-250XSPL_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZCK-250XSPL_OM_AWV2.1.pdf p.3).",
+   "maker_description": "SPL midwoofer",
+   "voice_coil_as_printed": "50 mm / 2″ CCA"
+  },
+  {
+   "model": "GZCM 10.0SPL",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": "250 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 500,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    10000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 76,
+    "re_ohm": 3.2,
+    "qms": 4.07,
+    "qes": 0.77,
+    "qts": 0.65,
+    "vas_l": 31.0,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 23.6,
+    "bl_tm": 6.9,
+    "le_mh": 0.03,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 98,
+   "cutout_mm": 231,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-10-0spl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCM-SPL_OM_AWV2.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger). T/S from the maker manual (GZCM-SPL_OM_AWV2.0.pdf p.3).",
+   "maker_description": "High power midrange speaker",
+   "voice_coil_as_printed": "50 mm / 2″ CCA"
+  },
+  {
+   "model": "GZCM 10XSPL",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": "250 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 450,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    10000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 68,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 103,
+   "cutout_mm": 231,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-10xspl/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger).",
+   "maker_description": "High power midrange speaker",
+   "voice_coil_as_printed": "50 mm / 2″ CCA"
+  },
+  {
+   "model": "GZCM 6.5N-PROC",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    12000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 125,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 147,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-6-5n-proc/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger).",
+   "maker_description": "High end midrange speaker with neodymium magnet",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZCM 6.5NEO-DC",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 320,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    250,
+    12000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 133,
+    "re_ohm": 2.77,
+    "qms": 12.11,
+    "qes": 0.34,
+    "qts": 0.37,
+    "vas_l": 4.09,
+    "sd_cm2": null,
+    "xmax_mm": 5.0,
+    "mms_g": 8.18,
+    "bl_tm": 7.15,
+    "le_mh": 0.03,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 65,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-6-5neo-dc-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCM-NEO-DC_OM_AWV2.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger). T/S from the maker manual (GZCM-NEO-DC_OM_AWV2.0.pdf p.3). Manual Xmax 10 mm is peak to peak; xmax_mm = 10/2 (calculated). Manual prints Qes 0.34 with Qts 0.37 (Qts cannot exceed Qes): maker typo kept as printed.",
+   "maker_description": "High power midrange speaker",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZCM 6.5XSPL",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 320,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    150,
+    11000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 86,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 74,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-6-5xspl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger).",
+   "maker_description": "High power midrange speaker",
+   "voice_coil_as_printed": "30 mm / 1.2″ CCA"
+  },
+  {
+   "model": "GZCM 8.0N-PROC",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 500,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    9000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 81,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 181,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-8-0n-proc/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger).",
+   "maker_description": "High end midrange speaker with neodymium magnet",
+   "voice_coil_as_printed": "63 mm / 2.5″ CCA"
+  },
+  {
+   "model": "GZCM 8.0NEO-DC",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 100,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    160,
+    6000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 123.3,
+    "re_ohm": 2.77,
+    "qms": 11.24,
+    "qes": 0.45,
+    "qts": 0.43,
+    "vas_l": 7.57,
+    "sd_cm2": null,
+    "xmax_mm": 6.0,
+    "mms_g": 15.3,
+    "bl_tm": 8.55,
+    "le_mh": 0.03,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 76,
+   "cutout_mm": 182,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-8-0neo-dc-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCM-NEO-DC_OM_AWV2.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger). T/S from the maker manual (GZCM-NEO-DC_OM_AWV2.0.pdf p.3). Manual Xmax 12 mm is peak to peak; xmax_mm = 12/2 (calculated).",
+   "maker_description": "High power midrange speaker",
+   "voice_coil_as_printed": "38 mm CCA"
+  },
+  {
+   "model": "GZCM 8.0SPL",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 400,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    140,
+    10000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 91,
+    "re_ohm": 3.1,
+    "qms": 3.75,
+    "qes": 0.68,
+    "qts": 0.58,
+    "vas_l": 17.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 12.9,
+    "bl_tm": 5.8,
+    "le_mh": 0.02,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": 182,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-8-0spl/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.vas_l",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.bl_tm",
+      "params.re_ohm",
+      "params.le_mh",
+      "params.mms_g"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCM-SPL_OM_AWV2.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger). T/S from the maker manual (GZCM-SPL_OM_AWV2.0.pdf p.3).",
+   "maker_description": "High power midrange speaker",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZCM 8.0XSPL",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 170,
+   "peak_w": 420,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    120,
+    11000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 81,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 84,
+   "cutout_mm": 182,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcm-8-0xspl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger).",
+   "maker_description": "High power midrange speaker",
+   "voice_coil_as_printed": "30 mm / 1.2″ CCA"
+  },
+  {
+   "model": "GZCS K-165VW",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 60,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.61,
+    "vas_l": 11.4,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": 142,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-k-165vw/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger). Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific midrange speaker",
+   "voice_coil_as_printed": "38 mm / 1.5″ copper"
+  },
+  {
+   "model": "GZCS K-200VW",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    4500
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.61,
+    "vas_l": 30.3,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 180,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-k-200vw/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Maker calls it a midrange speaker; stored as midbass by size (6.5 in or larger). Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific midrange speaker",
+   "voice_coil_as_printed": "38 mm / 1.5″ copper"
+  },
+  {
+   "model": "GZCW 10PROC",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": 1000,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    30,
+    2400
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": 53,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 122,
+   "cutout_mm": 227,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcw-10proc/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High-Power SPL midwoofer",
+   "voice_coil_as_printed": "75 mm / 3″ Copper"
+  },
+  {
+   "model": "GZCW 10SPL",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": 1000,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    30,
+    2400
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 4.05,
+    "qms": 7.93,
+    "qes": 0.23,
+    "qts": 0.22,
+    "vas_l": 50,
+    "sd_cm2": null,
+    "xmax_mm": 9.0,
+    "mms_g": 87,
+    "bl_tm": 18,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 122,
+   "cutout_mm": 227,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcw-10spl/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZCW-10SPL_OM_AWV3.0.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 5,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZCW-10SPL_OM_AWV3.0.pdf p.5). Manual Xmax 18 mm is peak to peak; xmax_mm = 18/2 (calculated).",
+   "maker_description": "High-Power SPL midwoofer",
+   "voice_coil_as_printed": "75 mm / 3″ Copper"
+  },
+  {
+   "model": "GZHK 165",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 180,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49.4,
+    "re_ohm": 3.31,
+    "qms": 2.88,
+    "qes": 0.58,
+    "qts": 0.49,
+    "vas_l": 15.9,
+    "sd_cm2": null,
+    "xmax_mm": 4.0,
+    "mms_g": 16.3,
+    "bl_tm": 5.4,
+    "le_mh": 0.09,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 69,
+   "cutout_mm": 144,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzhk-165-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.vas_l",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZHK-165_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZHK-165_OM_AWV2.1.pdf p.3). Manual Xmax 8 mm is peak to peak; xmax_mm = 8/2 (calculated). Manual: Xmax 16 mm peak to peak, 8 mm peak to peak linear; xmax_mm = linear / 2.",
+   "maker_description": "High power midwoofer",
+   "voice_coil_as_printed": "38 mm / 1.5″ CCA"
+  },
+  {
+   "model": "GZIK 165SPL",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 61.5,
+    "re_ohm": 2.4,
+    "qms": 3.58,
+    "qes": 1.09,
+    "qts": 0.84,
+    "vas_l": 11.12,
+    "sd_cm2": null,
+    "xmax_mm": 6.0,
+    "mms_g": 16.3,
+    "bl_tm": 3.7,
+    "le_mh": 0.26,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68,
+   "cutout_mm": 142.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzik-165spl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.vas_l",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZIK-165SPL_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZIK-165SPL_OM_AWV2.1.pdf p.3). Manual Xmax 12 mm is peak to peak; xmax_mm = 12/2 (calculated). Manual: Xmax 14 mm peak to peak, 12 mm peak to peak linear; xmax_mm = linear / 2.",
+   "maker_description": "SPL midwoofer",
+   "voice_coil_as_printed": "25 mm / 1″ copper"
+  },
+  {
+   "model": "GZNK 165SQ-K",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 130,
+   "peak_w": 190,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 3.3,
+    "qms": 4.57,
+    "qes": 0.53,
+    "qts": 0.48,
+    "vas_l": 24.13,
+    "sd_cm2": null,
+    "xmax_mm": 6.0,
+    "mms_g": 14.3,
+    "bl_tm": 4.85,
+    "le_mh": 0.18,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 144,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gznk-165sq-k/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNK-165SQ-K_OM_AWV2.2.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 12,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZNK-165SQ-K_OM_AWV2.2.pdf p.12). Manual Xmax 12 mm is peak to peak; xmax_mm = 12/2 (calculated).",
+   "maker_description": "High-quality SQ midwoofer",
+   "voice_coil_as_printed": "38 mm / 1.5″"
+  },
+  {
+   "model": "GZPK 165SQ-C",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 140,
+   "peak_w": 200,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.3,
+    "qms": 7.87,
+    "qes": 0.43,
+    "qts": 0.41,
+    "vas_l": 27.9,
+    "sd_cm2": null,
+    "xmax_mm": 6.0,
+    "mms_g": 15.2,
+    "bl_tm": 5.75,
+    "le_mh": 0.21,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 144,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpk-165sq-c/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPK-165SQ-C_OM_AWV2.2.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 12,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZPK-165SQ-C_OM_AWV2.2.pdf p.12). Manual Xmax 12 mm is peak to peak; xmax_mm = 12/2 (calculated).",
+   "maker_description": "High-quality SQ midwoofer",
+   "voice_coil_as_printed": "38 mm / 1.5″"
+  },
+  {
+   "model": "GZRK 165SQX",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 160,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    45,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 60.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68,
+   "cutout_mm": 142.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrk-165sqx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High power midwoofer",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZRM 165X",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 120,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrm-165x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "2-way marine speakers"
+  },
+  {
+   "model": "GZTK 165",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 100,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    50,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 81.6,
+    "re_ohm": 3.07,
+    "qms": 3.53,
+    "qes": 1.27,
+    "qts": 0.94,
+    "vas_l": 7.27,
+    "sd_cm2": null,
+    "xmax_mm": 4.0,
+    "mms_g": 13.9,
+    "bl_tm": 4.1,
+    "le_mh": 0.19,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68,
+   "cutout_mm": 142.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gztk-165-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.vas_l",
+      "params.fs_hz",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZTK-165_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 3,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZTK-165_OM_AWV2.1.pdf p.3). Manual Xmax 8 mm is peak to peak; xmax_mm = 8/2 (calculated). Manual: Xmax 16 mm peak to peak, 8 mm peak to peak linear; xmax_mm = linear / 2.",
+   "maker_description": "High power midwoofer"
+  },
+  {
+   "model": "GZUK 165SQ",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 180,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    40,
+    3500
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 54.6,
+    "re_ohm": 3.2,
+    "qms": 3.87,
+    "qes": 0.77,
+    "qts": 0.64,
+    "vas_l": 12.6,
+    "sd_cm2": null,
+    "xmax_mm": 6.0,
+    "mms_g": 16.3,
+    "bl_tm": 4.84,
+    "le_mh": 0.17,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63,
+   "cutout_mm": 144,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzuk-165sq-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZUK-165SQ_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 10,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZUK-165SQ_OM_AWV2.1.pdf p.10). Manual Xmax 12 mm is peak to peak; xmax_mm = 12/2 (calculated).",
+   "maker_description": "Sound quality midwoofer",
+   "voice_coil_as_printed": "50 mm / 2″ copper"
+  }
+ ],
+ "no_specs_published": []
+}

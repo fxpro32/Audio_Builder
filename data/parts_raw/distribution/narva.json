@@ -1,0 +1,81 @@
+{
+ "schema": "parts_raw/1",
+ "category": "distribution",
+ "brand": "Narva",
+ "maker_site": "https://www.narva.com.au",
+ "method": "maker's Australian Shopify store, products.json titles, SKUs and AUD prices; parsed by scripts/parts/build_narva.py",
+ "terms_note": "Facts only (sizes, ratings, prices) with URL; no text or images copied.",
+ "units": {
+  "conductor_mm2": "mm2",
+  "current_rating_a": "A"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 3,
+ "records": [
+  {
+   "id": "narva-56285BL",
+   "model": "56285BL",
+   "title": "12 Pole Multi-Purpose Bus Bar (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-12-pole-multi-purpose-bus-bar-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "bus bar",
+   "poles": 12,
+   "bundle": true
+  },
+  {
+   "id": "narva-56284BL",
+   "model": "56284BL",
+   "title": "6 Pole Multi-Purpose Bus Bar (1 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-6-pole-multi-purpose-bus-bar-1-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "bus bar",
+   "poles": 6,
+   "bundle": true
+  },
+  {
+   "id": "narva-56284/50",
+   "model": "56284/50",
+   "title": "6 Pole Multi-Purpose Bus Bar (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-6-pole-multi-purpose-bus-bar-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "bus bar",
+   "poles": 6,
+   "bundle": true
+  }
+ ],
+ "not_recorded": []
+}

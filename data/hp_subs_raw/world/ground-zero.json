@@ -1,0 +1,1817 @@
+{
+ "brand": "Ground Zero",
+ "country": "Germany",
+ "brand_url": "https://www.ground-zero-audio.com/",
+ "terms_note": "robots.txt (https://www.ground-zero-audio.com/robots.txt) disallows only /wp-admin/; site 'Terms and Conditions' is a shop T&C page (not read in full). Pages and manuals read one at a time, 3 s apart, 2026-11-21; numbers only. EU maker: database right risk only for a substantial part of a protected database; we take per-model facts from the maker's own manuals, cited.",
+ "drivers": [
+  {
+   "model": "GZPW 18SPL",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": null,
+    "qms": 2.09,
+    "qes": 0.21,
+    "qts": 0.26,
+    "vas_l": 87,
+    "sd_cm2": null,
+    "xmax_mm": 17.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 420,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 110,
+     "tuning_hz": null,
+     "source": "GZPW-SPL-Serie.pdf p4: 4 x 10 cm ports, L 20 cm, f -3 dB 47 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-SPL-Serie.pdf",
+     "doc": "GZPW-SPL-Serie.pdf",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpw-18spl-2/",
+     "doc": "Ground Zero product page (English)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 35 mm. peak_w is the maker's SPL / short-term rating (10000 W). Sheet 'SPL dB/m' 95.1 taken as 1 W/1 m. DATA PROBLEM: Qts 0.26 printed, Qes and Qms give 0.19 (calculated). Mounting depth not printed (drawing only)."
+  },
+  {
+   "model": "GZPW 15SPL",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.1,
+    "re_ohm": null,
+    "qms": 10.95,
+    "qes": 0.23,
+    "qts": 0.23,
+    "vas_l": 36.8,
+    "sd_cm2": null,
+    "xmax_mm": 17.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 92.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 272,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 70,
+     "tuning_hz": null,
+     "source": "GZPW-SPL-Serie.pdf p4: 2 x 10 cm ports, L 14 cm, f -3 dB 47 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-SPL-Serie.pdf",
+     "doc": "GZPW-SPL-Serie.pdf",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "mounting_depth_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpw-15spl-2/",
+     "doc": "Ground Zero product page (English)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 35 mm. peak_w is the maker's SPL / short-term rating (10000 W). Mounting depth 272 mm from the product page (German version, 'Einbautiefe')."
+  },
+  {
+   "model": "GZPW 12SPL",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.9,
+    "re_ohm": null,
+    "qms": 5.46,
+    "qes": 0.43,
+    "qts": 0.4,
+    "vas_l": 20.7,
+    "sd_cm2": null,
+    "xmax_mm": 17.5,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 92.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 50,
+     "tuning_hz": null,
+     "source": "GZPW-SPL-Serie.pdf p4: 2 x 10 cm ports, L 25 cm, f -3 dB 47 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-SPL-Serie.pdf",
+     "doc": "GZPW-SPL-Serie.pdf",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "peak_w"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpw-12spl-2/",
+     "doc": "Ground Zero product page (English)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 35 mm. peak_w is the maker's SPL / short-term rating (6500 W). DATA PROBLEM: manual Fs 39.9 Hz, product page Fs 36.9 Hz; manual value used."
+  },
+  {
+   "model": "GZPW 10SPL",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1.6,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6500,
+   "final_loads_ohm": [
+    0.8,
+    3.2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51.7,
+    "re_ohm": null,
+    "qms": 4.73,
+    "qes": 0.44,
+    "qts": 0.4,
+    "vas_l": 6.9,
+    "sd_cm2": null,
+    "xmax_mm": 15.0,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 89.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 235,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 50,
+     "tuning_hz": null,
+     "source": "Manual_GZPW10SPL_REV.pdf p2"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/Manual_GZPW10SPL_REV.pdf",
+     "doc": "Manual_GZPW10SPL_REV.pdf",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "peak_w",
+      "cutout_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpw-10spl-2/",
+     "doc": "Ground Zero product page (English)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 30 mm. peak_w is the maker's SPL / short-term rating (6500 W). Manual impedance '2 x 1,6' ohm, so final loads are 0.8 or 3.2 ohm (calculated); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Manual power line reads 'SPL Power W/RMS 6500 Watt SPL Power'; rms_w 3000 from the product page."
+  },
+  {
+   "model": "GZPW 15XXmax",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31.6,
+    "re_ohm": 2.12,
+    "qms": null,
+    "qes": 0.43,
+    "qts": 0.4,
+    "vas_l": 27.0,
+    "sd_cm2": null,
+    "xmax_mm": 40.0,
+    "mms_g": 642,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 84.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 297,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-15XXmax_OM_AWV2.1.pdf",
+     "doc": "GZPW-15XXmax_OM_AWV2.1.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "rms_w",
+      "spl_db_1w1m",
+      "mounting_depth_mm",
+      "cutout_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpw-15xxmax-2/",
+     "doc": "Ground Zero product page (English)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Sheet prints Re with '(serial)'. Qms and Bl are blank on the sheet. Efficiency 84.3 dB from the product page."
+  },
+  {
+   "model": "GZPW 15Xmax",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.3,
+    "re_ohm": 2,
+    "qms": 6.022,
+    "qes": 0.477,
+    "qts": 0.442,
+    "vas_l": 22.81,
+    "sd_cm2": null,
+    "xmax_mm": 40.0,
+    "mms_g": 709.6,
+    "bl_tm": 23.4,
+    "le_mh": 1.6,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 313,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 120,
+     "tuning_hz": null,
+     "source": "maker manual: slot port 400 cm2, L-port 41 cm; F3 32.6 Hz"
+    },
+    {
+     "type": "vented",
+     "volume_l": 140,
+     "tuning_hz": null,
+     "source": "maker manual: slot port 400 cm2, L-port 41 cm; F3 30 Hz"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 40,
+     "tuning_hz": null,
+     "source": "GZPW-15Xmax-2017.pdf: Qtc 0.38 to 0.55 (two figures printed)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-15Xmax_OM_032017.pdf",
+     "doc": "GZPW-15Xmax_OM_032017.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "recommended_boxes"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-15Xmax-2017.pdf",
+     "doc": "GZPW-15Xmax-2017.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Re 2 ohm on a 2 x 1 ohm DVC matches coils in series. Sheet 'SPL dB/m' 85."
+  },
+  {
+   "model": "GZPW 15NEO-SPL",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 10000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 41.2,
+    "re_ohm": 1.9,
+    "qms": 3.87,
+    "qes": 0.2,
+    "qts": 0.19,
+    "vas_l": 25.6,
+    "sd_cm2": 829.58,
+    "xmax_mm": 30,
+    "mms_g": 560.6,
+    "bl_tm": 37.4,
+    "le_mh": 0.61,
+    "spl_db_1w1m": 91.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 307,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-15NEO-SPL-datasheet_2018.pdf",
+     "doc": "GZPW-15NEO-SPL-datasheet_2018.pdf",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax 30 mm is printed as one-direction linear excursion. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (10000 W). Data sheet also gives Res 735.6 ohm, Rms 37.5 g/s, Cms 0.03 mm/N, recommended amp 2000 to 4000 W RMS, max 10000 W (competition)."
+  },
+  {
+   "model": "GZNW 15Xmax",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.5,
+    "re_ohm": 2,
+    "qms": 5.13,
+    "qes": 0.352,
+    "qts": 0.33,
+    "vas_l": 35.72,
+    "sd_cm2": null,
+    "xmax_mm": 40.0,
+    "mms_g": 575.2,
+    "bl_tm": 25.9,
+    "le_mh": 2.179,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 285,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 80,
+     "tuning_hz": null,
+     "source": "maker manual: slot port 400 cm2, L-port 94 cm; F3 30 Hz"
+    },
+    {
+     "type": "vented",
+     "volume_l": 100,
+     "tuning_hz": null,
+     "source": "maker manual: slot port 400 cm2, L-port 94 cm; F3 28 Hz"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 40,
+     "tuning_hz": null,
+     "source": "GZNW-15Xmax-2017.pdf: Qtc 0.45"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-15Xmax_OM_012017.pdf",
+     "doc": "GZNW-15Xmax_OM_012017.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "recommended_boxes"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-15Xmax-2017.pdf",
+     "doc": "GZNW-15Xmax-2017.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Re 2 ohm on a 2 x 1 ohm DVC matches coils in series."
+  },
+  {
+   "model": "GZNW 38NEO-SPL",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.6,
+    "re_ohm": 1.91,
+    "qms": 5.55,
+    "qes": 0.18,
+    "qts": 0.18,
+    "vas_l": 34.9,
+    "sd_cm2": null,
+    "xmax_mm": 30.0,
+    "mms_g": 667,
+    "bl_tm": 37.7,
+    "le_mh": 2.56,
+    "spl_db_1w1m": 89.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 300,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-38NEO-SPL_OM_052020.pdf",
+     "doc": "GZNW-38NEO-SPL_OM_052020.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 60 mm. peak_w is the maker's SPL / short-term rating (5000 W). DATA PROBLEM: the product page shows different values (Fs 25.8 Hz, Qts 0.111, Vas 50.8 L, Xmax 64 mm); the owner's manual values are used."
+  },
+  {
+   "model": "GZNW 18SPL-Xflex",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26,
+    "re_ohm": 2.0,
+    "qms": 5.582,
+    "qes": 0.582,
+    "qts": 0.527,
+    "vas_l": 159.2,
+    "sd_cm2": null,
+    "xmax_mm": 35.0,
+    "mms_g": 404.4,
+    "bl_tm": 15.13,
+    "le_mh": 0.69,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 286,
+   "cutout_mm": 425,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 200,
+     "tuning_hz": null,
+     "source": "maker manual: port 80 x 250 mm, L 13 cm; F3 28 Hz"
+    },
+    {
+     "type": "vented",
+     "volume_l": 120,
+     "tuning_hz": null,
+     "source": "maker manual: port 80 x 250 mm, L 44 cm; F3 28 Hz"
+    },
+    {
+     "type": "bandpass",
+     "volume_l": null,
+     "tuning_hz": null,
+     "source": "GZNW-18SPL-Xflex_OM_042019.pdf: 4th order, 70 L sealed + 100 L vented, port 140 x 250 mm, L 30 cm"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-18SPL-Xflex_OM_042019.pdf",
+     "doc": "GZNW-18SPL-Xflex_OM_042019.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 70 mm. peak_w is the maker's SPL / short-term rating (6500 W)."
+  },
+  {
+   "model": "GZNW 15SPL-Xflex",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.2,
+    "re_ohm": 2,
+    "qms": 5.506,
+    "qes": 0.54,
+    "qts": 0.492,
+    "vas_l": 59.1,
+    "sd_cm2": null,
+    "xmax_mm": 35.0,
+    "mms_g": 403.77,
+    "bl_tm": 17.0,
+    "le_mh": 1.41,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 260,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 100,
+     "tuning_hz": null,
+     "source": "maker manual: port 1 x 160 mm, L 26 cm; F3 31 Hz"
+    },
+    {
+     "type": "bandpass",
+     "volume_l": null,
+     "tuning_hz": 42,
+     "source": "GZNW-15SPL-Xflex_OM_062018.pdf p3: 4th order, 50 L sealed + 80 L vented, port 160 mm L 30 cm, bandwidth 28 to 66 Hz"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 55,
+     "tuning_hz": null,
+     "source": "GZNW-15SPL-Xflex_OM_062018.pdf p3: 50 to 60 L net, Qtc 0.72, F3 43 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-15SPL-Xflex_OM_062018.pdf",
+     "doc": "GZNW-15SPL-Xflex_OM_062018.pdf",
+     "page": 2,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 70 mm. peak_w is the maker's SPL / short-term rating (5500 W). Manual: recommended amp power 1500 to 5500 W RMS at 2 ohm (0.5 ohm)."
+  },
+  {
+   "model": "GZNW 12Xmax",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.6,
+    "re_ohm": 1.8,
+    "qms": 6.815,
+    "qes": 0.67,
+    "qts": 0.61,
+    "vas_l": 13.59,
+    "sd_cm2": null,
+    "xmax_mm": 30.0,
+    "mms_g": 427,
+    "bl_tm": 16,
+    "le_mh": 1.28,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 250,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 60,
+     "tuning_hz": null,
+     "source": "maker manual: slot port 240 cm2, L-port 67 cm; F3 31.6 Hz"
+    },
+    {
+     "type": "vented",
+     "volume_l": 80,
+     "tuning_hz": null,
+     "source": "maker manual: slot port 240 cm2, L-port 67 cm; F3 26 Hz"
+    },
+    {
+     "type": "vented",
+     "volume_l": 80,
+     "tuning_hz": null,
+     "source": "maker manual: aeroport 16 cm, total length 38 cm; F3 29 Hz"
+    },
+    {
+     "type": "vented",
+     "volume_l": 100,
+     "tuning_hz": null,
+     "source": "maker manual: aeroport 16 cm, total length 38 cm; F3 27 Hz"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 25,
+     "tuning_hz": null,
+     "source": "GZNW-12Xmax-2019.pdf: Qtc 0.76, F3 41 Hz"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 45,
+     "tuning_hz": null,
+     "source": "GZNW-12Xmax-2019.pdf: Qtc 0.70, F3 41 Hz"
+    },
+    {
+     "type": "bandpass",
+     "volume_l": null,
+     "tuning_hz": null,
+     "source": "GZNW-12Xmax-2019.pdf: 4th order V1 25 L, V2 40 L, bandwidth 29 to 75 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-12Xmax_OM_052019.pdf",
+     "doc": "GZNW-12Xmax_OM_052019.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "recommended_boxes"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-12Xmax-2019.pdf",
+     "doc": "GZNW-12Xmax-2019.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 60 mm. Sheet 'SPL dB/m' 83."
+  },
+  {
+   "model": "GZNW 38SPL-D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.5,
+    "re_ohm": 3.2,
+    "qms": 3.82,
+    "qes": 0.72,
+    "qts": 0.61,
+    "vas_l": 63,
+    "sd_cm2": null,
+    "xmax_mm": 40.0,
+    "mms_g": 278.4,
+    "bl_tm": 16.8,
+    "le_mh": null,
+    "spl_db_1w1m": 88.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 269,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 95,
+     "tuning_hz": 44,
+     "source": "maker manual: 2 x 10 cm ports; F3 35 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-38SPL-D1-D2_OM_052020.pdf",
+     "doc": "GZNW-38SPL-D1-D2_OM_052020.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (7000 W). Product page Vas 63.3 L."
+  },
+  {
+   "model": "GZNW 38SPL-D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.0,
+    "re_ohm": 1.73,
+    "qms": 5.34,
+    "qes": 0.57,
+    "qts": 0.52,
+    "vas_l": 54,
+    "sd_cm2": null,
+    "xmax_mm": 40.0,
+    "mms_g": 344.2,
+    "bl_tm": 15.3,
+    "le_mh": null,
+    "spl_db_1w1m": 88.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 269,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 95,
+     "tuning_hz": 44,
+     "source": "maker manual: 2 x 10 cm ports; F3 39 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-38SPL-D1-D2_OM_052020.pdf",
+     "doc": "GZNW-38SPL-D1-D2_OM_052020.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (7000 W)."
+  },
+  {
+   "model": "GZNW 30SPL-D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 41.3,
+    "re_ohm": 3.2,
+    "qms": 3.61,
+    "qes": 0.63,
+    "qts": 0.54,
+    "vas_l": 25.0,
+    "sd_cm2": null,
+    "xmax_mm": 35.0,
+    "mms_g": 219.9,
+    "bl_tm": 17.0,
+    "le_mh": null,
+    "spl_db_1w1m": 86.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 237,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 60,
+     "tuning_hz": 47,
+     "source": "maker manual: 10 cm port; F3 37 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-30SPL-D1-D2_OM_052020.pdf",
+     "doc": "GZNW-30SPL-D1-D2_OM_052020.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 70 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (6000 W)."
+  },
+  {
+   "model": "GZNW 30SPL-D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 38.6,
+    "re_ohm": 1.72,
+    "qms": 4.4,
+    "qes": 0.42,
+    "qts": 0.38,
+    "vas_l": 23.6,
+    "sd_cm2": null,
+    "xmax_mm": 35.0,
+    "mms_g": 269.5,
+    "bl_tm": 16.3,
+    "le_mh": null,
+    "spl_db_1w1m": 87.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 237,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 60,
+     "tuning_hz": 47,
+     "source": "maker manual: 10 cm port; F3 39 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-30SPL-D1-D2_OM_052020.pdf",
+     "doc": "GZNW-30SPL-D1-D2_OM_052020.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 70 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (6000 W)."
+  },
+  {
+   "model": "GZNW 12SPL-Xflex",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 4500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.9,
+    "re_ohm": 2,
+    "qms": 4.43,
+    "qes": 0.39,
+    "qts": 0.361,
+    "vas_l": 27.26,
+    "sd_cm2": null,
+    "xmax_mm": 30.0,
+    "mms_g": 289.86,
+    "bl_tm": 18,
+    "le_mh": 1.28,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 226,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 80,
+     "tuning_hz": null,
+     "source": "maker manual: port 1 x 160 mm, L 29 cm; F3 35 Hz"
+    },
+    {
+     "type": "bandpass",
+     "volume_l": null,
+     "tuning_hz": 55,
+     "source": "GZNW-12SPL-Xflex_OM_122017.pdf: 4th order 30 L sealed + 50 L vented, port 160 mm L 28 cm, bandwidth 36 to 82 Hz"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 25,
+     "tuning_hz": null,
+     "source": "GZNW-12SPL-Xflex_OM_122017.pdf: Qtc 0.62, F3 60 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-12SPL-Xflex_OM_122017.pdf",
+     "doc": "GZNW-12SPL-Xflex_OM_122017.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 60 mm. peak_w is the maker's SPL / short-term rating (4500 W)."
+  },
+  {
+   "model": "GZNW 12X-D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 3500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 21.8,
+    "re_ohm": 1.04,
+    "qms": 7.76,
+    "qes": 0.32,
+    "qts": 0.41,
+    "vas_l": 35,
+    "sd_cm2": null,
+    "xmax_mm": 31.0,
+    "mms_g": 438.35,
+    "bl_tm": 14.3,
+    "le_mh": null,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 210,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 60,
+     "tuning_hz": null,
+     "source": "maker manual: port 40 x 250 mm, L 257 mm; F3 32 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-12X-D2_OM_AWV4.0.pdf",
+     "doc": "GZNW-12X-D2_OM_AWV4.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 62 mm. Sheet prints Re with '(parallel)'. peak_w is the maker's SPL / short-term rating (3500 W). DATA PROBLEM: manual Qts 0.41, but Qes 0.32 and Qms 7.76 give 0.307 (calculated) and the product page prints Qts 0.33."
+  },
+  {
+   "model": "GZNW 15NEO-EXTREME",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 36.6,
+    "re_ohm": 1.82,
+    "qms": 5.55,
+    "qes": 0.18,
+    "qts": 0.17,
+    "vas_l": 35,
+    "sd_cm2": null,
+    "xmax_mm": 32.5,
+    "mms_g": 657,
+    "bl_tm": 41.2,
+    "le_mh": null,
+    "spl_db_1w1m": 91,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 300,
+   "cutout_mm": 358,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-15NEO-EXTREME_OM_AWV3.0-V2.pdf",
+     "doc": "GZNW-15NEO-EXTREME_OM_AWV3.0-V2.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 65 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (6000 W)."
+  },
+  {
+   "model": "GZNW 15X-D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 35.2,
+    "re_ohm": 4.02,
+    "qms": 9.05,
+    "qes": 0.57,
+    "qts": 0.54,
+    "vas_l": 28,
+    "sd_cm2": 706.86,
+    "xmax_mm": 31.0,
+    "mms_g": 513.65,
+    "bl_tm": 28.29,
+    "le_mh": 2.73,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 250,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 116,
+     "tuning_hz": null,
+     "source": "maker manual: port 215 x 130 mm, L 400 mm; F3 31 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-15X-D2_OM_AWV4.1.pdf",
+     "doc": "GZNW-15X-D2_OM_AWV4.1.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 62 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (4000 W)."
+  },
+  {
+   "model": "GZPW 15NEO-XSPL",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6500,
+   "peak_w": 25000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 1.8,
+    "qms": 3.179,
+    "qes": 0.154,
+    "qts": 0.147,
+    "vas_l": 25.9,
+    "sd_cm2": 829.6,
+    "xmax_mm": 30.0,
+    "mms_g": 754.01,
+    "bl_tm": 44.42,
+    "le_mh": 2.212,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 325,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-15NEO-XSPL_OM_AWV4.1.pdf",
+     "doc": "GZPW-15NEO-XSPL_OM_AWV4.1.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 60 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (25000 W). SPL rating 25000 W is for 3 s. Product page prints the Vas figure (26 L) on its Qts row."
+  },
+  {
+   "model": "GZPW 15XMAX-II",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 1.95,
+    "qms": 6.21,
+    "qes": 0.445,
+    "qts": 0.415,
+    "vas_l": 27.2,
+    "sd_cm2": 697.46,
+    "xmax_mm": 40.0,
+    "mms_g": 712.2,
+    "bl_tm": 24.242,
+    "le_mh": 1.345,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 310,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 116,
+     "tuning_hz": null,
+     "source": "maker manual: port 242 x 130 mm, L 450 mm; F3 31 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-15XMAX-II_OM_AWV4.0.pdf",
+     "doc": "GZPW-15XMAX-II_OM_AWV4.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Sheet prints Re with '(serial)'."
+  },
+  {
+   "model": "GZNW 30XMAX-II",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 35.6,
+    "re_ohm": 1.8,
+    "qms": 6.82,
+    "qes": 0.67,
+    "qts": 0.61,
+    "vas_l": 13.6,
+    "sd_cm2": 444.88,
+    "xmax_mm": 30.0,
+    "mms_g": 427,
+    "bl_tm": 16,
+    "le_mh": 1.28,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 250,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 80,
+     "tuning_hz": null,
+     "source": "maker manual: slot port 240 x 100 mm, L 670 mm; F3 26 Hz"
+    },
+    {
+     "type": "vented",
+     "volume_l": 100,
+     "tuning_hz": null,
+     "source": "maker manual: round port 16 cm, L 380 mm; F3 27 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-30XMAX-II_OM_AWV4.0.pdf",
+     "doc": "GZNW-30XMAX-II_OM_AWV4.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 60 mm. Sheet prints Re with '(serial)'."
+  },
+  {
+   "model": "GZNW 38XMAX-II",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 2.4,
+    "qms": 8.43,
+    "qes": 0.54,
+    "qts": 0.5,
+    "vas_l": 26.2,
+    "sd_cm2": 697.46,
+    "xmax_mm": 30.0,
+    "mms_g": 695.9,
+    "bl_tm": 24.6,
+    "le_mh": 1.869,
+    "spl_db_1w1m": 84,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 300,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 116,
+     "tuning_hz": null,
+     "source": "maker manual: port 242 x 130 mm, L 400 mm; F3 31 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-38XMAX-II_OM_AWV4.0.pdf",
+     "doc": "GZNW-38XMAX-II_OM_AWV4.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 60 mm. Sheet prints Re with '(serial)'. Product page prints Xmax 62 mm and Qts 0.51; manual values used."
+  },
+  {
+   "model": "GZNW 38NEO-XSPL",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 25000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 1.5,
+    "qms": 5.847,
+    "qes": 0.164,
+    "qts": 0.16,
+    "vas_l": 24.5,
+    "sd_cm2": 829.6,
+    "xmax_mm": 40.0,
+    "mms_g": 1049.11,
+    "bl_tm": 43.893,
+    "le_mh": 2.437,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 315,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-38NEO-XSPL_OM_AWV4.0.pdf",
+     "doc": "GZNW-38NEO-XSPL_OM_AWV4.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (25000 W). SPL rating 25000 W is for 3 s."
+  },
+  {
+   "model": "GZNW 38C",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": 25000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 1.5,
+    "qms": 10.23,
+    "qes": 0.39,
+    "qts": 0.38,
+    "vas_l": 23,
+    "sd_cm2": 829.6,
+    "xmax_mm": 40.0,
+    "mms_g": 992,
+    "bl_tm": 27.9,
+    "le_mh": 2.441,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 290,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 116,
+     "tuning_hz": null,
+     "source": "maker manual: port 242 x 130 mm, L 400 mm; F3 33 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZNW-38C_OM_AWV4.0.pdf",
+     "doc": "GZNW-38C_OM_AWV4.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (25000 W). SPL rating 25000 W is for 3 s."
+  },
+  {
+   "model": "GZPW 15C",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6500,
+   "peak_w": 25000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 1.95,
+    "qms": 6.683,
+    "qes": 0.551,
+    "qts": 0.509,
+    "vas_l": 28.18,
+    "sd_cm2": 829.6,
+    "xmax_mm": 30.0,
+    "mms_g": 858.5,
+    "bl_tm": 27.522,
+    "le_mh": 1.297,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 300,
+   "cutout_mm": 360,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 116,
+     "tuning_hz": null,
+     "source": "maker manual: port 242 x 130 mm, L 400 mm; F3 31 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-15C_OM_AWV4.0.pdf",
+     "doc": "GZPW-15C_OM_AWV4.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 60 mm. Sheet prints Re with '(serial)'. peak_w is the maker's SPL / short-term rating (25000 W). SPL rating 25000 W is for 3 s."
+  },
+  {
+   "model": "GZPW 18C",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 6000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 1.51,
+    "qms": null,
+    "qes": 0.39,
+    "qts": 0.38,
+    "vas_l": 29.44,
+    "sd_cm2": 1195,
+    "xmax_mm": 40.0,
+    "mms_g": 1344,
+    "bl_tm": 34.25,
+    "le_mh": 2.51,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 310,
+   "cutout_mm": 428,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "vented",
+     "volume_l": 120,
+     "tuning_hz": null,
+     "source": "maker manual: port 470 x 50 mm or 3 x 100 mm round, L 300 mm; F3 34 Hz"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-18C_TechnicalData_EN.pdf",
+     "doc": "GZPW-18C_TechnicalData_EN.pdf",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "recommended_boxes"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZPW-18C_OM_AWV4.0_.pdf",
+     "doc": "GZPW-18C_OM_AWV4.0_.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 80 mm. Technical data sheet TD1.0 04/2026; Qms not printed. Voice coil 75 mm."
+  },
+  {
+   "model": "GZAW 15-2.5KD2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": null,
+    "qms": 4.91,
+    "qes": 0.32,
+    "qts": 0.3,
+    "vas_l": 59.79,
+    "sd_cm2": null,
+    "xmax_mm": 15.0,
+    "mms_g": 471,
+    "bl_tm": 31.53,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 246,
+   "cutout_mm": 357,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZAW-15-2.5KD2_OM_AWV3.0.pdf",
+     "doc": "GZAW-15-2.5KD2_OM_AWV3.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "spl_db_1w1m",
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzaw-15-2-5kd2/",
+     "doc": "Ground Zero product page (English)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 30 mm. Manual does not print Re. Efficiency 88 dB from the product page."
+  },
+  {
+   "model": "GZAW 12-2.5KD2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.4,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.22,
+    "vas_l": 36.4,
+    "sd_cm2": null,
+    "xmax_mm": 15.0,
+    "mms_g": null,
+    "bl_tm": 31.84,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 217,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZAW-12-2.5KD2_OM_AWV3.0.pdf",
+     "doc": "GZAW-12-2.5KD2_OM_AWV3.0.pdf",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "qts",
+      "spl_db_1w1m"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzaw-12-2-5kd2/",
+     "doc": "Ground Zero product page (English)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Ground Zero prints 'Xmax' as peak-to-peak: sheets for GZAW, GZPW 15XXmax and GZPW 18C label it 'p2p', and the GZPW 15NEO-SPL data sheet gives 'linear excursion (one direction) 30 mm' where its product page shows 60 mm. xmax_mm here is the printed figure divided by 2 (calculated); printed value: 30 mm. Manual prints only Fs, Vas, Bl and Xmax of the T/S set; Qts 0.22 from the product page."
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "GZPW 18SPL-EXTREME",
+   "rms_w": 7000,
+   "url": "https://www.ground-zero-audio.com/en/gzpw-18spl-extreme-2/",
+   "note": "Product page: 2 x 1 ohm, 7000/15000 W, Xmax 35 mm (printed, peak-to-peak by GZ convention), cut-out 420 mm; manual link is the GZPW SPL series manual, which has no Extreme column."
+  },
+  {
+   "model": "GZPW 15SPL-EXTREME",
+   "rms_w": 7000,
+   "url": "https://www.ground-zero-audio.com/en/gzpw-15spl-extreme-2/",
+   "note": "Product page: 2 x 1 ohm, 7000/15000 W, efficiency 92 dB, Xmax 35 mm printed; no T/S on the page or in the linked series manual."
+  },
+  {
+   "model": "GZPW 12SPL-EXTREME",
+   "rms_w": 4000,
+   "url": "https://www.ground-zero-audio.com/en/gzpw-12spl-extreme-2/",
+   "note": "Product page: 2 x 1 ohm, 4000/8000 W, efficiency 91.5 dB, Xmax 35 mm printed, cut-out 285 mm; no T/S published."
+  }
+ ],
+ "excluded_notes": "Ground Zero subs below 2000 W RMS per product pages read 2026-11-21: GZHW (max 1500 W), GZRW (max 1200 W), GZIW (max 600 W), GZCW (max 800 W), GZPW 10SQ/SQX, GZNW 25C (1500 W). GZNW 12X-D2 is exactly 2000 W."
+}

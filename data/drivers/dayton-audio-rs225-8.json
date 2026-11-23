@@ -1,0 +1,4 @@
+{ "id": "dayton-audio-rs225-8", "brand": "Dayton Audio", "model": "RS225-8",
+  "params": { "fs": 28.3, "Re": 6.6, "Qms": 1.46, "Qes": 0.514, "Qts": 0.38, "Vas": 0.0566, "Mms": 0.036, "Cms": 0.000883, "Rms": 4.36, "Sd": 0.021266, "Xmax": 0.007, "Znom": 8 },
+  "sources": [{ "param": "*", "source": "references/research_c_design_maths.md T8 (third-party database summary)", "where": "UNVERIFIED against the Dayton PDF" }],
+  "notes": "Test case T8. Check against the manufacturer's sheet before building." }

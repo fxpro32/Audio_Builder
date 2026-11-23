@@ -1,0 +1,95 @@
+{
+ "brand": "Power Acoustik",
+ "country": "USA",
+ "brand_url": "https://poweracoustik.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Power Acoustik PR-804C",
+   "title": "PR-804C | 8\" 2-Way Midrange Pro Audio Speakers w/ Compression Tweeter (Pair)",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/pr-804c-8-2-way-midrange-pro-audio-speakers-w-compression-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik PR-694C",
+   "title": "PR-694C | 6\"x9\" 2-Way Midrange Pro Audio Speakers w/ Compression Tweeter (Pair)",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/pr-694c-6x9-2-way-midrange-pro-audio-speakers-w-compression-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik PR-654C",
+   "title": "PR-654C | 6.5\" 2-Way Midrange Pro Audio Speakers w/ Compression Tweeter (Pair)",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/pr-654c-6-5-2-way-midrange-pro-audio-speakers-w-compression-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik PR-804T",
+   "title": "PR-804T | 8\" 2-Way Midrange Pro Audio Speakers w/ Bullet Tweeter (Pair)",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/pr-804t-8-2-way-midrange-pro-audio-speakers-w-bullet-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik PR-694T",
+   "title": "PR-694T | 6\"x9\" 2-Way Midrange Pro Audio Speakers w/ Bullet Tweeter (Pair)",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/pr-694t-6x9-2-way-midrange-pro-audio-speakers-w-bullet-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik PR-654T",
+   "title": "PR-654T | 6.5\" 2-Way Midrange Pro Audio Speakers w/ Bullet Tweeter (Pair)",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/pr-654t-6-5-2-way-midrange-pro-audio-speakers-w-bullet-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik XPS-104",
+   "title": "XPS-104 | 120W 4-Inch Midrange Speaker",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/xps-104",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik EF-694",
+   "title": "EF-694 | 800W Coaxial Speaker",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/ef-694",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik EF-653",
+   "title": "EF-653 | 400W Coaxial Speaker",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/ef-653",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik EF-573",
+   "title": "EF-573 | 500W Coaxial Speaker",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/ef-573",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik EF-52",
+   "title": "EF-52 | 300W Coaxial Speaker",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/ef-52",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Power Acoustik EF-42",
+   "title": "EF-42 | 250W Coaxial Speaker",
+   "type": "coaxial",
+   "url": "https://poweracoustik.com/products/ef-42",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

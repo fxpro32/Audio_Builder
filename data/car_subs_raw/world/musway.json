@@ -1,0 +1,568 @@
+{
+ "brand": "Musway (Audio Design GmbH)",
+ "country": "Germany",
+ "brand_url": "https://www.musway.de",
+ "terms_note": "R2 2026-11-23: subwoofer page, 9 product pages and 7 data sheets read 3 s apart. EU maker: per-model facts only. Numbers only.",
+ "coverage": "all passive subwoofer drivers on the maker's Subwoofer page (MG, MWS, MW, MWF)",
+ "hp_subs_raw_file": null,
+ "drivers": [
+  {
+   "model": "MG10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 1.8,
+    "qms": 3.89,
+    "qes": 0.56,
+    "qts": 0.49,
+    "vas_l": 31.5,
+    "sd_cm2": 339,
+    "xmax_mm": 14,
+    "mms_g": 130,
+    "bl_tm": 13.7,
+    "le_mh": 1.61,
+    "spl_db_1w1m": 84.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 162,
+   "cutout_mm": 240,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 32,
+     "tuning_hz": 38,
+     "source": "maker data sheet",
+     "note": "'Deep Tuning' or first printed alignment"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/assets/mg10_ds.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mg10.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet row 'Flux Density' carries the B/L value in N/A (Tm); entered as bl_tm. Sheet also prints 'Xmax (Peak)' +/- 20 mm (mechanical); one-way linear Xmax entered. Data sheet prints labels and values in separate columns; paired in printed order.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MG12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": 1400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 1.8,
+    "qms": 3.28,
+    "qes": 0.46,
+    "qts": 0.4,
+    "vas_l": 64,
+    "sd_cm2": 531,
+    "xmax_mm": 14,
+    "mms_g": 174,
+    "bl_tm": 16.1,
+    "le_mh": 1.8,
+    "spl_db_1w1m": 87.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 181,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 50,
+     "tuning_hz": 35,
+     "source": "maker data sheet",
+     "note": "'Deep Tuning' or first printed alignment"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/assets/mg12_ds.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mg12.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet row 'Flux Density' carries the B/L value in N/A (Tm); entered as bl_tm. Sheet also prints 'Xmax (Peak)' +/- 22 mm (mechanical); one-way linear Xmax entered. Data sheet prints labels and values in separate columns; paired in printed order.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MG8",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46,
+    "re_ohm": 1.8,
+    "qms": 3.89,
+    "qes": 0.49,
+    "qts": 0.44,
+    "vas_l": 9.5,
+    "sd_cm2": 207,
+    "xmax_mm": 13.5,
+    "mms_g": 75.6,
+    "bl_tm": 12.5,
+    "le_mh": 1.51,
+    "spl_db_1w1m": 84.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 138,
+   "cutout_mm": 185,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 18,
+     "tuning_hz": 46,
+     "source": "maker data sheet",
+     "note": "'Deep Tuning' or first printed alignment"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/assets/mg8_ds.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mg8.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet row 'Flux Density' carries the B/L value in N/A (Tm); entered as bl_tm. Sheet also prints 'Xmax (Peak)' +/- 19 mm (mechanical); one-way linear Xmax entered. Data sheet prints labels and values in separate columns; paired in printed order.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MW622",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 150,
+   "peak_w": 300,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51.3,
+    "re_ohm": 2,
+    "qms": 2.98,
+    "qes": 0.53,
+    "qts": 0.45,
+    "vas_l": 8.2,
+    "sd_cm2": 144,
+    "xmax_mm": 3.5,
+    "mms_g": 34.2,
+    "bl_tm": 9.1,
+    "le_mh": 1.3,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 85,
+   "cutout_mm": 144,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 14,
+     "tuning_hz": 48,
+     "source": "maker data sheet",
+     "note": "'Deep Tuning' or first printed alignment"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/assets/mw622_ds.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mw622.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet row 'Flux Density' carries the B/L value in N/A (Tm); entered as bl_tm. Sheet also prints 'Xmax (Peak)' +/- 12 mm (mechanical); one-way linear Xmax entered. Data sheet prints labels and values in separate columns; paired in printed order.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MWF104SQ",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 3.6,
+    "qms": 8.93,
+    "qes": 0.65,
+    "qts": 0.6,
+    "vas_l": 19.5,
+    "sd_cm2": 380,
+    "xmax_mm": 14.4,
+    "mms_g": 241,
+    "bl_tm": 17.5,
+    "le_mh": 5.2,
+    "spl_db_1w1m": 82.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 74,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 20,
+     "tuning_hz": 37,
+     "source": "maker data sheet",
+     "note": "'Deep Tuning' or first printed alignment"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/assets/mwf104sq_ds.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mwf104sq.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet row 'Flux Density' carries the B/L value in N/A (Tm); entered as bl_tm. Sheet also prints 'Xmax (Peak)' +/- 20 mm (mechanical); one-way linear Xmax entered. Data sheet prints labels and values in separate columns; paired in printed order.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MWS1022",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.6,
+    "re_ohm": 1.8,
+    "qms": 5.93,
+    "qes": 0.86,
+    "qts": 0.75,
+    "vas_l": 31.2,
+    "sd_cm2": 346,
+    "xmax_mm": 10,
+    "mms_g": 128,
+    "bl_tm": 7.45,
+    "le_mh": 4.6,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 35,
+     "tuning_hz": 38,
+     "source": "maker data sheet",
+     "note": "'Deep Tuning' or first printed alignment"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/assets/mws1022_ds.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mws1022.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet row 'Flux Density' carries the B/L value in N/A (Tm); entered as bl_tm. Sheet also prints 'Xmax (Peak)' +/- 15 mm (mechanical); one-way linear Xmax entered. Data sheet prints labels and values in separate columns; paired in printed order.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MWS1044",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.7,
+    "vas_l": 27.5,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": 232,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mws1044.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the product page block (Fs, Qts, Vas, Xmax only).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MWS822",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.7,
+    "re_ohm": 1.8,
+    "qms": 6.41,
+    "qes": 0.63,
+    "qts": 0.575,
+    "vas_l": 10.9,
+    "sd_cm2": 214,
+    "xmax_mm": 10,
+    "mms_g": 94.5,
+    "bl_tm": 8.36,
+    "le_mh": 4.6,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 78,
+   "cutout_mm": 182,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 20,
+     "tuning_hz": 39,
+     "source": "maker data sheet",
+     "note": "'Deep Tuning' or first printed alignment"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/assets/mws822_ds.pdf",
+     "doc": "data sheet PDF",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mws822.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet row 'Flux Density' carries the B/L value in N/A (Tm); entered as bl_tm. Sheet also prints 'Xmax (Peak)' +/- 15 mm (mechanical); one-way linear Xmax entered. Data sheet prints labels and values in separate columns; paired in printed order.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MWS844",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.7,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.598,
+    "vas_l": 10.1,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 78,
+   "cutout_mm": 182,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.musway.de/mws844.html",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S from the product page block (Fs, Qts, Vas, Xmax only).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

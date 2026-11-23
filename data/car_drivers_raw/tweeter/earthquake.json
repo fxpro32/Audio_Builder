@@ -1,0 +1,60 @@
+{
+ "brand": "Earthquake Sound",
+ "country": "USA",
+ "brand_url": "https://www.earthquakesound.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Earthquake TW 35S Tweeter Set",
+   "title": "TW 35S Tweeter Set",
+   "type": "tweeter",
+   "url": "https://www.earthquakesound.com/products/tw-35s-tweeters",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake TW-25S",
+   "title": "TW 25S Tweeters",
+   "type": "tweeter",
+   "url": "https://www.earthquakesound.com/products/tw-25s-tweeters",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake TW-05HD",
+   "title": "TW-05HD High-Definition Eyeball Tweeter",
+   "type": "tweeter",
+   "url": "https://www.earthquakesound.com/products/tw-05hd-high-definition-eyeball-tweeter",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-SBT200",
+   "title": "PR-SBT200 Super Bullet Tweeter (Pair)",
+   "type": "tweeter",
+   "url": "https://www.earthquakesound.com/products/pr-sbt200-super-bullet-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake EQH-1125",
+   "title": "EQH Waveguide Horns",
+   "type": "tweeter",
+   "url": "https://www.earthquakesound.com/products/eqh-waveguide-horns",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-BT90S",
+   "title": "BT90S Titanium Bullet Tweeter (Pair)",
+   "type": "tweeter",
+   "url": "https://www.earthquakesound.com/products/bt90s-titanium-bullet-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-BT44S",
+   "title": "BT44S Titanium Bullet Tweeter (Pair)",
+   "type": "tweeter",
+   "url": "https://www.earthquakesound.com/products/bt44s-titanium-bullet-tweeter-pair",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

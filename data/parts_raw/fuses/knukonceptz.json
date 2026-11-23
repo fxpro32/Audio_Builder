@@ -1,0 +1,280 @@
+{
+ "schema": "parts_raw/1",
+ "category": "fuses",
+ "brand": "KnuKonceptz",
+ "maker_site": "https://www.knukonceptz.com",
+ "method": "WooCommerce Store API list (names, attributes, USD prices)",
+ "terms_note": "Numbers only with URL.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 10,
+ "records": [
+  {
+   "id": "knukonceptz-mini-anl-link-brass-buss-bar-ground-link",
+   "model": "Mini-ANL Link – Brass Buss Bar Ground Link",
+   "title": "Mini-ANL Link – Brass Buss Bar Ground Link",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/mini-anl-link-brass-buss-bar-ground-link/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "link/other",
+   "fuse_type": "mini ANL / AFS",
+   "ratings_a": null,
+   "gauges_in_name": null
+  },
+  {
+   "id": "knukonceptz-nickel-plated-silver-mini-anl-midi-fuse-100-120-150-20-30-40-60-80-amp-ground-",
+   "model": "Nickel Plated Mini-ANL Fuse",
+   "title": "Nickel Plated Mini-ANL Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/nickel-plated-silver-mini-anl-midi-fuse-100-120-150-20-30-40-60-80-amp-ground-link/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "mini ANL / AFS",
+   "ratings_a": [
+    20,
+    30,
+    40,
+    50,
+    60,
+    80,
+    100,
+    120,
+    150
+   ],
+   "gauges_in_name": null
+  },
+  {
+   "id": "knukonceptz-konfused-inline-fuse-holder-x-3",
+   "model": "KonFUSED Inline Fuse Holder x 3",
+   "title": "KonFUSED Inline Fuse Holder x 3",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-inline-fuse-holder-x-3/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": null,
+   "quality_issues": [
+    "type_null"
+   ],
+   "check": "not clean: type_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-konfused-2-way-fuse-block-in-line-fuse-holder",
+   "model": "KonFUSED 2 Way Fuse Block + In Line Fuse Holder",
+   "title": "KonFUSED 2 Way Fuse Block + In Line Fuse Holder",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-2-way-fuse-block-in-line-fuse-holder/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": null,
+   "quality_issues": [
+    "type_null"
+   ],
+   "check": "not clean: type_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-in-line-4-8-gauge-mini-anl-fuse-holder-with-fuse",
+   "model": "In Line 4-8 Gauge Mini-ANL Fuse Holder with Fuse",
+   "title": "In Line 4-8 Gauge Mini-ANL Fuse Holder with Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/in-line-4-8-gauge-mini-anl-fuse-holder-with-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "mini ANL / AFS",
+   "ratings_a": null,
+   "gauges_in_name": [
+    "8"
+   ]
+  },
+  {
+   "id": "knukonceptz-in-line-0-gauge-waterproof-anl-fuse-holder-w-fuse",
+   "model": "In-Line 0 Gauge Waterproof ANL Fuse Holder w/ Fuse",
+   "title": "In-Line 0 Gauge Waterproof ANL Fuse Holder w/ Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/in-line-0-gauge-waterproof-anl-fuse-holder-w-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "ratings_a": null,
+   "gauges_in_name": [
+    "0"
+   ],
+   "bundle": true
+  },
+  {
+   "id": "knukonceptz-konfused-0-gauge-fused-positive-battery-terminal-in-line-fuse-holder",
+   "model": "KonFUSED 0 Gauge Fused Positive Battery Terminal In Line Fuse Holder",
+   "title": "KonFUSED 0 Gauge Fused Positive Battery Terminal In Line Fuse Holder",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-0-gauge-fused-positive-battery-terminal-in-line-fuse-holder/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": [
+    "0"
+   ],
+   "quality_issues": [
+    "type_null"
+   ],
+   "check": "not clean: type_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-bassik-0-gauge-anl-in-line-fuse-holder-with-fuse",
+   "model": "Bassik 0 Gauge ANL In Line Fuse Holder with Fuse",
+   "title": "Bassik 0 Gauge ANL In Line Fuse Holder with Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-0-gauge-anl-in-line-fuse-holder-with-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "ratings_a": null,
+   "gauges_in_name": [
+    "0"
+   ]
+  },
+  {
+   "id": "knukonceptz-nickel-silver-plated-150-200-250-300-amp-anl-fuse",
+   "model": "Nickel Silver ANL Fuse",
+   "title": "Nickel Silver ANL Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/nickel-silver-plated-150-200-250-300-amp-anl-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "ratings_a": [
+    80,
+    100,
+    120,
+    150,
+    200,
+    250,
+    300,
+    350
+   ],
+   "gauges_in_name": null
+  },
+  {
+   "id": "knukonceptz-gold-plated-glass-agu-30-40-50-60-80-amp-fuse",
+   "model": "Gold Plated AGU Fuse",
+   "title": "Gold Plated AGU Fuse",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/gold-plated-glass-agu-30-40-50-60-80-amp-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "fuse",
+   "fuse_type": "AGU",
+   "ratings_a": [
+    30,
+    40,
+    50,
+    60,
+    80
+   ],
+   "gauges_in_name": null
+  }
+ ],
+ "not_recorded": []
+}

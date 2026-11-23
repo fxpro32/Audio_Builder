@@ -1,0 +1,167 @@
+{
+ "brand": "Polk Audio",
+ "country": "USA",
+ "brand_url": "https://www.polkaudio.com",
+ "terms_note": "R2 2026-11-23: robots.txt allows product pages (disallows only cart/search/demandware.store paths). 7 product pages and 1 manual read 3-4 s apart. Numbers only.",
+ "coverage": "DB+ (DB842 DVC, DB1042 SVC/DVC, DB1242 SVC/DVC) and MM (MM842, MM1042) subwoofers; no T/S published",
+ "hp_subs_raw_file": null,
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "DB1242 DVC",
+   "rms_w": 370,
+   "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1242-dvc/112445.html",
+   "note": "No Fs/Qts/Vas published by the maker (only {'spl_db_1w1m': 86}); size 12 in, coil DVC 4 ohm, peak 1110 W, mounting depth 110.0 mm, cut-out None mm. Nominal impedance printed '4 ohms' (for DVC models not stated per coil or total). 'Diameter' 11.1\" (28.19 cm) printed (not labelled cut-out, not entered). Mounting depth top mount as printed (bottom mount 4.57\" (11.61 cm)). Marine certified model. No T/S published.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1110,
+   "mounting_depth_mm": 110.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1242-dvc/112445.html",
+     "doc": "product page, Specifications list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "DB842 DVC",
+   "rms_w": 250,
+   "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db842/112455.html",
+   "note": "No Fs/Qts/Vas published by the maker (only {'spl_db_1w1m': 84}); size 8 in, coil DVC 4 ohm, peak 750 W, mounting depth 97.0 mm, cut-out None mm. Nominal impedance printed '4 ohms' (for DVC models not stated per coil or total). 'Diameter' 7.28\" (18.49 cm) printed (not labelled cut-out, not entered). Mounting depth top mount as printed (bottom mount 4.02\" (10.21 cm)). Marine certified model. No T/S published.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 750,
+   "mounting_depth_mm": 97.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db842/112455.html",
+     "doc": "product page, Specifications list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "DB1042 SVC",
+   "rms_w": 350,
+   "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1042-svc/112442.html",
+   "note": "No Fs/Qts/Vas published by the maker (only {'spl_db_1w1m': 85}); size 10 in, coil SVC 4 ohm, peak 1050 W, mounting depth 110.0 mm, cut-out None mm. Nominal impedance printed '4 ohms' (for DVC models not stated per coil or total). 'Diameter' 9.05\" (22.99 cm) printed (not labelled cut-out, not entered). Mounting depth top mount as printed (bottom mount 4.57\" (11.61 cm)). Marine certified model. No T/S published.",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1050,
+   "mounting_depth_mm": 110.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1042-svc/112442.html",
+     "doc": "product page, Specifications list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "DB1042 DVC",
+   "rms_w": 350,
+   "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1042-dvc/112443.html",
+   "note": "No Fs/Qts/Vas published by the maker (only {'spl_db_1w1m': 85}); size 10 in, coil DVC None ohm, peak 1050 W, mounting depth 110.0 mm, cut-out None mm. Nominal impedance printed 'None' (for DVC models not stated per coil or total). 'Diameter' 9.05\" (22.99 cm) printed (not labelled cut-out, not entered). Mounting depth top mount as printed (bottom mount 4.57\" (11.61 cm)). Marine certified model. No T/S published.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "peak_w": 1050,
+   "mounting_depth_mm": 110.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1042-dvc/112443.html",
+     "doc": "product page, Specifications list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "DB1242 SVC",
+   "rms_w": 370,
+   "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1242-svc/112444.html",
+   "note": "No Fs/Qts/Vas published by the maker (only {'spl_db_1w1m': 86}); size 12 in, coil SVC 4 ohm, peak 1110 W, mounting depth 110.0 mm, cut-out None mm. Nominal impedance printed '4 ohms' (for DVC models not stated per coil or total). 'Diameter' 11.1\" (28.19 cm) printed (not labelled cut-out, not entered). Mounting depth top mount as printed (bottom mount 4.57\" (11.61 cm)). Marine certified model. No T/S published.",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1110,
+   "mounting_depth_mm": 110.0,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.polkaudio.com/en-us/product/car-and-marine-speakers/db1242-svc/112444.html",
+     "doc": "product page, Specifications list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MM1042 DVC",
+   "rms_w": 400,
+   "url": "https://www.polkaudio.com/en-us/product/archive/archive-car-and-marine-speakers/mm1042-dvc/112431.html",
+   "note": "No Fs/Qts/Vas published by the maker (only {'spl_db_1w1m': 86}); size 10 in, coil DVC 4 ohm, peak 1200 W, mounting depth 115.1 mm, cut-out None mm. Nominal impedance printed '4 ohms' (for DVC models not stated per coil or total). 'Diameter' 9.05\" (22.99 cm) printed (not labelled cut-out, not entered). Mounting depth top mount as printed (bottom mount 5.08\" (12.9 cm)). Marine certified model. No T/S published.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1200,
+   "mounting_depth_mm": 115.1,
+   "cutout_mm": null,
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.polkaudio.com/en-us/product/archive/archive-car-and-marine-speakers/mm1042-dvc/112431.html",
+     "doc": "product page, Specifications list",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

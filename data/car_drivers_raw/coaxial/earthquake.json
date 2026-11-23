@@ -1,0 +1,165 @@
+{
+ "brand": "Earthquake Sound",
+ "country": "USA",
+ "brand_url": "https://www.earthquakesound.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "Earthquake T40",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 200,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    105,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 49,
+   "cutout_mm": 116,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.earthquakesound.com/products/tnt-t40-coaxial-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Title says pair: power may be the pair rating as printed.",
+   "title": "TNT T40 Coaxial Speakers (PAIR)"
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "Earthquake VTEK-693",
+   "title": "VTEK-693 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/vtek-693-coaxial-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake F3.5 Speakers (PAIR)",
+   "title": "F3.5 Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/f3-5-speakers-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake VTEK-62",
+   "title": "VTEK-62 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/vtek-62-coaxial-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake VTEK-57",
+   "title": "VTEK-57 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/vtek-57-coaxial-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake VTEK-52 Coaxial Speakers (PAIR)",
+   "title": "VTEK-52 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/vtek-52-coaxial-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake VTEK-57XI",
+   "title": "VTEK-57XI Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/vtek-57xi-coaxial-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake VTEK-52XI",
+   "title": "VTEK-52XI Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/vtek-52xi-coaxial-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake T693X",
+   "title": "TNT T693X Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/tnt-t693x-coaxial-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake T65",
+   "title": "TNT T65 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/tnt-t65-coaxial-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake T57",
+   "title": "TNT T57 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/tnt-t57-coaxial-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake T46",
+   "title": "TNT T46 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/tnt-t46",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake FS6.5",
+   "title": "Focus FS6.5 Coaxial Speaker",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/focus-fs6-5-coaxial-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake F6x9",
+   "title": "Focus F6x9 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/focus-f6x9-coaxial-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake F5.25",
+   "title": "Focus F5.25 Coaxial Speakers (PAIR)",
+   "type": "coaxial",
+   "url": "https://www.earthquakesound.com/products/focus-f5-25-coaxial-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

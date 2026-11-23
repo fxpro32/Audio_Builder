@@ -1,0 +1,361 @@
+{
+ "brand": "Rockford Fosgate",
+ "country": "USA",
+ "brand_url": "https://rockfordfosgate.com",
+ "terms_note": "robots.txt: 'Disallow:' empty (everything allowed). No terms clause on automated access checked beyond robots. Pages read 5-6 s apart. Numbers only.",
+ "drivers": [
+  {
+   "model": "Power T3 19 T3S1-19",
+   "size_in": 19,
+   "coil": "SVC",
+   "ohms_per_coil": 1,
+   "coils": 1,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 27,
+    "re_ohm": 0.8,
+    "qms": 1.93,
+    "qes": 0.38,
+    "qts": 0.32,
+    "vas_l": 104.9,
+    "sd_cm2": 1472,
+    "xmax_mm": 34,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.45,
+    "spl_db_1w1m": 91,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 396,
+   "cutout_mm": 440,
+   "displacement_l": 9.6,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 226.5,
+     "tuning_hz": null,
+     "source": "maker page t3s1-19",
+     "note": "maker Vb as printed in litres; tuning not published; maker: sealed not recommended"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t3s1-19/",
+     "doc": "product detail page, Specifications tab",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Single voice coil, so the T/S are for the one coil (ts_basis per_coil by construction). Power rated to CEA-2031 per maker. Mms, Bl not published. T3 page: 'dual (push/pull) windings' on a single voice coil; one terminal pair."
+  },
+  {
+   "model": "Power T3 19 T3S2-19",
+   "size_in": 19,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 27,
+    "re_ohm": 1.7,
+    "qms": 1.92,
+    "qes": 0.37,
+    "qts": 0.31,
+    "vas_l": 103.4,
+    "sd_cm2": 1472,
+    "xmax_mm": 34,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.96,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 396,
+   "cutout_mm": 440,
+   "displacement_l": 9.6,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 226.5,
+     "tuning_hz": null,
+     "source": "maker page t3s2-19",
+     "note": "maker Vb as printed in litres; tuning not published; maker: sealed not recommended"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t3s2-19/",
+     "doc": "product detail page, Specifications tab",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Single voice coil, so the T/S are for the one coil (ts_basis per_coil by construction). Power rated to CEA-2031 per maker. Mms, Bl not published. T3 page: 'dual (push/pull) windings' on a single voice coil; one terminal pair."
+  },
+  {
+   "model": "Power T2 13 T2S1-13",
+   "size_in": 13,
+   "coil": "SVC",
+   "ohms_per_coil": 1,
+   "coils": 1,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 25,
+    "re_ohm": 0.9,
+    "qms": 2.93,
+    "qes": 0.39,
+    "qts": 0.34,
+    "vas_l": 69.3,
+    "sd_cm2": 707,
+    "xmax_mm": 34,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.53,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 246,
+   "cutout_mm": 312,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 52.3,
+     "tuning_hz": null,
+     "source": "maker page t2s1-13",
+     "note": "maker Vb as printed in litres"
+    },
+    {
+     "type": "ported",
+     "volume_l": 113,
+     "tuning_hz": null,
+     "source": "maker page t2s1-13",
+     "note": "maker Vb as printed in litres; tuning not published"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t2s1-13/",
+     "doc": "product detail page, Specifications tab",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Single voice coil, so the T/S are for the one coil (ts_basis per_coil by construction). Power rated to CEA-2031 per maker. Mms, Bl not published."
+  },
+  {
+   "model": "Power T2 13 T2S2-13",
+   "size_in": 13,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 25.5,
+    "re_ohm": 1.6,
+    "qms": 3.01,
+    "qes": 0.4,
+    "qts": 0.35,
+    "vas_l": 68.7,
+    "sd_cm2": 707,
+    "xmax_mm": 34,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.91,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 246,
+   "cutout_mm": 312,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 52.3,
+     "tuning_hz": null,
+     "source": "maker page t2s2-13",
+     "note": "maker Vb as printed in litres"
+    },
+    {
+     "type": "ported",
+     "volume_l": 113,
+     "tuning_hz": null,
+     "source": "maker page t2s2-13",
+     "note": "maker Vb as printed in litres; tuning not published"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t2s2-13/",
+     "doc": "product detail page, Specifications tab",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Single voice coil, so the T/S are for the one coil (ts_basis per_coil by construction). Power rated to CEA-2031 per maker. Mms, Bl not published."
+  },
+  {
+   "model": "Power T2 16 T2S1-16",
+   "size_in": 16,
+   "coil": "SVC",
+   "ohms_per_coil": 1,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    1
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 28.5,
+    "re_ohm": 0.9,
+    "qms": 3.73,
+    "qes": 0.57,
+    "qts": 0.49,
+    "vas_l": 84.5,
+    "sd_cm2": 1034,
+    "xmax_mm": 34,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.53,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 266,
+   "cutout_mm": 382,
+   "displacement_l": 8.2,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 67.9,
+     "tuning_hz": null,
+     "source": "maker page t2s1-16",
+     "note": "maker Vb as printed in litres"
+    },
+    {
+     "type": "ported",
+     "volume_l": 155,
+     "tuning_hz": null,
+     "source": "maker page t2s1-16",
+     "note": "maker Vb as printed in litres; tuning not published"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t2s1-16/",
+     "doc": "product detail page, Specifications tab",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Single voice coil, so the T/S are for the one coil (ts_basis per_coil by construction). Power rated to CEA-2031 per maker. Mms, Bl not published."
+  },
+  {
+   "model": "Power T2 16 T2S2-16",
+   "size_in": 16,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 28.5,
+    "re_ohm": 1.6,
+    "qms": 3.76,
+    "qes": 0.56,
+    "qts": 0.49,
+    "vas_l": 90.1,
+    "sd_cm2": 1034,
+    "xmax_mm": 34,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.91,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": 266,
+   "cutout_mm": 382,
+   "displacement_l": 8.2,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 67.9,
+     "tuning_hz": null,
+     "source": "maker page t2s2-16",
+     "note": "maker Vb as printed in litres"
+    },
+    {
+     "type": "ported",
+     "volume_l": 155,
+     "tuning_hz": null,
+     "source": "maker page t2s2-16",
+     "note": "maker Vb as printed in litres; tuning not published"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/t2s2-16/",
+     "doc": "product detail page, Specifications tab",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Single voice coil, so the T/S are for the one coil (ts_basis per_coil by construction). Power rated to CEA-2031 per maker. Mms, Bl not published."
+  }
+ ],
+ "no_ts_published": []
+}

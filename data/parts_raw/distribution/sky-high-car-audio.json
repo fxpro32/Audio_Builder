@@ -1,0 +1,307 @@
+{
+ "schema": "parts_raw/1",
+ "category": "distribution",
+ "brand": "Sky High Car Audio",
+ "maker_site": "https://skyhighcaraudio.com",
+ "method": "skyhighcaraudio.com listing pages (first page of each category + site search), title / SKU / USD price; scripts/parts/build_skyhigh.py",
+ "terms_note": "Numbers only with URL; USD prices. Sky High's own brand.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 11,
+ "records": [
+  {
+   "id": "skyhigh-alternator-distribution-block-1-0-shca-ring-terminal",
+   "model": "SHCA-AB-0RT",
+   "model_basis": "store SKU",
+   "title": "Alternator Distribution Block 1/0 SHCA Ring Terminal",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/alternator-distribution-block-1-0-shca-ring-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "1/0"
+   ],
+   "ways": null
+  },
+  {
+   "id": "skyhigh-shca-distribution-block-1-0-or-4-ga-input-2-4-8-ga-output-w-cover",
+   "model": "SHCA-DB-101428",
+   "model_basis": "store SKU",
+   "title": "SHCA Distribution Block 1/0 or 4 ga Input (2) 4/8 ga Output w/ Cover",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-distribution-block-1-0-or-4-ga-input-2-4-8-ga-output-w-cover/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "1/0",
+    "4",
+    "8"
+   ],
+   "ways": null,
+   "bundle": true
+  },
+  {
+   "id": "skyhigh-alternator-distribution-block-2-0-shca-ring-terminal",
+   "model": "SHCA-AB-00RT",
+   "model_basis": "store SKU",
+   "title": "Alternator Distribution Block 2/0 SHCA Ring Terminal",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/alternator-distribution-block-2-0-shca-ring-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "2/0"
+   ],
+   "ways": null
+  },
+  {
+   "id": "skyhigh-alternator-distribution-block-1-0-dual-set-screw",
+   "model": "SHCA-AB-0SS-DUAL",
+   "model_basis": "store SKU",
+   "title": "Alternator Distribution Block 1/0  Dual Set Screw",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/alternator-distribution-block-1-0-dual-set-screw/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "1/0"
+   ],
+   "ways": null
+  },
+  {
+   "id": "skyhigh-shca-1-1-0-to-4-4ga-distribution-block",
+   "model": "SHCA-DB-1044",
+   "model_basis": "store SKU",
+   "title": "SHCA (1) 1/0 to (4) 4ga Distribution Block",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-1-1-0-to-4-4ga-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "1/0",
+    "4"
+   ],
+   "ways": null
+  },
+  {
+   "id": "skyhigh-shca-1-1-0-to-2-4ga-distribution-block-small",
+   "model": "SHCA-DB-1024-S",
+   "model_basis": "store SKU",
+   "title": "SHCA (1) 1/0 to (2) 4ga Distribution Block Small",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-1-1-0-to-2-4ga-distribution-block-small/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "1/0",
+    "4"
+   ],
+   "ways": null
+  },
+  {
+   "id": "skyhigh-shca-4ga-power-ground-split-distribution-block",
+   "model": "SHCA-DB-2448",
+   "model_basis": "store SKU",
+   "title": "SHCA 4ga Power & Ground Split Distribution Block",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-4ga-power-ground-split-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "4"
+   ],
+   "ways": null
+  },
+  {
+   "id": "skyhigh-shca-premium-1-to-2-rca-distribution-block",
+   "model": "SHCA-RCA-DISTRO-1T2",
+   "model_basis": "store SKU",
+   "title": "SHCA Premium 1 to 2 RCA Distribution block",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-premium-1-to-2-rca-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": null,
+   "ways": null,
+   "quality_issues": [
+    "ports_null"
+   ]
+  },
+  {
+   "id": "skyhigh-shca-premium-1-to-3-rca-distribution-block",
+   "model": "SHCA-RCA-DISTRO-1T3",
+   "model_basis": "store SKU",
+   "title": "SHCA Premium 1 to 3 RCA Distribution block",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-premium-1-to-3-rca-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": null,
+   "ways": null,
+   "quality_issues": [
+    "ports_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-4ga-distribution-block",
+   "model": "SHCA-DB-1448",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio 4ga Distribution Block",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-4ga-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "4"
+   ],
+   "ways": null
+  },
+  {
+   "id": "skyhigh-shca-alternator-distribution-block-1-0-set-screw-quad",
+   "model": "SHCA-AB-0SS-QUAD",
+   "model_basis": "store SKU",
+   "title": "SHCA - Alternator Distribution Block 1/0 Set Screw Quad",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/shca-alternator-distribution-block-1-0-set-screw-quad/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "distribution block",
+   "gauges_in_name": [
+    "1/0"
+   ],
+   "ways": null
+  }
+ ],
+ "not_recorded": []
+}

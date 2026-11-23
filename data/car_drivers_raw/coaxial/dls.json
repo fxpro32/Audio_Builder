@@ -1,0 +1,1011 @@
+{
+ "brand": "DLS Svenska",
+ "country": "Sweden",
+ "brand_url": "https://dls.se",
+ "terms_note": "R4 2026-11-23: robots.txt 'Allow: /'; product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "Cruise CRPP-2.6CX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    65,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-2-6cx/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "Cruise CRPP-BMW1.4CX",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 87.5,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    90,
+    23000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-bmw1-4cx/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "Cruise CRPP-FO1.6CX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    65,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-fo1-6cx/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": [
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Cruise CRPP-OP1.6CX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    65,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-op1-6cx/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": [
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Cruise CRPP-TO1.7CX",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "178 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    55,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-to1-7cx/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "tweeter_size_as_printed": "1\"/25mm",
+   "maker_tagline_type_words": [
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Cruise CRPP-U6CX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    59,
+    23000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-u6cx/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": [
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Cruise CRPP-VO1.6CX",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    65,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-vo1-6cx/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "tweeter_size_as_printed": "1\"/25mm",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "M224",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 75,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    75,
+    18000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 48,
+   "cutout_mm": 97,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/m224/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "tweeter_size_as_printed": "16mm",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "M225",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 75,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    75,
+    18000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": 120,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": null,
+    "slope_as_printed_db_oct": "6/12"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/m225/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 80,
+   "tweeter_size_as_printed": "16mm",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "M226",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    70,
+    18000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 145,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": null,
+    "slope_as_printed_db_oct": "6/12"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/m226/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 80,
+   "cone_material": "Polypropylene, foam surround",
+   "tweeter_size_as_printed": "16mm",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "M369",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "5x236",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 89.3,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 86,
+   "cutout_mm": 155,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": null,
+    "slope_as_printed_db_oct": "6"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/m369/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 100,
+   "cone_material": "Wowen fibre glass",
+   "tweeter_size_as_printed": "1\"/25mm / 2\"/45mm midrange",
+   "maker_tagline_type_words": [
+    "3-way",
+    "tweeter"
+   ]
+  },
+  {
+   "model": "M3710i",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "0x250",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 200,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    30,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 95,
+   "cutout_mm": 170,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": null,
+    "slope_as_printed_db_oct": "6"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/m3710i/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 138,
+   "cone_material": "Wowen fibre glass",
+   "tweeter_size_as_printed": "0.8\"/20mm / 1\"/25mm midrange",
+   "maker_tagline_type_words": [
+    "woofer",
+    "tweeter"
+   ]
+  },
+  {
+   "model": "M526i",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 75,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    60,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": 146,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "crossover_hz": null,
+    "slope_as_printed_db_oct": "6/12"
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/m526i/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 70,
+   "cone_material": "Wowen fibre glass",
+   "tweeter_size_as_printed": "0.8\"/20mm",
+   "maker_tagline_type_words": [
+    "coaxial",
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Performance Advantage PA4",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 80,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/performance-advantage-pa4/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "tweeter_size_as_printed": "0.51\"/13mm",
+   "maker_tagline_type_words": [
+    "2-way",
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Performance Advantage PA5",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    75,
+    25000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/performance-advantage-pa5/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "tweeter_size_as_printed": "0.51\"/13mm",
+   "maker_tagline_type_words": [
+    "2-Way",
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Performance Advantage PA6",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "165 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    67,
+    20000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/performance-advantage-pa6/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "tweeter_size_as_printed": "0.51\"/13mm",
+   "maker_tagline_type_words": [
+    "2-Way",
+    "coaxial"
+   ]
+  },
+  {
+   "model": "Reference RC3",
+   "type": "coaxial",
+   "size_in": 3,
+   "size_label": "70 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 86.1,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    23000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 35,
+   "cutout_mm": 75,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/rc3/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 50,
+   "cone_material": "Coated wood fibre",
+   "maker_tagline_type_words": [
+    "coaxial"
+   ]
+  }
+ ],
+ "no_specs_published": []
+}

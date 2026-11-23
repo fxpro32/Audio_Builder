@@ -1,0 +1,18 @@
+{
+ "brand": "Power Acoustik",
+ "country": "USA",
+ "brand_url": "https://poweracoustik.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Power Acoustik EF-60C",
+   "title": "EF-60C | 500W Class C Component Speaker System",
+   "type": "component_set",
+   "url": "https://poweracoustik.com/products/ef-60c",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

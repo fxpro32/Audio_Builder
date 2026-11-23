@@ -1,0 +1,27 @@
+{
+ "brand": "Crescendo Audio",
+ "country": "USA",
+ "brand_url": "https://crescendoaudio.com",
+ "terms_note": "BigCommerce store; 6 pages read 5 s apart. Product pages have no specification table (only description and photos).",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "NENDO 12 / 15 / 18",
+   "rms_w": 3000,
+   "url": "https://crescendoaudio.com/nendo-series-15-subwoofer-3000w-rms/",
+   "note": "3000 W RMS in titles; coil options not checked; no T/S."
+  },
+  {
+   "model": "CARTEL 10 / 12 / 15 / 18 (D2 or D4)",
+   "rms_w": 2000,
+   "url": "https://crescendoaudio.com/cartel-series-15-subwoofer-2000w-rms/",
+   "note": "2000 W RMS in titles; category filter shows D2 and D4; no T/S."
+  },
+  {
+   "model": "CONTRALTO 12 / 15 / 18 (discontinued)",
+   "rms_w": 2500,
+   "url": "https://crescendoaudio.com/discontinued-products/",
+   "note": "2500 W RMS (Contralto 10: 1800 W); discontinued; no T/S found."
+  }
+ ]
+}

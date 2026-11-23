@@ -1,0 +1,2057 @@
+{
+ "brand": "DS18",
+ "country": "USA",
+ "brand_url": "https://www.ds18.com",
+ "terms_note": "R4 2026-11-23: Shopify products.json (public catalogue feed) read 3 s apart, 9 requests. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "DS18 10PRO1200MB-8",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 600,
+   "peak_w": 1200,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    55,
+    4500
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 98,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 112,
+   "cutout_mm": 234,
+   "frame_mm": 260,
+   "recommended_crossover": {
+    "hp_hz": 70,
+    "note": "maker 'Recommended Hi Pass Crossover' 70Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-10pro1200mb-8-10-mid-bass-loudspeaker-1200-watts-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "10\" Mid-Bass Loudspeaker 600 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 200
+  },
+  {
+   "model": "DS18 12PRO1400MB-8",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 700,
+   "peak_w": 1400,
+   "sensitivity_db": 100,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    5000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 100,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 132,
+   "cutout_mm": 285,
+   "frame_mm": 314,
+   "recommended_crossover": {
+    "hp_hz": 60,
+    "note": "maker 'Recommended Hi Pass Crossover' 60Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-12pro1400mb-8-12-mid-bass-loudspeaker-700-watts-rms-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "12\" Mid-Bass Loudspeaker 700 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 200
+  },
+  {
+   "model": "DS18 8PRO300MB-8",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    5000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 97,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 178,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-8pro300mb-8-pro-8-mid-bass-loudspeaker-300-watts-rms-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "8\" Mid-Bass Loudspeaker 150 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 115
+  },
+  {
+   "model": "DS18 8PRO300MB-4",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 97,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    5000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 97,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 178,
+   "frame_mm": 210,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-8pro300mb-4-pro-8-mid-bass-loudspeaker-300-watts-rms-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "8\" Mid-Bass Loudspeaker 150 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 115
+  },
+  {
+   "model": "DS18 6PRO300MB-4",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    6000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 73,
+   "cutout_mm": 143,
+   "frame_mm": 166,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-6pro300mb-4-pro-6-5-mid-bass-loudspeaker-200-watts-rms-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "6.5\" Mid-Bass Loudspeaker 150 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 115
+  },
+  {
+   "model": "DS18 6PRO300MB-8",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 300,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    6000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 73,
+   "cutout_mm": 143,
+   "frame_mm": 166,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-6pro300mb-8-pro-6-5-mid-bass-loudspeaker-300-watts-max-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "6.5\" Mid-Bass Loudspeaker 150 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 115
+  },
+  {
+   "model": "DS18 PRO-84XA",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 275,
+   "peak_w": 550,
+   "sensitivity_db": 97.8,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    8000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 97.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 184,
+   "frame_mm": 209.8,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-84xa-8-10th-anniversary-mid-bass-loudspeaker-500-watts-max-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "10th Anniversary Edition 8\" Mid-Bass Loudspeaker 275 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-88XA",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 275,
+   "peak_w": 550,
+   "sensitivity_db": 97.8,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    8000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 97.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82,
+   "cutout_mm": 184,
+   "frame_mm": 209.8,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-88xa-8-10th-anniversary-mid-bass-loudspeaker-550-watts-max-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "10th Anniversary Edition 8\" Mid-Bass Loudspeaker 275 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-64XA",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    6300
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 144,
+   "frame_mm": 165.5,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-64xa-6-5-10th-anniversary-mid-bass-loudspeaker-500-watts-max-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "10th Anniversary Edition 6.5\" Mid-Bass Loudspeaker 250 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-68XA",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    6300
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70,
+   "cutout_mm": 144,
+   "frame_mm": 165.5,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-68xa-8-10th-anniversary-mid-bass-loudspeaker-500-watts-max-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "10th Anniversary Edition 6.5\" Mid-Bass Loudspeaker 250 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 120
+  },
+  {
+   "model": "DS18 PRO-CF8.4SL",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 275,
+   "peak_w": 550,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    12500
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68,
+   "cutout_mm": 180,
+   "frame_mm": 209,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf8-4sl-pro-8-shallow-carbon-fiber-water-resistant-cone-mid-bass-loudspeaker-275-watts-rms-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 8\" Shallow Carbon Fiber Water resistant Cone Mid-Bass Loudspeaker 275 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 118
+  },
+  {
+   "model": "DS18 PRO-CF6.4SL",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    12500
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 54.5,
+   "cutout_mm": 144,
+   "frame_mm": 165,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf6-4sl-pro-6-5-shallow-carbon-fiber-water-resistant-cone-mid-bass-loudspeaker-250-watts-rms-4-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 6.5” Shallow Mid-Bass Loudspeaker with Carbon Fiber Water-Resistant Cone | 250W RMS 4-Ohm",
+   "motor_diameter_mm": 110
+  },
+  {
+   "model": "DS18 PRO-CF69.4NR",
+   "type": "midbass",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    63,
+    12000
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82.5,
+   "cutout_mm": 218,
+   "frame_mm": 236,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf69-4nr-6-5-mid-bass-loudspeaker-with-water-resistant-carbon-fiber-cone-and-neodymium-rings-magnet-500-watts-4-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 6x9\" Mid-Bass Loudspeaker with Water-Resistant Carbon Fiber Cone & Neodymium Rings, 300W RMS, 4-Ohm",
+   "motor_diameter_mm": 113
+  },
+  {
+   "model": "DS18 PRO-CF6.4NR",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    12000
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 69.5,
+   "cutout_mm": 146,
+   "frame_mm": 168,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf6-4nr-mid-bass-loudspeaker-with-water-resistant-carbon-fiber-cone-and-neodymium-rings-magnet-500-watts-4-ohm-perfect-for-motorcycle-motorsports",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 6.5\" Mid-Bass Loudspeaker with Water-Resistant Carbon Fiber Cone & Neodymium Rings, 250W RMS, 4-Ohm",
+   "motor_diameter_mm": 108
+  },
+  {
+   "model": "DS18 PRO-CF8.4NR",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 99,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    63,
+    12000
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 99,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81.5,
+   "cutout_mm": 182,
+   "frame_mm": 210.7,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf8-4nr-mid-bass-loudspeaker-with-water-resistant-carbon-fiber-cone-and-neodymium-rings-magnet-600-watts-4-ohms-perfect-for-motorcycle-motorsports",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 8\" Mid-Bass Loudspeaker with Water-Resistant Carbon Fiber Cone & Neodymium Rings, 300W RMS, 4-Ohm",
+   "motor_diameter_mm": 113
+  },
+  {
+   "model": "DS18 PRO-CF69.2NR",
+   "type": "midbass",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    63,
+    12000
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82.5,
+   "cutout_mm": 218,
+   "frame_mm": 236,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf69-2nr-6x9-mid-bass-loudspeaker-with-water-resistant-carbon-fiber-cone-and-neodymium-rings-magnet-600-watts-2-ohms-ideal-for-motorcycle-motorsports",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 6x9\" Mid-Bass Loudspeaker with Water-Resistant Carbon Fiber Cone & Neodymium Rings, 300W RMS, 2-Ohm",
+   "motor_diameter_mm": 113
+  },
+  {
+   "model": "DS18 PRO-CF8.2NR",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    63,
+    12000
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81.5,
+   "cutout_mm": 182,
+   "frame_mm": 210.7,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf8-2nr-8-mid-bass-loudspeaker-with-water-resistant-carbon-fiber-cone-and-neodymium-rings-magnet-600-watts-2-ohms-ideal-for-motorcycle-motorsports",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 8\" Mid-Bass Loudspeaker with Water-Resistant Carbon Fiber Cone & Neodymium Rings, 300W RMS, 2-Ohm",
+   "motor_diameter_mm": 113
+  },
+  {
+   "model": "DS18 PRO-CF6.2NR",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    12000
+   ],
+   "magnet": "neodymium rings",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 69.5,
+   "cutout_mm": 146,
+   "frame_mm": 168,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cf6-2nr-6-5-mid-bass-loudspeaker-with-water-resistant-carbon-fiber-cone-and-neodymium-rings-magnet-500-watts-2-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO 6.5\" Mid-Bass Loudspeaker with Water-Resistant Carbon Fiber Cone & Neodymium Rings, 250W RMS, 2-Ohm",
+   "motor_diameter_mm": 108
+  },
+  {
+   "model": "DS18 PRO-ZXI10MBASS",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": 1000,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    5500
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 98,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 104.5,
+   "cutout_mm": 233,
+   "frame_mm": 261.5,
+   "recommended_crossover": {
+    "hp_hz": 78,
+    "note": "maker 'Recommended Hi Pass Crossover' 78 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-zxi10mbass-10-mid-bass-loudspeaker-1000-watts-8-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "PRO-ZXI 10\" Mid-Bass Loudspeaker With Neodymium/Ferrite Magnets 500 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 160
+  },
+  {
+   "model": "DS18 PRO-XLNEO12MB",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "sensitivity_db": 98.2,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    7000
+   ],
+   "magnet": "neodymium / neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 72,
+    "re_ohm": 5.2,
+    "qms": 1.61,
+    "qes": 0.359,
+    "qts": 0.294,
+    "vas_l": 22.76,
+    "sd_cm2": null,
+    "xmax_mm": 13.8,
+    "mms_g": 83.362,
+    "bl_tm": 23.553,
+    "le_mh": 32.64,
+    "spl_db_1w1m": 98.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 138.5,
+   "cutout_mm": 284.5,
+   "frame_mm": 313,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-XLNEO12MB_SPANGLISH_MANUAL_WEB_V1.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-12-neodymium-mid-bass-loudspeaker-1000-watts-rms-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-XLNEO12MB_SPANGLISH_MANUAL_WEB_V1.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 12\" Neodymium Mid-Bass Loudspeaker 1000 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 149
+  },
+  {
+   "model": "DS18 PRO-XLNEO10MB",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "sensitivity_db": 96.5,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    7000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 64,
+    "re_ohm": 5.2,
+    "qms": 3.03,
+    "qes": 0.255,
+    "qts": 0.235,
+    "vas_l": 20.53,
+    "sd_cm2": null,
+    "xmax_mm": 13.8,
+    "mms_g": null,
+    "bl_tm": 20.072,
+    "le_mh": 32.64,
+    "spl_db_1w1m": 96.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 126.5,
+   "cutout_mm": 236,
+   "frame_mm": 265,
+   "recommended_crossover": {
+    "hp_hz": 100,
+    "note": "maker 'Recommended Hi Pass Crossover' 100Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ds18.com/products/pro-10-neodymium-mid-bass-loudspeaker-1000-watts-rms-8-ohm",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way.",
+   "title": "PRO 10\" Neodymium Mid-Bass Loudspeaker 1000 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 149
+  },
+  {
+   "model": "DS18 PRO-3KP12.2",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 3000,
+   "peak_w": 4500,
+   "sensitivity_db": 94.3,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    9000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 45.13,
+    "re_ohm": null,
+    "qms": 7.79,
+    "qes": 0.209,
+    "qts": 0.203,
+    "vas_l": 39.97,
+    "sd_cm2": 560.75,
+    "xmax_mm": 7,
+    "mms_g": 111.492,
+    "bl_tm": 21.73,
+    "le_mh": null,
+    "spl_db_1w1m": 94.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 183,
+   "cutout_mm": 284,
+   "frame_mm": 314,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-3KP12.2_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pancadao-12-speaker-2-ohm-4500w-max",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-3KP12.2_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 12\" 3000 Watts Rms 2-Ohm",
+   "motor_diameter_mm": 220
+  },
+  {
+   "model": "DS18 PRO-1.5KP12.2",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "sensitivity_db": 96.5,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    8000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 72.4,
+    "re_ohm": null,
+    "qms": 9.451,
+    "qes": 0.301,
+    "qts": 0.291,
+    "vas_l": 22.775,
+    "sd_cm2": 560,
+    "xmax_mm": null,
+    "mms_g": 51.09,
+    "bl_tm": 15.144,
+    "le_mh": null,
+    "spl_db_1w1m": 96.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": 284,
+   "frame_mm": 314,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-1.5KP12.2_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-12-brazil-pancadao-mid-range-loudspeaker-1500-watts-rms-2-ohm-svc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-1.5KP12.2_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 12\" 1500 Watts Rms 2-Ohm",
+   "motor_diameter_mm": 220
+  },
+  {
+   "model": "DS18 PRO-1KP8.8",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    110,
+    15000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 120,
+    "re_ohm": null,
+    "qms": 12.34,
+    "qes": 0.378,
+    "qts": 0.36,
+    "vas_l": 5.97,
+    "sd_cm2": 220.5,
+    "xmax_mm": null,
+    "mms_g": 24.4,
+    "bl_tm": 15.7,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 110,
+   "cutout_mm": 185,
+   "frame_mm": 213,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-1KP8.8_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pancadao-mid-bass-8-1000-rms-8-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-1KP8.8_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 8\" 1000 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 170
+  },
+  {
+   "model": "DS18 PRO-3KP12.4",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 3000,
+   "peak_w": 4500,
+   "sensitivity_db": 95.8,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    9000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 67.8,
+    "re_ohm": null,
+    "qms": 10.511,
+    "qes": 0.282,
+    "qts": 0.274,
+    "vas_l": 22.019,
+    "sd_cm2": 560.75,
+    "xmax_mm": 7,
+    "mms_g": 111.492,
+    "bl_tm": 21.73,
+    "le_mh": null,
+    "spl_db_1w1m": 95.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 183,
+   "cutout_mm": 284,
+   "frame_mm": 314,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-3KP12.4_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pancadao-12-midrange-speaker-4-ohm-4500w",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-3KP12.4_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 12\" 3000 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 220
+  },
+  {
+   "model": "DS18 PRO-1.5KP12.8",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    8000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 73.5,
+    "re_ohm": 5.6,
+    "qms": 10.02,
+    "qes": 0.383,
+    "qts": 0.369,
+    "vas_l": 19.9,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 95,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": 284,
+   "frame_mm": 314,
+   "recommended_crossover": {
+    "hp_hz": 70,
+    "note": "maker 'Recommended Hi Pass Crossover' 70 Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-1.5KP12.8_WEB_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pancadao-mid-bass12-1000-rms-8-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-1.5KP12.8_WEB_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 12\" 1500 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 220
+  },
+  {
+   "model": "DS18 PRO-1.5KP10.8",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 81,
+    "re_ohm": null,
+    "qms": 8.08,
+    "qes": 0.473,
+    "qts": 0.447,
+    "vas_l": 13.162,
+    "sd_cm2": 363,
+    "xmax_mm": null,
+    "mms_g": 51.09,
+    "bl_tm": 17.872,
+    "le_mh": null,
+    "spl_db_1w1m": 94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 122,
+   "cutout_mm": 244,
+   "frame_mm": 267,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-1.5KP10.8_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pancadao-mid-bass-10-1000-rms-8-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-1.5KP10.8_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 10\" 1500 Watts Rms 8-Ohm",
+   "motor_diameter_mm": 200
+  },
+  {
+   "model": "DS18 PRO-1.5KP10.4",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "sensitivity_db": 94.4,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    10000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 81,
+    "re_ohm": 2.08,
+    "qms": 5.622,
+    "qes": 0.409,
+    "qts": 0.382,
+    "vas_l": 13.935,
+    "sd_cm2": 363,
+    "xmax_mm": null,
+    "mms_g": 52.232,
+    "bl_tm": 13.459,
+    "le_mh": null,
+    "spl_db_1w1m": 94.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 122,
+   "cutout_mm": 235,
+   "frame_mm": 267,
+   "recommended_crossover": {
+    "hp_hz": 80,
+    "note": "maker 'Recommended Hi Pass Crossover' 80Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-1.5KP10.4_MANUAL_WEB.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pancadao-mid-bass-10-1000-rms-4-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-1.5KP10.4_MANUAL_WEB.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 10\" 1500 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 200
+  },
+  {
+   "model": "DS18 PRO-1.5KP12.4",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    8000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 61.6,
+    "re_ohm": null,
+    "qms": 6.905,
+    "qes": 0.388,
+    "qts": 0.388,
+    "vas_l": 23.29,
+    "sd_cm2": 560,
+    "xmax_mm": null,
+    "mms_g": 184.02,
+    "bl_tm": 15.144,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": 284,
+   "frame_mm": 314,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-1.5KP12.4_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-12-brazil-pancadao-mid-range-loudspeaker-1500-watts-rms-4-ohm-svc",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-1.5KP12.4_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 12\" 1500 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 220
+  },
+  {
+   "model": "DS18 PRO-1KP8.4",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    110,
+    15000
+   ],
+   "magnet": "ferrite / ferrita",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 120,
+    "re_ohm": null,
+    "qms": 11.44,
+    "qes": 0.312,
+    "qts": 0.304,
+    "vas_l": 4.737,
+    "sd_cm2": 220.5,
+    "xmax_mm": null,
+    "mms_g": 26.01,
+    "bl_tm": 13.22,
+    "le_mh": null,
+    "spl_db_1w1m": 96,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 110,
+   "cutout_mm": 185,
+   "frame_mm": 213,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-1KP8.4_MANUAL.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pancadao-mid-bass-8-1000-rms-4-ohms",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Specifications read from the owner's manual PRO-1KP8.4_MANUAL.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 8\" 1000 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 170
+  },
+  {
+   "model": "DS18 PRO-NEO10R",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": 1000,
+   "sensitivity_db": 98,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    11000
+   ],
+   "magnet": "neodymium rings / anillos de neodimio",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 102,
+    "re_ohm": 3.2,
+    "qms": 1.158,
+    "qes": 0.316,
+    "qts": 0.248,
+    "vas_l": 12.5,
+    "sd_cm2": 356.33,
+    "xmax_mm": 12,
+    "mms_g": 34.815,
+    "bl_tm": 15.746,
+    "le_mh": 17.35,
+    "spl_db_1w1m": 98,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 109,
+   "cutout_mm": 229,
+   "frame_mm": 261,
+   "recommended_crossover": {
+    "hp_hz": 120,
+    "note": "maker 'Recommended Hi Pass Crossover' 120Hz"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0018/0142/0861/files/PRO-NEO10R_SPANGLISH_MANUAL_WEB_V1_75b62f6a-b09b-406a-8109-a56cec36acfb.pdf",
+     "doc": "maker owner's manual PDF (text layer, layout A)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "model",
+      "type",
+      "title"
+     ],
+     "url": "https://www.ds18.com/products/pro-10-neodymium-rings-magnet-midrange-loudspeaker-1000-watts",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed as one way. Specifications read from the owner's manual PRO-NEO10R_SPANGLISH_MANUAL_WEB_V1_75b62f6a-b09b-406a-8109-a56cec36acfb.pdf (R4B 2026-11-23); the product description has no spec list.",
+   "title": "PRO 10\" Neodymium Mid-Bass Loudspeaker 500 Watts Rms 4-Ohm",
+   "motor_diameter_mm": 140
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "DS18 NVY-10PROMB-4",
+   "title": "10\" Mid-Bass Woofer With Water Resistant Cone | 500W RMS 4-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/nvy-10promb-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 10XL1000MB-8",
+   "title": "XL 10\" Mid-Bass Loudspeaker 500 Watts Rms 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/10xl1000mb-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 10XL1000MB-4",
+   "title": "XL 10\" Mid-Bass Loudspeaker 500 Watts Rms 4-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/10xl1000mb-4",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 12PRO2500MB-8",
+   "title": "PRO 12\" Mid-Bass Loudspeaker 1250 Watts Rms 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/12pro2500mb-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 12XL1500MB-8",
+   "title": "XL 12\" Mid-Bass Loudspeaker 750 Watts Rms 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/xl-12-mid-bass-loudspeaker-750-watts-rms-8-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 10XL1400MB-8",
+   "title": "XL 10\" Mid-Bass Loudspeaker 700 Watts Rms 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/xl-10-mid-bass-loudspeaker-700-watts-rms-8-ohm",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 10XL1400MB-4",
+   "title": "XL 10\" Mid-Bass Loudspeaker 700 Watts Rms 4-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/10xl1400mb",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 12XL1500MB-4",
+   "title": "XL 12\" Mid-Bass Loudspeaker 750 Watts Rms 4-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/12xl1500mb-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-3KP12.8",
+   "title": "PANCADÃO Mid-Bass Loudspeaker 12\" 3000 Watts Rms 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/pro-3kp12-8",
+   "note": "No specification list in the maker's product description; manual: no manual linked."
+  },
+  {
+   "model": "DS18 PRO-X12MBASS",
+   "title": "PRO-X 12\" Mid-Bass Loudspeaker | 500W RMS 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/pro-x-12-mid-bass-loudspeaker-1000-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-X10MBASS",
+   "title": "PRO-X 10\" Mid-Bass Loudspeaker | 400W RMS 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/pro-series-10-midbass-8-ohm-loudspeaker-400-watts-rms-800-watts-max",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-EXL108MB",
+   "title": "PRO-EXL 10\" Mid-Bass Loudspeaker 600 Watts Rms 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/pro-exl-10-mid-bass-loudspeaker-1000-watts-8-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-EXL128MB",
+   "title": "PRO-EXL 12\" Mid-Bass Loudspeaker 700 Watts Rms 8-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/pro-exl-series-12-midbass-loudspeaker-8-ohm-1400-watts",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  },
+  {
+   "model": "DS18 PRO-EXL124MB",
+   "title": "PRO-EXL 12\" Mid-Bass Loudspeaker 700 Watts Rms 4-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/pro-exl-series-12-midbass-loudspeaker-4-ohm-watts",
+   "note": "No specification list in the maker's product description; manual: image-only or empty text."
+  },
+  {
+   "model": "DS18 PRO-EXL104MB",
+   "title": "PRO EXL 10\" Mid-Bass Loudspeaker 600 Watts Rms 4-Ohm",
+   "type": "midbass",
+   "url": "https://www.ds18.com/products/pro-exl-10-mid-bass-loudspeaker-1000-watts-4-ohm",
+   "note": "No specification list in the maker's product description; manual: layout B (label block + value block, order not reliable): not used."
+  }
+ ]
+}

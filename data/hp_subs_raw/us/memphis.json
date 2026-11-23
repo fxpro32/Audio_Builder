@@ -1,0 +1,33 @@
+{
+ "brand": "Memphis Car Audio",
+ "country": "USA",
+ "brand_url": "https://www.memphiscaraudio.com",
+ "terms_note": "WooCommerce site; 6 product pages and 2 PDFs read 4-6 s apart. No terms on automated reading found. MOJO Pro (750 W), VIV 10/12 (1000 W) and the MJ1212 (1500 W, which has a T/S sheet) are below threshold.",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "MOJO MJ1212V (12 in, selectable 1 or 2 ohm)",
+   "rms_w": 2000,
+   "url": "https://www.memphiscaraudio.com/product/mj1212v",
+   "note": "2000/4000 W; mounting depth 8.5 in, cutout 11 in; no T/S (spec-sheet link points to the MJ1212 sheet)."
+  },
+  {
+   "model": "MOJO MJ1512 (15 in, selectable 1 or 2 ohm)",
+   "rms_w": 2000,
+   "url": "https://www.memphiscaraudio.com/product/mj1512",
+   "note": "2000/4000 W; depth 9.06 in, cutout 13.81 in; no T/S."
+  },
+  {
+   "model": "MOJO MJ1812LVS (18 in, selectable 1 or 2 ohm)",
+   "rms_w": 4000,
+   "url": "https://www.memphiscaraudio.com/product/mj1812lvs",
+   "note": "4000/8000 W; depth 10.49 in, cutout 16.73 in; no T/S."
+  },
+  {
+   "model": "VIV 14 in (VIVE14S1 loaded enclosure, 1 ohm)",
+   "rms_w": 2200,
+   "url": "https://www.memphiscaraudio.com/product/vive14s1",
+   "note": "Sold only as a loaded enclosure on the site; 2200/4400 W; no driver T/S."
+  }
+ ]
+}

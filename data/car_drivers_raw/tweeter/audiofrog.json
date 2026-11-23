@@ -1,0 +1,188 @@
+{
+ "brand": "Audiofrog",
+ "country": "USA",
+ "brand_url": "https://www.audiofrog.com",
+ "terms_note": "R4 2026-11-23: robots.txt open (Yoast); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "Audiofrog GB10",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    1800,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 2.5 kHz, ≥ 12 dB/oct; LP -"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "discontinued (maker menu)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gb10-1-25-mm-audiophile-grade-automotive-tweeter/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Power rating is with the maker's recommended crossover."
+  },
+  {
+   "model": "Audiofrog GB15",
+   "type": "tweeter",
+   "size_in": 1.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    1300,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 1800.0,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 1.8 kHz, ≥ 12 dB/oct; LP -"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gb15-1-12-38-mm-audiophile-grade-automotive-tweeter/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Power rating is with the maker's recommended crossover."
+  },
+  {
+   "model": "Audiofrog GS10",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 200,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    1800,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3500.0,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 3.5 kHz, ≥ 12 dB/oct; LP -"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs10-1-25mm-premium-grade-automotive-tweeter/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Power rating is with the maker's recommended crossover."
+  }
+ ],
+ "no_specs_published": []
+}

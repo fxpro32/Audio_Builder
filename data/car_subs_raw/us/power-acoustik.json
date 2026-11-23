@@ -1,0 +1,635 @@
+{
+ "brand": "Power Acoustik",
+ "country": "USA",
+ "brand_url": "https://poweracoustik.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store; /products.json read once. No model rated >= 2000 W RMS: largest are BAMF-152/154 (1900 W RMS, 3800 W max) and MOFO-15X (1700 W RMS). Recorded as checked, none qualifying.",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/power-acoustik.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "PWM-5V",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/pwm-5v-equalizer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'PWM-5V | 5-Band Parametric Equalizer w/ Subwoofer Control'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/pwm-5v-equalizer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "PUB-10L",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/pub-10l",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'PUB-10L | 800W Class D Subwoofer with RGB LED Lighting'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/pub-10l",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "PUB-8L",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/pub-8l",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'PUB-8L | 600W 8-Inch Powerful Bass Car Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/pub-8l",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Power Acoustik Gothic GW-124 12\" 2500W Max Dual 4-Ohm Subwoo",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/gw-124",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 2500 W, mounting depth None mm, cut-out None mm. Product title: 'Power Acoustik Gothic GW-124 12\" 2500W Max Dual 4-Ohm Subwoofer with Flax Fiber Cone'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 2500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/gw-124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CBW-124 | 1500W Caliber Series Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/cbw-124",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'CBW-124 | 1500W Caliber Series Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/cbw-124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EW-124S",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/ew-124s",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'EW-124S | 1400W Class S Subwoofer Loud Speaker'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/ew-124s",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EW-104S",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/ew-104s",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'EW-104S | 1200W Class S RMS Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/ew-104s",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GW3-12 | 2500W Gothic Series 2Ω Dual Voice-Coil Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/gw3-12",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'GW3-12 | 2500W Gothic Series 2Ω Dual Voice-Coil Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/gw3-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GW3-10 | 2200W Voice-Coil Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/gw3-10",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'GW3-10 | 2200W Voice-Coil Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/gw3-10",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BAMF-152",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/bamf-152",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'BAMF‐152 | 3800W Series Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/bamf-152",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BAMF-122",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/bamf-122",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'BAMF-122 | 3500W Series Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/bamf-122",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BAMF-124",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/bamf-124",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'BAMF-124 | 3500W Series Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/bamf-124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BAMF-102 | 1600W RMS Subwoofer",
+   "rms_w": 1600,
+   "url": "https://poweracoustik.com/products/bamf-102",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'BAMF-102 | 1600W RMS Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/bamf-102",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BAMF-104 | 1600W RMS Subwoofer",
+   "rms_w": 1600,
+   "url": "https://poweracoustik.com/products/bamf-104",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'BAMF-104 | 1600W RMS Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/bamf-104",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFOS-12D2 | 1200W 12-Inch Dual 2 Ω RMS Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofos-12d2",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFOS-12D2 | 1200W 12-Inch Dual 2 Ω RMS Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofos-12d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFOS-12D4 | 2500W Dual 4 Ohm Woofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofos-12d4",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFOS-12D4 | 2500W Dual 4 Ohm Woofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofos-12d4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFOS-10D2 | 1100W 10-Inch Dual 2 Ω RMS Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofos-10d2",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFOS-10D2 | 1100W 10-Inch Dual 2 Ω RMS Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofos-10d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFOS-10D4 | 1100W 10-Inch Dual 4 Ω RMS Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofos-10d4",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFOS-10D4 | 1100W 10-Inch Dual 4 Ω RMS Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofos-10d4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Power Acoustik MOFO‑152X | 15″ Subwoofer – 3000W Max, DVC 2Ω",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofo-152x",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak 3000 W, mounting depth None mm, cut-out None mm. Product title: 'Power Acoustik MOFO‑152X | 15″ Subwoofer – 3000W Max, DVC 2Ω, Cast Aluminum Design'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 3000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofo-152x",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFO-122X | 2700W 12 Inch  Car Power Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofo-122x",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFO-122X | 2700W 12 Inch  Car Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofo-122x",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFO-124X | 2700W MOFO 12-Inch DVC 4-Ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofo-124x",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFO-124X | 2700W MOFO 12-Inch DVC 4-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofo-124x",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFO-102X | 10-Inch Competition Subwoofer Dual 2-Ohm Voice C",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofo-102x",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFO-102X | 10-Inch Competition Subwoofer Dual 2-Ohm Voice Coils'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofo-102x",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MOFO-104X | 2400W 10 Inch  Dual 4 Ω RMS Subwoofer",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/mofo-104x",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MOFO-104X | 2400W 10 Inch  Dual 4 Ω RMS Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/mofo-104x",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "PWM-19",
+   "rms_w": null,
+   "url": "https://poweracoustik.com/products/pwm-19",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'PWM-19 | Pre Amp Equalizer with Subwoofer Gain Control and Four Way Fader'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://poweracoustik.com/products/pwm-19",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "brand": "DLS Svenska",
+ "country": "Sweden",
+ "brand_url": "https://dls.se",
+ "terms_note": "R4 2026-11-23: robots.txt 'Allow: /'; product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "Cruise CRPP-VO2.44",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    8000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-vo2-44/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "Cruise CRPP-VO2.48",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 120,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    8000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/cruise-crpp-vo2-48/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "Cruise CRPP-MB3",
+   "type": "midrange",
+   "size_in": 3,
+   "size_label": "80 mm",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 55,
+   "peak_w": 110,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    120,
+    20000
+   ],
+   "magnet": "neodymium (per description)",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/dls-cruise-crpp-mb3/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Vehicle-specific Cruise model (fits the named vehicle brand). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": []
+  },
+  {
+   "model": "Reference RC3C",
+   "type": "midrange",
+   "size_in": 3,
+   "size_label": "70 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 85.4,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    12000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 35,
+   "cutout_mm": 75,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/rc3c/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "magnet_diameter_mm": 50,
+   "cone_material": "Coated wood fibre",
+   "maker_tagline_type_words": [
+    "midrange"
+   ]
+  },
+  {
+   "model": "Scandinavia 75",
+   "type": "midrange",
+   "size_in": 3,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 85.2,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    100,
+    10000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 100,
+    "re_ohm": 3.5,
+    "qms": 4.95,
+    "qes": 0.76,
+    "qts": 0.66,
+    "vas_l": 1.59,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": 3.06,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 38,
+   "cutout_mm": 76,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dls.se/product/scandinavia-75/",
+     "doc": "product page, Specifications and description",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity printed without a drive reference; basis unknown. T/S from the page description text (decimal commas converted). Type assigned by R4 from the page's short description and specification fields (table TYPES in the builder).",
+   "maker_tagline_type_words": [
+    "midrange"
+   ]
+  }
+ ],
+ "no_specs_published": []
+}

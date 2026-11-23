@@ -1,0 +1,1077 @@
+{
+ "brand": "Pioneer",
+ "country": "Japan",
+ "brand_url": "https://usa.pioneer",
+ "terms_note": "R2 2026-11-23: usa.pioneer HTTP 429 (also on the R2B retry at 20 s), pioneer.com.au home renders in the browser but was not explored, pioneer-car.eu refuses curl (Cloudflare) but renders in a normal headless browser: R2B read its category, product pages and user manuals one launch at a time, 10 s apart (robots Crawl-delay 10). Numbers only; manual T/S read from images. | hp_subs_raw terms note: Only one document used (maker page print-out hosted by rgsound.it). Current Pioneer subwoofers on pioneer-car.eu and usa.pioneer are all below 2000 W RMS (the owner's TS-W3003D4 is 600 W). Numbers only.",
+ "coverage": "Europe range (pioneer-car.eu subwoofer category, 26 products, read with the headless browser 2026-11-23): 17 component subs with T/S read from image-only manuals; boxed LB/WX models left out; TS-W8102SPL (hp_subs_raw), TS-W3002D4 (owner's manual); US-only models listed by name (usa.pioneer HTTP 429)",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/pioneer.json",
+ "drivers": [
+  {
+   "model": "TS-W8102SPL",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 8000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23.2,
+    "re_ohm": 3.0,
+    "qms": 5.27,
+    "qes": 0.33,
+    "qts": 0.31,
+    "vas_l": 70.14,
+    "sd_cm2": 918,
+    "xmax_mm": 15.4,
+    "mms_g": 800.11,
+    "bl_tm": 33.64,
+    "le_mh": 5.56,
+    "spl_db_1w1m": 91,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": 8.0,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 70.75,
+     "tuning_hz": null,
+     "source": "https://www.rgsound.it/prodotti/atch/20101122101743_TS-W8102SPL.pdf p2: 'Recom. Enclosure 70,75 l', F0 in cabinet 32.7 Hz, Q0 0.437 (sealed implied by F0/Q0, type not printed)"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.rgsound.it/prodotti/atch/20101122101743_TS-W8102SPL.pdf",
+     "doc": "20101122101743_TS-W8102SPL.pdf (print of http://www.pioneer.it/it/products/TS-W8102SPL/print.html, 28/06/2009)",
+     "page": "1-2",
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker page (Pioneer Italy) reproduced as a PDF by RG Sound, rgsound.it (Italian distributor status not verified; the content is the maker's own page). Italian labels: Potenza massima = max power 8000 W, Potenza d'ingresso nominale = nominal input 3000 W. Sd printed 0.0918 m2 (converted to 918 cm2). Revc 3.0 ohm on a dual 2 ohm coil: basis not printed (series would be about 4 ohm nominal). Also printed: Vd 1.413 L, Zmax 58.56 ohm, Rms 20.367 Ns/m, Cms 0.00006 m/N, Hvc 61 mm, Hag 30 mm, VC diameter 85 mm, efficiency 0.26 %. Status: discontinued (not on current Pioneer EU/US sites).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "TS-W3002D4 (Champion Series PRO 12 in)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 3500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 31.4,
+    "re_ohm": 6.6,
+    "qms": 15.13,
+    "qes": 0.68,
+    "qts": 0.65,
+    "vas_l": 13.03,
+    "sd_cm2": 437,
+    "xmax_mm": 12.9,
+    "mms_g": 408.83,
+    "bl_tm": 28.38,
+    "le_mh": 5.55,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": 5.12,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 22.65,
+     "tuning_hz": null,
+     "source": "maker manual p.2",
+     "note": "published as 0.8 cu ft; recommended; maker volumes INCLUDE driver displacement; min 0.5, max 1.0 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 33.98,
+     "tuning_hz": null,
+     "source": "maker manual p.2",
+     "note": "published as 1.2 cu ft; 3 in round port x 3.5 in long; tuning not printed; volume includes driver displacement"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": null,
+     "doc": "Pioneer owner's manual TS-W3002D4/W3002D2/W2502D4/W2502D2 (TRD1381-A, 2009), supplied by the project owner; local copy references/Pioneer TS-W3002 2502 instruction manual.pdf",
+     "page": "2",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the series (8 ohm) column of the maker T/S table: Re 6.6, Le 5.55 mH, Bl 28.38 (parallel 2 ohm column: Le 1.39 mH, Bl 14.19). Nominal power 1000 W, max 3500 W. Sd 0.0437 m2 as printed (437 cm2). DATA PROBLEM: printed Vas 13.03 L does not match Sd and Cms (rho c^2 Sd^2 Cms gives about 17 L); Fs, Qms, Qes check out from Mms, Cms, Rms, Bl. Status 'discontinued' is an assumption (2009 manual; the current US range lists TS-W3003D4 / TS-A301D4); UNVERIFIED on the maker site (blocked).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-D12D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 6.6,
+    "qms": 9.75,
+    "qes": 0.74,
+    "qts": 0.69,
+    "vas_l": 47.9,
+    "sd_cm2": 514.7,
+    "xmax_mm": 13,
+    "mms_g": 183,
+    "bl_tm": 19.2,
+    "le_mh": 4.52,
+    "spl_db_1w1m": 78,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 157,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12577/27821cd561cb682ae33b21871d7766da5178ba46/",
+     "doc": "Pioneer user manual PDF (ts-d12d2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 256 mm (pi d^2/4), not printed. Cms printed 0.00013 m/N. Re printed 'Dual 3.3' (per coil); re_ohm = 2 x 3.3 for the series basis used for Le and Bl (8/4 ohm column). Parallel (2 ohm) column: Le 1.14 mH, Bl 9.5.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-D12D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 3.4,
+    "qms": 9.71,
+    "qes": 0.69,
+    "qts": 0.64,
+    "vas_l": 46.2,
+    "sd_cm2": 514.7,
+    "xmax_mm": 13,
+    "mms_g": 193,
+    "bl_tm": 14.6,
+    "le_mh": 2.8,
+    "spl_db_1w1m": 76,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 157,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12577/27821cd561cb682ae33b21871d7766da5178ba46/",
+     "doc": "Pioneer user manual PDF (ts-d12d2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 256 mm (pi d^2/4), not printed. Cms printed 0.00012 m/N. Re printed 'Dual 1.7' (per coil); re_ohm = 2 x 1.7 for the series basis used for Le and Bl (8/4 ohm column). Parallel (1 ohm) column: Le 0.72 mH, Bl 7.3.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-D10D4",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 41,
+    "re_ohm": 7.2,
+    "qms": 8.41,
+    "qes": 0.85,
+    "qts": 0.77,
+    "vas_l": 22.3,
+    "sd_cm2": 343.1,
+    "xmax_mm": 10.8,
+    "mms_g": 124,
+    "bl_tm": 16.1,
+    "le_mh": 4.31,
+    "spl_db_1w1m": 76,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 140,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12577/27821cd561cb682ae33b21871d7766da5178ba46/",
+     "doc": "Pioneer user manual PDF (ts-d12d2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 209 mm (pi d^2/4), not printed. Cms printed 0.00014 m/N. Re printed 'Dual 3.6' (per coil); re_ohm = 2 x 3.6 for the series basis used for Le and Bl (8/4 ohm column). Parallel (2 ohm) column: Le 1.08 mH, Bl 8.0.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-D10D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 40,
+    "re_ohm": 3.4,
+    "qms": 8.74,
+    "qes": 0.76,
+    "qts": 0.7,
+    "vas_l": 20.9,
+    "sd_cm2": 343.1,
+    "xmax_mm": 9.8,
+    "mms_g": 131,
+    "bl_tm": 12.7,
+    "le_mh": 2.59,
+    "spl_db_1w1m": 74,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 140,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12577/27821cd561cb682ae33b21871d7766da5178ba46/",
+     "doc": "Pioneer user manual PDF (ts-d12d2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 209 mm (pi d^2/4), not printed. Cms printed 0.00012 m/N. Re printed 'Dual 1.7' (per coil); re_ohm = 2 x 1.7 for the series basis used for Le and Bl (8/4 ohm column). Parallel (1 ohm) column: Le 0.66 mH, Bl 6.4.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-Z10LS4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 3.3,
+    "qms": 11.37,
+    "qes": 0.55,
+    "qts": 0.52,
+    "vas_l": 23.7,
+    "sd_cm2": 422.7,
+    "xmax_mm": 9.5,
+    "mms_g": 190,
+    "bl_tm": 16.7,
+    "le_mh": 2.85,
+    "spl_db_1w1m": 76,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": 231,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12580/003b7209299938d00de743d5b38c7fcbce7410ed/",
+     "doc": "Pioneer user manual PDF (ts-z10ls2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 232 mm (pi d^2/4), not printed. Cms printed 0.00011 m/N. Shallow-mount.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-Z10LS2",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 1.7,
+    "qms": 10.8,
+    "qes": 0.5,
+    "qts": 0.48,
+    "vas_l": 23.1,
+    "sd_cm2": 422.7,
+    "xmax_mm": 9.4,
+    "mms_g": 204,
+    "bl_tm": 13.2,
+    "le_mh": 1.74,
+    "spl_db_1w1m": 74,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": 231,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12580/003b7209299938d00de743d5b38c7fcbce7410ed/",
+     "doc": "Pioneer user manual PDF (ts-z10ls2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 232 mm (pi d^2/4), not printed. Cms printed 0.00011 m/N. Shallow-mount.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-D10LS4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 3.3,
+    "qms": 11.91,
+    "qes": 0.86,
+    "qts": 0.8,
+    "vas_l": 19.8,
+    "sd_cm2": 336.5,
+    "xmax_mm": 8.3,
+    "mms_g": 148,
+    "bl_tm": 12.3,
+    "le_mh": 2.09,
+    "spl_db_1w1m": 76,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 84,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12848/4bd65e4a8f7ee5330d299551d17eb3943f51fa92/",
+     "doc": "Pioneer user manual PDF (ts-d10ls2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://pioneer-car.eu/ts-d10ls2/ts-d10ls2",
+     "doc": "pioneer-car.eu product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 207 mm (pi d^2/4), not printed. Cms printed 0.00012 m/N. Shallow-mount. Manual also prints 82 dB (1 W / 0.5 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-D10LS2",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.7,
+    "qms": 11.71,
+    "qes": 0.8,
+    "qts": 0.75,
+    "vas_l": 18,
+    "sd_cm2": 336.5,
+    "xmax_mm": 7.9,
+    "mms_g": 171,
+    "bl_tm": 9.8,
+    "le_mh": 1.35,
+    "spl_db_1w1m": 74,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 84,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_12848/4bd65e4a8f7ee5330d299551d17eb3943f51fa92/",
+     "doc": "Pioneer user manual PDF (ts-d10ls2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://pioneer-car.eu/ts-d10ls2/ts-d10ls2",
+     "doc": "pioneer-car.eu product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 207 mm (pi d^2/4), not printed. Cms printed 0.00011 m/N. Shallow-mount. Manual also prints 80 dB (1 W / 0.5 m). Cut-out/depth from the TS-D10LS2 product page (same frame assumed for LS4).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A3000LS4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 3.6,
+    "qms": 5.71,
+    "qes": 0.6,
+    "qts": 0.54,
+    "vas_l": 45.6,
+    "sd_cm2": 506.7,
+    "xmax_mm": 8.8,
+    "mms_g": 221,
+    "bl_tm": 16.1,
+    "le_mh": 2.89,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 90,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_13716/2c237d43f2de86e3723c7a96653541cb97c0e029/",
+     "doc": "Pioneer user manual PDF (ts-a2000ld2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://pioneer-car.eu/ts-a3000ls4/ts-a3000ls4",
+     "doc": "pioneer-car.eu product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 254 mm (pi d^2/4), not printed. Cms printed 0.000122 m/N. Shallow-mount.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A2500LS4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.7,
+    "qms": 10.93,
+    "qes": 0.9,
+    "qts": 0.83,
+    "vas_l": 17.9,
+    "sd_cm2": 336.5,
+    "xmax_mm": 8.3,
+    "mms_g": 153,
+    "bl_tm": 12.3,
+    "le_mh": 2.52,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_13716/2c237d43f2de86e3723c7a96653541cb97c0e029/",
+     "doc": "Pioneer user manual PDF (ts-a2000ld2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://pioneer-car.eu/ts-a2500ls4/ts-a2500ls4",
+     "doc": "pioneer-car.eu product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 207 mm (pi d^2/4), not printed. Cms printed 0.000112 m/N. Shallow-mount.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A2000LD2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 250,
+   "peak_w": 700,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 63,
+    "re_ohm": 3.2,
+    "qms": 7.49,
+    "qes": 1.14,
+    "qts": 0.99,
+    "vas_l": 4.11,
+    "sd_cm2": 201.1,
+    "xmax_mm": 2.3,
+    "mms_g": 90,
+    "bl_tm": 10,
+    "le_mh": 1.12,
+    "spl_db_1w1m": 83,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67,
+   "cutout_mm": 179,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_13716/2c237d43f2de86e3723c7a96653541cb97c0e029/",
+     "doc": "Pioneer user manual PDF (ts-a2000ld2), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "1",
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://pioneer-car.eu/ts-a2000ld2/ts-a2000ld2",
+     "doc": "pioneer-car.eu product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 160 mm (pi d^2/4), not printed. Cms printed 7.1e-05 m/N. Re printed as a single 3.2 ohm on a 2 ohm DVC (fits the coils in series: Qes*Bl^2/(2 pi Fs Mms) = 3.2); single Le/Bl column. Shallow-mount.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A300S4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 500,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 26,
+    "re_ohm": 4.4,
+    "qms": 7.22,
+    "qes": 0.67,
+    "qts": 0.62,
+    "vas_l": 75,
+    "sd_cm2": 514.7,
+    "xmax_mm": 10.7,
+    "mms_g": 188,
+    "bl_tm": 14.1,
+    "le_mh": 4.86,
+    "spl_db_1w1m": 77,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 147,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_19212/3145ff8c7338f51f12ef447bd9843eeef3d5157a/",
+     "doc": "Pioneer user manual PDF (ts-a250d4), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 256 mm (pi d^2/4), not printed. Cms printed 0.0002 m/N.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A300D4 / TS-A1200D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 25,
+    "re_ohm": 8.6,
+    "qms": 5.62,
+    "qes": 0.78,
+    "qts": 0.69,
+    "vas_l": 87.1,
+    "sd_cm2": 514.7,
+    "xmax_mm": 10.1,
+    "mms_g": 181,
+    "bl_tm": 17.7,
+    "le_mh": 7.73,
+    "spl_db_1w1m": 77,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 147,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_19212/3145ff8c7338f51f12ef447bd9843eeef3d5157a/",
+     "doc": "Pioneer user manual PDF (ts-a250d4), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 256 mm (pi d^2/4), not printed. Cms printed 0.000233 m/N. Re printed 'Dual 4.3' (per coil); re_ohm = 2 x 4.3 for the series basis used for Le and Bl (8/4 ohm column). Parallel (2 ohm) column: Le 1.93 mH, Bl 8.9. Product page prints 400 W nominal in the header and 500 W in the table; manual 500 W kept.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A250S4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 3.7,
+    "qms": 4.42,
+    "qes": 0.6,
+    "qts": 0.52,
+    "vas_l": 34.1,
+    "sd_cm2": 343.1,
+    "xmax_mm": 11.3,
+    "mms_g": 136,
+    "bl_tm": 12.6,
+    "le_mh": 3.84,
+    "spl_db_1w1m": 73,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 133,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_19212/3145ff8c7338f51f12ef447bd9843eeef3d5157a/",
+     "doc": "Pioneer user manual PDF (ts-a250d4), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 209 mm (pi d^2/4), not printed. Cms printed 0.000205 m/N.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A250D4",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 7.4,
+    "qms": 4.27,
+    "qes": 0.68,
+    "qts": 0.59,
+    "vas_l": 36.6,
+    "sd_cm2": 343.1,
+    "xmax_mm": 10.8,
+    "mms_g": 128,
+    "bl_tm": 16.1,
+    "le_mh": 6.53,
+    "spl_db_1w1m": 74,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 133,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_19212/3145ff8c7338f51f12ef447bd9843eeef3d5157a/",
+     "doc": "Pioneer user manual PDF (ts-a250d4), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 209 mm (pi d^2/4), not printed. Cms printed 0.00022 m/N. Re printed 'Dual 3.7' (per coil); re_ohm = 2 x 3.7 for the series basis used for Le and Bl (8/4 ohm column). Parallel (2 ohm) column: Le 1.63 mH, Bl 8.0.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-W32S4 / TS-W1202S4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 3.3,
+    "qms": 6.61,
+    "qes": 0.68,
+    "qts": 0.61,
+    "vas_l": 57.7,
+    "sd_cm2": 514.7,
+    "xmax_mm": 11.6,
+    "mms_g": 181,
+    "bl_tm": 13,
+    "le_mh": 3.4,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 146,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_28518/a67b3bcf60ccf54acf4f4168b5e6f249c1636a63/",
+     "doc": "Pioneer user manual PDF (ts-w32d4), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://pioneer-car.eu/ts-w32d4/ts-w32d4",
+     "doc": "pioneer-car.eu product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 256 mm (pi d^2/4), not printed. Cms printed 0.000154 m/N. Sensitivity printed 90 dB +/- 1.5 dB 'in car, input 1 W' (not a 1 W/1 m figure, not entered). Cut-out/depth from the TS-W32D4 product page (same frame assumed).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-W32D4 / TS-W1202D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 1500,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "series",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 6.6,
+    "qms": 6.37,
+    "qes": 0.9,
+    "qts": 0.79,
+    "vas_l": 57.4,
+    "sd_cm2": 514.7,
+    "xmax_mm": 13.4,
+    "mms_g": 190,
+    "bl_tm": 16.2,
+    "le_mh": 5.99,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 146,
+   "cutout_mm": 281,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pioneer-car.eu/asset/user_manuals/UPLOAD_ID_28518/a67b3bcf60ccf54acf4f4168b5e6f249c1636a63/",
+     "doc": "Pioneer user manual PDF (ts-w32d4), specification table, image only: READ FROM IMAGE (crop in references/raw/car_subs/pioneer/eu_manuals/)",
+     "page": "2",
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "cutout_mm",
+      "mounting_depth_mm"
+     ],
+     "url": "https://pioneer-car.eu/ts-w32d4/ts-w32d4",
+     "doc": "pioneer-car.eu product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker manual), double-checked: Re implied by Qes, Bl, Mms, Fs agrees with the printed Re. Sd calculated from the printed effective diameter 256 mm (pi d^2/4), not printed. Cms printed 0.000154 m/N. Re printed 'Dual 3.3' (per coil); re_ohm = 2 x 3.3 for the series basis used for Le and Bl (8/4 ohm column). Parallel (2 ohm) column: Le 1.49 mH, Bl 8.1. Sensitivity printed 90 dB +/- 1.5 dB 'in car, input 1 W' (not entered).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "TS-W5102SPL",
+   "rms_w": null,
+   "url": "https://kitchen.manualsonline.com/manuals/mfg/pioneer/rsd7rii.html?p=44",
+   "note": "12 inch dual 2 ohm Champion SPL sub, discontinued. Pioneer catalogue page (hosted copy) gives 6000 W max; nominal input reported as 2500 W only by retailers, and no Pioneer page with T/S was found. Not recorded as a driver.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "TS-A301D4",
+   "rms_w": null,
+   "url": "https://usa.pioneer/products/ts-a301d4",
+   "note": "Maker sites blocked from this container on 2026-11-23 (usa.pioneer HTTP 429, pioneer-car.eu Cloudflare 403, pioneer.com.au bot check); model name seen in the usa.pioneer subwoofer collection page only; no values taken. Needs a non-VPN connection route or a hand-saved page.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A301S4",
+   "rms_w": null,
+   "url": "https://usa.pioneer/products/ts-a301s4",
+   "note": "Maker sites blocked from this container on 2026-11-23 (usa.pioneer HTTP 429, pioneer-car.eu Cloudflare 403, pioneer.com.au bot check); model name seen in the usa.pioneer subwoofer collection page only; no values taken. Needs a non-VPN connection route or a hand-saved page.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A120D4",
+   "rms_w": null,
+   "url": "https://usa.pioneer/products/ts-a120d4",
+   "note": "Maker sites blocked from this container on 2026-11-23 (usa.pioneer HTTP 429, pioneer-car.eu Cloudflare 403, pioneer.com.au bot check); model name seen in the usa.pioneer subwoofer collection page only; no values taken. Needs a non-VPN connection route or a hand-saved page.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A25S4",
+   "rms_w": null,
+   "url": "https://usa.pioneer/products/ts-a25s4",
+   "note": "Maker sites blocked from this container on 2026-11-23 (usa.pioneer HTTP 429, pioneer-car.eu Cloudflare 403, pioneer.com.au bot check); model name seen in the usa.pioneer subwoofer collection page only; no values taken. Needs a non-VPN connection route or a hand-saved page.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-A30S4",
+   "rms_w": 400,
+   "url": "https://pioneer-car.eu/ts-a30s4/ts-a30s4",
+   "note": "pioneer-car.eu product page (headless browser 2026-11-23): 30 cm, 4 ohm SVC, 400 W nominal, 1400 W max, cut-out 281 mm, mounting depth 136 mm, recommended enclosure 1.25 cu ft / 35.4 L. No user manual linked, no T/S.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-W3020PRO",
+   "rms_w": 1800,
+   "url": "https://pioneer-car.eu/ts-w3020pro/ts-w3020pro",
+   "note": "pioneer-car.eu product page (headless browser 2026-11-23): 30 cm, 1 or 4 ohm, 1800 W nominal, 3500 W max, cut-out 282 mm, mounting depth 154 mm, recommended enclosure 1.25 cu ft / 35 L. No user manual linked, no T/S.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-W3010PRO",
+   "rms_w": 600,
+   "url": "https://pioneer-car.eu/ts-w3010pro/ts-w3010pro",
+   "note": "pioneer-car.eu category page: 30 cm, 1 or 4 ohm, 600 W nominal, 1500 W max. Product page not read (time).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-W3820PRO",
+   "rms_w": 1800,
+   "url": "https://pioneer-car.eu/ts-w3820pro/ts-w3820pro",
+   "note": "pioneer-car.eu category page: 38 cm, 1 or 4 ohm, 1800 W nominal, 3500 W max. Product page not read (time).",
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

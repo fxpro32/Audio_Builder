@@ -1,0 +1,2226 @@
+{
+ "schema": "parts_raw/1",
+ "category": "terminals",
+ "brand": "Narva",
+ "maker_site": "https://www.narva.com.au",
+ "method": "maker's Australian Shopify store, products.json titles, SKUs and AUD prices; parsed by scripts/parts/build_narva.py",
+ "terms_note": "Facts only (sizes, ratings, prices) with URL; no text or images copied.",
+ "units": {
+  "conductor_mm2": "mm2",
+  "current_rating_a": "A"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 92,
+ "records": [
+  {
+   "id": "narva-57178",
+   "model": "57178",
+   "title": "95mm² Straight Barrel Cable Lug With 12mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-95mm-straight-barrel-cable-lug-with-12mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 95,
+   "stud_mm": 12,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57176",
+   "model": "57176",
+   "title": "95mm² Straight Barrel Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-95mm-straight-barrel-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 95,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57172BL",
+   "model": "57172BL",
+   "title": "70mm² Straight Barrel Cable Lug With 12mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-straight-barrel-cable-lug-with-12mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 70,
+   "stud_mm": 12,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57172",
+   "model": "57172",
+   "title": "70mm² Straight Barrel Cable Lug With 12mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-straight-barrel-cable-lug-with-12mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 70,
+   "stud_mm": 12,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57171BL",
+   "model": "57171BL",
+   "title": "70mm² Straight Barrel Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-straight-barrel-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 70,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57171",
+   "model": "57171",
+   "title": "70mm² Straight Barrel Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-straight-barrel-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 70,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57170BL",
+   "model": "57170BL",
+   "title": "70mm² Straight Barrel Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-straight-barrel-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 70,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57170",
+   "model": "57170",
+   "title": "70mm² Straight Barrel Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-straight-barrel-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 70,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57169BL",
+   "model": "57169BL",
+   "title": "50mm² Straight Barrel Cable Lug With 12mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-straight-barrel-cable-lug-with-12mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 50,
+   "stud_mm": 12,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57169",
+   "model": "57169",
+   "title": "50mm² Straight Barrel Cable Lug With 12mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-straight-barrel-cable-lug-with-12mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 50,
+   "stud_mm": 12,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57168BL",
+   "model": "57168BL",
+   "title": "50mm² Straight Barrel Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-straight-barrel-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 50,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57168",
+   "model": "57168",
+   "title": "50mm² Straight Barrel Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-straight-barrel-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 50,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57167BL",
+   "model": "57167BL",
+   "title": "50mm² Straight Barrel Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-straight-barrel-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 50,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57167",
+   "model": "57167",
+   "title": "50mm² Straight Barrel Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-straight-barrel-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 50,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57164BL",
+   "model": "57164BL",
+   "title": "35mm² Straight Barrel Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-straight-barrel-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 35,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57164",
+   "model": "57164",
+   "title": "35mm² Straight Barrel Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-straight-barrel-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 35,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57163BL",
+   "model": "57163BL",
+   "title": "35mm² Straight Barrel Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-straight-barrel-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 35,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57163",
+   "model": "57163",
+   "title": "35mm² Straight Barrel Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-straight-barrel-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 35,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57162BL",
+   "model": "57162BL",
+   "title": "35mm² Straight Barrel Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-straight-barrel-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 35,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57162",
+   "model": "57162",
+   "title": "35mm² Straight Barrel Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-straight-barrel-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 35,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57160BL",
+   "model": "57160BL",
+   "title": "25mm² Straight Barrel Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-straight-barrel-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 25,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57160",
+   "model": "57160",
+   "title": "25mm² Straight Barrel Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-straight-barrel-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 25,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57159BL",
+   "model": "57159BL",
+   "title": "25mm² Straight Barrel Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-straight-barrel-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 25,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57159",
+   "model": "57159",
+   "title": "25mm² Straight Barrel Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-straight-barrel-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 25,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57158BL",
+   "model": "57158BL",
+   "title": "25mm² Straight Barrel Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-straight-barrel-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 25,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57158",
+   "model": "57158",
+   "title": "25mm² Straight Barrel Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-straight-barrel-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 25,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57156BL",
+   "model": "57156BL",
+   "title": "16mm² Straight Barrel Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-straight-barrel-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 16,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57156",
+   "model": "57156",
+   "title": "16mm² Straight Barrel Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-straight-barrel-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 16,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57155BL",
+   "model": "57155BL",
+   "title": "16mm² Straight Barrel Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-straight-barrel-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 16,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57155/50",
+   "model": "57155/50",
+   "title": "16mm² Straight Barrel Cable Lug With 8mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-straight-barrel-cable-lug-with-8mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 16,
+   "stud_mm": 8,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57155",
+   "model": "57155",
+   "title": "16mm² Straight Barrel Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-straight-barrel-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 16,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57154BL",
+   "model": "57154BL",
+   "title": "16mm² Straight Barrel Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-straight-barrel-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 16,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57154",
+   "model": "57154",
+   "title": "16mm² Straight Barrel Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-straight-barrel-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 16,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57152BL",
+   "model": "57152BL",
+   "title": "10mm² Straight Barrel Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57152/50",
+   "model": "57152/50",
+   "title": "10mm² Straight Barrel Cable Lug With 10mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-10mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 10,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57152",
+   "model": "57152",
+   "title": "10mm² Straight Barrel Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57151BL",
+   "model": "57151BL",
+   "title": "10mm² Straight Barrel Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57151",
+   "model": "57151",
+   "title": "10mm² Straight Barrel Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57150BL",
+   "model": "57150BL",
+   "title": "10mm² Straight Barrel Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57150/50",
+   "model": "57150/50",
+   "title": "10mm² Straight Barrel Cable Lug With 6mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-6mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 6,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57150",
+   "model": "57150",
+   "title": "10mm² Straight Barrel Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-straight-barrel-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "straight",
+   "cable_mm2": 10,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57148",
+   "model": "57148",
+   "title": "95mm² Cable Lug With 12mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-95mm-cable-lug-with-12mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 95,
+   "stud_mm": 12,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57146",
+   "model": "57146",
+   "title": "95mm² Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-95mm-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 95,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57142BL",
+   "model": "57142BL",
+   "title": "70mm² Cable Lug With 12mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-cable-lug-with-12mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 70,
+   "stud_mm": 12,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57142",
+   "model": "57142",
+   "title": "70mm² Cable Lug With 12mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-cable-lug-with-12mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 70,
+   "stud_mm": 12,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57141BL",
+   "model": "57141BL",
+   "title": "70mm² Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 70,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57141",
+   "model": "57141",
+   "title": "70mm² Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 70,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57140BL",
+   "model": "57140BL",
+   "title": "70mm² Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 70,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57140",
+   "model": "57140",
+   "title": "70mm² Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-70mm-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 70,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57139BL",
+   "model": "57139BL",
+   "title": "50mm² Cable Lug With 12mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-12mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 12,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57139",
+   "model": "57139",
+   "title": "50mm² Cable Lug With 12mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-12mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 12,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57138BL",
+   "model": "57138BL",
+   "title": "50mm² Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57138/50",
+   "model": "57138/50",
+   "title": "50mm² Cable Lug With 10mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-10mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 10,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57138",
+   "model": "57138",
+   "title": "50mm² Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57137BL",
+   "model": "57137BL",
+   "title": "50mm² Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57137/50",
+   "model": "57137/50",
+   "title": "50mm² Cable Lug With 8mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-8mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 8,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57137",
+   "model": "57137",
+   "title": "50mm² Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-50mm-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 50,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57134BL",
+   "model": "57134BL",
+   "title": "35mm² Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57134/50",
+   "model": "57134/50",
+   "title": "35mm² Cable Lug With 10mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-10mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 10,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57134",
+   "model": "57134",
+   "title": "35mm² Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57133BL",
+   "model": "57133BL",
+   "title": "35mm² Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57133/50",
+   "model": "57133/50",
+   "title": "35mm² Cable Lug With 8mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-8mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 8,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57133",
+   "model": "57133",
+   "title": "35mm² Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57132BL",
+   "model": "57132BL",
+   "title": "35mm² Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57132",
+   "model": "57132",
+   "title": "35mm² Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-35mm-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 35,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57130BL",
+   "model": "57130BL",
+   "title": "25mm² Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57130/50",
+   "model": "57130/50",
+   "title": "25mm² Cable Lug With 10mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-10mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 10,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57130",
+   "model": "57130",
+   "title": "25mm² Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57129BL",
+   "model": "57129BL",
+   "title": "25mm² Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57129/50",
+   "model": "57129/50",
+   "title": "25mm² Cable Lug With 8mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-8mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 8,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57129",
+   "model": "57129",
+   "title": "25mm² Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57128BL",
+   "model": "57128BL",
+   "title": "25mm² Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57128/50",
+   "model": "57128/50",
+   "title": "25mm² Cable Lug With 6mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-6mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 6,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57128",
+   "model": "57128",
+   "title": "25mm² Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-25mm-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 25,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57126BL",
+   "model": "57126BL",
+   "title": "16mm² Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57126/50",
+   "model": "57126/50",
+   "title": "16mm² Cable Lug With 10mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-10mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 10,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57126",
+   "model": "57126",
+   "title": "16mm² Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57125BL",
+   "model": "57125BL",
+   "title": "16mm² Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57125/50",
+   "model": "57125/50",
+   "title": "16mm² Cable Lug With 8mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-8mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 8,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57125",
+   "model": "57125",
+   "title": "16mm² Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57124BL",
+   "model": "57124BL",
+   "title": "16mm² Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57124/50",
+   "model": "57124/50",
+   "title": "16mm² Cable Lug With 6mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-6mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 6,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57124",
+   "model": "57124",
+   "title": "16mm² Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-16mm-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 16,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57122BL",
+   "model": "57122BL",
+   "title": "10mm² Cable Lug With 10mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-10mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 10,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57122/50",
+   "model": "57122/50",
+   "title": "10mm² Cable Lug With 10mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-10mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 10,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57122",
+   "model": "57122",
+   "title": "10mm² Cable Lug With 10mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-10mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 10,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57121BL",
+   "model": "57121BL",
+   "title": "10mm² Cable Lug With 8mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-8mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 8,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57121/50",
+   "model": "57121/50",
+   "title": "10mm² Cable Lug With 8mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-8mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 8,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57121",
+   "model": "57121",
+   "title": "10mm² Cable Lug With 8mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-8mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 8,
+   "pack_qty": 10,
+   "bundle": true
+  },
+  {
+   "id": "narva-57120BL",
+   "model": "57120BL",
+   "title": "10mm² Cable Lug With 6mm Stud (2 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-6mm-stud-2-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 6,
+   "pack_qty": 2,
+   "bundle": true
+  },
+  {
+   "id": "narva-57120/50",
+   "model": "57120/50",
+   "title": "10mm² Cable Lug With 6mm Stud (50 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-6mm-stud-50-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 6,
+   "pack_qty": 50,
+   "bundle": true
+  },
+  {
+   "id": "narva-57120",
+   "model": "57120",
+   "title": "10mm² Cable Lug With 6mm Stud (10 Pack)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://www.narva.com.au/products/narva-10mm-cable-lug-with-6mm-stud-10-pack",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.narva.com.au/products.json"
+    }
+   ],
+   "kind": "cable lug",
+   "barrel": "standard",
+   "cable_mm2": 10,
+   "stud_mm": 6,
+   "pack_qty": 10,
+   "bundle": true
+  }
+ ],
+ "not_recorded": []
+}

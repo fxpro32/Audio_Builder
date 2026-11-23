@@ -1,0 +1,290 @@
+{
+ "brand": "CT Sounds",
+ "country": "USA",
+ "brand_url": "https://www.ctsounds.com",
+ "terms_note": "R4 2026-11-23: Shopify products.json read (2 requests, 3 s apart). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [
+  {
+   "model": "CT Sounds TROPO-6-5-COM",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": 80,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 75,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 142.2,
+   "frame_mm": 167.4,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "3.3 μF capacitor / 100 V",
+     "Filter For Woofer": "12 dB",
+     "Filter For Tweeter": "12 dB",
+     "LPF X-Over Point": "20 Hz - 3.5 kHz",
+     "HPF X-Over Point": "3.5 kHz - 20 kHz"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-6-5-com",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: per driver (maker 'Power Per ...'). Only Fs printed (no full T/S).",
+   "title": "TROPO-6-5-COM // 6.5” 160 Watt 2-Way Shallow Component Speaker Set",
+   "tweeter_part_as_printed": {
+    "Tweeter Size": "20 mm",
+    "Tweeter Type": "Silk-Dome",
+    "Magnet Type": "Neodymium",
+    "Output SPL (@1w/1m)": "90 dB",
+    "Frequency Response (@SPL -10dB)": "1000 Hz ~ 20 kHz",
+    "Sweep Voltage": "2.8 V"
+   }
+  },
+  {
+   "model": "CT Sounds MESO-5-25-COM",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 240,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 75,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 67.3,
+   "cutout_mm": 118.1,
+   "frame_mm": 129.5,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "5.6 μF capacitor / 100 V",
+     "Filter for Woofer": "12 dB",
+     "Filter for Tweeter": "12 dB"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-5-25-comp",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '120 Watts (Pair)' (pair rating). Only Fs printed (no full T/S).",
+   "title": "MESO-5-25-COM // 5.25\" 240 Watt 2-Way Component Speaker Set",
+   "tweeter_part_as_printed": {
+    "Sweep Voltage": "2.8 V",
+    "Output SPL (@1w/1m)": "89 dB",
+    "Frequency Response": "1500 Hz ~ 20 kHz",
+    "Tweeter Size": "25mm",
+    "Tweeter Type": "Silk-dome",
+    "Magnet Type": "Neo"
+   }
+  },
+  {
+   "model": "CT Sounds MESO-6-5-3WAY-COM",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    4500
+   ],
+   "magnet": "ferrite neo",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 65,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72.9,
+   "cutout_mm": 144.8,
+   "frame_mm": 171.4,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "5.6 μF capacitor / 100 V",
+     "Filter for Woofer": "12 dB",
+     "Filter for Mid-range": "18 dB",
+     "Filter for Tweeter": "12 dB"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-6-5-3way-com",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '250 Watts (Pair)' (pair rating). Only Fs printed (no full T/S).",
+   "title": "MESO-6-5-3WAY-COM // 6.5\" 500W 3-Way Component Speaker Set",
+   "tweeter_part_as_printed": {
+    "Sweep Voltage": "2.8 V",
+    "Output SPL (@1w/1m)": "90 dB",
+    "Frequency Response": "1500 Hz ~ 20 kHz",
+    "Tweeter Size": "25mm",
+    "Tweeter Type": "Silk-dome",
+    "Magnet Type": "Neo"
+   }
+  },
+  {
+   "model": "CT Sounds MESO-6-5-COM",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 160,
+   "peak_w": 320,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "ferrite",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 65,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72.9,
+   "cutout_mm": 144.8,
+   "frame_mm": 171.4,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover Circuit": "5.6 μF capacitor / 100 V",
+     "Filter for Woofer": "12 dB",
+     "Filter for Tweeter": "12 dB"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-6-5-com",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '160 Watts (Pair)' (pair rating). Only Fs printed (no full T/S).",
+   "title": "MESO-6-5-COM // 6.5\" 320 Watt 2-Way Component Speaker Set",
+   "tweeter_part_as_printed": {
+    "Sweep Voltage": "2.8 V",
+    "Output SPL (@1w/1m)": "90 dB",
+    "Frequency Response": "1500 Hz ~ 20 kHz",
+    "Tweeter Size": "25mm",
+    "Tweeter Type": "Silk-dome",
+    "Magnet Type": "Neo"
+   }
+  }
+ ],
+ "no_specs_published": []
+}

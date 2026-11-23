@@ -1,0 +1,1267 @@
+{
+ "schema": "parts_raw/1",
+ "category": "wiring_kits",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, products.json (title, vendor field = model, body numbers); scripts/parts/build_ds18_accessories.py",
+ "terms_note": "Numbers only, URL per record; USD maker-store prices.",
+ "units": {
+  "length_m": "m (converted from feet)",
+  "awg_nominal_mm2": "mm2 for the stated AWG (ASTM B258 formula), NOT measured",
+  "actual_area_mm2_from_strands": "mm2 = strands x pi/4 x d^2 from the maker strand count"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 60,
+ "records": [
+  {
+   "id": "ds18-sq82-candy-x1b",
+   "model": null,
+   "title": "Car Audio Bass Package with Dual 8\" Sealed Subwoofer Enclosure with Amplifier and Wiring Kit – 300W RMS",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/sq82-candy-x1b",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": "CCA",
+   "bundle": true,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-pkg-prozt62",
+   "model": "PKG-PROZT62",
+   "title": "Pro Audio Speaker Bundle: 6.5\" Midrange Coaxial Speakers with OEM Speaker Adapters, Amplifier, and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pkg-prozt62",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-utv-kit4-2dr",
+   "model": "UTV-KIT4-2DR",
+   "title": "UTV 4-Gauge Power Harness Kit – 8ft Power & Ground Cables with Water-Resistant Fuse Holder for 2-Door UTVs",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/utv-kit4-2dr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-utv-kit6-2dr",
+   "model": "UTV-KIT6-2DR",
+   "title": "UTV 6-Gauge Power Harness Kit – 8ft Power & Ground Cables with Water-Resistant Fuse Holder for 2-Door UTVs",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/utv-kit6-2dr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "6",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-utv-kit8-2dr",
+   "model": "UTV-KIT8-2DR",
+   "title": "UTV 8-Gauge Power Harness Kit – 8ft Power & Ground Cables with Water-Resistant Fuse Holder for 2-Door UTVs",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/utv-kit8-2dr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-utv-kit6-4dr",
+   "model": "UTV-KIT6-4DR",
+   "title": "UTV 6-Gauge Power Harness Kit – 12ft Power & Ground Cables with Water-Resistant Fuse Holder for 4-Door UTVs",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/utv-kit6-4dr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "6",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-utv-kit8-4dr",
+   "model": "UTV-KIT8-4DR",
+   "title": "UTV 8-Gauge Power Harness Kit – 12ft Power & Ground Cables with Water-Resistant Fuse Holder for 4-Door UTVs",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/utv-kit8-4dr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-utv-kit4-4dr",
+   "model": "UTV-KIT4-4DR",
+   "title": "UTV 4-Gauge Power Harness Kit – 12ft Power & Ground Cables with Water-Resistant Fuse Holder for 4-Door UTVs",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/utv-kit4-4dr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-pkg-sub2",
+   "model": "PKG-SUB2",
+   "title": "Bass Bundle: Dual 12\" Subwoofers with Monoblock Amplifier and Installation Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pkg-sub2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-factory-ready-subwoofer-bass-package-for-daily-drivers",
+   "model": "PKG-SUB1",
+   "title": "Bass Bundle: 12\" Subwoofer with Monoblock Amplifier and Installation Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/factory-ready-subwoofer-bass-package-for-daily-drivers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-full-range-subwoofer-upgrade-kit",
+   "model": "PKG-ZXI62SUB1",
+   "title": "Car Audio + Bass Bundle: 6.5\" Coaxial Speakers and 12\" Subwoofer with Amplifier and Installation Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/full-range-subwoofer-upgrade-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-pkg-prox62",
+   "model": "PKG-PROX62",
+   "title": "Pro Audio Speaker + Tweeter Bundle: 6.5\" Midrange Speakers and 3.8\" Bullet Tweeters with OEM Speaker Adapters, Amplifier, and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pkg-prox62",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-pkg-zxi669",
+   "model": "PKG-ZXI669",
+   "title": "Car Audio Bundle: 6.5\" & 6x9\" Coaxial Speakers with OEM Speaker Adapters, Amplifier, and Installation Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pkg-zxi669",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-pkg-zxi62",
+   "model": "PKG-ZXI62",
+   "title": "Car Audio Bundle: 6.5\" Coaxial Speakers with OEM Speaker Adapters, Amplifier, and Installation Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pkg-zxi62",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-pkg-prog64",
+   "model": "PKG-PROG64",
+   "title": "Pro Audio Speaker Bundle: 6.5\" Midrange Speakers with OEM Speaker Adapters, Amplifier, and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pkg-prog64",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-pkg-g669",
+   "model": "PKG-G669",
+   "title": "Car Audio Bundle: 6.5\" & 6x9\" Coaxial Speakers with OEM Speaker Adapters, Amplifier, and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/pkg-g669",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-akit8-gr",
+   "model": "AKIT8.GR",
+   "title": "8-GA Amplifier Installation Wiring Kit - Green",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit8-gr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-akit0-gr",
+   "model": "AKIT0.GR",
+   "title": "0-GA Amplifier Installation Wiring Kit - Green",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit0-gr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-akit0-bl",
+   "model": "AKIT0.BL",
+   "title": "0-GA Amplifier Installation Wiring Kit - Blue",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit0-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-akit8-rd",
+   "model": "AKIT8.RD",
+   "title": "8-GA Amplifier Installation Wiring Kit - Red",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit8-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-en-osp62-rzrpkg",
+   "model": "EN-OSP62-RZRPKG",
+   "title": "Polaris RZR / RZR PRO Overhead Enclosure With Amplifier and Installation Kit - Loaded with 2x 6.5\" 2-Way Marine Speakers With Digital LED Lights",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/en-osp62-rzrpkg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-en-osp62-capkg",
+   "model": "EN-OSP62-CAPKG",
+   "title": "CAN-AM Overhead Enclosure With Amplifier and Installation Kit - Loaded with 2x 6.5\" 2-Way Marine Speakers With Digital LED Lights",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/en-osp62-capkg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-akit8-yl",
+   "model": "AKIT8.YL",
+   "title": "8-GA Amplifier Installation Wiring Kit - Yellow",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit8-yl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-akit8-pu",
+   "model": "AKIT8.PU",
+   "title": "8-GA Amplifier Installation Wiring Kit - Purple",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit8-pu",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-akit8-bl",
+   "model": "AKIT8.BL",
+   "title": "8-GA Amplifier Installation Wiring Kit - Blue",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit8-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-akit0-pu",
+   "model": "AKIT0.PU",
+   "title": "0-GA Amplifier Installation Wiring Kit - Purple",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit0-pu",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-akit0-yl",
+   "model": "AKIT0.YL",
+   "title": "0-GA Amplifier Installation Wiring Kit - Yellow",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit0-yl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-0-ga-amplifier-wiring-kit-red",
+   "model": "AKIT0.RD",
+   "title": "0-GA Amplifier Installation Wiring Kit - Red",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/0-ga-amplifier-wiring-kit-red",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-6-5-loaded-flat-mount-speaker-pods-with-amplifier-installation-kit-and-rgb-led-lights",
+   "model": "EN-JS6PKG-IQ",
+   "title": "6.5\" Loaded Flat Mount Speaker Pods with Amplifier, Installation Kit and Digital LED Lights, Package for Can-Am Spyder & Ryker",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/6-5-loaded-flat-mount-speaker-pods-with-amplifier-installation-kit-and-rgb-led-lights-package-for-can-am-spyder-ryker-copy",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-8-loaded-flat-mount-speaker-pods-with-amplifier-installation-kit-and-rgb-led-lights-p",
+   "model": null,
+   "title": "8\" Loaded Flat Mount Speaker Pods with Amplifier, Installation Kit and Digital LED Lights, Package for Can-Am Spyder & Ryker",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/8-loaded-flat-mount-speaker-pods-with-amplifier-installation-kit-and-rgb-led-lights-package-for-can-am-spyder-ryker-copy",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-en-js8-package",
+   "model": null,
+   "title": "8\" Loaded Flat Mount Speaker Pods with Amplifier, Installation Kit and RGB LED Lights, Package for Can-Am Spyder & Ryker",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/en-js8-package",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-en-js6-package",
+   "model": null,
+   "title": "6.5\" Loaded Flat Mount Speaker Pods with Amplifier, Installation Kit and RGB LED Lights, Package for Can-Am Spyder & Ryker",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/en-js6-package",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-rcbar46-37-rzrpkg",
+   "model": "RCBAR46-37-RZRPKG",
+   "title": "Polaris RZR/RZR PRO Soundbar With Amplifier and Installation Kit - Loaded with 4x 6.5\" Marine Speakers & 2x 4\" Super Bullet Tweeters",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/rcbar46-37-rzrpkg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-akit4-yl",
+   "model": "AKIT4.YL",
+   "title": "4-GA Amplifier Installation Wiring Kit - Yellow",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit4-yl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": null
+  },
+  {
+   "id": "ds18-excl-fordbass-ff-17-up-ldpkg",
+   "model": "EXCL-FORDBASS.FF/17-UP.LDPKG",
+   "title": "Ford F-150 Forward Firing Loaded Subwoofer Enclosure with Dream LED Lights, Amplifier and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/excl-fordbass-ff-17-up-ldpkg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null
+  },
+  {
+   "id": "ds18-excl-silveradobass-df-14-21-ldpkg",
+   "model": "EXCL-SILVERADOBASS.DF/14-21.LDPKG",
+   "title": "Chevy Silverado Down Firing Loaded Subwoofer Enclosure with Dream LED Lights, Amplifier and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/excl-silveradobass-df-14-21-ldpkg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null
+  },
+  {
+   "id": "ds18-excl-silveradobass-df-22-up-ldpkg",
+   "model": "EXCL-SILVERADOBASS.DF/22-UP.LDPKG",
+   "title": "Chevy Silverado Down Firing Subwoofer Enclosure with Dream LED Lights, Amplifier and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/excl-silveradobass-df-22-up-ldpkg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null
+  },
+  {
+   "id": "ds18-excl-rambass-df-21-up-ldpkg",
+   "model": "EXCL-RAMBASS.DF/21-UP.LDPKG",
+   "title": "Dodge Ram Down Firing Subwoofer Enclosure with Dream LED Light, Amplifier and Wiring Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/excl-rambass-df-21-up-ldpkg",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null
+  },
+  {
+   "id": "ds18-nxl-ps8-package",
+   "model": null,
+   "title": "8\" Compact Speaker Tower with Marine Amplifier, Installation Kit, and RGB LED Lights - Perfect Package for Jet Ski",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/nxl-ps8-package",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-nxl-ps6-package",
+   "model": null,
+   "title": "6.5\" Compact Speaker Tower with Marine Amplifier, Installation Kit, and RGB LED Lights - Perfect Package for Jet Ski",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/nxl-ps6-package",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-akit4-pu",
+   "model": "AKIT4.PU",
+   "title": "4-GA Amplifier Installation Wiring Kit - Purple",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit4-pu",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": null
+  },
+  {
+   "id": "ds18-akit4-bl",
+   "model": "AKIT4.BL",
+   "title": "4-GA Amplifier Installation Wiring Kit - Blue",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit4-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": null
+  },
+  {
+   "id": "ds18-akit4-gr",
+   "model": "AKIT4.GR",
+   "title": "4-GA Amplifier Installation Wiring Kit - Green",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit4-gr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": null
+  },
+  {
+   "id": "ds18-akit4-rd",
+   "model": "AKIT4.RD",
+   "title": "4-GA Amplifier Installation Wiring Kit - Red",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/akit4-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": null
+  },
+  {
+   "id": "ds18-ds18-ry-kit0-hd-0-ga-amplifier-ofc-installation-kit-for-harley-davidson",
+   "model": "RY-KIT0.HD",
+   "title": "0-GA Ryder OFC Amplifier Installation Kit for Harley-Davidson",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-ry-kit0-hd-0-ga-amplifier-ofc-installation-kit-for-harley-davidson",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-ds18-ry-kit8-hd-8-ga-amplifier-ofc-installation-kit-for-harley-davidson",
+   "model": "RY-KIT8.HD",
+   "title": "8-GA Ryder OFC Amplifier Installation Kit for Harley-Davidson",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-ry-kit8-hd-8-ga-amplifier-ofc-installation-kit-for-harley-davidson",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-ds18-ry-kit4-hd-ryder-4-ga-amplifier-ofc-installation-kit-for-harley-davidson",
+   "model": "RY-KIT4.HD",
+   "title": "4-GA  RYDER OFC Amplifier  Installation Kit for Harley-Davidson",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-ry-kit4-hd-ryder-4-ga-amplifier-ofc-installation-kit-for-harley-davidson",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-ds18-ampkit4-slv-4ga-cca-installation-kit-for-car-audio-amplifiers-silver",
+   "model": "AMPKIT4/SLV",
+   "title": "4-GA CCA Amplifier Installation Kit  -  SILVER",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-ampkit4-slv-4ga-cca-installation-kit-for-car-audio-amplifiers-silver",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-ds18-ampkit0-slv-0-ga-cca-installation-kit-for-car-audio-amplifiers-silver",
+   "model": "AMPKIT0/SLV",
+   "title": "0-GA CCA Amplifiers  Installation Kit - SILVER",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-ampkit0-slv-0-ga-cca-installation-kit-for-car-audio-amplifiers-silver",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-ds18-ampkit8slv-8ga-cca-installation-kit-for-car-audio-amplifiers",
+   "model": "AMPKIT8/SLV",
+   "title": "8-GA CCA Amplifier Installation Kit - SILVER",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-ampkit8slv-8ga-cca-installation-kit-for-car-audio-amplifiers",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-ds18-zr112ld-pkg-subwoofer-bass-package-with-amplifier-and-ampkit-zr112ld-zr1000-1d-a",
+   "model": "ZR112LD-PKG",
+   "title": "DS18 ZR112LD-PKG Bass Package 12\" Subwoofer In a Ported Box With Amplifier and Amplifier Installation Kit - ZR112LD + ZR1000.1D Amp + AMPKIT4",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr112ld-pkg-subwoofer-bass-package-with-amplifier-and-ampkit-zr112ld-zr1000-1d-amp-ampkit4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": null,
+   "material": null,
+   "bundle": true
+  },
+  {
+   "id": "ds18-4-ga-installation-kit-1",
+   "model": "AK4",
+   "title": "4-GA CCA Amplifier Installation Kit - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/4-ga-installation-kit-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "CCA",
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-oxygen-free-copper-4ga-wiring-kit",
+   "model": "OFCKIT4",
+   "title": "4-GA OFC 100% Copper Amplifier Installation Kit - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/oxygen-free-copper-4ga-wiring-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-ds18-ampkit0-0-gauge-complete-amplifier-installation-kit-up-to-3000",
+   "model": "AMPKIT0",
+   "title": "0-GA CCA Amplifier Installation Kit - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-ampkit0-0-gauge-complete-amplifier-installation-kit-up-to-3000",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-amplifier-installation-kit-4ga",
+   "model": "AMPKIT4",
+   "title": "4-GA CCA Amplifier Installation Kit - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/amplifier-installation-kit-4ga",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "CCA"
+  },
+  {
+   "id": "ds18-waterproof-oxygen-free-copper-8ga-wiring-kit",
+   "model": "MOFCKIT8",
+   "title": "8-GA Marine Tinned OFC Amplifier Installation Kit - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/waterproof-oxygen-free-copper-8ga-wiring-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-waterproof-oxygen-free-copper-8ga-4ga-and-0ga-wiring-kits",
+   "model": "MOFCKIT4",
+   "title": "4-GA Marine Tinned OFC Amplifier Installation Kit - WHITE",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/waterproof-oxygen-free-copper-8ga-4ga-and-0ga-wiring-kits",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "4",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-oxygen-free-copper-0ga-wiring-kit",
+   "model": "OFCKIT0",
+   "title": "0-GA OFC 100% Copper Amplifier Installation Kit - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/oxygen-free-copper-0ga-wiring-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "1/0",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-oxygen-free-copper-8ga-wiring-kit",
+   "model": "OFCKIT8",
+   "title": "8-GA OFC 100% Copper Amplifier Installation Kit - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/oxygen-free-copper-8ga-wiring-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "OFC"
+  },
+  {
+   "id": "ds18-ampkit8-up-to-800-watts",
+   "model": "AMPKIT8",
+   "title": "8-GA CCA Amplifier Installation Kit - RED",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ampkit8-up-to-800-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "amp wiring kit",
+   "awg": "8",
+   "material": "CCA"
+  }
+ ],
+ "not_recorded": []
+}

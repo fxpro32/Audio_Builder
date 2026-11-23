@@ -1,0 +1,141 @@
+{
+ "brand": "Ground Zero",
+ "country": "Germany",
+ "brand_url": "https://www.ground-zero-audio.com",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms and Conditions (not read in full). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "fullrange",
+ "drivers": [
+  {
+   "model": "GZPF 40SQX",
+   "type": "fullrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    600,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 440,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 39,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpf-40sqx-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High end full range speaker",
+   "voice_coil_as_printed": "16 mm / 0.63″"
+  },
+  {
+   "model": "GZUF 60SQ-A",
+   "type": "fullrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    300,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 150,
+    "re_ohm": 3.9,
+    "qms": 5.12,
+    "qes": 0.74,
+    "qts": 0.64,
+    "vas_l": 0.5,
+    "sd_cm2": null,
+    "xmax_mm": 2.0,
+    "mms_g": 1.9,
+    "bl_tm": 3.0,
+    "le_mh": 0.12,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 61,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzuf-60sq-a-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "params.re_ohm",
+      "params.qms",
+      "params.qes",
+      "params.qts",
+      "params.vas_l",
+      "params.mms_g",
+      "params.bl_tm",
+      "params.le_mh",
+      "params.xmax_mm"
+     ],
+     "url": "https://www.ground-zero-audio.com/wp-content/uploads/GZUF-60SQ-A_OM_AWV2.1.pdf",
+     "doc": "maker owner's manual / data sheet (PDF text)",
+     "page": 10,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. T/S from the maker manual (GZUF-60SQ-A_OM_AWV2.1.pdf p.10). Manual Xmax 4 mm is peak to peak; xmax_mm = 4/2 (calculated).",
+   "maker_description": "Sound quality full range speaker",
+   "voice_coil_as_printed": "25 mm / 1″"
+  }
+ ],
+ "no_specs_published": []
+}

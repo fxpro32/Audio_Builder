@@ -1,0 +1,198 @@
+{
+ "brand": "DL Audio",
+ "country": "Russia",
+ "brand_url": "https://dl-audio.ru/",
+ "terms_note": "Site footer links privacy policies only (Политика обработки персональных данных, Политика конфиденциальности); no terms of use found. Pages read one at a time, 3 s apart, 2026-11-21. Numbers only.",
+ "drivers": [
+  {
+   "model": "Legend 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.83,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.51,
+    "vas_l": 23.17,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 224,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/legend-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 85.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 318 мм, bolt circle 300 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed."
+  },
+  {
+   "model": "Legend 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.71,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.59,
+    "vas_l": 49.92,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 251,
+   "cutout_mm": 352,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/legend-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 86.8 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 388 мм, bolt circle 371 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed."
+  },
+  {
+   "model": "Phoenix Sport 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.79,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.326,
+    "vas_l": 29.85,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 230,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-sport-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 84.6 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 328 мм, bolt circle 304 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed."
+  },
+  {
+   "model": "Phoenix Sport 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 24.48,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.388,
+    "vas_l": 73.13,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 239,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-sport-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 88.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 397 мм, bolt circle 370 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed."
+  }
+ ],
+ "no_ts_published": [],
+ "excluded_notes": "All other current DL Audio subs (Anaconda, Barracuda, Gryphon Lite/Pro, Phoenix Black Bass, Phoenix Bass Machine max 1700 W, Piranha, Raven max 1200 W) are below 2000 W per their product pages read 2026-11-21. Archive (https://dl-audio.ru/archive/subwoofers/) lists Phoenix 8/10/12/15; Phoenix 15 is 1500 W."
+}

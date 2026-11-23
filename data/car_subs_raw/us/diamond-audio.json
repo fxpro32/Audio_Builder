@@ -1,0 +1,193 @@
+{
+ "brand": "Diamond Audio",
+ "country": "USA",
+ "brand_url": "https://diamondaudio.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store scanned: largest is HXP154 (1100 W RMS); none qualifying.",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/diamond-audio.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "DES124",
+   "rms_w": 500,
+   "url": "https://diamondaudio.com/products/1000w-max-2-ohm-12-inch-subwoofer-des124",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: '12\" DES Series Dual Voice Coil Subwoofer (4Ω) - DES124'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://diamondaudio.com/products/1000w-max-2-ohm-12-inch-subwoofer-des124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "DES122",
+   "rms_w": 500,
+   "url": "https://diamondaudio.com/products/1000w-max-2-ohm-12-inch-subwoofer-des122",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: '12\" DES Series Dual Voice Coil Subwoofer (2Ω) - DES122'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://diamondaudio.com/products/1000w-max-2-ohm-12-inch-subwoofer-des122",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "DES84",
+   "rms_w": 250,
+   "url": "https://diamondaudio.com/products/500w-max-4-ohm-8-inch-subwoofer-des84",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak 500 W, mounting depth None mm, cut-out None mm. Product title: '8\" DES Series Dual Voice Coil Subwoofer (4Ω) - DES84'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://diamondaudio.com/products/500w-max-4-ohm-8-inch-subwoofer-des84",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "DES82",
+   "rms_w": 250,
+   "url": "https://diamondaudio.com/products/500w-max-2-ohm-impedance-8-inch-subwoofer-des82",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 2 ohm, peak 500 W, mounting depth None mm, cut-out None mm. Product title: '8\" DES Series Dual Voice Coil Subwoofer (2Ω) - DES82'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://diamondaudio.com/products/500w-max-2-ohm-impedance-8-inch-subwoofer-des82",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "H104",
+   "rms_w": 500,
+   "url": "https://diamondaudio.com/products/500w-rms-1000w-max-4o-impedance-10-inch-250mm-subwoofer-h104",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: '10\" HEX Series Dual Voice Coil Subwoofer (4Ω) - H104'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://diamondaudio.com/products/500w-rms-1000w-max-4o-impedance-10-inch-250mm-subwoofer-h104",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MSRZRKM34",
+   "rms_w": 125,
+   "url": "https://diamondaudio.com/products/2014-rzrc-2dr-4dr-power-sports-all-weather-coaxial-6-channel",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak 250 W, mounting depth None mm, cut-out None mm. Product title: '2014+ RZR XP, Media Center, Dual Amps, Speakers & Subwoofer - MSRZRKM34'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 250,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://diamondaudio.com/products/2014-rzrc-2dr-4dr-power-sports-all-weather-coaxial-6-channel",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "VSP8BMW",
+   "rms_w": 100,
+   "url": "https://diamondaudio.com/products/vsp8bmw-bmwr-specific-8-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil None None ohm, peak 200 W, mounting depth None mm, cut-out None mm. Product title: '8\" BMW® Subwoofer OEM Replacement (Pair) - VSP8BMW'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://diamondaudio.com/products/vsp8bmw-bmwr-specific-8-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

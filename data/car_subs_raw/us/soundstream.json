@@ -1,0 +1,834 @@
+{
+ "brand": "Soundstream",
+ "country": "USA",
+ "brand_url": "https://soundstream.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store; /products.json read once, X5 product pages read 5 s apart. No terms on automated reading found (not read in full). Other 'xxxx W' models (Reference R1/R5, Tarantula T5, Reserve) carry max power in the title; RMS 1000 to 1300 W, so excluded.",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/soundstream.json",
+ "drivers": [
+  {
+   "model": "X5.12 Team Subwoofer (DVC 1 ohm)",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43.08,
+    "re_ohm": 1,
+    "qms": 6.983,
+    "qes": 0.556,
+    "qts": 0.515,
+    "vas_l": 11.855,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 328.9,
+    "bl_tm": 18.04,
+    "le_mh": 1.0274,
+    "spl_db_1w1m": 87.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 215.9,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 42.48,
+     "tuning_hz": null,
+     "source": "maker page https://soundstream.com/products/x5-12",
+     "note": "published as 1.5 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 99.11,
+     "tuning_hz": null,
+     "source": "maker page",
+     "note": "published as 3.5 cu ft; port 3\" x 11.5\" long; F3 published, tuning not"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/x5-12",
+     "doc": "product page Specifications / Thiele-Small Parameters",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://soundstream.com/cdn/shop/files/Owners-Manual-X5.12-and-X5.15.pdf",
+     "doc": "Team Subwoofer Owners Manual (linked, not read)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "'Limited Edition'. Re printed as 1 (equals the nominal coil impedance; basis not stated). Sd, Xmax not published. Spec table gives 'Optimum Sealed 1.50' and 'Optimum Ported 3.50' (cu ft, printed with an inch mark); the 'Recommended Enclosures' block on the same page says sealed 2.00 / ported 4.50 ft, identical to the X5.15 page (likely copied). The Optimum values are entered. Converted from imperial as published: mounting depth 8.5 in.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "X5.15 Team Subwoofer (DVC 1 ohm)",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.18,
+    "re_ohm": 1,
+    "qms": 9.098,
+    "qes": 0.546,
+    "qts": 0.507,
+    "vas_l": 36.97,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 334.74,
+    "bl_tm": 17.59,
+    "le_mh": 1.0274,
+    "spl_db_1w1m": 88.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 241.3,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page https://soundstream.com/products/x5-15",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "ported",
+     "volume_l": 127.43,
+     "tuning_hz": null,
+     "source": "maker page",
+     "note": "published as 4.5 cu ft; port 4\" x 15.75\" long; F3 published, tuning not"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/x5-15",
+     "doc": "product page Specifications / Thiele-Small Parameters",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    },
+    {
+     "fields": [
+      "status"
+     ],
+     "url": "https://soundstream.com/cdn/shop/files/Owners-Manual-X5.12-and-X5.15.pdf",
+     "doc": "Team Subwoofer Owners Manual (linked, not read)",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "'Limited Edition'. Re printed as 1 (equals the nominal coil impedance; basis not stated). Sd, Xmax not published. Le 1.0274 mH identical to X5.12 (possible copy). Converted from imperial as published: mounting depth 9.5 in.",
+   "source": "hp_subs_raw"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "RSW.154 | Reserve Series 15\" 4-Ohm 2600W Power Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/rsw-154-reserve-series-15-4-ohm-2600w-power-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'RSW.154 | Reserve Series 15\" 4-Ohm 2600W Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/rsw-154-reserve-series-15-4-ohm-2600w-power-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MPQ-7B",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/mpq-7b",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MPQ-7B | 7-Band Parametric Equalizer with Independent Subwoofer Level Control'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/mpq-7b",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R3.8 | Reference R3 8\" Dual 2-Ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r3-8",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'R3.8 | Reference R3 8\" Dual 2-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r3-8",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R3.12 | Reference R3 12\" Dual 2-Ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r3-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'R3.12 | Reference R3 12\" Dual 2-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r3-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R3.10 | Reference R3 10\" Dual 2-Ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r3-10",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'R3.10 | Reference R3 10\" Dual 2-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r3-10",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R.124 | Reference R1 12″ 2,000w Dual 4-ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r-124",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'R.124 | Reference R1 12″ 2,000w Dual 4-ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r-124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R.122 | Reference R1 12\" 2,000w Dual 2-ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r-122",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'R.122 | Reference R1 12\" 2,000w Dual 2-ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r-122",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Reference R5 Series Subwoofer – Soundstream",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r5-subwoofers",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Reference R5 Series Subwoofer – Soundstream'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r5-subwoofers",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Tarantula T5 Series Subwoofer – Soundstream",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/t5-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Tarantula T5 Series Subwoofer – Soundstream'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/t5-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XPRO-12V2 | 12-Inch Subwoofer – 1,250W RMS, Dual Voice Coil,",
+   "rms_w": 1250,
+   "url": "https://soundstream.com/products/xpro-12v2",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'XPRO-12V2 | 12-Inch Subwoofer – 1,250W RMS, Dual Voice Coil, High-Performance Bass'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/xpro-12v2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XPRO‑10v2 | 10″ Dual Voice Coil Subwoofer for High-Impact Lo",
+   "rms_w": 1000,
+   "url": "https://soundstream.com/products/xpro-10v2",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'XPRO‑10v2 | 10″ Dual Voice Coil Subwoofer for High-Impact Low-End Sound'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/xpro-10v2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "X5.12 | Team Subwoofer 12\" High-Output SPL Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/x5-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'X5.12 | Team Subwoofer 12\" High-Output SPL Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/x5-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "X5.15 | Team Subwoofer 15\" High-Output SPL Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/x5-15",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'X5.15 | Team Subwoofer 15\" High-Output SPL Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/x5-15",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R5.124 | Reference R5 12″ 2,000w Dual 4-ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r5-124",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'R5.124 | Reference R5 12″ 2,000w Dual 4-ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r5-124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "R5.122 | Reference R5 12″ 2,000w Dual 2-ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/r5-122",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'R5.122 | Reference R5 12″ 2,000w Dual 2-ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/r5-122",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RSW.152 | Reserve Series 15\" 2-ohm 2600W Power Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/rsw-152",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'RSW.152 | Reserve Series 15\" 2-ohm 2600W Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/rsw-152",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RSW.122 | Reserve Series 12\" 1800W Power Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/rsw-122",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'RSW.122 | Reserve Series 12\" 1800W Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/rsw-122",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MPQ-90 | 1/2 DIN 9-Band Graphic Equalizer with Subwoofer Lev",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/mpq-90",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MPQ-90 | 1/2 DIN 9-Band Graphic Equalizer with Subwoofer Level Control'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/mpq-90",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MPQ-7XO",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/mpq-7xo",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'MPQ-7XO | Band Equalizer with Subwoofer Control'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/mpq-7xo",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BXW-124",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/bxw-124",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'BXW-124 | 12\" Dual 4-Ohm Subwoofer for Powerful Bass Performance'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/bxw-124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "T5.154",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/t5-154",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'T5.154 | Tarantula T5 2,600W 15\" Dual 4-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/t5-154",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "T5.152",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/t5-152",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'T5.152 | Tarantula T5 2,600W  15\" Dual 2-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/t5-152",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "T5.124",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/t5-124",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'T5.124 | Tarantula T5 2,000W 12\" Dual 4-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/t5-124",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "T5.122",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/t5-122",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'T5.122 | Tarantula T5 2,00W 12\" Dual 2-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/t5-122",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "T5.104 | Tarantula T5 1,800W 10\" Dual 4-Ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/t5-104",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'T5.104 | Tarantula T5 1,800W 10\" Dual 4-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/t5-104",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "T5.102 | Tarantula T5 1,800W 10\" Dual 2-Ohm Subwoofer",
+   "rms_w": null,
+   "url": "https://soundstream.com/products/t5-102",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'T5.102 | Tarantula T5 1,800W 10\" Dual 2-Ohm Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://soundstream.com/products/t5-102",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

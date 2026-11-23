@@ -1,0 +1,1864 @@
+{
+ "brand": "Audiopipe",
+ "country": "USA",
+ "brand_url": "https://audiopipe.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store; /products.json read once. No T/S in the descriptions.",
+ "coverage": "passive car subwoofer drivers in the store listing (all power levels); most pages publish no T/S, so most are listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/audiopipe.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "TXX-BDX-15 (D4) / TXX-BDX-15D2",
+   "rms_w": 2000,
+   "url": "https://audiopipe.com/products/15-competition-subwoofer-txx-bdx-15d2",
+   "note": "2000 W RMS / 4000 W peak, 87 dB; no T/S. TXX-BDC-V-18 is 1900 W RMS (below threshold).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "TS-PP2-15-D4",
+   "rms_w": 500,
+   "url": "https://audiopipe.com/products/ts-pp2-15-d4-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak 1500 W, mounting depth None mm, cut-out None mm. Product title: 'TS-PP2-15-D4 15”Car Subwoofer, Sold Individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-pp2-15-d4-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-III15D2",
+   "rms_w": 1200,
+   "url": "https://audiopipe.com/products/txx-bdc-iii-15d2",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 2400 W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-III-15D2 Triple Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 2400,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-iii-15d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "APST-S388",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/apst-s388",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'APST-S388 3” Mid Bass Woofer, Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/apst-s388",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDD4-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdd4-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDD4-12 12” Quad Stack High Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdd4-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC4-6",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc4-6-subwoofer-quad-stack",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC4-6 Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc4-6-subwoofer-quad-stack",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-I-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc-i-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-I-12 12\" Single Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-i-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-II-15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-double-stack-composite-cone-subwoofer-txx-bdc-ii-15",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-II-15 15“ Double Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-double-stack-composite-cone-subwoofer-txx-bdc-ii-15",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-III12D2",
+   "rms_w": 900,
+   "url": "https://audiopipe.com/products/txx-bdc-iii-12d2",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 2 ohm, peak 1800 W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-III-12D2 Triple Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": 1800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-iii-12d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-10S4",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc-iv-10-s4",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-10-S4 10\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-iv-10-s4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-PX-1250-S4",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-px-1250-s4",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TS-PX-1250-S4 12” PP Cone with Rubber Surround Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-px-1250-s4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-18D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc-iv-18d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 18 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-18D2 18\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-iv-18d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-10D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc-iv-10d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-10D2 10\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-iv-10d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-8-S4",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc-iv-8-s4",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-8-S4 8\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-iv-8-s4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-FB1000-S4",
+   "rms_w": 300,
+   "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-single-4-ohms-woofer-txx-fb1000-s4",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil SVC 4 ohm, peak 600 W, mounting depth None mm, cut-out None mm. Product title: 'TXX-FB1000-S4 10\" Shallow Mount Subwoofer,Single 4 Ohms Woofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-single-4-ohms-woofer-txx-fb1000-s4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-FB1200-S4",
+   "rms_w": 400,
+   "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-single-4-ohms-woofer-txx-fb1200-s4",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil SVC 4 ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'TXX-FB1200-S4 12\" Shallow Mount Subwoofer,Single 4 Ohms Woofer, Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-single-4-ohms-woofer-txx-fb1200-s4",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-PP3-12-D4",
+   "rms_w": 600,
+   "url": "https://audiopipe.com/products/ts-pp3-12-d4-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'TS-PP3-12-D4 12” Car Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-pp3-12-d4-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-PP2-10-D4",
+   "rms_w": 250,
+   "url": "https://audiopipe.com/products/ts-pp2-10-d4-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak 800 W, mounting depth None mm, cut-out None mm. Product title: 'TS-PP2-10-D4 10” Car Subwoofer, Sold Individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 800,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-pp2-10-d4-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-PP2-12",
+   "rms_w": 300,
+   "url": "https://audiopipe.com/products/ts-pp2-12-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: 'TS-PP2-12 12” Car Subwoofer, Sold Individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-pp2-12-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDX-15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-competition-subwoofer-txx-bdx-15",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDX-15 15\" Competition Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-competition-subwoofer-txx-bdx-15",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDX-15D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-competition-subwoofer-txx-bdx-15d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDX-15D2 15\" Competition Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-competition-subwoofer-txx-bdx-15d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "CRX-20150SW",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/subwoofer-passive-crossover-crx-20150sw",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'CRX-20150SW Subwoofer Passive Crossover'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/subwoofer-passive-crossover-crx-20150sw",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-III-10",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/10-triple-stack-composite-cone-subwoofer-txx-bdc-iii-10",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-III-10 10\" Triple Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/10-triple-stack-composite-cone-subwoofer-txx-bdc-iii-10",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-III-15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-triple-stack-composite-cone-subwoofer-txx-bdc-iii-15",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-III-15 15\" Triple Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-triple-stack-composite-cone-subwoofer-txx-bdc-iii-15",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-FA1000",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/10-shallow-mount-subwoofer-ts-fa1000",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TS-FA1000 10” Shallow Mount Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/10-shallow-mount-subwoofer-ts-fa1000",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-PP2-15",
+   "rms_w": 500,
+   "url": "https://audiopipe.com/products/ts-pp2-15-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak 1500 W, mounting depth None mm, cut-out None mm. Product title: 'TS-PP2-15 15”Car Subwoofer, Sold Individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1500,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-pp2-15-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-FA1200",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-ts-fa1200",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TS-FA1200 12” Shallow Mount Subwoofer, Sold Individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-ts-fa1200",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-18",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/18-quad-stack-composite-cone-subwoofer-txx-bdc-iv-18",
+   "note": "No Fs/Qts/Vas published by the maker; size 18 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-18 18\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/18-quad-stack-composite-cone-subwoofer-txx-bdc-iv-18",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-V-18",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/18-quinta-stack-composite-cone-subwoofer-txx-bdc-v-18",
+   "note": "No Fs/Qts/Vas published by the maker; size 18 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-V-18 18\" Quinta Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/18-quinta-stack-composite-cone-subwoofer-txx-bdc-v-18",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-6",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/6-quad-stack-composite-cone-subwoofer-txx-bdc-iv-6",
+   "note": "No Fs/Qts/Vas published by the maker; size 6 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-6 6\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 6,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/6-quad-stack-composite-cone-subwoofer-txx-bdc-iv-6",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDD2-10",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/10-double-stack-high-power-subwoofer-txx-bdd2-10",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDD2-10 10” Double Stack High Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/10-double-stack-high-power-subwoofer-txx-bdd2-10",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDX-8D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/8-competition-subwoofer-txx-bdx-8d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDX-8D2 8\" Competition Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/8-competition-subwoofer-txx-bdx-8d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDX-8",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/8-composite-cone-subwoofer-txx-bdx-8",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDX-8 8\" Competition Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/8-composite-cone-subwoofer-txx-bdx-8",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-II-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc-ii-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-II-12 12\" Double Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc-ii-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-III-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-triple-stack-composite-cone-subwoofer-txx-bdc-iii-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-III-12 12\" Triple Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-triple-stack-composite-cone-subwoofer-txx-bdc-iii-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-12D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/10-quad-stack-composite-cone-subwoofer-txx-bdc-iv-10",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-12D2 12\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/10-quad-stack-composite-cone-subwoofer-txx-bdc-iv-10",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-10",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/10-powerful-1800-watt-quad-stack-composite-cone-subwoofer-txx-bdc-iv-10",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-10 10\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/10-powerful-1800-watt-quad-stack-composite-cone-subwoofer-txx-bdc-iv-10",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-II-10",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/8-quad-stack-composite-cone-subwoofer-txx-bdc-ii-10",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-II-10 10“ Double Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/8-quad-stack-composite-cone-subwoofer-txx-bdc-ii-10",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-V-12D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-quinta-stack-composite-cone-subwoofer-txx-bdc-v-12d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-V-12D2 12\" Quinta Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-quinta-stack-composite-cone-subwoofer-txx-bdc-v-12d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-15D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-quad-stack-composite-cone-subwoofertxx-bdc-iv-15d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-15D2 15\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-quad-stack-composite-cone-subwoofertxx-bdc-iv-15d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-quad-stack-composite-cone-subwoofer-txx-bdc-iv-15",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-15 15\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-quad-stack-composite-cone-subwoofer-txx-bdc-iv-15",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-FB1200",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-txx-fb1200",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-FB1200 12\" Shallow Mount Subwoofer, Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-shallow-mount-subwoofer-txx-fb1200",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-FB1000",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/10-shallow-mount-subwoofer-txx-fb1000",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-FB1000 10\" Shallow Mount Subwoofer, Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/10-shallow-mount-subwoofer-txx-fb1000",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-V-15D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-quinta-stack-composite-cone-subwoofer-txx-bdc-v-15d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-V-15D2 15\" Quinta Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-quinta-stack-composite-cone-subwoofer-txx-bdc-v-15d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-V-15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-quinta-stack-composite-cone-subwoofer-txx-bdc-v-15",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-V-15 15\" Quinta Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-quinta-stack-composite-cone-subwoofer-txx-bdc-v-15",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDX-12D2",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-3000-watt-high-performance-powerful-composite-cone-subwoofer-txx-bdx-12d2",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 2 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDX-12D2 12\" Competition Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-3000-watt-high-performance-powerful-composite-cone-subwoofer-txx-bdx-12d2",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDX-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-3000-watt-high-performance-powerful-4-ohm-composite-cone-subwoofer-txx-bdx-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDX-12 12\" Competition Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-3000-watt-high-performance-powerful-4-ohm-composite-cone-subwoofer-txx-bdx-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-PT12",
+   "rms_w": 600,
+   "url": "https://audiopipe.com/products/12-infinite-baffle-subwoofer-ts-pt12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak 1200 W, mounting depth None mm, cut-out None mm. Product title: 'TS-PT12 12” Infinite Baffle Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1200,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-infinite-baffle-subwoofer-ts-pt12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-8",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/8-quad-stack-composite-cone-subwoofer-txx-bdc-iv-8",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-8 8\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/8-quad-stack-composite-cone-subwoofer-txx-bdc-iv-8",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MS-SE49",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/subwoofer-to-satellite-speaker-pole-ms-se49",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'Subwoofer to Satellite Speaker Pole (MS-SE49)'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/subwoofer-to-satellite-speaker-pole-ms-se49",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDD2-15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/15-double-stack-high-power-subwoofer-txx-bdd2-15",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDD2-15 15” Double Stack High Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/15-double-stack-high-power-subwoofer-txx-bdd2-15",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDD2-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdd2-12-12-double-stack-high-power-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDD2-12 12” Double Stack High Power Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdd2-12-12-double-stack-high-power-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-FA800",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/8-shallow-mount-subwoofer-ts-fa800",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TS-FA800 8” Shallow Mount Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/8-shallow-mount-subwoofer-ts-fa800",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-V-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-quinta-stack-composite-cone-subwoofer-txx-bdc-v-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-V-12 12\" Quinta Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-quinta-stack-composite-cone-subwoofer-txx-bdc-v-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-IV-12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-quad-stack-composite-cone-subwoofer-txx-bdc-iv-12",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-IV-12 12\" Quad Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-quad-stack-composite-cone-subwoofer-txx-bdc-iv-12",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC-III-8",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/8-triple-stack-composite-cone-subwoofer-txx-bdc-iii-8",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil DVC 4 ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC-III-8 8\" Triple Stack Composite Cone Subwoofer'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/8-triple-stack-composite-cone-subwoofer-txx-bdc-iii-8",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-APD-12RD",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-apd-12rd",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'TXX-APD-12RD 12\" Eye Candy Aluminum Cone Subwoofer, Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-apd-12rd",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-APD-12BL",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/12-eye-candy-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil DVC 4 ohm, peak 1600 W, mounting depth None mm, cut-out None mm. Product title: 'TXX-APD-12BL 12\" Eye Candy Aluminum Cone Subwoofer, Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "peak_w": 1600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/12-eye-candy-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "XV-BXP-SUB",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/xv-bxp-sub-digital-bass-processor",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'XV-BXP-SUB - Digital Bass Processor'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/xv-bxp-sub-digital-bass-processor",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EQ-5-V15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/eq-5-v15-5-band-graphic-equalizer-with-subwoofer-control",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'EQ-5-V15 5 Band Graphic Equalizer with Subwoofer Control'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/eq-5-v15-5-band-graphic-equalizer-with-subwoofer-control",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EQ-4-V15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/eq-4-v15-4-band-graphic-equalizer-with-subwoofer-control",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'EQ-4-V15 4 Band Graphic Equalizer with Subwoofer Control'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/eq-4-v15-4-band-graphic-equalizer-with-subwoofer-control",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-PP2-12-D4",
+   "rms_w": 300,
+   "url": "https://audiopipe.com/products/ts-pp2-12-d4-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: 'TS-PP2-12-D4 12” Car Subwoofer, Sold Individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-pp2-12-d4-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CVR8",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-cvr8-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil None None ohm, peak 350 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CVR8 8\" Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 350,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-cvr8-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CVR6",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-cvr6-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6 in, coil None None ohm, peak 150 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CVR6 6\" Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 6,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 150,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-cvr6-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CVR15",
+   "rms_w": 500,
+   "url": "https://audiopipe.com/products/ts-cvr15-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CVR15 15\" Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-cvr15-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CVR12",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-cvr12-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak 750 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CVR12 12\" Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 750,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-cvr12-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CVR10",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-cvr10-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak 600 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CVR10 10\" Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-cvr10-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CAR8",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-car8-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 8 in, coil None None ohm, peak 300 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CAR8 8” Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 300,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-car8-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CAR6",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-car6-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 6 in, coil None None ohm, peak 150 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CAR6 6” Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 6,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 150,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-car6-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CAR15",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-car15-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak 1000 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CAR15 15” Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 1000,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-car15-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TS-CAR10",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/ts-car10-subwoofer",
+   "note": "No Fs/Qts/Vas published by the maker; size 10 in, coil None None ohm, peak 600 W, mounting depth None mm, cut-out None mm. Product title: 'TS-CAR10 10” Edge Extension Technology PP Cone Woofer,  Sold individually'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": 600,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/ts-car10-subwoofer",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TXX-BDC3-8",
+   "rms_w": null,
+   "url": "https://audiopipe.com/products/txx-bdc3-8-subwoofer-triple-stack",
+   "note": "No Fs/Qts/Vas published by the maker; size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Product title: 'TXX-BDC3-8 Subwoofer - Triple Stack'. Size, coil, RMS and peak parsed from the title/description; null where not printed clearly.",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://audiopipe.com/products/txx-bdc3-8-subwoofer-triple-stack",
+     "doc": "product page title/description (via public products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

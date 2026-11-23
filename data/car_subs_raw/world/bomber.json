@@ -1,0 +1,4914 @@
+{
+ "brand": "Bomber (Thomas K. L. Ind. de Alto-Falantes)",
+ "country": "Brazil",
+ "brand_url": "https://www.bomber.com.br/",
+ "terms_note": "R2B 2026-11-23: product sitemap + sub/woofer product pages read one at a time, 3 s apart; robots.txt disallows only WooCommerce/admin paths. Numbers only. | hp_subs_raw terms note: robots.txt disallows only WooCommerce/admin paths; no terms of use found. Manuals and pages read one at a time 2026-11-21/22. Numbers only. Also present in the BuildBass MIT bundle already in the app; values here re-read from the maker's manuals.",
+ "coverage": "every sub/woofer product in the maker's product sitemap (Bicho Papão, Atrack, Rush, Upgrade, Slim, Carbon, B-One/B-Duo/W-One, Outdoor; all power levels)",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/bomber.json",
+ "drivers": [
+  {
+   "model": "Woofer 12\" Atrack 5K 2 ohms (1.32.057)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 80,
+    "re_ohm": 1.84,
+    "qms": 17.9,
+    "qes": 0.73,
+    "qts": 0.7,
+    "vas_l": 10.51,
+    "sd_cm2": 511,
+    "xmax_mm": null,
+    "mms_g": 139.15,
+    "bl_tm": 13.22,
+    "le_mh": 0.45,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/wp-content/uploads/2025/06/3.27.431-1.32.057-MANUAL-WOOFER-12-ATRACK-5K-2-OHMS-2500-WATTS-RMS.pdf",
+     "doc": "3.27.431 manual, Woofer 12\" Atrack 5K 2 ohms 2500 W RMS",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Brazilian 'woofer' for car bass/midbass walls: high Fs, small Vas; meets the power and load rule but is not a deep-bass subwoofer. Le 0.45 mH at 1 kHz (0.24 mH at 10 kHz); Zmin 2.92 ohm; Cms 0.03 mm/N; reference efficiency 0.69 %; T/S 'sensitivity' 90.6 dB SPL (condition not stated, not in spl fields). Xmax, cut-out and depth appear only in a drawing table whose numbers could not be matched to labels with certainty; left out. Manual also gives suggested vented boxes (round, rectangular, triangular port) in a table not transcribed.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Woofer 15\" Atrack 5K 2 ohms (1.32.055)",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 59,
+    "re_ohm": 1.75,
+    "qms": 11.35,
+    "qes": 0.44,
+    "qts": 0.42,
+    "vas_l": 33.88,
+    "sd_cm2": 819,
+    "xmax_mm": null,
+    "mms_g": 204.82,
+    "bl_tm": 17.38,
+    "le_mh": 0.4,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/wp-content/uploads/2025/06/3.27.429-1.32.055-MANUAL-WOOFER-15-ATRACK-5K-2-OHMS-2500-WATTS-RMS.pdf",
+     "doc": "3.27.429 manual, Woofer 15\" Atrack 5K 2 ohms 2500 W RMS",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Brazilian 'woofer' for car bass/midbass walls: high Fs, small Vas; meets the power and load rule but is not a deep-bass subwoofer. Le 0.40 mH at 1 kHz; Zmin 2.75 ohm; Cms 0.04 mm/N; efficiency 1.49 %; T/S sensitivity 94.2 dB SPL (condition not stated). Xmax/dimensions left out (drawing table not mappable).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Woofer 12\" Atrack 6.5K 2 ohms (1.32.075)",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 3250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 80,
+    "re_ohm": 1.86,
+    "qms": 13.91,
+    "qes": 0.68,
+    "qts": 0.65,
+    "vas_l": 10.2,
+    "sd_cm2": 511,
+    "xmax_mm": null,
+    "mms_g": 141.5,
+    "bl_tm": 13.91,
+    "le_mh": 0.4552,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/wp-content/uploads/2026/01/3.27.447-1.32.075-MANUAL-WOOFER-12-ATRACK-6.5K-2-OHMS-3250-WATTS-RMS.pdf",
+     "doc": "3.27.447 manual, Woofer 12\" Atrack 6.5K 2 ohms 3250 W RMS",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Brazilian 'woofer' for car bass/midbass walls: high Fs, small Vas; meets the power and load rule but is not a deep-bass subwoofer. Bl printed '13,91' without unit (T m assumed); Mms printed '141,5' without unit (g assumed); Cms 0.028 mm/N; Zmin 3.07 ohm; T/S sensitivity 90.85 dB SPL. Xmax/dimensions left out.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Subwoofer Bicho Papão BPF 5K 4+4 ohms (1.23.110)",
+   "size_in": null,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": 5000,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 2.84,
+    "qms": 16.69,
+    "qes": 0.62,
+    "qts": 0.6,
+    "vas_l": 64,
+    "sd_cm2": 779,
+    "xmax_mm": 17.5,
+    "mms_g": 326,
+    "bl_tm": 24.59,
+    "le_mh": 6.36,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/wp-content/uploads/2024/09/3.27.403-1.23.110-MANUAL-SUBWOOFER-14-BICHO-PAPAO-5K-44-OHMS-2500-WATTS-RMS.pdf",
+     "doc": "3.27.403 / 3.27.365 Rev. 00 manual, Subwoofer Bicho Papão 5K 4+4 ohms 2500 W RMS",
+     "page": 1,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Re printed '2,84 + 2,87' ohm (per coil; re_ohm = first coil). Power: 2500 W RMS, 5000 W 'competição'. File name says 14 inch, product listing says 15 inch; size left empty (UNVERIFIED). Cms 0.08 mm/N; Le 2.63 mH at 10 kHz; efficiency 0.33 %. Xmax is the manual's 'deslocamento máx. pico' (peak, one way). Final load 2 ohm with coils in parallel.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "4SUBB-4",
+   "size_in": 4,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 60,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 65,
+    "re_ohm": 2.8,
+    "qms": 7.4,
+    "qes": 0.75,
+    "qts": 0.69,
+    "vas_l": 2.5,
+    "sd_cm2": 52.8,
+    "xmax_mm": 5.75,
+    "mms_g": 9.1,
+    "bl_tm": 3.7,
+    "le_mh": 0.252,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/4-subwoofer-bomber-60-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.18.012, page title '4″ SUBWOOFER BOMBER 60 WRMS 4 OHMS – Bomber'. Re printed '2,8 Ω' (re_ohm = first coil). T/S sensitivity 81,7 dB SPL (condition not stated, not entered). Product dimensions 207 x 129 x 207 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10BONE-200-4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 3.77,
+    "qms": 7.33,
+    "qes": 1.26,
+    "qts": 1.08,
+    "vas_l": 45,
+    "sd_cm2": 353,
+    "xmax_mm": 7,
+    "mms_g": 86,
+    "bl_tm": 7.38,
+    "le_mh": 1.53,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-b-one-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.137, page title 'SUBWOOFER 10″ B-ONE 200 WRMS 4 OHMS – Bomber'. Re printed '3,77 Ohms' (re_ohm = first coil). T/S sensitivity 83,3 dB SPL (condition not stated, not entered). Driver displacement printed 1,53 L. Product dimensions 254 x 121 x 254 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10OUT300-4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 3.24,
+    "qms": 4.75,
+    "qes": 0.82,
+    "qts": 0.7,
+    "vas_l": 49.8,
+    "sd_cm2": 326,
+    "xmax_mm": 6.1,
+    "mms_g": 54.12,
+    "bl_tm": 7.08,
+    "le_mh": 1.41,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-outdoor-300-wrms-4-ohms-2/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.20.046, page title 'SUBWOOFER 10″ OUTDOOR 300 WRMS 4 OHMS – Bomber'. Re printed '3,24 Ohms' (re_ohm = first coil). T/S sensitivity 87,02 dB SPL (condition not stated, not entered). Driver displacement printed 1,9 L. Product dimensions 254 x 123 x 254 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10SL200-4M",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 3.52,
+    "qms": 6.8,
+    "qes": 1.2,
+    "qts": 1.02,
+    "vas_l": 16.58,
+    "sd_cm2": 366,
+    "xmax_mm": 5.4,
+    "mms_g": 120,
+    "bl_tm": 10.39,
+    "le_mh": 1.55,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-slim-200-wrms-4-ohms-carcaca-metalica/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.043, page title 'SUBWOOFER 10″ SLIM 200 WRMS 4 OHMS – CARCAÇA METÁLICA – Bomber'. Re printed '3,52 Ohms' (re_ohm = first coil). T/S sensitivity 84,02 dB SPL (condition not stated, not entered). Driver displacement printed 1 L. Product dimensions 257 x 78 x 257 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "subwoofer-10-slim-200-wrms-4-ohms",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.47,
+    "re_ohm": 3.11,
+    "qms": 7.79,
+    "qes": 0.75,
+    "qts": 0.69,
+    "vas_l": 30,
+    "sd_cm2": 366,
+    "xmax_mm": 5.4,
+    "mms_g": 103,
+    "bl_tm": 10.27,
+    "le_mh": 1.42,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-slim-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.024, page title 'SUBWOOFER 10″ SLIM 200 WRMS 4 OHMS – Bomber'. Re printed '3,11 Ohms' (re_ohm = first coil). T/S sensitivity 84,61 dB SPL (condition not stated, not entered). Driver displacement printed 1 L. Product dimensions 261 x 77 x 261 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10SLHP-350-8",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 2,
+    "qms": 9.1,
+    "qes": 0.96,
+    "qts": 0.87,
+    "vas_l": 36.3,
+    "sd_cm2": 363,
+    "xmax_mm": 6,
+    "mms_g": null,
+    "bl_tm": 7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-slim-high-power-350-wrms-2-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.032, page title 'SUBWOOFER 10″ SLIM HIGH POWER 350 WRMS 2 OHMS – Bomber'. Re printed '2 Ohms' (re_ohm = first coil). T/S sensitivity 84 dB SPL (condition not stated, not entered). Product dimensions 261 x 77 x 261 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10SLHP-350-4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 4.4,
+    "qms": 8.7,
+    "qes": 0.83,
+    "qts": 0.76,
+    "vas_l": 38.1,
+    "sd_cm2": 363,
+    "xmax_mm": 6,
+    "mms_g": 106.4,
+    "bl_tm": 11.1,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-slim-high-power-350-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.035, page title 'SUBWOOFER 10″ SLIM HIGH POWER 350 WRMS 4 OHMS – Bomber'. Re printed '4,4 Ohms' (re_ohm = first coil). T/S sensitivity 84 dB SPL (condition not stated, not entered). Product dimensions 261 x 77 x 261 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10STKL400-4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 3.14,
+    "qms": 8.5,
+    "qes": 0.61,
+    "qts": 0.57,
+    "vas_l": 30,
+    "sd_cm2": 356,
+    "xmax_mm": 8,
+    "mms_g": 141,
+    "bl_tm": 12.27,
+    "le_mh": 3.04,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-slim-tkl-400-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.37.011, page title 'SUBWOOFER 10″ SLIM TKL 400 WRMS 4 OHMS – Bomber'. Re printed '3,14 Ohms' (re_ohm = first coil). T/S sensitivity 84,36 dB SPL (condition not stated, not entered). Driver displacement printed 1,59 L. Product dimensions 264 x 97 x 264 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10UP-350-B4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 3.33,
+    "qms": 4.21,
+    "qes": 1.16,
+    "qts": 0.91,
+    "vas_l": 67,
+    "sd_cm2": 366,
+    "xmax_mm": 9.5,
+    "mms_g": 88,
+    "bl_tm": 6.69,
+    "le_mh": 2.27,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-upgrade-350-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.132, page title 'SUBWOOFER 10″ UPGRADE 350 WRMS 4 OHMS – Bomber'. Re printed '3,33 Ohms' (re_ohm = first coil). T/S sensitivity 83,2 dB SPL (condition not stated, not entered). Driver displacement printed 1,71 L. Product dimensions 254 x 125 x 254 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW10UP400-4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 3.33,
+    "qms": 4.21,
+    "qes": 1.16,
+    "qts": 0.91,
+    "vas_l": 67,
+    "sd_cm2": 366,
+    "xmax_mm": 9.5,
+    "mms_g": 88,
+    "bl_tm": 6.69,
+    "le_mh": 2.27,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-10-upgrade-professional-400-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.149, page title 'SUBWOOFER 10″ UPGRADE PROFESSIONAL 400 WATTS RMS – Bomber'. Re printed '3,33 Ohms' (re_ohm = first coil). T/S sensitivity 83,2 dB SPL (condition not stated, not entered). Driver displacement printed 1,71 L. Product dimensions 254 x 125 x 254 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BONE-200-2+2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.13,
+    "re_ohm": 2,
+    "qms": 9.66,
+    "qes": 1.44,
+    "qts": 1.26,
+    "vas_l": 89.5,
+    "sd_cm2": 523,
+    "xmax_mm": 7,
+    "mms_g": 127.69,
+    "bl_tm": 7.69,
+    "le_mh": 1.75,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-b-one-200-wrms-22-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.138, page title 'SUBWOOFER 12″ B-ONE 200 WRMS 2+2 OHMS – Bomber'. Re printed '2 x 1,83 Ohms' (re_ohm = first coil). T/S sensitivity 83,88 dB SPL (condition not stated, not entered). Driver displacement printed 2,55 L. Product dimensions 306 x 141 x 306 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BONE-200-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 3.65,
+    "qms": 9.68,
+    "qes": 2.01,
+    "qts": 1.66,
+    "vas_l": 63,
+    "sd_cm2": 523,
+    "xmax_mm": 7,
+    "mms_g": 82.39,
+    "bl_tm": 7.32,
+    "le_mh": 1.58,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-b-one-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.136, page title 'SUBWOOFER 12″ B-ONE 200 WRMS 4 OHMS – Bomber'. Re printed '3,65 Ohms' (re_ohm = first coil). T/S sensitivity 82,4 dB SPL (condition not stated, not entered). Driver displacement printed 2,26 L. Product dimensions 304 x 137 x 304 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BPF1200-4+4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.6,
+    "qms": 10.28,
+    "qes": 0.7,
+    "qts": 0.65,
+    "vas_l": 29.9,
+    "sd_cm2": 453,
+    "xmax_mm": 18,
+    "mms_g": 165.35,
+    "bl_tm": 20.18,
+    "le_mh": 5.75,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-1200-wrms-44-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.097, page title 'SUBWOOFER 12″ BICHO PAPÃO 1200 WRMS 4+4 OHMS – Bomber'. Re printed '3,60 + 3,60 Ohms' (re_ohm = first coil). T/S sensitivity 85,80 dB SPL (condition not stated, not entered). Product dimensions 326 x 200 x 326 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BP-400-4+4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 3.09,
+    "qms": 5.81,
+    "qes": 0.69,
+    "qts": 0.61,
+    "vas_l": 91.86,
+    "sd_cm2": 519,
+    "xmax_mm": 9.5,
+    "mms_g": 141,
+    "bl_tm": 13.95,
+    "le_mh": 2.83,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-400-wrms-4-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.091, page title 'SUBWOOFER 12″ BICHO PAPÃO 400 WRMS 4 + 4 OHMS – Bomber'. Re printed '3,09 + 3,09 Ohms' (re_ohm = first coil). T/S sensitivity 87,74 dB SPL (condition not stated, not entered). Driver displacement printed 2,52 L. Product dimensions 305 x 148 x 305 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BP-400-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 3.23,
+    "qms": 6.68,
+    "qes": 0.67,
+    "qts": 0.61,
+    "vas_l": 82.79,
+    "sd_cm2": 519,
+    "xmax_mm": 9.5,
+    "mms_g": 129.5,
+    "bl_tm": 10.78,
+    "le_mh": 2.29,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-400-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.092, page title 'SUBWOOFER 12″ BICHO PAPÃO 400 WRMS 4 OHMS – Bomber'. Re printed '3,23 Ohms' (re_ohm = first coil). T/S sensitivity 87,14 dB SPL (condition not stated, not entered). Driver displacement printed 2,65 L. Product dimensions 306 x 150 x 306 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BP-600-4+4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 3.53,
+    "qms": 6.01,
+    "qes": 0.59,
+    "qts": 0.54,
+    "vas_l": 82,
+    "sd_cm2": 519,
+    "xmax_mm": 10,
+    "mms_g": 112,
+    "bl_tm": 16.5,
+    "le_mh": 2.81,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-600-wrms-4-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.061, page title 'SUBWOOFER 12″ BICHO PAPÃO 600 WRMS 4 + 4 OHMS – Bomber'. Re printed '3,53 + 3,53 Ohms' (re_ohm = first coil). T/S sensitivity 88,78 dB SPL (condition not stated, not entered). Driver displacement printed 2,65 L. Product dimensions 305 x 156 x 305 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BP-600-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 3.51,
+    "qms": 5.46,
+    "qes": 0.58,
+    "qts": 0.52,
+    "vas_l": 72,
+    "sd_cm2": 519,
+    "xmax_mm": 10,
+    "mms_g": 114,
+    "bl_tm": 12.2,
+    "le_mh": 2.02,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-600-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.060, page title 'SUBWOOFER 12″ BICHO PAPÃO 600 WRMS 4 OHMS – Bomber'. Re printed '3,51 Ohms' (re_ohm = first coil). T/S sensitivity 89,05 dB SPL (condition not stated, not entered). Driver displacement printed 2,65 L. Product dimensions 305 x 156 x 305 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SWBP12-700-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 4.25,
+    "qms": 23,
+    "qes": 0.62,
+    "qts": 0.6,
+    "vas_l": 36,
+    "sd_cm2": 506,
+    "xmax_mm": 12,
+    "mms_g": 134.7,
+    "bl_tm": 15.78,
+    "le_mh": 2.86,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-700-wrms-4-ohms-edicao-especial/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.123, page title 'SUBWOOFER 12″ BICHO PAPÃO 700 WRMS 4 OHMS (EDIÇÃO ESPECIAL) – Bomber'. Re printed '4,25 Ohms' (re_ohm = first coil). T/S sensitivity 89 dB SPL (condition not stated, not entered). Driver displacement printed 3,10 L. Product dimensions 307 x 159 x 307 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BP-800-4+4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 3.63,
+    "qms": 5.55,
+    "qes": 0.52,
+    "qts": 0.48,
+    "vas_l": 45,
+    "sd_cm2": 487,
+    "xmax_mm": 13,
+    "mms_g": 169,
+    "bl_tm": 22.3,
+    "le_mh": 4.72,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-800-wrms-4-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.065, page title 'SUBWOOFER 12″ BICHO PAPÃO 800 WRMS 4 + 4 OHMS – Bomber'. Re printed '3,63 Ohms + 3,63 Ohms' (re_ohm = first coil). T/S sensitivity 87,15 dB SPL (condition not stated, not entered). Driver displacement printed 3,10 L. Product dimensions 308 x 170 x 308 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BP-800-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29,
+    "re_ohm": 2.95,
+    "qms": 5.71,
+    "qes": 0.4,
+    "qts": 0.37,
+    "vas_l": 63,
+    "sd_cm2": 487,
+    "xmax_mm": 13,
+    "mms_g": 156,
+    "bl_tm": 14.6,
+    "le_mh": 2.95,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-800-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.064, page title 'SUBWOOFER 12″ BICHO PAPÃO 800 WRMS 4 OHMS – Bomber'. Re printed '2,95 Ohms' (re_ohm = first coil). T/S sensitivity 88,08 dB SPL (condition not stated, not entered). Driver displacement printed 3,10 L. Product dimensions 308 x 170 x 308 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BPF800-4+4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38,
+    "re_ohm": 3.54,
+    "qms": 7.32,
+    "qes": 0.53,
+    "qts": 0.49,
+    "vas_l": 33.59,
+    "sd_cm2": 453,
+    "xmax_mm": 13,
+    "mms_g": 146.79,
+    "bl_tm": 21.72,
+    "le_mh": 4.83,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-800-wrms-44-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.096, page title 'SUBWOOFER 12″ BICHO PAPÃO 800 WRMS 4+4 OHMS – Bomber'. Re printed '3,54 + 3,54 Ohms' (re_ohm = first coil). T/S sensitivity 87,55 dB SPL (condition not stated, not entered). Product dimensions 326 x 180 x 326 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12BPCOMP-5000-2",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 5000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39,
+    "re_ohm": 0.9,
+    "qms": 7.64,
+    "qes": 0.43,
+    "qts": 0.4,
+    "vas_l": 51,
+    "sd_cm2": 511,
+    "xmax_mm": 18.25,
+    "mms_g": 157.9,
+    "bl_tm": 9,
+    "le_mh": 0.71,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-bicho-papao-competicao-5000-wrms-2-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.076, page title 'SUBWOOFER 12″ BICHO PAPÃO COMPETIÇÃO 5000 WRMS 2 OHMS – Bomber'. Re printed '0,9 Ohms' (re_ohm = first coil). T/S sensitivity 91 dB SPL (condition not stated, not entered). Product dimensions 320 x 244 x 320 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12CB-250-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 3.77,
+    "qms": 8.21,
+    "qes": 1.41,
+    "qts": 1.21,
+    "vas_l": 68,
+    "sd_cm2": 523,
+    "xmax_mm": 7,
+    "mms_g": 119,
+    "bl_tm": 8.29,
+    "le_mh": 1.67,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-carbon-250-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.134, page title 'SUBWOOFER 12″ CARBON 250 WRMS 4 OHMS – Bomber'. Re printed '3,77 Ohms' (re_ohm = first coil). T/S sensitivity 85 dB SPL (condition not stated, not entered). Driver displacement printed 2,26 L. Product dimensions 331 x 137 x 331 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12CB-500-4+4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 2.96,
+    "qms": 8.29,
+    "qes": 1.13,
+    "qts": 1,
+    "vas_l": 60.03,
+    "sd_cm2": 523,
+    "xmax_mm": 9.5,
+    "mms_g": 141.49,
+    "bl_tm": 12.54,
+    "le_mh": 2.71,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-carbon-500-wrms-44-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.135, page title 'SUBWOOFER 12″ CARBON 500 WRMS 4+4 OHMS – Bomber'. Re printed '2,96 + 2,96 Ohms' (re_ohm = first coil). T/S sensitivity 85,11 dB SPL (condition not stated, not entered). Driver displacement printed 2,41 L. Product dimensions 331 x 129 x 331 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12CB-550-4+4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 550,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 3.1,
+    "qms": 8.8,
+    "qes": 0.95,
+    "qts": 0.86,
+    "vas_l": 64.06,
+    "sd_cm2": 523,
+    "xmax_mm": 9.5,
+    "mms_g": 149.56,
+    "bl_tm": 13.93,
+    "le_mh": 3.35,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-carbon-550-wrms-44-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.143, page title 'SUBWOOFER 12″ CARBON 550 WRMS 4+4 OHMS – Bomber'. Re printed '3,10 + 3,10 Ohms' (re_ohm = first coil). T/S sensitivity 85,35 dB SPL (condition not stated, not entered). Driver displacement printed 2,83 L. Product dimensions 331 x 179 x 331 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12OUT-1200-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41,
+    "re_ohm": 3.17,
+    "qms": 13.64,
+    "qes": 0.58,
+    "qts": 0.55,
+    "vas_l": 54.82,
+    "sd_cm2": 523,
+    "xmax_mm": 10.35,
+    "mms_g": 103.17,
+    "bl_tm": 12.12,
+    "le_mh": 1,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-outdoor-1200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.20.019, page title 'SUBWOOFER 12″ OUTDOOR 1200 WRMS 4 OHMS – Bomber'. Re printed '3,17 Ohms' (re_ohm = first coil). T/S sensitivity 90,28 dB SPL (condition not stated, not entered). Product dimensions 307 x 168 x 307 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12OUT300-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 3.58,
+    "qms": 6.64,
+    "qes": 1.14,
+    "qts": 0.97,
+    "vas_l": 84.42,
+    "sd_cm2": 523,
+    "xmax_mm": 6.1,
+    "mms_g": 85.49,
+    "bl_tm": 7.85,
+    "le_mh": 1.59,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-outdoor-300-wrms-4-ohms-2/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.20.048, page title 'SUBWOOFER 12″ OUTDOOR 300 WRMS 4 OHMS – Bomber'. Re printed '3,58 Ohms' (re_ohm = first coil). T/S sensitivity 85,49 dB SPL (condition not stated, not entered). Driver displacement printed 2,07 L. Product dimensions 304 x 139 x 304 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12OUT-500-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 3.24,
+    "qms": 8.53,
+    "qes": 0.73,
+    "qts": 0.67,
+    "vas_l": 45.33,
+    "sd_cm2": 523,
+    "xmax_mm": 9,
+    "mms_g": 91.62,
+    "bl_tm": 11.08,
+    "le_mh": 1.62,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-outdoor-500-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.20.011, page title 'SUBWOOFER 12″ OUTDOOR 500 WRMS 4 OHMS – Bomber'. Re printed '3,24 Ohms' (re_ohm = first coil). T/S sensitivity 90,44 dB SPL (condition not stated, not entered). Product dimensions 310 x 157 x 310 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12OUT-800-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 3.57,
+    "qms": 5.44,
+    "qes": 0.56,
+    "qts": 0.5,
+    "vas_l": 50.42,
+    "sd_cm2": 523,
+    "xmax_mm": 7,
+    "mms_g": 106.41,
+    "bl_tm": 13.5,
+    "le_mh": 2.12,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-outdoor-800-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.20.015, page title 'SUBWOOFER 12″ OUTDOOR 800 WRMS 4 OHMS – Bomber'. Re printed '3,57 Ohms' (re_ohm = first coil). T/S sensitivity 90,44 dB SPL (condition not stated, not entered). Product dimensions 307 x 162 x 307 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12SLHP-400-2",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 2,
+    "qms": 8.8,
+    "qes": 1.54,
+    "qts": 1.3,
+    "vas_l": 43,
+    "sd_cm2": 507,
+    "xmax_mm": 6,
+    "mms_g": null,
+    "bl_tm": 6.9,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-slim-high-power-400-wrms-2-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.033, page title 'SUBWOOFER 12″ SLIM HIGH POWER 400 WRMS 2 OHMS – Bomber'. Re printed '2 Ohms' (re_ohm = first coil). T/S sensitivity 84 dB SPL (condition not stated, not entered). Product dimensions 313 x 93 x 313 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12SLHP-400-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 4.3,
+    "qms": 9.1,
+    "qes": 1.11,
+    "qts": 0.99,
+    "vas_l": 52.2,
+    "sd_cm2": 507,
+    "xmax_mm": 6,
+    "mms_g": 127.3,
+    "bl_tm": 11.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-slim-high-power-400-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.036, page title 'SUBWOOFER 12″ SLIM HIGH POWER 400 WRMS 4 OHMS – Bomber'. Re printed '4,3 Ohms' (re_ohm = first coil). T/S sensitivity 85 dB SPL (condition not stated, not entered). Product dimensions 313 x 93 x 313 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12STKL400-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 3.18,
+    "qms": 6.7,
+    "qes": 0.46,
+    "qts": 0.43,
+    "vas_l": 55,
+    "sd_cm2": 523,
+    "xmax_mm": 8,
+    "mms_g": 171,
+    "bl_tm": 15.42,
+    "le_mh": 3.1,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-slim-tkl-400-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.37.010, page title 'SUBWOOFER 12″ SLIM TKL 400 WRMS 4 OHMS – Bomber'. Re printed '3,18 Ohms' (re_ohm = first coil). T/S sensitivity 87,94 dB SPL (condition not stated, not entered). Driver displacement printed 1,83 L. Product dimensions 316 x 103 x 316 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12UP-350-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23,
+    "re_ohm": 3.29,
+    "qms": 4.21,
+    "qes": 0.66,
+    "qts": 0.57,
+    "vas_l": 214,
+    "sd_cm2": 543,
+    "xmax_mm": 9.5,
+    "mms_g": 87.9,
+    "bl_tm": 8.14,
+    "le_mh": 2.34,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-upgrade-350-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.133, page title 'SUBWOOFER 12″ UPGRADE 350 WRMS 4 OHMS – Bomber'. Re printed '3,29 Ohms' (re_ohm = first coil). T/S sensitivity 87,9 dB SPL (condition not stated, not entered). Driver displacement printed 2,52 L. Product dimensions 331 x 142 x 331 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12UP-375-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 375,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.5,
+    "re_ohm": 3.24,
+    "qms": 6.1,
+    "qes": 0.78,
+    "qts": 0.69,
+    "vas_l": 90.57,
+    "sd_cm2": 543,
+    "xmax_mm": 9.5,
+    "mms_g": 132.63,
+    "bl_tm": 10.07,
+    "le_mh": 2.32,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-upgrade-375-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.144, page title 'SUBWOOFER 12″ UPGRADE 375 WRMS 4 OHMS – Bomber'. Re printed '3,24 Ohms' (re_ohm = first coil). T/S sensitivity 86,73 dB SPL (condition not stated, not entered). Driver displacement printed 2,43 L. Product dimensions 331 x 159 x 331 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12UP-500-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.15,
+    "re_ohm": 3.14,
+    "qms": 4.34,
+    "qes": 0.62,
+    "qts": 0.54,
+    "vas_l": 112.67,
+    "sd_cm2": 543,
+    "xmax_mm": 7,
+    "mms_g": 116.95,
+    "bl_tm": 10.23,
+    "le_mh": 1.47,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-upgrade-500-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.142, page title 'SUBWOOFER 12″ UPGRADE 500 WRMS 4 OHMS – Bomber'. Re printed '3,14 Ohms' (re_ohm = first coil). T/S sensitivity 88,10 dB SPL (condition not stated, not entered). Driver displacement printed 2,81 L. Product dimensions 331 x 144 x 331 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12UPEVO500-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 45,
+    "re_ohm": 3.02,
+    "qms": 7.46,
+    "qes": 0.98,
+    "qts": 0.87,
+    "vas_l": 32.83,
+    "sd_cm2": 491,
+    "xmax_mm": 6.5,
+    "mms_g": 128.44,
+    "bl_tm": 10.57,
+    "le_mh": 1.81,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-upgrade-evo-500-watts-rms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.152, page title 'SUBWOOFER 12″ UPGRADE EVO 500 WATTS RMS 4 OHMS – Bomber'. Re printed '3,02 Ohms' (re_ohm = first coil). T/S sensitivity 87 dB SPL (condition not stated, not entered). Driver displacement printed 3,06 L. Product dimensions 309 x 152 x 309 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW12UP400-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23,
+    "re_ohm": 3.29,
+    "qms": 4.21,
+    "qes": 0.66,
+    "qts": 0.57,
+    "vas_l": 214,
+    "sd_cm2": 543,
+    "xmax_mm": 9.5,
+    "mms_g": 87.9,
+    "bl_tm": 8.14,
+    "le_mh": 2.34,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-12-upgrade-professional-400-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.150, page title 'SUBWOOFER 12″ UPGRADE PROFESSIONAL 400 WATTS RMS – Bomber'. Re printed '3,29 Ohms' (re_ohm = first coil). T/S sensitivity 87,9 dB SPL (condition not stated, not entered). Driver displacement printed 2,52 L. Product dimensions 331 x 142 x 331 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BP-1200-4+4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.43,
+    "re_ohm": 3.3,
+    "qms": 5.4,
+    "qes": 0.59,
+    "qts": 0.53,
+    "vas_l": 143,
+    "sd_cm2": 819,
+    "xmax_mm": 15,
+    "mms_g": 224,
+    "bl_tm": 20.7,
+    "le_mh": 4.58,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-1200-wrms-4-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.071, page title 'SUBWOOFER 15″ BICHO PAPÃO 1200 WRMS 4 + 4 OHMS – Bomber'. Re printed '3,30 + 3,30 Ohms' (re_ohm = first coil). T/S sensitivity 89,03 dB SPL (condition not stated, not entered). Driver displacement printed 5,55 L. Product dimensions 389 x 212 x 389 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BPF1200-4+4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 3.59,
+    "qms": 7.65,
+    "qes": 0.74,
+    "qts": 0.67,
+    "vas_l": 103.85,
+    "sd_cm2": 779,
+    "xmax_mm": 18,
+    "mms_g": 268.85,
+    "bl_tm": 21.33,
+    "le_mh": 5.92,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-1200-wrms-44-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.099, page title 'SUBWOOFER 15″ BICHO PAPÃO 1200 WRMS 4+4 OHMS – Bomber'. Re printed '3,59 + 3,59 Ohms' (re_ohm = first coil). T/S sensitivity 86,79 dB SPL (condition not stated, not entered). Product dimensions 390 x 233 x 390 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BP-2000-2+2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 1.6,
+    "qms": 13.21,
+    "qes": 0.48,
+    "qts": 0.46,
+    "vas_l": 72,
+    "sd_cm2": 835,
+    "xmax_mm": 12,
+    "mms_g": null,
+    "bl_tm": 19.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-2000-wrms-2-2-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.073, page title 'SUBWOOFER 15″ BICHO PAPÃO 2000 WRMS 2 + 2 OHMS – Bomber'. Re printed '1,6 + 1,6 Ohms' (re_ohm = first coil). T/S sensitivity 91 dB SPL (condition not stated, not entered). Product dimensions 389 x 196 x 389 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BP400-4+4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.02,
+    "re_ohm": 3.02,
+    "qms": 6.37,
+    "qes": 1.08,
+    "qts": 0.92,
+    "vas_l": 187,
+    "sd_cm2": 860,
+    "xmax_mm": 9.5,
+    "mms_g": 168.7,
+    "bl_tm": 12.9,
+    "le_mh": 2.81,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-400-wrms-4-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.090, page title 'SUBWOOFER 15″ BICHO PAPÃO 400 WRMS 4 + 4 OHMS – Bomber'. Re printed '3,02 + 3,02 Ohms' (re_ohm = first coil). T/S sensitivity 88,3 dB SPL (condition not stated, not entered). Driver displacement printed 4,24 L. Product dimensions 385 x 167 x 385 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BP-600-4+4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.47,
+    "re_ohm": 3.4,
+    "qms": 6.5,
+    "qes": 0.84,
+    "qts": 0.75,
+    "vas_l": 190,
+    "sd_cm2": 860,
+    "xmax_mm": 10,
+    "mms_g": 161,
+    "bl_tm": 15.46,
+    "le_mh": 3.37,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-600-wrms-4-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.063, page title 'SUBWOOFER 15″ BICHO PAPÃO 600 WRMS 4 + 4 OHMS – Bomber'. Re printed '3,4 + 3,4 Ohms' (re_ohm = first coil). T/S sensitivity 89,62 dB SPL (condition not stated, not entered). Driver displacement printed 4,35 L. Product dimensions 385 x 175 x 385 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BP-600-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.52,
+    "re_ohm": 3.6,
+    "qms": 5.99,
+    "qes": 0.73,
+    "qts": 0.65,
+    "vas_l": 190,
+    "sd_cm2": 860,
+    "xmax_mm": 10,
+    "mms_g": 172,
+    "bl_tm": 12.34,
+    "le_mh": 1.98,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-600-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.062, page title 'SUBWOOFER 15″ BICHO PAPÃO 600 WRMS 4 OHMS – Bomber'. Re printed '3,60 Ohms' (re_ohm = first coil). T/S sensitivity 89,85 dB SPL (condition not stated, not entered). Driver displacement printed 2,65 L. Product dimensions 385 x 175 x 385 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BP-800-4+4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29,
+    "re_ohm": 3.46,
+    "qms": 6.06,
+    "qes": 0.66,
+    "qts": 0.59,
+    "vas_l": 132,
+    "sd_cm2": 819,
+    "xmax_mm": 13,
+    "mms_g": 210,
+    "bl_tm": 20.2,
+    "le_mh": 3.81,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-800-wrms-4-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.067, page title 'SUBWOOFER 15″ BICHO PAPÃO 800 WRMS 4 + 4 OHMS – Bomber'. Re printed '3,46 + 3,46 Ohms' (re_ohm = first coil). T/S sensitivity 89,13 dB SPL (condition not stated, not entered). Driver displacement printed 4,81 L. Product dimensions 386 x 188 x 386 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BP-800-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29,
+    "re_ohm": 3.18,
+    "qms": 5.23,
+    "qes": 0.58,
+    "qts": 0.52,
+    "vas_l": 169,
+    "sd_cm2": 819,
+    "xmax_mm": 13,
+    "mms_g": 164,
+    "bl_tm": 12.9,
+    "le_mh": 2.29,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-800-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.066, page title 'SUBWOOFER 15″ BICHO PAPÃO 800 WRMS 4 OHMS – Bomber'. Re printed '3,18 Ohms' (re_ohm = first coil). T/S sensitivity 90,77 dB SPL (condition not stated, not entered). Driver displacement printed 4,81 L. Product dimensions 386 x 188 x 386 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BPF800-4+4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 3.71,
+    "qms": 8.63,
+    "qes": 0.82,
+    "qts": 0.75,
+    "vas_l": 114.3,
+    "sd_cm2": 779,
+    "xmax_mm": 13,
+    "mms_g": 247.96,
+    "bl_tm": 19.74,
+    "le_mh": 6.02,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-800-wrms-44-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.098, page title 'SUBWOOFER 15″ BICHO PAPÃO 800 WRMS 4+4 OHMS – Bomber'. Re printed '3,71 + 3,71 Ohms' (re_ohm = first coil). T/S sensitivity 86,68 dB SPL (condition not stated, not entered). Product dimensions 390 x 211 x 390 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15BPCOMP-5000-2",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39,
+    "re_ohm": 0.9,
+    "qms": 6.96,
+    "qes": 0.6,
+    "qts": 0.55,
+    "vas_l": 75,
+    "sd_cm2": 855,
+    "xmax_mm": 18.25,
+    "mms_g": null,
+    "bl_tm": 9,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-bicho-papao-competicao-5000-wrms-2-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.077, page title 'SUBWOOFER 15″ BICHO PAPÃO COMPETIÇÃO 5000 WRMS 2 OHMS – Bomber'. Re printed '0,9 Ohms' (re_ohm = first coil). T/S sensitivity 91 dB SPL (condition not stated, not entered). Product dimensions 390 x 269 x 390. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15OUT-500-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42,
+    "re_ohm": 3.32,
+    "qms": 8.38,
+    "qes": 1.18,
+    "qts": 0.98,
+    "vas_l": 107.21,
+    "sd_cm2": 866,
+    "xmax_mm": 9,
+    "mms_g": 90.55,
+    "bl_tm": 10.48,
+    "le_mh": 1.54,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-outdoor-500-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.20.013, page title 'SUBWOOFER 15″ OUTDOOR 500 WRMS 4 OHMS – Bomber'. Re printed '3,32 Ohms' (re_ohm = first coil). T/S sensitivity 90,55 dB SPL (condition not stated, not entered). Product dimensions 386 x 171 x 386 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15UP-350-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26,
+    "re_ohm": 3.3,
+    "qms": 4.81,
+    "qes": 0.77,
+    "qts": 0.66,
+    "vas_l": 294,
+    "sd_cm2": 855,
+    "xmax_mm": 9.5,
+    "mms_g": 132.9,
+    "bl_tm": 9.52,
+    "le_mh": 2.31,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-upgrade-350-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.104, page title 'SUBWOOFER 15″ UPGRADE 350 WRMS 4 OHMS – Bomber'. Re printed '3,30 Ohms' (re_ohm = first coil). T/S sensitivity 90 dB SPL (condition not stated, not entered). Driver displacement printed 4,9 L. Product dimensions 384 x 169 x 384 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW15UP400-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26,
+    "re_ohm": 3.3,
+    "qms": 4.81,
+    "qes": 0.77,
+    "qts": 0.66,
+    "vas_l": 294,
+    "sd_cm2": 855,
+    "xmax_mm": 9.5,
+    "mms_g": 132.9,
+    "bl_tm": 9.52,
+    "le_mh": 2.31,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-15-upgrade-professional-400-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.151, page title 'SUBWOOFER 15″ UPGRADE PROFESSIONAL 400 WATTS RMS – Bomber'. Re printed '3,30 Ohms' (re_ohm = first coil). T/S sensitivity 90 dB SPL (condition not stated, not entered). Driver displacement printed 4,9 L. Product dimensions 384 x 169 x 384 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8BONE-200-2+2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 44,
+    "re_ohm": 3.64,
+    "qms": 5.4,
+    "qes": 1.11,
+    "qts": 0.92,
+    "vas_l": 14.06,
+    "sd_cm2": 214,
+    "xmax_mm": 7,
+    "mms_g": 58.77,
+    "bl_tm": 7.3,
+    "le_mh": 1.62,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-b-one-200-wrms-22-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.041, page title 'SUBWOOFER 8″ B-ONE 200 WRMS 2+2 OHMS – Bomber'. Re printed '3,64 Ohms' (re_ohm = first coil). T/S sensitivity 82,41 dB SPL (condition not stated, not entered). Driver displacement printed 1,1 L. Product dimensions 207 x 108 x 207 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8BONE-200-4",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 44.24,
+    "re_ohm": 3.64,
+    "qms": 5.4,
+    "qes": 1.11,
+    "qts": 0.92,
+    "vas_l": 14.06,
+    "sd_cm2": 214,
+    "xmax_mm": 7,
+    "mms_g": 58.77,
+    "bl_tm": 7.3,
+    "le_mh": 1.62,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-b-one-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.140, page title 'SUBWOOFER 8″ B-ONE 200 WRMS 4 OHMS – Bomber'. Re printed '3,64 Ohms' (re_ohm = first coil). T/S sensitivity 82,41 dB SPL (condition not stated, not entered). Driver displacement printed 1,1 L. Product dimensions 207 x 108 x 207 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8BP600-4",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46,
+    "re_ohm": 3,
+    "qms": 10.83,
+    "qes": 0.49,
+    "qts": 0.47,
+    "vas_l": 8.33,
+    "sd_cm2": 183,
+    "xmax_mm": 11,
+    "mms_g": 66.28,
+    "bl_tm": 10.85,
+    "le_mh": 2.02,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-bicho-papao-600-watts-rms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.23.121, page title 'SUBWOOFER 8″ BICHO PAPÃO 600 WATTS RMS 4 OHMS – Bomber'. Re printed '3,00 Ohms' (re_ohm = first coil). T/S sensitivity 84,33 dB SPL (condition not stated, not entered). Driver displacement printed 1,44 L. Product dimensions 207 x 131 x 180 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8SL-200-4",
+   "size_in": 8,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 2.94,
+    "qms": 7.9,
+    "qes": 0.54,
+    "qts": 0.51,
+    "vas_l": 12,
+    "sd_cm2": 214,
+    "xmax_mm": 5.4,
+    "mms_g": 72.5,
+    "bl_tm": 10.35,
+    "le_mh": 1.55,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-slim-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.023, page title 'SUBWOOFER 8″ SLIM 200 WRMS 4 OHMS – Bomber'. Re printed '2,94 Ohms' (re_ohm = first coil). T/S sensitivity 84,61 dB SPL (condition not stated, not entered). Driver displacement printed 0,9 L. Product dimensions 213 x 75 x 213 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8SLHP-300-2",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47,
+    "re_ohm": 2,
+    "qms": 8.7,
+    "qes": 0.75,
+    "qts": 0.7,
+    "vas_l": 10.5,
+    "sd_cm2": 214,
+    "xmax_mm": 6,
+    "mms_g": null,
+    "bl_tm": 6.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-slim-high-power-300-wrms-2-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.031, page title 'SUBWOOFER 8″ SLIM HIGH POWER 300 WRMS 2 OHMS – Bomber'. Re printed '2 Ohms' (re_ohm = first coil). T/S sensitivity 84 dB SPL (condition not stated, not entered). Product dimensions 213 x 76 x 213 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8SLHP-300-4",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47,
+    "re_ohm": 4.4,
+    "qms": 10.1,
+    "qes": 0.71,
+    "qts": 0.66,
+    "vas_l": 9.6,
+    "sd_cm2": 214,
+    "xmax_mm": 6,
+    "mms_g": 59.9,
+    "bl_tm": 11.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-slim-high-power-300-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.47.034, page title 'SUBWOOFER 8″ SLIM HIGH POWER 300 WRMS 4 OHMS – Bomber'. Re printed '4,4' (re_ohm = first coil). T/S sensitivity 84 dB SPL (condition not stated, not entered). Product dimensions 213 x 76 x 213 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8UP-350-4",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 3.3,
+    "qms": 3.51,
+    "qes": 0.41,
+    "qts": 0.37,
+    "vas_l": 38.63,
+    "sd_cm2": 206,
+    "xmax_mm": 9.5,
+    "mms_g": 33.7,
+    "bl_tm": 7.59,
+    "le_mh": 2.3,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-upgrade-350-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.124, page title 'SUBWOOFER 8″ UPGRADE 350 WRMS 4 OHMS – Bomber'. Re printed '3,30 Ohms' (re_ohm = first coil). T/S sensitivity 87,78 dB SPL (condition not stated, not entered). Product dimensions 211 x 118 x 211 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "SW8UP400-4",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 45,
+    "re_ohm": 3.25,
+    "qms": 11.14,
+    "qes": 1.02,
+    "qts": 0.93,
+    "vas_l": 7.32,
+    "sd_cm2": 183,
+    "xmax_mm": 8.5,
+    "mms_g": 79.75,
+    "bl_tm": 8.49,
+    "le_mh": 2.44,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/subwoofer-8-upgrade-400-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.04.154, page title 'SUBWOOFER 8″ UPGRADE 400 WRMS 4 OHMS – Bomber'. Re printed '3,25 Ohms' (re_ohm = first coil). T/S sensitivity 80,24 dB SPL (condition not stated, not entered). Product dimensions 207 x 129 x 207 mm. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W10WONE-125-4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 125,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 98,
+    "re_ohm": 3.07,
+    "qms": 8.49,
+    "qes": 2.88,
+    "qts": 2.15,
+    "vas_l": 15,
+    "sd_cm2": 360,
+    "xmax_mm": 2.65,
+    "mms_g": 22,
+    "bl_tm": 3.84,
+    "le_mh": 0.39,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-10-w-one-125-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.001, page title 'WOOFER 10″ W-ONE 125 WRMS 4 OHMS – Bomber'. Re printed '3,07 Ohms' (re_ohm = first coil). T/S sensitivity 90,5 dB (condition not stated, not entered). Product dimensions 254 x 100 x 254 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W10WONE-125-8",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 125,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 109,
+    "re_ohm": 5.76,
+    "qms": 8.75,
+    "qes": 4.03,
+    "qts": 2.76,
+    "vas_l": 15,
+    "sd_cm2": 360,
+    "xmax_mm": 3.55,
+    "mms_g": 25.46,
+    "bl_tm": 5,
+    "le_mh": 0.67,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-10-w-one-125-wrms-8-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.003, page title 'WOOFER 10″ W-ONE 125 WRMS 8 OHMS – Bomber'. Re printed '5,76 Ohms' (re_ohm = first coil). T/S sensitivity 88,9 dB SPL (condition not stated, not entered). Product dimensions 254 x 100 x 254 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W10WONE-200-4",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 98,
+    "re_ohm": 3.6,
+    "qms": 15.93,
+    "qes": 2.25,
+    "qts": 1.97,
+    "vas_l": 15,
+    "sd_cm2": 360,
+    "xmax_mm": 6.5,
+    "mms_g": 31.13,
+    "bl_tm": 5.53,
+    "le_mh": 0.68,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-10-w-one-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.016, page title 'WOOFER 10″ W-ONE 200 WRMS 4 OHMS – Bomber'. Re printed '3,60 Ohms' (re_ohm = first coil). T/S sensitivity 90,09 dB SPL (condition not stated, not entered). Driver displacement printed 1,55 L. Product dimensions 254 x 113 x 254 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W10WONE-200-8",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 93,
+    "re_ohm": 5.44,
+    "qms": 12.42,
+    "qes": 2.89,
+    "qts": 2.34,
+    "vas_l": 18.99,
+    "sd_cm2": 360,
+    "xmax_mm": 6.5,
+    "mms_g": 26.85,
+    "bl_tm": 5.43,
+    "le_mh": 0.91,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-10-w-one-200-wrms-8-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.017, page title 'WOOFER 10″ W-ONE 200 WRMS 8 OHMS – Bomber'. Re printed '5,44 Ohms' (re_ohm = first coil). T/S sensitivity 89,25 dB SPL (condition not stated, not entered). Driver displacement printed 1,55 L. Product dimensions 254 x 113 x 254 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12AT2.5-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 84,
+    "re_ohm": 3.1,
+    "qms": 18.31,
+    "qes": 0.79,
+    "qts": 0.76,
+    "vas_l": 10.4,
+    "sd_cm2": 515,
+    "xmax_mm": 6.5,
+    "mms_g": 126.45,
+    "bl_tm": 16.2,
+    "le_mh": 1.27,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-2-5k-4%cf%89-1250-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.037, page title 'WOOFER 12″ ATRACK 2.5K 4Ω 1250 WATTS RMS – Bomber'. Re printed '3,1 Ohms' (re_ohm = first coil). T/S sensitivity 91 dB SPL (condition not stated, not entered). Product dimensions 321 x 164 x 321 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12A65-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 3250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 81,
+    "re_ohm": 3.01,
+    "qms": 13.4,
+    "qes": 0.6,
+    "qts": 0.58,
+    "vas_l": 9.44,
+    "sd_cm2": 511,
+    "xmax_mm": 8.75,
+    "mms_g": 148.8,
+    "bl_tm": 19.4,
+    "le_mh": 0.7283,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-3250-wtts-rms-6-5k-4%cf%89/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.074, page title 'WOOFER 12″ ATRACK 3250 WTTS RMS 6.5K 4Ω – Bomber'. Re printed '3.01 Ω' (re_ohm = first coil). T/S sensitivity 91,2 dB SPL (condition not stated, not entered). Driver displacement printed 6,15 L. Product dimensions 321 x 194 x 285 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12A400-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 74,
+    "re_ohm": 2.96,
+    "qms": 15.29,
+    "qes": 1.02,
+    "qts": 0.95,
+    "vas_l": 18,
+    "sd_cm2": 511,
+    "xmax_mm": 6.5,
+    "mms_g": 93.62,
+    "bl_tm": 11.24,
+    "le_mh": 1.76,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-400-4%cf%89-800-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.033, page title 'WOOFER 12″ ATRACK 400 4Ω 800 WATTS RMS – Bomber'. Re printed '2,96 Ohms' (re_ohm = first coil). T/S sensitivity 90,56 dB SPL (condition not stated, not entered). Driver displacement printed 3,06 L. Product dimensions 309 x 147 x 309 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12A550-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1100,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 64,
+    "re_ohm": 2.96,
+    "qms": 14.37,
+    "qes": 0.84,
+    "qts": 0.79,
+    "vas_l": 28.32,
+    "sd_cm2": 511,
+    "xmax_mm": 6.4,
+    "mms_g": 77.4,
+    "bl_tm": 10.53,
+    "le_mh": 0.82,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-550-4%cf%89-1100-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.020, page title 'WOOFER 12″ ATRACK 550 4Ω 1100 WATTS RMS – Bomber'. Re printed '2,96 Ohms' (re_ohm = first coil). T/S sensitivity 91,65 dB SPL (condition not stated, not entered). Driver displacement printed 3,66 L. Product dimensions 307 x 149 x 307 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12A550-8",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 1100,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 63,
+    "re_ohm": 5.97,
+    "qms": 8.88,
+    "qes": 1.11,
+    "qts": 0.99,
+    "vas_l": 31.61,
+    "sd_cm2": 511,
+    "xmax_mm": 6.4,
+    "mms_g": 73.76,
+    "bl_tm": 12.51,
+    "le_mh": 1.41,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-550-8%cf%89-1100-wrms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.030, page title 'WOOFER 12″ ATRACK 550 8Ω 1100 WRMS – Bomber'. Re printed '5,97 Ω' (re_ohm = first coil). T/S sensitivity 90,52 dB SPL (condition not stated, not entered). Driver displacement printed 3,66 L. Product dimensions 307 x 149 x 307 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12A5-2",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 80,
+    "re_ohm": 1.67,
+    "qms": 17.6,
+    "qes": 0.73,
+    "qts": 0.7,
+    "vas_l": 10.51,
+    "sd_cm2": 511,
+    "xmax_mm": 8.25,
+    "mms_g": 139.15,
+    "bl_tm": 13.22,
+    "le_mh": 0.45,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-5k-2%cf%89-2500-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.015, page title 'WOOFER 12″ ATRACK 5K 2Ω 2500 WATTS RMS – Bomber'. Re printed '1,67 Ohms' (re_ohm = first coil). T/S sensitivity 90,6 dB SPL (condition not stated, not entered). Driver displacement printed 6,15 L. Product dimensions 321 x 194 x 321 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12A5B-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 73,
+    "re_ohm": 2.81,
+    "qms": 10.93,
+    "qes": 0.6,
+    "qts": 0.57,
+    "vas_l": 12.19,
+    "sd_cm2": 511,
+    "xmax_mm": 6.75,
+    "mms_g": 141.46,
+    "bl_tm": 17.41,
+    "le_mh": 0.61,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-5k-4%cf%89-2500-watts-rms-branco/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.058, page title 'WOOFER 12″ ATRACK 5K 4Ω 2500 WATTS RMS – BRANCO – Bomber'. Re printed '2,81 Ohms' (re_ohm = first coil). T/S sensitivity 91 dB SPL (condition not stated, not entered). Driver displacement printed 6,15 L. Product dimensions 321 x 194 x 321 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12A5-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 73,
+    "re_ohm": 2.81,
+    "qms": 10.93,
+    "qes": 0.6,
+    "qts": 0.57,
+    "vas_l": 12.19,
+    "sd_cm2": 511,
+    "xmax_mm": 6.75,
+    "mms_g": 141.46,
+    "bl_tm": 17.41,
+    "le_mh": 0.61,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-atrack-5k-4%cf%89-2500-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.016, page title 'WOOFER 12″ ATRACK 5K 4Ω 2500 WATTS RMS – Bomber'. Re printed '2,81 Ohms' (re_ohm = first coil). T/S sensitivity 91 dB SPL (condition not stated, not entered). Driver displacement printed 6,15 L. Product dimensions 321 x 194 x 321 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12BDUO-200-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 58,
+    "re_ohm": 3.77,
+    "qms": 8.83,
+    "qes": 1.29,
+    "qts": 1.12,
+    "vas_l": 88,
+    "sd_cm2": 511,
+    "xmax_mm": 6,
+    "mms_g": 31,
+    "bl_tm": 5.73,
+    "le_mh": 0.61,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-b-duo-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.36.005, page title 'WOOFER 12″ B-DUO 200 WRMS 4 OHMS – Bomber'. Re printed '3,77 Ohms' (re_ohm = first coil). T/S sensitivity 93,4 dB SPL (condition not stated, not entered). Product dimensions 310 x 156 x 304 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12BDUO-200-8",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 62,
+    "re_ohm": 5.47,
+    "qms": 10.9,
+    "qes": 1.17,
+    "qts": 1.48,
+    "vas_l": 76,
+    "sd_cm2": 511,
+    "xmax_mm": 6.5,
+    "mms_g": 32,
+    "bl_tm": 6.29,
+    "le_mh": 0.78,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-b-duo-200-wrms-8-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.36.006, page title 'WOOFER 12″ B-DUO 200 WRMS 8 OHMS – Bomber'. Re printed '5,47 Ohms' (re_ohm = first coil). T/S sensitivity 92,2 dB SPL (condition not stated, not entered). Product dimensions 310 x 156 x 304 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12R1000-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 2.83,
+    "qms": 13.62,
+    "qes": 0.61,
+    "qts": 0.58,
+    "vas_l": 49.1,
+    "sd_cm2": 523,
+    "xmax_mm": 6.25,
+    "mms_g": 75.5,
+    "bl_tm": 10.64,
+    "le_mh": 0.79,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-rush-1000-watts-rms-4%cf%89/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.001, page title 'WOOFER 12″ RUSH 1000 WATTS RMS 4Ω – Bomber'. Re printed '2,83 dB SPL' (re_ohm = first coil). T/S sensitivity 92,35 dB SPL (condition not stated, not entered). Product dimensions 307 x 149 x 307 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12R1200-8",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 1000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 62,
+    "re_ohm": 5.9,
+    "qms": 4.57,
+    "qes": 1.09,
+    "qts": 0.88,
+    "vas_l": 33.07,
+    "sd_cm2": 523,
+    "xmax_mm": 6.4,
+    "mms_g": 76.46,
+    "bl_tm": 12.68,
+    "le_mh": 1.56,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-rush-1000-watts-rms-8%cf%89/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.031, page title 'WOOFER 12” RUSH 1000 WATTS RMS 8Ω – Bomber'. Re printed '5,90 Ω' (re_ohm = first coil). T/S sensitivity 90,58 dB SPL (condition not stated, not entered). Driver displacement printed 3,66 L. Product dimensions 307 x 149 x 307 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12R2.2-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1100,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 53,
+    "re_ohm": 3.2,
+    "qms": 15.66,
+    "qes": 0.8,
+    "qts": 0.77,
+    "vas_l": 28.9,
+    "sd_cm2": 527,
+    "xmax_mm": 8.5,
+    "mms_g": 120.76,
+    "bl_tm": 12.65,
+    "le_mh": 1.09,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-rush-2-2k-4%cf%89-1100-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.071, page title 'WOOFER 12″ RUSH 2.2K 4Ω 1100 WATTS RMS – Bomber'. Re printed '3,20 Ω' (re_ohm = first coil). T/S sensitivity 89,3 dB SPL (condition not stated, not entered). Driver displacement printed 5 L. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12WONE-125-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 125,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 65,
+    "re_ohm": 3,
+    "qms": 6.48,
+    "qes": 2.45,
+    "qts": 1.78,
+    "vas_l": 70,
+    "sd_cm2": 511,
+    "xmax_mm": 2.65,
+    "mms_g": 30,
+    "bl_tm": 3.91,
+    "le_mh": 0.39,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-w-one-125-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.002, page title 'WOOFER 12″ W-ONE 125 WRMS 4 OHMS – Bomber'. Re printed '3,00 Ohms' (re_ohm = first coil). T/S sensitivity 91,16 dB SPL (condition not stated, not entered). Product dimensions 304 x 117 x 304 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12WONE-125-8",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 125,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 63,
+    "re_ohm": 5.79,
+    "qms": 7.58,
+    "qes": 3.22,
+    "qts": 2.26,
+    "vas_l": 71,
+    "sd_cm2": 511,
+    "xmax_mm": 3.55,
+    "mms_g": 32,
+    "bl_tm": 4.79,
+    "le_mh": 0.62,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-w-one-125-wrms-8-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.004, page title 'WOOFER 12″ W-ONE 125 WRMS 8 OHMS – Bomber'. Re printed '5,79 Ohms' (re_ohm = first coil). T/S sensitivity 89,53 dB SPL (condition not stated, not entered). Product dimensions 304 x 117 x 304 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12WONE-200-4",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 63,
+    "re_ohm": 3.51,
+    "qms": 15.44,
+    "qes": 1.48,
+    "qts": 1.35,
+    "vas_l": 60.48,
+    "sd_cm2": 511,
+    "xmax_mm": 6.5,
+    "mms_g": 38.11,
+    "bl_tm": 5.99,
+    "le_mh": 0.62,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-w-one-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.011, page title 'WOOFER 12″ W-ONE 200 WRMS 4 OHMS – Bomber'. Re printed '3,51 Ohms' (re_ohm = first coil). T/S sensitivity 92,16 dB SPL (condition not stated, not entered). Product dimensions 304 x 130 x 304 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W12WONE-200-8",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 63,
+    "re_ohm": 5.15,
+    "qms": 14.55,
+    "qes": 1.72,
+    "qts": 1.54,
+    "vas_l": 59.41,
+    "sd_cm2": 511,
+    "xmax_mm": 6.75,
+    "mms_g": 38.51,
+    "bl_tm": 6.78,
+    "le_mh": 0.76,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-12-w-one-200-wrms-8-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.012, page title 'WOOFER 12″ W-ONE 200 WRMS 8 OHMS – Bomber'. Re printed '5,15 Ohms' (re_ohm = first coil). T/S sensitivity 91,48 dB SPL (condition not stated, not entered). Product dimensions 304 x 130 x 304 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15A25B-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 70,
+    "re_ohm": 3.23,
+    "qms": 24.8,
+    "qes": 0.92,
+    "qts": 0.89,
+    "vas_l": 31.96,
+    "sd_cm2": 801,
+    "xmax_mm": 6.5,
+    "mms_g": 170.68,
+    "bl_tm": 16.21,
+    "le_mh": 1.18,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-2-5k-4%cf%89-1250-watts-rms-branco/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.039, page title 'WOOFER 15″ ATRACK 2.5K 4Ω 1250 WATTS RMS – BRANCO – Bomber'. Re printed '3,23 Ohms' (re_ohm = first coil). T/S sensitivity 92,7 dB SPL (condition not stated, not entered). Product dimensions 390 x 185 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15A400-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 58,
+    "re_ohm": 2.93,
+    "qms": 11.22,
+    "qes": 1.14,
+    "qts": 1.07,
+    "vas_l": 52.88,
+    "sd_cm2": 809,
+    "xmax_mm": 6.5,
+    "mms_g": 134.7,
+    "bl_tm": 11.22,
+    "le_mh": 1.83,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-400-4%cf%89-800-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.034, page title 'WOOFER 15″ ATRACK 400 4Ω 800 WATTS RMS – Bomber'. Re printed '2,93 Ohms' (re_ohm = first coil). T/S sensitivity 91,54 dB SPL (condition not stated, not entered). Driver displacement printed 4,7 L. Product dimensions 390 x 165 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15A550-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1100,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 54,
+    "re_ohm": 2.86,
+    "qms": 10.72,
+    "qes": 1.25,
+    "qts": 1.12,
+    "vas_l": 73.7,
+    "sd_cm2": 809,
+    "xmax_mm": 6.4,
+    "mms_g": 107.4,
+    "bl_tm": 9.15,
+    "le_mh": 0.85,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-550-4%cf%89-1100-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.028, page title 'WOOFER 15″ ATRACK 550 4Ω 1100 WATTS RMS – Bomber'. Re printed '2,86 Ohms' (re_ohm = first coil). T/S sensitivity 91,73 dB SPL (condition not stated, not entered). Driver displacement printed 5,31 L. Product dimensions 386 x 168 x 386 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15A550-8",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 1100,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 55,
+    "re_ohm": 5.58,
+    "qms": 8.8,
+    "qes": 1.24,
+    "qts": 1.09,
+    "vas_l": 68.21,
+    "sd_cm2": 809,
+    "xmax_mm": 6.4,
+    "mms_g": 112.14,
+    "bl_tm": 13.22,
+    "le_mh": 1.29,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-550-8%cf%89-1100-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.029, page title 'WOOFER 15″ ATRACK 550 8Ω 1100 WATTS RMS – Bomber'. Re printed '5,58 Ω' (re_ohm = first coil). T/S sensitivity 91,65 dB SPL (condition not stated, not entered). Driver displacement printed 5,31 L. Product dimensions 386 x 168 x 386 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15A5-2",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 59,
+    "re_ohm": 1.75,
+    "qms": 11.35,
+    "qes": 0.44,
+    "qts": 0.42,
+    "vas_l": 33.88,
+    "sd_cm2": 819,
+    "xmax_mm": 8.25,
+    "mms_g": 204.82,
+    "bl_tm": 17.38,
+    "le_mh": 0.4,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-5k-2%cf%89-2500-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.013, page title 'WOOFER 15″ ATRACK 5K 2Ω 2500 WATTS RMS – Bomber'. Re printed '1,75 Ohms' (re_ohm = first coil). T/S sensitivity 94,2 dB SPL (condition not stated, not entered). Driver displacement printed 8,09 L. Product dimensions 390 x 221 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15A5B-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 73,
+    "re_ohm": 3.12,
+    "qms": 18.8,
+    "qes": 0.77,
+    "qts": 0.74,
+    "vas_l": 25.88,
+    "sd_cm2": 819,
+    "xmax_mm": 6.75,
+    "mms_g": 171.55,
+    "bl_tm": 17.87,
+    "le_mh": 0.75,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-5k-4%cf%89-2500-watts-rms-branco/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.056, page title 'WOOFER 15″ ATRACK 5K 4Ω 2500 WATTS RMS – BRANCO – Bomber'. Re printed '3,12 Ohms' (re_ohm = first coil). T/S sensitivity 93,2 dB SPL (condition not stated, not entered). Driver displacement printed 8,09 L. Product dimensions 390 x 221 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15A5-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 73,
+    "re_ohm": 3.12,
+    "qms": 18.8,
+    "qes": 0.77,
+    "qts": 0.74,
+    "vas_l": 25.88,
+    "sd_cm2": 819,
+    "xmax_mm": 6.75,
+    "mms_g": 171.55,
+    "bl_tm": 17.87,
+    "le_mh": 0.75,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-5k-4%cf%89-2500-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.014, page title 'WOOFER 15″ ATRACK 5K 4Ω 2500 WATTS RMS – Bomber'. Re printed '3,12 Ohms' (re_ohm = first coil). T/S sensitivity 93,2 dB SPL (condition not stated, not entered). Driver displacement printed 8,09 L. Product dimensions 390 x 221 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15AB1900-4B",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1900,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50,
+    "re_ohm": 3.06,
+    "qms": 11.42,
+    "qes": 0.39,
+    "qts": 0.38,
+    "vas_l": 54.51,
+    "sd_cm2": 809,
+    "xmax_mm": 7.5,
+    "mms_g": 168,
+    "bl_tm": 20.34,
+    "le_mh": 2.75,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-bass-3-8k-4%cf%89-branco/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.068, page title 'WOOFER 15″ ATRACK BASS 3.8K 4Ω BRANCO – Bomber'. Re printed '3,06 Ohms' (re_ohm = first coil). T/S sensitivity 94,5 dB SPL (condition not stated, not entered). Product dimensions 390 x 190 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15AB1900-4P",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 3.19,
+    "qms": 14.52,
+    "qes": 0.48,
+    "qts": 0.46,
+    "vas_l": 56.52,
+    "sd_cm2": 809,
+    "xmax_mm": 7.5,
+    "mms_g": 168,
+    "bl_tm": 18.68,
+    "le_mh": 2.66,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-bass-3-8k-4%cf%89-preto/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.006, page title 'WOOFER 15″ ATRACK BASS 3.8K 4Ω PRETO – Bomber'. Re printed '3,19 Ohms' (re_ohm = first coil). T/S sensitivity 93,55 dB SPL (condition not stated, not entered). Product dimensions 390 x 190 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15AB1900-4V",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 3.19,
+    "qms": 14.52,
+    "qes": 0.48,
+    "qts": 0.46,
+    "vas_l": 56.52,
+    "sd_cm2": 809,
+    "xmax_mm": 7.5,
+    "mms_g": 168,
+    "bl_tm": 18.68,
+    "le_mh": 2.66,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-bass-3-8k-4%cf%89-vermelho/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.009, page title 'WOOFER 15″ ATRACK BASS 3.8K 4Ω VERMELHO – Bomber'. Re printed '3,19 Ohms' (re_ohm = first coil). T/S sensitivity 93,55 dB SPL (condition not stated, not entered). Product dimensions 390 x 190 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15ATB4-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 3.19,
+    "qms": 14.52,
+    "qes": 0.48,
+    "qts": 0.46,
+    "vas_l": 56.52,
+    "sd_cm2": 809,
+    "xmax_mm": 7.5,
+    "mms_g": 168.4,
+    "bl_tm": 18.68,
+    "le_mh": 2.66,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-bass-4k-4%cf%89-2000-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.054, page title 'WOOFER 15″ ATRACK BASS 4K 4Ω 2000 WATTS RMS – Bomber'. Re printed '3,19' (re_ohm = first coil). T/S sensitivity 93,55 dB SPL (condition not stated, not entered). Product dimensions 390 x 190 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15ATB6-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 58,
+    "re_ohm": 3.35,
+    "qms": 14.55,
+    "qes": 0.46,
+    "qts": 0.44,
+    "vas_l": 31.21,
+    "sd_cm2": 819,
+    "xmax_mm": 7.75,
+    "mms_g": 228.27,
+    "bl_tm": 24.6,
+    "le_mh": 2.63,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-atrack-bass-6k-4%cf%89-3000-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.064, page title 'WOOFER 15″ ATRACK BASS 6K 4Ω 3000 WATTS RMS – Bomber'. Re printed '3,35' (re_ohm = first coil). T/S sensitivity 93,25 dB SPL (condition not stated, not entered). Driver displacement printed 8,09 L. Product dimensions 390 x 221 x 390 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15R1000-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 2.98,
+    "qms": 9.97,
+    "qes": 0.95,
+    "qts": 0.87,
+    "vas_l": 79.8,
+    "sd_cm2": 809,
+    "xmax_mm": 6.25,
+    "mms_g": 109.8,
+    "bl_tm": 10.56,
+    "le_mh": 0.81,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-rush-1000-watts-rms-4%cf%89/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.002, page title 'WOOFER 15″ RUSH 1000 WATTS RMS 4Ω – Bomber'. Re printed '2,98 Ohms' (re_ohm = first coil). T/S sensitivity 92,61 dB SPL (condition not stated, not entered). Product dimensions 386 x 168 x 386 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15R1000-8",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 1000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 5.32,
+    "qms": 9.48,
+    "qes": 1.24,
+    "qts": 1.1,
+    "vas_l": 86.99,
+    "sd_cm2": 809,
+    "xmax_mm": 6.25,
+    "mms_g": 101.54,
+    "bl_tm": 11.82,
+    "le_mh": 1.26,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-rush-1000-watts-rms-8%cf%89/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.032, page title 'WOOFER 15″ RUSH 1000 WATTS RMS 8Ω – Bomber'. Re printed '5,32 Ω' (re_ohm = first coil). T/S sensitivity 91,75 dB SPL (condition not stated, not entered). Driver displacement printed 5,31 L. Product dimensions 386 x 168 x 386 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15R2.2-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 1100,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 52,
+    "re_ohm": 2.9,
+    "qms": 15.74,
+    "qes": 0.8,
+    "qts": 0.76,
+    "vas_l": 60,
+    "sd_cm2": 819,
+    "xmax_mm": 8.5,
+    "mms_g": 146,
+    "bl_tm": 13.17,
+    "le_mh": 0.93,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-rush-2-2k-4%cf%89-1100-watts-rms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.072, page title 'WOOFER 15″ RUSH 2.2K 4Ω 1100 WATTS RMS – Bomber'. Re printed '2,9 Ω' (re_ohm = first coil). T/S sensitivity 92,26 dB SPL (condition not stated, not entered). Driver displacement printed 6,52 L. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way). RMS from the page title (no 'Potência (RMS)' row).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15WONE-150-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 150,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 3.52,
+    "qms": 7.63,
+    "qes": 2.69,
+    "qts": 1.99,
+    "vas_l": 212,
+    "sd_cm2": 830,
+    "xmax_mm": 3,
+    "mms_g": 49,
+    "bl_tm": 4.41,
+    "le_mh": 0.48,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-w-one-150-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.005, page title 'WOOFER 15″ W-ONE 150 WRMS 4 OHMS – Bomber'. Re printed '3,52 Ohms' (re_ohm = first coil). T/S sensitivity 91,55 dB SPL (condition not stated, not entered). Product dimensions 383 x 143 x 383 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15WONE-150-8",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 150,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 5.76,
+    "qms": 8.32,
+    "qes": 2.99,
+    "qts": 2.2,
+    "vas_l": 203,
+    "sd_cm2": 830,
+    "xmax_mm": 3,
+    "mms_g": 50,
+    "bl_tm": 5.44,
+    "le_mh": 0.63,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-w-one-150-wrms-8-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.006, page title 'WOOFER 15″ W-ONE 150 WRMS 8 OHMS – Bomber'. Re printed '5,76 Ohms' (re_ohm = first coil). T/S sensitivity 91,05 dB SPL (condition not stated, not entered). Product dimensions 383 x 140 x 383 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15WONE-200-4",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 3.74,
+    "qms": 13.75,
+    "qes": 2.3,
+    "qts": 1.97,
+    "vas_l": 140.29,
+    "sd_cm2": 731,
+    "xmax_mm": 6.5,
+    "mms_g": 56.88,
+    "bl_tm": 5.32,
+    "le_mh": 0.62,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-w-one-200-wrms-4-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.013, page title 'WOOFER 15″ W-ONE 200 WRMS 4 OHMS – Bomber'. Re printed '3,74 Ohms' (re_ohm = first coil). T/S sensitivity 90,49 dB SPL (condition not stated, not entered). Driver displacement printed 3,39 L. Product dimensions 383 x 149 x 383 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W15WONE-200-8",
+   "size_in": 15,
+   "coil": "SVC",
+   "ohms_per_coil": 8,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    8
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 50,
+    "re_ohm": 5.3,
+    "qms": 14.73,
+    "qes": 2.73,
+    "qts": 2.31,
+    "vas_l": 132.28,
+    "sd_cm2": 731,
+    "xmax_mm": 6.5,
+    "mms_g": 57.5,
+    "bl_tm": 5.91,
+    "le_mh": 0.78,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-15-w-one-200-wrms-8-ohms/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.35.014, page title 'WOOFER 15″ W-ONE 200 WRMS 8 OHMS – Bomber'. Re printed '5,30 Ohms' (re_ohm = first coil). T/S sensitivity 89,79 dB SPL (condition not stated, not entered). Driver displacement printed 3,39 L. Product dimensions 383 x 149 x 383 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W18AB4K-4",
+   "size_in": 18,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 3.4,
+    "qms": 19,
+    "qes": 0.76,
+    "qts": 0.73,
+    "vas_l": 78,
+    "sd_cm2": 1257,
+    "xmax_mm": 7.5,
+    "mms_g": 313,
+    "bl_tm": 20.48,
+    "le_mh": 2.79,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-18-atrack-bass-4k-4%cf%89/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.069, page title 'WOOFER 18″ ATRACK BASS 4K 4Ω – Bomber'. Re printed '3,4 Ohms' (re_ohm = first coil). T/S sensitivity 92,5 dB SPL (condition not stated, not entered). Product dimensions 462 x 221 x 462 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "W18AB6K-4",
+   "size_in": 18,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 43,
+    "re_ohm": 3.29,
+    "qms": 15.8,
+    "qes": 0.49,
+    "qts": 0.47,
+    "vas_l": 99,
+    "sd_cm2": 1180,
+    "xmax_mm": 7.5,
+    "mms_g": 270,
+    "bl_tm": 22.15,
+    "le_mh": 2.93,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.bomber.com.br/produto/woofer-18-atrack-bass-6k-4%cf%89/",
+     "doc": "product page, Especificações Técnicas + Parâmetros Thiele-Small tables",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker product page tables ('Especificações Técnicas', 'Parâmetros Thiele-Small'); code 1.32.051, page title 'WOOFER 18″ ATRACK BASS 6K 4Ω – Bomber'. Re printed '3,29 Ohms' (re_ohm = first coil). T/S sensitivity 94,1 dB SPL (condition not stated, not entered). Product dimensions 462 x 246 x 462 mm. Sold as 'Woofer': Brazilian mid-bass / bass-wall driver (often high Fs, small Vas), not a deep-bass subwoofer. Xmax is the page's 'deslocamento máx. pico' (peak, one way).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

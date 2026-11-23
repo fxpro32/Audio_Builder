@@ -1,0 +1,123 @@
+{
+ "brand": "Dynaudio",
+ "country": "Denmark",
+ "brand_url": "https://dynaudio.com/car-audio",
+ "terms_note": "R4 2026-11-23: 3 series pages + 2 PDFs read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "Dynaudio Esotar² 110",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 6,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 1000,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    2000,
+    30000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1000,
+    "re_ohm": 5.2,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 7.7,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 111,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dynaudio.com/hubfs/Car%20Audio/Downloads/dyn_automotive_brochure_int_dp.pdf",
+     "doc": "maker automotive brochure (PDF), Thiele Small Parameters table",
+     "page": "4",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Brochure page 4. Power: nominal long-term IEC rating stored as rms_w, 10 ms transient as peak_w.",
+   "overall_height_mm": 41,
+   "voice_coil_mm": 28
+  },
+  {
+   "model": "Dynaudio Esotec MD 102",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 8,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 500,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    2200,
+    30000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1300,
+    "re_ohm": 5.6,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": 7.7,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 62.2,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dynaudio.com/hubfs/Car%20Audio/Downloads/dyn_automotive_brochure_int_dp.pdf",
+     "doc": "maker automotive brochure (PDF), Thiele Small Parameters table",
+     "page": "11",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Brochure page 11. Power: nominal long-term IEC rating stored as rms_w, 10 ms transient as peak_w.",
+   "overall_height_mm": 43,
+   "voice_coil_mm": 28
+  }
+ ],
+ "no_specs_published": []
+}

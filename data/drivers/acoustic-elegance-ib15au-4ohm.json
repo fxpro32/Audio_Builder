@@ -1,0 +1,33 @@
+{
+ "id": "acoustic-elegance-ib15au-4ohm",
+ "brand": "Acoustic Elegance",
+ "model": "IB15AU (4 Ω)",
+ "sizeIn": 15,
+ "params": {
+  "fs": 20.41,
+  "Re": 2.7,
+  "Qms": 6,
+  "Qes": 0.69,
+  "Qts": 0.62,
+  "Vas": 0.387,
+  "Mms": 0.152,
+  "Cms": 0.0004,
+  "Rms": 3.25,
+  "Bl": 8.75,
+  "Sd": 0.083,
+  "Xmax": 0.018,
+  "Le": 0.00033,
+  "Pe": 500,
+  "Znom": 4,
+  "sens1W": 88.8
+ },
+ "sources": [
+  {
+   "param": "*",
+   "source": "https://pssound.squarespace.com/shop/p/ib15au",
+   "where": "PS Sound shop page, 'IB15AU-4ohm' spec list (Fs, Qms, Vas, Cms, Mms, Rms, Xmax peak, Xmech 22 mm, Sd, Vd 3L (p-p), Qes, Re, Le, Z, Bl, Pe, Qts, 1W SPL 88.8 dB, 2.83V 93.5 dB); local copy references/raw/ib_door_home/pssound.squarespace.com_shop_p_ib15au.txt",
+   "read": "2026-11-23"
+  }
+ ],
+ "notes": "Automotive infinite-baffle woofer used by PS Sound (UK) (research_h 1.4). Outer diameter, cut-out, mounting depth and displacement are not on the page: left blank (the app estimates the cut-out from Sd and says so). Xmech 22 mm. 2.83 V sensitivity 93.5 dB."
+}

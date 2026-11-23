@@ -1,0 +1,18 @@
+{
+ "brand": "JBL Selenium (Harman do Brasil)",
+ "country": "Brazil",
+ "brand_url": "https://support.jbl.com/",
+ "terms_note": " | hp_subs_raw terms note: Harman support PDF read 2026-11-22. Numbers only.",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/selenium-jbl-brasil.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "12MB8.0 2R (12 inch midbass, 2 ohm)",
+   "rms_w": 4000,
+   "url": "https://support.jbl.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8868dd50/pdfs/JBL_Woofer_JBL_12MB8.0_-_2R_-_Preto_28025035_manual_portuguese.pdf",
+   "note": "Manual text lists labels and values in separate blocks (numbers seen include 8000, 4000, '80,00 Hz', '16,88 Tm', '132,44 g'; 4000 is taken as the nominal RMS) but most values cannot be matched to labels with certainty, so no T/S recorded. Sheet notes 'for DVC, Re with coils in series'. Pro-style midbass, not a deep-bass subwoofer.",
+   "source": "hp_subs_raw"
+  }
+ ]
+}

@@ -1,0 +1,434 @@
+{
+ "schema": "parts_raw/1",
+ "category": "interconnects",
+ "brand": "Rockford Fosgate",
+ "maker_site": "https://rockfordfosgate.com",
+ "method": "maker accessory pages from https://rockfordfosgate.com/products/selector/car-accessories/ (title and overview numbers); scripts/parts/build_rockford_acc.py",
+ "terms_note": "Numbers only with URL. Rockford accessory pages have no spec table.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 21,
+ "records": [
+  {
+   "id": "rockford-fosgate-rfi-10",
+   "model": "RFI-10",
+   "title": "10 Feet Twisted Pair Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfi-10/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 3.05
+  },
+  {
+   "id": "rockford-fosgate-rfi-16",
+   "model": "RFI-16",
+   "title": "16 Feet Twisted Pair Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfi-16/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 4.88
+  },
+  {
+   "id": "rockford-fosgate-rfi-20",
+   "model": "RFI-20",
+   "title": "20 Feet Twisted Pair Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfi-20/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 6.1
+  },
+  {
+   "id": "rockford-fosgate-rfi-3",
+   "model": "RFI-3",
+   "title": "3 Feet Twisted Pair Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfi-3/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 0.91
+  },
+  {
+   "id": "rockford-fosgate-rfi-6",
+   "model": "RFI-6",
+   "title": "6 Feet Twisted Pair Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfi-6/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 1.83
+  },
+  {
+   "id": "rockford-fosgate-rfi2sw",
+   "model": "RFI2SW",
+   "title": "Speaker Line To Male RCA Adapter",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfi2sw/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": null
+  },
+  {
+   "id": "rockford-fosgate-rfif2sw",
+   "model": "RFIF2SW",
+   "title": "Speaker Line To Female RCA Adapter",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfif2sw/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": null
+  },
+  {
+   "id": "rockford-fosgate-rfis",
+   "model": "RFIS",
+   "title": "RCA Male Adaptor",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfis/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": null
+  },
+  {
+   "id": "rockford-fosgate-rfit-10",
+   "model": "RFIT-10",
+   "title": "10 Feet Premium Dual Twist Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfit-10/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 3.05
+  },
+  {
+   "id": "rockford-fosgate-rfit-16",
+   "model": "RFIT-16",
+   "title": "16 Feet Premium Dual Twist Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfit-16/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 4.88
+  },
+  {
+   "id": "rockford-fosgate-rfit-20",
+   "model": "RFIT-20",
+   "title": "20 Feet Premium Dual Twist Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfit-20/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 6.1
+  },
+  {
+   "id": "rockford-fosgate-rfit-3",
+   "model": "RFIT-3",
+   "title": "3 Feet Premium Dual Twist Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfit-3/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 0.91
+  },
+  {
+   "id": "rockford-fosgate-rfit-6",
+   "model": "RFIT-6",
+   "title": "6 Feet Premium Dual Twist Signal Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfit-6/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": 1.83
+  },
+  {
+   "id": "rockford-fosgate-rfiy-1f",
+   "model": "RFIY-1F",
+   "title": "Twisted Pair Y-Adapter 1 Female To 2 Male",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfiy-1f/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": null
+  },
+  {
+   "id": "rockford-fosgate-rfiy-1m",
+   "model": "RFIY-1M",
+   "title": "Twisted Pair Y-Adapter 1 Male To 2 Female",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfiy-1m/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RCA",
+   "length_m": null
+  },
+  {
+   "id": "rockford-fosgate-rfl16c",
+   "model": "RFL16C",
+   "title": "16-Foot RF-Link 2.0 Communication Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfl16c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RF-Link communication cable",
+   "length_m": 4.88
+  },
+  {
+   "id": "rockford-fosgate-rfl1c",
+   "model": "RFL1C",
+   "title": "1-Foot RF-Link 2.0 Communication Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfl1c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RF-Link communication cable",
+   "length_m": 0.3
+  },
+  {
+   "id": "rockford-fosgate-rfl25c",
+   "model": "RFL25C",
+   "title": "25-Foot RF-Link 2.0 Communication Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfl25c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RF-Link communication cable",
+   "length_m": 7.62
+  },
+  {
+   "id": "rockford-fosgate-rfl50c",
+   "model": "RFL50C",
+   "title": "50-Foot RF-Link 2.0 Communication Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfl50c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RF-Link communication cable",
+   "length_m": 15.24
+  },
+  {
+   "id": "rockford-fosgate-rfl6c",
+   "model": "RFL6C",
+   "title": "6-Foot RF-Link 2.0 Communication Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfl6c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RF-Link communication cable",
+   "length_m": 1.83
+  },
+  {
+   "id": "rockford-fosgate-rflyc",
+   "model": "RFLYC",
+   "title": "Y-Adaptor RF-Link 2.0 Communication Cable",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rflyc/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "RF-Link communication cable",
+   "length_m": null
+  }
+ ],
+ "not_recorded": []
+}

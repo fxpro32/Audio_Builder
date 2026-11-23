@@ -1,0 +1,9 @@
+{
+ "brand": "PRV Audio (PRV Audio USA)",
+ "country": "Brazil",
+ "brand_url": "https://prvaudio.com",
+ "terms_note": "Cloudflare challenge blocks curl (HTTP 403); 3 pages rendered in headless Chromium 5-6 s apart, the third returned 403 (challenge) and was not retried. Car subwoofer range on the US site: RS65/RS8/RS10/RS12-SUBD4 (300 to 1000 W, dual 4 ohm): none >= 2000 W RMS. PRV pro-audio woofers are single 8 ohm (or similar) PA drivers, not car subs with 2/1/0.5 ohm final loads; not checked further.",
+ "drivers": [],
+ "no_ts_published": [],
+ "country_note": "Brand founded in Brazil; US entity PRV Audio USA (prvaudio.com). A3 could not reach it; A2 checked the US site."
+}

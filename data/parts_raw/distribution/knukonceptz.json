@@ -1,0 +1,241 @@
+{
+ "schema": "parts_raw/1",
+ "category": "distribution",
+ "brand": "KnuKonceptz",
+ "maker_site": "https://www.knukonceptz.com",
+ "method": "WooCommerce Store API list",
+ "terms_note": "Numbers only with URL.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 9,
+ "records": [
+  {
+   "id": "knukonceptz-konfused-4-way-fused-distribution-block",
+   "model": "KonFUSED 4 Way Fused Distribution Block",
+   "title": "KonFUSED 4 Way Fused Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-4-way-fused-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": null,
+   "quality_issues": [
+    "ports_null"
+   ],
+   "check": "not clean: ports_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-konfused-3-way-fused-distribution-block",
+   "model": "KonFUSED 3 Way Fused Distribution Block",
+   "title": "KonFUSED 3 Way Fused Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-3-way-fused-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": null,
+   "quality_issues": [
+    "ports_null"
+   ],
+   "check": "not clean: ports_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-konfused-2-way-power-and-ground-distribution-block",
+   "model": "KonFUSED 2 Way Power and Ground Distribution Block",
+   "title": "KonFUSED 2 Way Power and Ground Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-2-way-power-and-ground-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": null,
+   "quality_issues": [
+    "ports_null"
+   ],
+   "check": "not clean: ports_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-konfused-2-way-fuse-6-way-ground-block",
+   "model": "KonFUSED 2 Way Fuse / 6 Way Ground Block",
+   "title": "KonFUSED 2 Way Fuse / 6 Way Ground Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-2-way-fuse-6-way-ground-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": null,
+   "quality_issues": [
+    "ports_null"
+   ],
+   "check": "not clean: ports_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-bassik-2-way-4-to-8-gauge-mini-anl-fuse-distribution-ground-block",
+   "model": "Bassik 2 Way 4 Gauge Fuse Distribution Block",
+   "title": "Bassik 2 Way 4 Gauge Fuse Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-2-way-4-to-8-gauge-mini-anl-fuse-distribution-ground-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": [
+    "4"
+   ]
+  },
+  {
+   "id": "knukonceptz-bassik-3-way-0-to-0-4-gauge-high-current-mini-anl-fuse-distribution-block",
+   "model": "Bassik 3 Way 0 to 0 – 4 Gauge High Current Fuse Distribution Block",
+   "title": "Bassik 3 Way 0 to 0 – 4 Gauge High Current Fuse Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-3-way-0-to-0-4-gauge-high-current-mini-anl-fuse-distribution-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": [
+    "0",
+    "4"
+   ]
+  },
+  {
+   "id": "knukonceptz-bassik-2-way-0-to-0-or-4-gauge-mini-anl-fuse-distribution-ground-block",
+   "model": "Bassik 2 Way 0 to 0 Gauge Fuse Distribution Block",
+   "title": "Bassik 2 Way 0 to 0 Gauge Fuse Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-2-way-0-to-0-or-4-gauge-mini-anl-fuse-distribution-ground-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": [
+    "0",
+    "0"
+   ]
+  },
+  {
+   "id": "knukonceptz-bassik-4-way-4-to-8-gauge-distribution-ground-block",
+   "model": "Bassik 4 – 8 Gauge Power/Ground Distribution Block",
+   "title": "Bassik 4 – 8 Gauge Power/Ground Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-4-way-4-to-8-gauge-distribution-ground-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": [
+    "8"
+   ]
+  },
+  {
+   "id": "knukonceptz-bassik-2-way-0-to-4-gauge-mini-anl-fuse-distribution-ground-block",
+   "model": "Bassik 2 Way 1/0 to 4 Gauge Fuse Distribution Block",
+   "title": "Bassik 2 Way 1/0 to 4 Gauge Fuse Distribution Block",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-2-way-0-to-4-gauge-mini-anl-fuse-distribution-ground-block/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "distribution block",
+   "fuse_type": null,
+   "ratings_a": null,
+   "gauges_in_name": [
+    "1/0",
+    "4"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

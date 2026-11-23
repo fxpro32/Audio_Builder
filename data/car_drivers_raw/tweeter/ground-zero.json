@@ -1,0 +1,1470 @@
+{
+ "brand": "Ground Zero",
+ "country": "Germany",
+ "brand_url": "https://www.ground-zero-audio.com",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms and Conditions (not read in full). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "GZ Reference T-26",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "26 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": null,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1400,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 1240,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 29,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gz-reference-t-26/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Pure-high-end tweeter",
+   "voice_coil_as_printed": "20 mm / 0.79”"
+  },
+  {
+   "model": "GZ ULTRA T-30",
+   "type": "tweeter",
+   "size_in": 1.2,
+   "size_label": "30 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 82,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1000,
+    26000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 500,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41,
+   "cutout_mm": 60,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gz-ultra-t-30-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Ultra-high-end tweeter",
+   "voice_coil_as_printed": "CCA"
+  },
+  {
+   "model": "GZ ULTRA T-30S",
+   "type": "tweeter",
+   "size_in": 1.2,
+   "size_label": "30 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 82,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1000,
+    26000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 500,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41,
+   "cutout_mm": 68,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gz-ultra-t-30s/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Ultra-high-end tweeter",
+   "voice_coil_as_printed": "CCA"
+  },
+  {
+   "model": "GZCS T-25S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 1460,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 22,
+   "cutout_mm": 44,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-t-25s/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "25 mm / 1″ tweeter",
+   "voice_coil_as_printed": "25 mm / 1″ copper"
+  },
+  {
+   "model": "GZCS T-25VW",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzcs-t-25vw/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown. Vehicle-specific model (maker wording / naming).",
+   "maker_description": "Car specific tweeter for VW and identical brands",
+   "voice_coil_as_printed": "25 mm / 1″ copper"
+  },
+  {
+   "model": "GZCT 0500X",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 102,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-0500x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with aluminum dome",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZCT 19N-PROX B",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    22000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 48,
+   "cutout_mm": [
+    60,
+    46
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-19n-prox-b-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High end compression tweeter with neodymium magnet",
+   "voice_coil_as_printed": "25 mm / 1″ CCA"
+  },
+  {
+   "model": "GZCT 20N-PRO",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 109,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    22000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 48,
+   "cutout_mm": 44,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-20n-pro-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High end compression tweeter with neodymium magnet",
+   "voice_coil_as_printed": "25 mm / 1″ CCA"
+  },
+  {
+   "model": "GZCT 25M-SPL",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 100,
+   "sensitivity_db": 84,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 16,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover frequency": "5500 Hz (Crossover high pass frequency)"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-25m-spl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High-performance tweeter with Mylar dome",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZCT 25SQL",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 36,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-25sql-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High power tweeter with silk dome",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZCT 28M-SPL",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 110,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2500,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 16,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "Crossover frequency": "5500 Hz"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-28m-spl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High-performance tweeter with Mylar dome",
+   "voice_coil_as_printed": "28 mm / 1.1″"
+  },
+  {
+   "model": "GZCT 3500X-B",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 99,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 40,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-3500x-b-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with aluminum dome",
+   "voice_coil_as_printed": "25 mm / 1″ CCA"
+  },
+  {
+   "model": "GZCT 3500X-S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 99,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 40,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-3500x-s-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with aluminum dome",
+   "voice_coil_as_printed": "25 mm / 1″ CCA"
+  },
+  {
+   "model": "GZCT 3500XII-B",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 100,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 36,
+   "cutout_mm": 72,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-3500xii-b/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with aluminum dome",
+   "voice_coil_as_printed": "25 mm / 1″ CCA"
+  },
+  {
+   "model": "GZCT 3500XII-S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 100,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    3000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 36,
+   "cutout_mm": 72,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-3500xii-s/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with aluminum dome",
+   "voice_coil_as_printed": "25 mm / 1″ CCA"
+  },
+  {
+   "model": "GZCT 4000X",
+   "type": "tweeter",
+   "size_in": 1.75,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 140,
+   "sensitivity_db": 103,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2500,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 87,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-4000x-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with aluminum dome",
+   "voice_coil_as_printed": "44.5 mm / 3.9″ CCA"
+  },
+  {
+   "model": "GZCT 5000SPL",
+   "type": "tweeter",
+   "size_in": 1.75,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 180,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    1500,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 142,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-5000spl-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with titanium dome",
+   "voice_coil_as_printed": "44.5 mm / 3.9″ CCA"
+  },
+  {
+   "model": "GZCT 5000SPL-B",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 180,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 142,
+   "cutout_mm": [
+    165,
+    130
+   ],
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-5000spl-b-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with titanium dome",
+   "voice_coil_as_printed": "44.5 mm / 3.9″ CCA"
+  },
+  {
+   "model": "GZCT 500IV-B",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 100,
+   "sensitivity_db": 102,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    4000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 37,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzct-500iv-b-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Compression tweeter with aluminum dome",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZHT 25S",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2200,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 22,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzht-25s-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Silk dome tweeter and coupled chamber"
+  },
+  {
+   "model": "GZNT 28SQ",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 140,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 1350,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 29,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gznt-28sq/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High-Performance Tweeter"
+  },
+  {
+   "model": "GZPT 28SQ",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    30000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 770,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 35,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpt-28sq-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High-End Tweeter"
+  },
+  {
+   "model": "GZPT 28SX Chrome Edition",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    30000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 750,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 31,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzpt-28sx-chrome-edition-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "High end tweeter – Chrome Edition"
+  },
+  {
+   "model": "GZRT 25SQ",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 110,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2500,
+    24000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 1550,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 16,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzrt-25sq-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Silk dome tweeter",
+   "voice_coil_as_printed": "25 mm / 1″"
+  },
+  {
+   "model": "GZTT 20S",
+   "type": "tweeter",
+   "size_in": 0.75,
+   "size_label": "19 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 90.5,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gztt-20s-2/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Silk dome tweeter"
+  },
+  {
+   "model": "GZUT 28SQX",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 130,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2500,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 1300,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 18,
+   "cutout_mm": 48,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ground-zero-audio.com/en/gzut-28sqx/",
+     "doc": "product page, specification table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Efficiency printed without a drive reference; basis unknown.",
+   "maker_description": "Silk dome tweeter",
+   "voice_coil_as_printed": "28 mm / 1.1″"
+  }
+ ],
+ "no_specs_published": []
+}

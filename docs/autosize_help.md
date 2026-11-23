@@ -1,0 +1,24 @@
+# Best size, Keep the volume, locks, several drivers, passive radiators (A11_AUTOSIZE, R32, 2026-11-23)
+
+Code: `app/src/engine/autosize.ts` (sizes), `app/src/engine/passive.ts` + `app/src/engine/model.ts` (passive radiator branch), UI in `app/src/ui/main.ts` (Design new). Tests: `app/tests/autosize.test.ts`, `app/tests/passive.test.ts`. Dry run: `scripts/ui_dryrun_autosize.mjs`.
+
+## Volume the box must hold
+Gross inside volume needed = net target (alignment: Qtc, QB3/SBB4, or "My own volume", which is a total and scales with the number of drivers when the count changes) + driver displacement x number of drivers + passive radiator displacement x count + braces + port (air and boards, laid out by `portfit.ts`). For a slot port the port width follows the inside width, so the requirement depends on the box; the solvers iterate.
+
+## Best size
+- Target inside ratio depth : height : width = 1 : 1.28 : 1.54 (wedge: average inside depth). Source: L.W. Sepmeyer, "Computed Frequency and Angular Distribution of the Normal Modes of Vibration in Rectangular Rooms", JASA 37(3), 413-423, 1965, ratio B, inside Bolt's favourable range (R.H. Bolt, "Note on Normal Frequency Statistics for Rectangular Rooms", JASA 18(1), 130-133, 1946), as tabulated in F.A. Everest and K.C. Pohlmann, Master Handbook of Acoustics, 5th ed., Table 13-5, p. 247 (references/Master Handbook of Acoustics - Fifth Edition.pdf, PDF page 266). Using a room ratio for a box is a rule of thumb (no two inside sizes alike, so standing waves do not pile up). The side assignment (depth smallest, width largest) and a small preference for boxes wider than tall are our choices for car boxes.
+- The Loudspeaker Design Cookbook PDF in references/ is a scan without a text layer, so it could not be searched or cited here.
+- Front baffle (our rule): frames 20 mm apart; each cut-out at least panel thickness + 20 mm from the outside edge (20 mm clear of the inside wall); frames at least 5 mm from the edge. Grid layouts from one row to one column are tried; the one with the best proportions wins. A slot port at the bottom reserves its height + one board.
+- Magnet: inside depth at least mounting depth + 10 mm at the height of the driver centre + a quarter of its cut-out (on a wedge the sloped back is closest there). Missing mounting depth = estimate (half the estimated frame diameter), stated in the Result.
+- Sides below their minimum stop there, one at a time (the furthest below first); the other free sides take up the volume. If the front alone needs a bigger box than the volume, the Result says so.
+- Width and height in whole mm, the last free side solved to 0.1 mm. A wedge's top depth is cut to a whole mm (volume effect under about 0.03 L).
+
+## Keep the volume and locks
+Ticked (default): editing W, H, D, the panel thickness or the wedge top % scales the other unlocked sides by one common factor to hold the gross volume; a change of what the box needs (driver, count, target, braces, port, passive radiators) does the same. Locked sides never change by themselves. No free side left after a size edit: the edit is refused with "X and Y are locked: unlock one so the volume can be kept". Unticked: only the edited side changes; the port is cut for the tuning in the volume the box really holds and every result follows. Designs saved before A11 (maxW/H/D = space available, depth solved) open with the depth the app showed (in memory; saved with the next change), never resized on the first render; the Volume check line shows any difference.
+
+## Passive radiators
+Small, "Passive-Radiator Loudspeaker Systems" Parts 1-2, JAES 22(8):592-601 and 22(9), 1974 (research_c §5 [S4]). Branch from the box to the outside: Map = (Mmp + added mass)/Sp², Cap = Cmp·Sp², Rap = Rmp/Sp²; m passive radiators shared by n drivers: m/n per driver share. From the circuit: fp = 1/(2π√(Map·Cap)) (notch), fb = fp·√(1 + Vap/Vb). Design: box and fb from the vented alignment (QB3/SBB4 or own volume and tuning), added mass solved for fb. Leakage QL 7 as for ported boxes. Check: passive radiators' Sd x Xmax x count at least 2 x the drivers' (Small 1974 Part 1 abstract, as recorded in research_c §5; the AES page returned 403 on 2026-11-23, not re-read). Tests: a very stiff PR equals the sealed box, a very compliant PR equals the vented box with the same air mass (both within 0.05 dB), impedance minimum at the computed fb, notch at fp.
+- Library check: the four library entries mentioning "passive" are Ural subwoofers whose maker URL path is ".../passive-sub/..." (unpowered subwoofers), not passive radiators. No passive radiator data is bundled; add them on the Drivers tab (Kind: passive radiator) from their spec sheets.
+
+## Limits
+Passive radiators go on the front baffle only. The Analyse/Fix tab models sealed and ported boxes only (a passive-radiator design stays in the design settings). Free-form, bandpass and isobaric designs are unchanged and do not use Best size.

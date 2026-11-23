@@ -1,0 +1,68 @@
+{
+ "brand": "Audiofrog",
+ "country": "USA",
+ "brand_url": "https://www.audiofrog.com",
+ "terms_note": "R4 2026-11-23: robots.txt open (Yoast); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "fullrange",
+ "drivers": [
+  {
+   "model": "Audiofrog GS25",
+   "type": "fullrange",
+   "size_in": 2.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 150,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 180.5,
+    "re_ohm": 2.29,
+    "qms": 7.07,
+    "qes": 0.73,
+    "qts": 0.66,
+    "vas_l": 0.181,
+    "sd_cm2": 23,
+    "xmax_mm": 4,
+    "mms_g": 3.21,
+    "bl_tm": 3.38,
+    "le_mh": 0.06,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 200,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 200 Hz, ≥ 12 dB/oct; LP -"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs25-2-5-inch-65mm-premium-grade-full-range-automotive-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '4mm (5/32”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.05 liters (0.0035 ft³)"
+  }
+ ],
+ "no_specs_published": []
+}

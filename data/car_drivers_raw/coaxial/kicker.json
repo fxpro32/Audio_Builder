@@ -1,0 +1,1839 @@
+{
+ "brand": "KICKER (Stillwater Designs)",
+ "country": "USA",
+ "brand_url": "https://www.kicker.com",
+ "terms_note": "R4 2026-11-23: robots.txt Allow / (only /cart/ and one script disallowed); product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "KICKER KS Series 5.25\" Coax",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": null,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    21000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/47KSC50",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-75 W RMS; upper bound entered as rms_w. Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "¾, 20",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 2.75\" Mid (51KSC2704)",
+   "type": "coaxial",
+   "size_in": 2.75,
+   "size_label": "70 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": null,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    300,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 32,
+   "cutout_mm": 61,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC2704",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-50 W RMS; upper bound entered as rms_w.",
+   "cone_material": "UV-treated cloth"
+  },
+  {
+   "model": "KICKER KS Series 2.75\" Mid/Tweet Single (51KSC2704C)",
+   "type": "coaxial",
+   "size_in": 2.75,
+   "size_label": "70 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": null,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    300,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 32,
+   "cutout_mm": 61,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC2704C-single",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-50 W RMS; upper bound entered as rms_w.",
+   "cone_material": "UV-treated cloth"
+  },
+  {
+   "model": "KICKER KS Series 3.5\" Coax (51KSC3504)",
+   "type": "coaxial",
+   "size_in": 3.5,
+   "size_label": "89 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": null,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41.5,
+   "cutout_mm": 78,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC3504",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-50 W RMS; upper bound entered as rms_w. Bottom-mount depth 49 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "½, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 4\" Coax (51KSC404)",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": null,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 94,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC404",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-75 W RMS; upper bound entered as rms_w. Bottom-mount depth 51 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "½, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 4x10\" Coax (51KSC41004)",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x10",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": null,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 61,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC41004",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-75 W RMS; upper bound entered as rms_w. Bottom-mount depth 71 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "½, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 4x6\" Coax (51KSC4604)",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": null,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 44,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC4604",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-75 W RMS; upper bound entered as rms_w. Bottom-mount depth 51 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "½, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 5.25\" Coax (51KSC504)",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": null,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    21000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC504",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-75 W RMS; upper bound entered as rms_w. Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "¾, 20",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 6.5\" Coax (51KSC6504)",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "160 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    43,
+    21000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 123,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC6504",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-100 W RMS; upper bound entered as rms_w. Bottom-mount depth 54 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "¾, 20",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 6.75\" Coax (51KSC6704)",
+   "type": "coaxial",
+   "size_in": 6.75,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    21000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 141,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC6704",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-100 W RMS; upper bound entered as rms_w. Bottom-mount depth 50 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "¾, 20",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 6x8\" Coax (51KSC6804)",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x8",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": null,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    21000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC6804",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-75 W RMS; upper bound entered as rms_w. Bottom-mount depth 67 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "¾, 20",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 6x9\" Coax (51KSC6904)",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    21000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 75,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC6904",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-150 W RMS; upper bound entered as rms_w. Bottom-mount depth 81 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1, 25",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 6x9\" 3-Way Coaxial (51KSC69304)",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    21000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 75,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSC69304",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-150 W RMS; upper bound entered as rms_w. Bottom-mount depth 81 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "3/4, 20",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER 2019 3.5\" CS Coax",
+   "type": "coaxial",
+   "size_in": 3.5,
+   "size_label": "89 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 90,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.2,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 42,
+   "cutout_mm": 78,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC35-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 48 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide]"
+  },
+  {
+   "model": "KICKER 2019 4\" CS Coax",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 150,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.5,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 95,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC4-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2023 4x10\" CS Coax",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x10",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 225,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.3,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 80,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC410-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 50 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2 [13]",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2019 4x6\" CS Coax",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 150,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.3,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC46-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 50 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2 [13]",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2019 5.25\" CS Coax",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 225,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC5-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2019 6.5\" CS Coax",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "160 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.3,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": 123,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC65-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2019 6.75\" CS Coax",
+   "type": "coaxial",
+   "size_in": 6.75,
+   "size_label": "165 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.3,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 47,
+   "cutout_mm": 140,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC67-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 51 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2019 6x8\" CS Coax",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x8",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 225,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.5,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC68-Coaxial-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 65 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2019 6x9\" 3-Way CS Coax",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 450,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    20000
+   ],
+   "magnet": "electric crystal motor",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.5,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSC693-3-Way-Speakers-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 93 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI [polyether imide"
+  },
+  {
+   "model": "KICKER 2016 DS Series 3.5\" Coax",
+   "type": "coaxial",
+   "size_in": 3.5,
+   "size_label": "89 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 20,
+   "peak_w": 80,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41,
+   "cutout_mm": 78,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-35",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 47 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 2016 DS Series 4\" Coax",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 120,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    60,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 95,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-4",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 2016 DS Series 4x6\" Coax",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": 120,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-46",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 50 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 2016 DS Series 5.25\" Coax",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 200,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-5",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 2016 DS Series 6.5\" Coax",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": "160 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": 123,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-65",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 52 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 2016 DS Series 6.75\" Coax",
+   "type": "coaxial",
+   "size_in": 6.75,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 240,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 47,
+   "cutout_mm": 140,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-675",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 51 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 2016 DS Series 6x8\" Coax",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x8",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 200,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-68",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 65 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 2016 DS Series 6x9\" Coax",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 360,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    20000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/ds-coaxial-speakers-693-3way",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 94 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1/2, 13",
+   "cone_material": "Polypropylene",
+   "tweeter_dome": "PEI (polyether imide)"
+  },
+  {
+   "model": "KICKER 6.75\" QS Coaxials",
+   "type": "coaxial",
+   "size_in": 6.75,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 141,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "18, 5.5k",
+     "Low Pass [dB], at Frequency [Hz]": "18, 5.5k"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/q-series-qs-coaxial-67-4ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Teteron®"
+  },
+  {
+   "model": "KICKER 6\" x 9\" QS Coaxials",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "18, 5.5k",
+     "Low Pass [dB], at Frequency [Hz]": "18, 5.5k"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/q-series-qs-coaxial-69-4ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Teteron®"
+  }
+ ],
+ "no_specs_published": []
+}

@@ -1,0 +1,616 @@
+{
+ "brand": "GLADEN (Gladen Europe GmbH)",
+ "country": "Germany",
+ "brand_url": "https://www.gladen.com",
+ "terms_note": "R4 2026-11-23: gladen.com series pages and gladen-audio.de data sheets read 3 s apart (robots.txt: Joomla default, gladen-audio.de has none). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "GLADEN BETA BT 25",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1530,
+    "re_ohm": 3.27,
+    "qms": 3.62,
+    "qes": 3.14,
+    "qts": 1.68,
+    "vas_l": null,
+    "sd_cm2": 6.6,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 20,
+   "cutout_mm": 40.6,
+   "frame_mm": 43.3,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen-audio.de/download/manuals/beta/GLADEN_BETA-BT-25_Datasheet_DE.pdf",
+     "doc": "maker product data sheet (PDF, German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's German product data sheet (decimal commas converted). Maker: T/S free air, small signal, run in."
+  },
+  {
+   "model": "GLADEN ENA 165.2 Tweeter",
+   "type": "tweeter",
+   "size_in": 0.8,
+   "size_label": "20 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": 3.53,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 45.8,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen-audio.de/download/manuals/ENA/GLADEN_ENA-165.2-Tweeter_Datasheet_DE.pdf",
+     "doc": "maker product data sheet (PDF, German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's German product data sheet (decimal commas converted)."
+  },
+  {
+   "model": "GLADEN G FIT 22",
+   "type": "tweeter",
+   "size_in": 0.87,
+   "size_label": "22 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 90.4,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 892,
+    "re_ohm": 3.64,
+    "qms": 3.51,
+    "qes": 2.42,
+    "qts": 1.43,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.022,
+    "spl_db_1w1m": 86.9,
+    "spl_db_2v83": 90.4
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": 36.8,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker recommendation (German, as printed): Hochpass ab 2,5 kHz, 12 dB/Okt."
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen-audio.de/download/Manuals/G-FIT/GLADEN_G-FIT-22_Datasheet_DE.pdf",
+     "doc": "maker product data sheet (PDF, German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's German product data sheet (decimal commas converted)."
+  },
+  {
+   "model": "GLADEN GAMMA GT 25 CR",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 80,
+   "sensitivity_db": 92.9,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 92.9
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen-audio.de/download/manuals/GAMMA/GLADEN_GAMMA-GT-25-CR_Datasheet_DE.pdf",
+     "doc": "maker product data sheet (PDF, German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's German product data sheet (decimal commas converted).",
+   "tweeter_outer_mm": 39.5
+  },
+  {
+   "model": "GLADEN GAMMA GT 25",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 80,
+   "sensitivity_db": 91.4,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 1075,
+    "re_ohm": 3.3,
+    "qms": 1.89,
+    "qes": 2,
+    "qts": 0.97,
+    "vas_l": null,
+    "sd_cm2": 6.6,
+    "xmax_mm": null,
+    "mms_g": 0.2,
+    "bl_tm": null,
+    "le_mh": 0.007,
+    "spl_db_1w1m": 87.6,
+    "spl_db_2v83": 91.4
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 44,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3500.0,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker recommendation (German, as printed): Hochpass ab 3,5 kHz, 12 dB/Okt."
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen-audio.de/download/manuals/GAMMA/GLADEN_GAMMA-GT-25_Datasheet_DE.pdf",
+     "doc": "maker product data sheet (PDF, German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's German product data sheet (decimal commas converted).",
+   "cone_material": "Carbon-Fiber-Graphene",
+   "tweeter_outer_mm": 39.5
+  },
+  {
+   "model": "GLADEN SIGMA ST 22",
+   "type": "tweeter",
+   "size_in": 0.87,
+   "size_label": "22 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 89.4,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 668,
+    "re_ohm": 3.61,
+    "qms": 1.26,
+    "qes": 1.59,
+    "qts": 0.7,
+    "vas_l": null,
+    "sd_cm2": 3.8,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": 0.026,
+    "spl_db_1w1m": 85.9,
+    "spl_db_2v83": 89.4
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 44,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 2500.0,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker recommendation (German, as printed): Hochpass ab 2,5 kHz, 12 dB/Okt."
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen-audio.de/download/manuals/SIGMA/GLADEN_SIGMA-ST-22_Datasheet_DE.pdf",
+     "doc": "maker product data sheet (PDF, German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's German product data sheet (decimal commas converted).",
+   "tweeter_outer_mm": 39.5
+  },
+  {
+   "model": "GLADEN ZETA ZT 30",
+   "type": "tweeter",
+   "size_in": 1.2,
+   "size_label": "30 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": 100,
+   "sensitivity_db": 93.5,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 639,
+    "re_ohm": 3.45,
+    "qms": 2.25,
+    "qes": 2.92,
+    "qts": 1.27,
+    "vas_l": null,
+    "sd_cm2": 11.5,
+    "xmax_mm": null,
+    "mms_g": 0.42,
+    "bl_tm": null,
+    "le_mh": 0.01,
+    "spl_db_1w1m": 89.8,
+    "spl_db_2v83": 93.5
+   },
+   "mounting_depth_mm": 22.5,
+   "cutout_mm": 56,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 2000,
+    "lp_hz": null,
+    "slope_db_oct": 24,
+    "note": "maker recommendation (German, as printed): Hochpass 2,0 kHz, Linkwitz-Riley 24 dB/Okt. Bei hohen Pegeln Hochpass 3,5 kHz."
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen-audio.de/download/manuals/ZETA/GLADEN_ZETA-ZT-30_Datasheet_DE.pdf",
+     "doc": "maker product data sheet (PDF, German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the maker's German product data sheet (decimal commas converted).",
+   "cone_material": "Seide"
+  },
+  {
+   "model": "GLADEN AEROSPACE 20",
+   "type": "tweeter",
+   "size_in": 0.8,
+   "size_label": "20 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 92.5,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 1000,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 92.5
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "slope_db_oct": 12,
+    "note": "maker 'Trennfrequenz' as printed: > 3000 Hz 12 dB/Oct > 2000 Hz 18 dB/Oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-aerospace-lautsprecher/gladen-aerospace-20",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model."
+  },
+  {
+   "model": "GLADEN AEROSPACE 28",
+   "type": "tweeter",
+   "size_in": 1.1,
+   "size_label": "28 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 720,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 2200,
+    "slope_db_oct": 12,
+    "note": "maker 'Trennfrequenz' as printed: > 2200 Hz 12 dB/Oct > 1500 Hz 18 dB/Oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-aerospace-lautsprecher/gladen-aerospace-28",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model."
+  },
+  {
+   "model": "GLADEN AEROSPACE 60 AMT",
+   "type": "tweeter",
+   "size_in": 2.36,
+   "size_label": "60 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 12,
+   "peak_w": 50,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    2500,
+    32000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 2400,
+    "re_ohm": 4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3500,
+    "slope_db_oct": 12,
+    "note": "maker 'Trennfrequenz' as printed: > 3500 Hz 12 dB/Okt."
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-aerospace-lautsprecher/gladen-aerospace-60-amt",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model. Power printed as '12 / 50 Watt' (larger value taken as max, smaller as RMS)."
+  },
+  {
+   "model": "GLADEN PRO 25",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 720,
+    "re_ohm": 3.4,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 3000,
+    "slope_db_oct": 12,
+    "note": "maker 'Trennfrequenz' as printed: > 3000 Hz 12 dB/Oct > 2300 Hz 18 dB/Oct > 1600 Hz 24 dB/Oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/de/gladen/gladen-lautsprecher/gladen-pro-lautsprecher/gladen-pro-25",
+     "doc": "product page, Technische Daten",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Values from the gladen.com product page 'Technische Daten' block (decimal commas converted); no data sheet PDF found for this model."
+  }
+ ],
+ "no_specs_published": []
+}

@@ -1,0 +1,191 @@
+{
+ "brand": "Audiofrog",
+ "country": "USA",
+ "brand_url": "https://www.audiofrog.com",
+ "terms_note": "R4 2026-11-23: robots.txt open (Yoast); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "Audiofrog GB25",
+   "type": "midrange",
+   "size_in": 2.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    150,
+    16000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 170,
+    "re_ohm": 2.3,
+    "qms": 4.8,
+    "qes": 0.75,
+    "qts": 0.65,
+    "vas_l": 0.26,
+    "sd_cm2": 26.4,
+    "xmax_mm": 4,
+    "mms_g": 3.42,
+    "bl_tm": 3.4,
+    "le_mh": 0.06,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 200,
+    "lp_hz": 12000,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 200 Hz, ≥ 12 dB/oct; LP ≤ 12 kHz, ≥ 12 dB/oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "discontinued (maker menu)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gb25-2-12-63-mm-audiophile-grade-automotive-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '4 mm (3/16”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.06 liters (0.002ft³)"
+  },
+  {
+   "model": "Audiofrog GB40",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    80,
+    12000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 90,
+    "re_ohm": 3,
+    "qms": 5,
+    "qes": 0.62,
+    "qts": 0.55,
+    "vas_l": 2.89,
+    "sd_cm2": 59.4,
+    "xmax_mm": 4.5,
+    "mms_g": 5.45,
+    "bl_tm": 3.9,
+    "le_mh": 0.06,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 87
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 110,
+    "lp_hz": 6000,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 110 Hz, ≥ 12 dB/oct; LP ≤ 6 kHz, ≥ 12 dB/oct"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gb40-4-100-mm-audiophile-grade-automotive-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '4.5 mm (3/16”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.106 liters (0.004ft³)"
+  },
+  {
+   "model": "Audiofrog GS40",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 70,
+   "peak_w": 200,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    90,
+    12000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 145.8,
+    "re_ohm": 2.33,
+    "qms": 5.74,
+    "qes": 0.995,
+    "qts": 0.82,
+    "vas_l": 1.022,
+    "sd_cm2": 59.4,
+    "xmax_mm": 3.2,
+    "mms_g": 4.19,
+    "bl_tm": 3.06,
+    "le_mh": 0.08,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": {
+    "hp_hz": 150,
+    "lp_hz": null,
+    "slope_db_oct": 12,
+    "note": "maker: HP ≥ 150 Hz, ≥ 12 dB/oct; LP -"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiofrog.com/gs40-4-120mm-premium-grade-automotive-midrange-loudspeaker/",
+     "doc": "product page, Technical Details",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sensitivity is 2.83 V / 1 m as printed. Xmax as printed: '3.2 mm (1/8”)'. Power rating is with the maker's recommended crossover.",
+   "basket_displacement_as_printed": "0.113 liters (0.004 ft³)"
+  }
+ ],
+ "no_specs_published": []
+}

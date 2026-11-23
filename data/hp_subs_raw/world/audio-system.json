@@ -1,0 +1,106 @@
+{
+  "brand": "Audio System",
+  "country": "Germany",
+  "brand_url": "https://www.audio-system.de/",
+  "terms_note": "Site menu links only Datenschutz (privacy), Impressum and Kontakt; no website terms of use found. Pages read one at a time 2026-11-21. Numbers only taken; manuals kept locally in references/raw/hp_subs/world/audio_system/ (not shipped). EU maker: database right risk only for copying a substantial part of a protected database; we take per-model facts from the maker's own manuals, cited.",
+  "drivers": [
+    {
+      "model": "H33 EVO",
+      "size_in": 33,
+      "coil": "DVC",
+      "ohms_per_coil": 1,
+      "coils": 2,
+      "rms_w": 5000,
+      "peak_w": 10000,
+      "final_loads_ohm": [0.5, 2],
+      "ts_basis": "unknown",
+      "params": { "fs_hz": 25.17, "re_ohm": 1, "qms": 4.6, "qes": 0.45, "qts": 0.41, "vas_l": 740, "sd_cm2": 402, "xmax_mm": 72, "mms_g": 1234, "bl_tm": 28, "le_mh": null, "spl_db_1w1m": null, "spl_db_2v83": 96.8 },
+      "mounting_depth_mm": 420,
+      "cutout_mm": 771,
+      "displacement_l": null,
+      "recommended_boxes": [],
+      "status": "current",
+      "sources": [
+        { "fields": ["*"], "url": "https://www.audio-system.de/wp-content/uploads/2021/09/MANUAL-H-33-EVO.pdf", "doc": "MANUAL-H-33-EVO.pdf (H-SERIES Anleitung / User Manual)", "page": 2, "read_date": "2026-11-21", "tier": 1 },
+        { "fields": ["model", "status", "rms_w", "peak_w"], "url": "https://www.audio-system.de/produkte/subwoofer/h-serie/", "doc": "H-SERIES product page", "page": null, "read_date": "2026-11-21", "tier": 1 }
+      ],
+      "notes": "Sheet power: RMS 2x 2500 W, Music 2x 5000 W (rms_w and peak_w are the two coils summed). Product page also says 20000 W peak at 50 Hz. Re given as '2x 1' ohm (per coil). Outer diameter 840 mm. DATA PROBLEM: Sd 402 cm2 as printed is not consistent with Vas 740 L, Mms 1234 g and Fs 25.17 Hz; those imply Sd about 4010 cm2 (calculated), so the printed Sd looks a factor of 10 low. Weight and total depth printed as '???' on the sheet. Sensitivity at 2.83 V/1 m."
+    },
+    {
+      "model": "H15 EVO2",
+      "size_in": 15,
+      "coil": "DVC",
+      "ohms_per_coil": 1,
+      "coils": 2,
+      "rms_w": 4000,
+      "peak_w": 5000,
+      "final_loads_ohm": [0.5, 2],
+      "ts_basis": "unknown",
+      "params": { "fs_hz": 38.3, "re_ohm": 0.8, "qms": 3.52, "qes": 0.43, "qts": 0.38, "vas_l": 24.94, "sd_cm2": 744.64, "xmax_mm": 35, "mms_g": 544.19, "bl_tm": 11.04, "le_mh": null, "spl_db_1w1m": null, "spl_db_2v83": 87.0 },
+      "mounting_depth_mm": 267,
+      "cutout_mm": 350,
+      "displacement_l": null,
+      "recommended_boxes": [
+        { "type": "vented", "volume_l": 100, "tuning_hz": null, "source": "https://www.audio-system.de/wp-content/uploads/2026/08/manual-H15-EVO2-20260326.pdf p2 (port diameter 9 cm; tuning not printed)" }
+      ],
+      "status": "current",
+      "sources": [
+        { "fields": ["*"], "url": "https://www.audio-system.de/wp-content/uploads/2026/08/manual-H15-EVO2-20260326.pdf", "doc": "manual-H15-EVO2-20260326.pdf (H-SERIES Anleitung / User Manual)", "page": 2, "read_date": "2026-11-21", "tier": 1 },
+        { "fields": ["mounting_depth_mm", "cutout_mm", "status"], "url": "https://www.audio-system.de/produkte/subwoofer/h-serie/", "doc": "H-SERIES product page", "page": null, "read_date": "2026-11-21", "tier": 1 }
+      ],
+      "notes": "Sheet power: RMS 2x 2000 W, Musik 2x 2500 W (summed here). Product page adds 20000 W peak at 60 Hz. Re printed '2x 0.8' ohm (per coil), impedance 2x 1 ohm. Voice coil 76.2 mm. Calculated: Qes from Bl, Mms, Fs matches Re 0.4 ohm, i.e. the T/S look like coils in parallel (sheet does not say). Vas from Mms/Fs/Sd calculates to 24.96 L, matches. Box-recommendation figures in the PDF are laid out as a drawing; the vented volume 100 L and port diameter 9 cm are clear, the other numbers (20, 30, 55, 70) could not be assigned with certainty and are left out."
+    },
+    {
+      "model": "H12 EVO",
+      "size_in": 12,
+      "coil": "DVC",
+      "ohms_per_coil": 2,
+      "coils": 2,
+      "rms_w": 2200,
+      "peak_w": 2600,
+      "final_loads_ohm": [1, 4],
+      "ts_basis": "unknown",
+      "params": { "fs_hz": 36, "re_ohm": 1.9, "qms": 4.422, "qes": 0.498, "qts": 0.447, "vas_l": 24.334, "sd_cm2": 534.252, "xmax_mm": 22, "mms_g": 234.121, "bl_tm": 22.402, "le_mh": null, "spl_db_1w1m": null, "spl_db_2v83": 88.7 },
+      "mounting_depth_mm": 215,
+      "cutout_mm": 290,
+      "displacement_l": null,
+      "recommended_boxes": [
+        { "type": "vented", "volume_l": 48, "tuning_hz": 38, "source": "BDA-H12EVO.pdf p2 (port d 90 mm, L 200 mm)" },
+        { "type": "bandpass", "volume_l": null, "tuning_hz": 50, "source": "BDA-H12EVO.pdf p2 (V1 19 L, V2 32 L, Fm 50 Hz, port d 90 mm)" },
+        { "type": "sealed", "volume_l": 41, "tuning_hz": null, "source": "BDA-H12EVO.pdf p2" }
+      ],
+      "status": "current",
+      "sources": [
+        { "fields": ["*"], "url": "https://www.audio-system.de/wp-content/uploads/2020/02/BDA-H12EVO.pdf", "doc": "BDA-H12EVO.pdf (Bedienungsanleitung)", "page": 2, "read_date": "2026-11-21", "tier": 1 }
+      ],
+      "notes": "Sheet power: RMS 2x 1100 W, Music 2x 1300 W (summed here). Re printed '2 x 1,9' ohm (per coil). Total installation depth 255 mm; 215 mm is 'Einbautiefe (e)'. Sheet says all box calculations include the woofer and an aeroport. Calculated: Qes from Bl/Mms/Fs implies Re about 4 ohm, i.e. T/S look like coils in series (sheet does not say)."
+    },
+    {
+      "model": "H10 EVO",
+      "size_in": 10,
+      "coil": "DVC",
+      "ohms_per_coil": 2,
+      "coils": 2,
+      "rms_w": 2000,
+      "peak_w": 2400,
+      "final_loads_ohm": [1, 4],
+      "ts_basis": "unknown",
+      "params": { "fs_hz": 38, "re_ohm": 1.9, "qms": 3.932, "qes": 0.405, "qts": 0.368, "vas_l": 13.764, "sd_cm2": 366.44, "xmax_mm": 22, "mms_g": 203.42, "bl_tm": 22.886, "le_mh": null, "spl_db_1w1m": null, "spl_db_2v83": 86.7 },
+      "mounting_depth_mm": 185,
+      "cutout_mm": 239,
+      "displacement_l": null,
+      "recommended_boxes": [
+        { "type": "vented", "volume_l": 40, "tuning_hz": 42, "source": "BDA-H10EVO.pdf p2 (port d 90 mm, L 200 mm)" },
+        { "type": "bandpass", "volume_l": null, "tuning_hz": 55, "source": "BDA-H10EVO.pdf p2 (V1 12 L, V2 24 L, Fm 55 Hz, port d 90 mm, L 190 mm)" },
+        { "type": "sealed", "volume_l": 25, "tuning_hz": null, "source": "BDA-H10EVO.pdf p2" }
+      ],
+      "status": "current",
+      "sources": [
+        { "fields": ["*"], "url": "https://www.audio-system.de/wp-content/uploads/2020/02/BDA-H10EVO.pdf", "doc": "BDA-H10EVO.pdf (Bedienungsanleitung)", "page": 2, "read_date": "2026-11-21", "tier": 1 }
+      ],
+      "notes": "Sheet power: RMS 2x 1000 W, Music 2x 1200 W (summed here; exactly at the 2000 W threshold). Re printed '2 x 1,9' ohm (per coil). Total installation depth 197 mm; 185 mm is 'Einbautiefe (e)'. Calculated: Qes from Bl/Mms/Fs implies Re about 4.4 ohm, i.e. T/S look like coils in series (sheet does not say)."
+    }
+  ],
+  "no_ts_published": [],
+  "excluded_notes": "X12 EVO BR-2 and X12 EVO BP-2 (2x 1500/1000 W, 2x 1 ohm) are loaded enclosures, not raw drivers; not recorded. All other Audio System subwoofer series (HX, Carbon, CO, M, Radion, SW, US, X-ion, Subframe) are below 2000 W RMS per https://www.audio-system.de/produkte/subwoofer/ series pages read 2026-11-21."
+}

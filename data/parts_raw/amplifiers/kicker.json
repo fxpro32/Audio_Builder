@@ -1,0 +1,3255 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "Kicker",
+ "maker_site": "https://www.kicker.com",
+ "method": "maker product pages (spec block), 3 s apart",
+ "terms_note": "Numbers only with URL. Kicker states RMS at 14.4 V, <= 1% THD+N and a CEA-2006B line on most pages.",
+ "units": {
+  "w_per_ch": "W RMS per channel at voltage_v",
+  "dims_mm": "mm"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 41,
+ "records": [
+  {
+   "id": "kicker-49WXA10004",
+   "model": "WXA1000.4",
+   "title": "WXA1000.4 Warhorse Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 450,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 900,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/files/manuals/49WXA10004.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/49WXA10004",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49WXA10004.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 200,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 200 A",
+   "kicker_wiring_kits": "46PKD1, 46PWB050, 46PWG050"
+  },
+  {
+   "id": "kicker-49WXA36001",
+   "model": "WXA3600.1",
+   "title": "WXA3600.1 Warhorse Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/files/manuals/49WXA36001.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/49WXA36001",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/49WXA36001.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 400,
+   "recommended_fuse_note": "maker manual: external fuse 2 x 200 A",
+   "kicker_wiring_kits": "46PWB050, 46PWG050"
+  },
+  {
+   "id": "kicker-51KPX3004",
+   "model": "KPX300.4",
+   "title": "KPX 300.4 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 45,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "8",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     216.5,
+     84.0,
+     42.7
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51KPX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51KPX3004",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51KPX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 40,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 40 A",
+   "kicker_wiring_kits": "KMPK8, PK8, CK8"
+  },
+  {
+   "id": "kicker-51KPX5001",
+   "model": "KPX500.1",
+   "title": "KPX 500.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "8",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     217.0,
+     92.0,
+     42.7
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51KPX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51KPX5001",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51KPX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 60,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 60 A",
+   "kicker_wiring_kits": "KMPK8, PK8, CK8"
+  },
+  {
+   "id": "kicker-51LX12005",
+   "model": "LX1200.5",
+   "title": "LX1200.5 Mono Amplifier | KICKER",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 175,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 1500,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     320.0,
+     214.0,
+     60.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51LX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51LX12005",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51LX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 100,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 100 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-51LX12501",
+   "model": "LX1250.1",
+   "title": "LX1250.1 Mono Amplifier | KICKER",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1250,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 1600,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     214.0,
+     60.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51LX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51LX12501",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51LX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 100,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 100 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-51LX13007",
+   "model": "LX1300.7",
+   "title": "LX1300.7 Mono Amplifier | KICKER",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 7,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 65,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 65,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 130,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 1500,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     320.0,
+     214.0,
+     60.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51LX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51LX13007",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51LX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 150,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 150 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-51LX16501",
+   "model": "LX1650.1",
+   "title": "LX1650.1 Mono Amplifier | KICKER",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1650,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 2200,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     214.0,
+     60.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51LX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51LX16501",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51LX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 150,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 150 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-51LX30001",
+   "model": "LX3000.1",
+   "title": "LX3000.1 Mono Amplifier | KICKER",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1100,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 3800,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     320.0,
+     214.0,
+     60.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51LX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51LX30001",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51LX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 200,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 200 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-51LX5004",
+   "model": "LX500.4",
+   "title": "LX500.4 Mono Amplifier | KICKER",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 225,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 450,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 1100,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     214.0,
+     60.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51LX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51LX5004",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51LX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 80,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 80 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-51LX8501",
+   "model": "LX850.1",
+   "title": "LX850.1 Mono Amplifier | KICKER",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 850,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 1100,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     214.0,
+     60.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/51LX.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/51LX8501",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/51LX.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 80,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 80 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-53vxa10001",
+   "model": "VXA1000.1",
+   "title": "VXA1000.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     242.0,
+     150.0,
+     56.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/53vxa10001",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-53vxa3004",
+   "model": "VXA300.4",
+   "title": "VXA300.4 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     223.0,
+     150.0,
+     56.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/53vxa3004",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-53vxa3501",
+   "model": "VXA350.1",
+   "title": "VXA350.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     209.0,
+     150.0,
+     56.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/53vxa3501",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-53vxa6005",
+   "model": "VXA600.5",
+   "title": "VXA600.5 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     283.0,
+     150.0,
+     56.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/53vxa6005",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-53vxa7001",
+   "model": "VXA700.1",
+   "title": "VXA700.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     227.0,
+     150.0,
+     56.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/53vxa7001",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-CXA12001-1200-Watt-Mono-Class-D-Subwoofer-Amp",
+   "model": "CXA1200.1",
+   "title": "2019 CX1200.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA12001-1200-Watt-Mono-Class-D-Subwoofer-Amp",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 100,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 100 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-CXA15001-1500-Watt-Mono-Class-D-Subwoofer-Amp",
+   "model": "CXA1500.1",
+   "title": "2027 CX1500.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 1650,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     290.0,
+     174.0,
+     56.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/53CXAMono.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA15001-1500-Watt-Mono-Class-D-Subwoofer-Amp",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/53CXAMono.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "model_basis": "maker page (model code normalised to the maker's NNN.N form)",
+   "recommended_fuse_a": 150,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 150 A",
+   "kicker_wiring_kits": "PKD1",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "kicker-CXA18001-1800-Watt-Mono-Class-D-Subwoofer-Amp",
+   "model": "CXA1800.1",
+   "title": "2019 CX1800.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 900,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 1800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 1800,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA18001-1800-Watt-Mono-Class-D-Subwoofer-Amp",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 150,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 150 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-CXA3604-4x90-Watt-4-Channel-Full-Range-Amp",
+   "model": "CXA360.4",
+   "title": "2019 CX360.4 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 65,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "8",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_4_Channel_Amps.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA3604-4x90-Watt-4-Channel-Full-Range-Amp",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_4_Channel_Amps.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 40,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 40 A",
+   "kicker_wiring_kits": "PK8, CK8"
+  },
+  {
+   "id": "kicker-CXA4001-400-Watt-Mono-Class-D-Subwoofer-Amp",
+   "model": "CXA400.1",
+   "title": "2019 CX400.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "8",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA4001-400-Watt-Mono-Class-D-Subwoofer-Amp",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 40,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 40 A",
+   "kicker_wiring_kits": "PK8, CK8"
+  },
+  {
+   "id": "kicker-CXA6605-4x90-Watt-4-Channel-Full-Range-Amp-with-300-watt-Class-D-Sub-Channel",
+   "model": "CXA660.5",
+   "title": "2019 CX660.5 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 65,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_5_Channel_Amps.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA6605-4x90-Watt-4-Channel-Full-Range-Amp-with-300-watt-Class-D-Sub-Channel",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_5_Channel_Amps.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 80,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 80 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-CXA8001-800-Watt-Mono-Class-D-Subwoofer-Amp",
+   "model": "CXA800.1",
+   "title": "2019 CX800.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA8001-800-Watt-Mono-Class-D-Subwoofer-Amp",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/cx/2019_CXA_Mono_Amps.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 80,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 80 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-CXA9001-900-Watt-Mono-Class-D-Subwoofer-Amp",
+   "model": "CXA900.1",
+   "title": "2027 CX900.1 Amplifier | KICKER&reg;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 900,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": 1000,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     180.0,
+     174.0,
+     56.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/files/manuals/53CXAMono.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/CXA9001-900-Watt-Mono-Class-D-Subwoofer-Amp",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/files/manuals/53CXAMono.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "model_basis": "maker page (model code normalised to the maker's NNN.N form)",
+   "recommended_fuse_a": 100,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 100 A",
+   "kicker_wiring_kits": "PK4, CK4, PKD4",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "kicker-iq10001-1000-watt-mono-amplifier",
+   "model": "IQ1000.1",
+   "title": "KICKER | IQ1000.1 Amplifier;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     191.0,
+     52.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/iq/2015_IQ_QuickStart_RevC.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/iq10001-1000-watt-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-iq5001-500-watt-mono-amplifier",
+   "model": "IQ500.1",
+   "title": "KICKER | IQ500.1 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     191.0,
+     52.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/iq/2015_IQ_QuickStart_RevC.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/iq5001-500-watt-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-iq5002-2-channel-stereo-amplifier",
+   "model": "IQ500.2",
+   "title": "KICKER | IQ500.2 Amplifier;",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4,
+     "bridged_inferred": true
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     191.0,
+     52.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/iq/2015_IQ_QuickStart_RevC.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/iq5002-2-channel-stereo-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "inferred": [
+    "500 W x 1 at 4.0 ohm marked bridged (2-channel amp; power vs the per-channel rating)"
+   ]
+  },
+  {
+   "id": "kicker-iq5004-4-channel-amplifier",
+   "model": "IQ500.4",
+   "title": "KICKER | IQ500.4 Amplifier;",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 65,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     191.0,
+     52.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/iq/2015_IQ_QuickStart_RevC.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/iq5004-4-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-kxa12001-1200-watt-mono-amplifier",
+   "model": "KXA1200.1",
+   "title": "KICKER | KXA1200.1 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     244.0,
+     210.0,
+     55.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa12001-1200-watt-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 150,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 150 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-kxa12002-2-channel-stereo-amplifier",
+   "model": "KXA1200.2",
+   "title": "KICKER | KXA1200.2 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Stereo_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa12002-2-channel-stereo-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Stereo_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 150,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 150 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-kxa16001-1600-watt-mono-amplifier",
+   "model": "KXA1600.1",
+   "title": "KICKER | KXA1600.1 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa16001-1600-watt-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 150,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 150 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-kxa24001-2400-watt-mono-amplifier",
+   "model": "KXA2400.1",
+   "title": "KICKER | KXA2400.1 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2400,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "1/0",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     394.0,
+     null,
+     55.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa24001-2400-watt-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 200,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 200 A",
+   "kicker_wiring_kits": "PKD1"
+  },
+  {
+   "id": "kicker-kxa4001-400-watt-mono-amplifier",
+   "model": "KXA400.1",
+   "title": "KICKER | KXA400.1 Amplifier;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "8",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     204.0,
+     null,
+     55.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa4001-400-watt-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 60,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 60 A",
+   "kicker_wiring_kits": "PK8, CK8"
+  },
+  {
+   "id": "kicker-kxa4002-2-channel-stereo-amplifier",
+   "model": "KXA400.2",
+   "title": "KICKER | KX400.2 Amplifier;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "8",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Stereo_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa4002-2-channel-stereo-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Stereo_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "model_basis": "maker page (model code normalised to the maker's NNN.N form)",
+   "recommended_fuse_a": 60,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 60 A",
+   "kicker_wiring_kits": "PK8, CK8",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "kicker-kxa4004-4-channel-amplifier",
+   "model": "KXA400.4",
+   "title": "KICKER | KXA400.4 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Stereo_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa4004-4-channel-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Stereo_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 100,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 100 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-kxa8001-800-watt-mono-amplifier",
+   "model": "KXA800.1",
+   "title": "KICKER | KXA800.1 Amplifier;",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": null,
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa8001-800-watt-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_Mono_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 100,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 100 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-kxa8005-hybrid-5-channel-amplifier-with-400-watt-subwoofer-channel",
+   "model": "KXA800.5",
+   "title": "KICKER | KXA800.5 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "sub channel",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": "4",
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     324.0,
+     null,
+     55.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_5ch_Amps_Rev_H.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/kxa8005-hybrid-5-channel-amplifier-with-400-watt-subwoofer-channel",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    },
+    {
+     "fields": [
+      "recommended_fuse_a",
+      "power_wire_awg_maker",
+      "kicker_wiring_kits"
+     ],
+     "url": "https://www.kicker.com/app/manuals/amplifiers/kx/2017_KXA_5ch_Amps_Rev_H.pdf",
+     "read_date": "2026-11-23",
+     "tier": "maker",
+     "doc": "amplifier owner's manual, external fuse table"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": "",
+   "recommended_fuse_a": 100,
+   "recommended_fuse_note": "maker manual: external fuse 1 x 100 A",
+   "kicker_wiring_kits": "PK4, CK4"
+  },
+  {
+   "id": "kicker-pxa2001-200-watt-compact-powersports-mono-amplifier",
+   "model": "PXA200.1",
+   "title": "KICKER | PXA200.1 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 25,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 50,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 0.5,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 0.5,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     120.0,
+     87.0,
+     40.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/pxa/2015_PXA_Mono_Amplifiers_RevF.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/pxa2001-200-watt-compact-powersports-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-pxa2002-2-channel-compact-powersports-stereo-amplifier",
+   "model": "PXA200.2",
+   "title": "KICKER | PXA200.2 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 25,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 50,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 2,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     178.0,
+     87.0,
+     40.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/pxa/2015_PX_Stereo_Amplifier_RevD.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/pxa2002-2-channel-compact-powersports-stereo-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-pxa3004-4-channel-compact-powersports-amplifier",
+   "model": "PXA300.4",
+   "title": "KICKER | PXA300.4 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     197.0,
+     65.0,
+     40.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/pxa/2015_PX_4Chan_Amplifier_RevH.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/pxa3004-4-channel-compact-powersports-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "kicker-pxa5001-500-watt-compact-powersports-mono-amplifier",
+   "model": "PXA500.1",
+   "title": "KICKER | PXA500.1 Amplifier",
+   "status": "listed on maker site 2026-11-23",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "dynamic_power_w": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "power_wire_awg_maker": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "dims_mm": {
+    "mm": [
+     210.0,
+     87.0,
+     40.0
+    ],
+    "order": "L x W x H",
+    "from": "cm values on the page"
+   },
+   "manual_url": "https://www.kicker.com/app/manuals/amplifiers/pxa/2015_PXA_Mono_Amplifiers_RevF.pdf",
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "rated_voltage_v",
+      "cta2006",
+      "dims_mm",
+      "dynamic_power_w",
+      "class"
+     ],
+     "url": "https://www.kicker.com/pxa5001-500-watt-compact-powersports-mono-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kicker_amps.py",
+   "notes": ""
+  }
+ ],
+ "not_recorded": []
+}

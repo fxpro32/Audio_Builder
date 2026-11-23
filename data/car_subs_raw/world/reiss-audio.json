@@ -1,0 +1,333 @@
+{
+ "brand": "Reiss Audio",
+ "country": "Turkey",
+ "brand_url": "https://www.reissaudio.com.tr/",
+ "terms_note": "R2B 2026-11-23: built from the pages A6 saved through a non-VPN connection on 2026-11-22 (no new requests; the site does not answer the container). Numbers only. | hp_subs_raw terms note: reissaudio.com.tr blocks the container's VPN exit; read on 2026-11-22 through a non-VPN connection (direct route), plain curl.exe output to stdout only, nothing written on a non-VPN connection, at least 6 s between requests: home, subwoofer category (3 pages) and its RMS filter lists, 32 product pages, the 20-page catalogue PDF (19.1 MB). Numbers only. Local copies (audit only): references/raw/hp_subs/direct/reiss-audio/.",
+ "coverage": "every subwoofer product page A6 saved (32, all power levels); no T/S published, all listed incomplete",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/reiss-audio.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "RS-RANGE18",
+   "rms_w": 5000,
+   "url": "https://www.reissaudio.com.tr/product/rs-range18/",
+   "note": "Product page: RMS 5000 W, max 10000 W, impedance '1/2 Ohm', size 46 CM, sensitivity 88 dB, frequency response 25 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 5): RMS 5000 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-RANGE15",
+   "rms_w": 4000,
+   "url": "https://www.reissaudio.com.tr/product/rs-range15/",
+   "note": "Product page: RMS 4000 W, max 8000 W, impedance '1/2 Ohm', size 38 CM, sensitivity 90 dB, frequency response 35 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 5): RMS 4000 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-RANGE12",
+   "rms_w": 3500,
+   "url": "https://www.reissaudio.com.tr/product/rs-range12/",
+   "note": "Product page: RMS 3500 W, max 7000 W, impedance '2/1 Ohm', size 30 CM, sensitivity 88 dB, frequency response 40 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 5): RMS 3500 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-THUNDER15",
+   "rms_w": 4000,
+   "url": "https://www.reissaudio.com.tr/product/rs-thunder15/",
+   "note": "Product page: RMS 4000 W, max 8000 W, impedance '1/2 Ohm', size 38 CM, sensitivity 90 dB, frequency response 40 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 6): RMS 4000 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-THUNDER12",
+   "rms_w": 2500,
+   "url": "https://www.reissaudio.com.tr/product/rs-thunder12/",
+   "note": "Product page: RMS 2500 W, max 5000 W, impedance '2/4 Ohm', size 30 CM, sensitivity 88 dB, frequency response 40 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 6): RMS 2500 W, impedance 'D2/D4 Ω' (dual 2 ohm or dual 4 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-SKULL15",
+   "rms_w": 3000,
+   "url": "https://www.reissaudio.com.tr/product/rs-skull15/",
+   "note": "Product page: RMS 3000 W, max 6000 W, impedance '1/2 Ohm', size 38 CM, sensitivity 87 dB, frequency response 20 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 7): RMS 3000 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-SKULL12",
+   "rms_w": 2500,
+   "url": "https://www.reissaudio.com.tr/product/rs-skull12/",
+   "note": "Product page: RMS 2500 W, max 5000 W, impedance '1/2 Ohm', size 30 CM, sensitivity 87 dB, frequency response 22 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 7): RMS 2500 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-VQ15",
+   "rms_w": 3500,
+   "url": "https://www.reissaudio.com.tr/product/rs-vq15/",
+   "note": "Product page: RMS 3500 W, max 7000 W, impedance '1/2 Ohm', size 38 CM, sensitivity 85.4 dB, frequency response 25 Hz – 5 kHz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 8): RMS 3500 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-VQ12",
+   "rms_w": 3000,
+   "url": "https://www.reissaudio.com.tr/product/rs-vq12/",
+   "note": "Product page: RMS 3000 W, max 6000 W, impedance '1/2 Ohm', size 30 CM, sensitivity 83 dB, frequency response 30 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 8): RMS 3000 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-VL15",
+   "rms_w": 3000,
+   "url": "https://www.reissaudio.com.tr/product/rs-vl15/",
+   "note": "Product page: RMS 3000 W, max 6000 W, impedance '1/2 Ohm', size 38 CM, sensitivity 86 dB, frequency response 25 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 9): RMS 3000 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-VL12",
+   "rms_w": 2500,
+   "url": "https://www.reissaudio.com.tr/product/rs-vl12/",
+   "note": "Product page: RMS 2500 W, max 5000 W, impedance '1/2 Ohm', size 30 CM, sensitivity 85 dB, frequency response 30 Hz – 5 kHz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 9): RMS 2500 W, impedance 'D1/D2 Ω' (dual 1 ohm or dual 2 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-KJ15 V2",
+   "rms_w": 2000,
+   "url": "https://www.reissaudio.com.tr/product/rs-kj15-v2/",
+   "note": "Product page: RMS 2000 W, max 4000 W, impedance '2/4 Ohm', size 38 CM, sensitivity 89.5 dB, frequency response 32 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 11): RMS 2000 W, impedance 'D2/D4 Ω' (dual 2 ohm or dual 4 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-KJ15",
+   "rms_w": 2000,
+   "url": "https://www.reissaudio.com.tr/product/rs-kj15/",
+   "note": "Product page: RMS 2000 W, max 4000 W, impedance '2/4 Ohm', size 38 CM, sensitivity 89.5 dB, frequency response 32 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 11): RMS 2000 W, impedance 'D2/D4 Ω' (dual 2 ohm or dual 4 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-KJ12 V2",
+   "rms_w": null,
+   "url": "https://www.reissaudio.com.tr/product/rs-kj12-v2/",
+   "note": "Product page: RMS 1500 W, max 3000 W, impedance '2/4 Ohm', size 30 CM, sensitivity 85 dB, frequency response 30 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 11): RMS 2000 W, impedance 'D2/D4 Ω' (dual 2 ohm or dual 4 ohm versions). CONFLICT: page 1500 W RMS vs catalogue 2000 W RMS (both maker documents), so rms_w left null. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-KJ12",
+   "rms_w": null,
+   "url": "https://www.reissaudio.com.tr/product/rs-kj12/",
+   "note": "Product page: RMS 1500 W, max 3000 W, impedance '2/4 Ohm', size 30 CM, sensitivity 85 dB, frequency response 30 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 11): RMS 2000 W, impedance 'D2/D4 Ω' (dual 2 ohm or dual 4 ohm versions). CONFLICT: page 1500 W RMS vs catalogue 2000 W RMS (both maker documents), so rms_w left null. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-QX15",
+   "rms_w": 2200,
+   "url": "https://www.reissaudio.com.tr/product/rs-qx15/",
+   "note": "Product page: RMS 2200 W, max 4400 W, impedance '2/4 Ohm', size 38 CM, sensitivity 84 dB, frequency response 30 Hz – 500 Hz. Catalogue https://www.reissaudio.com.tr/wp-content/uploads/2026/07/Reissaudio-Online.pdf (pdf page 17): RMS 2200 W, impedance 'D2/D4 Ω' (dual 2 ohm or dual 4 ohm versions). No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-KX15",
+   "rms_w": 2000,
+   "url": "https://www.reissaudio.com.tr/product/rs-kx15/",
+   "note": "Product page: RMS 2000 W, max 4000 W, impedance '2/4 Ohm', size 38 CM, sensitivity 87.5 dB, frequency response 30 Hz – 500 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-KX12",
+   "rms_w": 2000,
+   "url": "https://www.reissaudio.com.tr/product/rs-kx12/",
+   "note": "Product page: RMS 2000 W, max 4000 W, impedance '2/4 Ohm', size 30 CM, sensitivity 84.5 dB, frequency response 32 Hz – 5 kHz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-ELITE15",
+   "rms_w": 2000,
+   "url": "https://www.reissaudio.com.tr/product/rs-elite15/",
+   "note": "Product page: RMS 2000 W, max 4000 W, impedance '2/4 Ohm', size 38 CM, sensitivity 90 dB, frequency response 40 Hz – 500 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-ELITE18",
+   "rms_w": 3000,
+   "url": "https://www.reissaudio.com.tr/product/rs-elite18/",
+   "note": "Product page: RMS 3000 W, max 6000 W, impedance '2/4 Ohm', size 46 CM, sensitivity 90 dB, frequency response 36 Hz – 500 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-RICH12",
+   "rms_w": 2500,
+   "url": "https://www.reissaudio.com.tr/product/rs-rich12/",
+   "note": "Product page: RMS 2500 W, max 5000 W, impedance '2/4 Ohm', size 30 CM, sensitivity 88 dB, frequency response 43 Hz – 500 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-RICH15",
+   "rms_w": 4000,
+   "url": "https://www.reissaudio.com.tr/product/rs-rich15/",
+   "note": "Product page: RMS 4000 W, max 8000 W, impedance '1/2 Ohm', size 38 CM, sensitivity 88 dB, frequency response 43 Hz – 500 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-RICH18",
+   "rms_w": 5000,
+   "url": "https://www.reissaudio.com.tr/product/rs-rich18/",
+   "note": "Product page: RMS 5000 W, max 10000 W, impedance '1/2 Ohm', size 46 CM, sensitivity 88 dB, frequency response 35 Hz – 500 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-SPL21",
+   "rms_w": 5000,
+   "url": "https://www.reissaudio.com.tr/product/rs-spl21/",
+   "note": "Product page: RMS 5000 W, max 10000 W, impedance '1+1 Ohm', size 21″, sensitivity 92 dB, frequency response 30 Hz – 400 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-SPL33",
+   "rms_w": 8000,
+   "url": "https://www.reissaudio.com.tr/product/rs-spl33/",
+   "note": "Product page: RMS 8000 W, max 16000 W, impedance '1 Ohm', size 82 CM, sensitivity 88 dB, frequency response 30 Hz – 1000 Hz. Not in the catalogue PDF; page values only. No T/S published (page or catalogue). Read through a non-VPN connection 2026-11-22.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "RS-BQ12",
+   "rms_w": 1200,
+   "url": "https://www.reissaudio.com.tr/product/rs-bq12/",
+   "size_in": 12,
+   "peak_w": 2400,
+   "note": "Product page: size 30 CM, RMS 1200 W, max 2400 W, impedance '2/4 Ohm', sensitivity 85 dB, frequency response 35 Hz – 500 Hz. No T/S published. Page read through a non-VPN connection by A6 on 2026-11-22. size_in from 30 cm (nominal).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.reissaudio.com.tr/product/rs-bq12/",
+     "doc": "product page (saved by A6 via a non-VPN connection)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-KM12",
+   "rms_w": 1500,
+   "url": "https://www.reissaudio.com.tr/product/rs-km12/",
+   "size_in": 12,
+   "peak_w": 3000,
+   "note": "Product page: size 30 CM, RMS 1500 W, max 3000 W, impedance '2/4 Ohm', sensitivity 84 dB, frequency response 35 Hz – 500 Hz. No T/S published. Page read through a non-VPN connection by A6 on 2026-11-22. size_in from 30 cm (nominal).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.reissaudio.com.tr/product/rs-km12/",
+     "doc": "product page (saved by A6 via a non-VPN connection)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-KM15",
+   "rms_w": 1750,
+   "url": "https://www.reissaudio.com.tr/product/rs-km15/",
+   "size_in": 15,
+   "peak_w": 3500,
+   "note": "Product page: size 38 CM, RMS 1750 W, max 3500 W, impedance '2/4 Ohm', sensitivity 86 dB, frequency response 30 Hz – 500 Hz. No T/S published. Page read through a non-VPN connection by A6 on 2026-11-22. size_in from 38 cm (nominal).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.reissaudio.com.tr/product/rs-km15/",
+     "doc": "product page (saved by A6 via a non-VPN connection)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-QX12",
+   "rms_w": 1750,
+   "url": "https://www.reissaudio.com.tr/product/rs-qx12/",
+   "size_in": 12,
+   "peak_w": 3500,
+   "note": "Product page: size 30 CM, RMS 1750 W, max 3500 W, impedance '2/4 Ohm', sensitivity 83 dB, frequency response 35 Hz – 500 Hz. No T/S published. Page read through a non-VPN connection by A6 on 2026-11-22. size_in from 30 cm (nominal).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.reissaudio.com.tr/product/rs-qx12/",
+     "doc": "product page (saved by A6 via a non-VPN connection)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-RX12 ULTRA",
+   "rms_w": 1200,
+   "url": "https://www.reissaudio.com.tr/product/rs-rx12-ultra/",
+   "size_in": 12,
+   "peak_w": 2400,
+   "note": "Product page: size 30 CM, RMS 1200 W, max 2400 W, impedance '2/4 Ohm', sensitivity 83 dB, frequency response 40 Hz – 500 Hz. No T/S published. Page read through a non-VPN connection by A6 on 2026-11-22. size_in from 30 cm (nominal).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.reissaudio.com.tr/product/rs-rx12-ultra/",
+     "doc": "product page (saved by A6 via a non-VPN connection)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-RX15",
+   "rms_w": 1500,
+   "url": "https://www.reissaudio.com.tr/product/rs-rx15/",
+   "size_in": 15,
+   "peak_w": 3000,
+   "note": "Product page: size 38 CM, RMS 1500 W, max 3000 W, impedance '2/4 Ohm', sensitivity 90 dB, frequency response 36 Hz – 1000 Hz. No T/S published. Page read through a non-VPN connection by A6 on 2026-11-22. size_in from 38 cm (nominal).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.reissaudio.com.tr/product/rs-rx15/",
+     "doc": "product page (saved by A6 via a non-VPN connection)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "RS-TX12",
+   "rms_w": 1200,
+   "url": "https://www.reissaudio.com.tr/product/rs-tx12/",
+   "size_in": 12,
+   "peak_w": 2400,
+   "note": "Product page: size 30 CM, RMS 1200 W, max 2400 W, impedance '4 Ohm', sensitivity 85 dB, frequency response 35 Hz – 1000 Hz. No T/S published. Page read through a non-VPN connection by A6 on 2026-11-22. size_in from 30 cm (nominal).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.reissaudio.com.tr/product/rs-tx12/",
+     "doc": "product page (saved by A6 via a non-VPN connection)",
+     "page": null,
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

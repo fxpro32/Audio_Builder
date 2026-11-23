@@ -1,0 +1,133 @@
+{
+ "brand": "CT Sounds",
+ "country": "USA",
+ "brand_url": "https://www.ctsounds.com",
+ "terms_note": "Shopify store; public /products.json read once (product descriptions). No terms forbidding this found (not read in full). Only EXO-12 is rated >= 2000 W RMS (others 500 to 1500 W).",
+ "drivers": [
+  {
+   "model": "EXO-12-D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.251,
+    "re_ohm": 1.7,
+    "qms": 2.95,
+    "qes": 0.51,
+    "qts": 0.43,
+    "vas_l": 14.98,
+    "sd_cm2": 471.4,
+    "xmax_mm": 27.5,
+    "mms_g": 346.32,
+    "bl_tm": 16.92,
+    "le_mh": null,
+    "spl_db_1w1m": 86.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 237.0,
+   "cutout_mm": 274.1,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "ported (flat response / SQ)",
+     "volume_l": 70.79,
+     "tuning_hz": 33,
+     "source": "maker page exo-12",
+     "note": "published as 2.5 cu ft; port area 40 sq in; excludes sub, bracing and port displacement per maker"
+    },
+    {
+     "type": "ported (boomer / SPL)",
+     "volume_l": 84.95,
+     "tuning_hz": 36,
+     "source": "maker page exo-12",
+     "note": "published as 3.0 cu ft; excludes sub, bracing and port displacement per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/exo-12",
+     "doc": "product page description, Specs and Box Specs sections",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Le printed '/' (not published). Cms printed with unit 'm/N' (0.047 / 0.051), evidently mm/N; not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated; Re 1.7 / 3.7 suggests series (inference). Converted from imperial as published: mounting depth 9.33 in, cut-out 10.79 in, displacement 0.25 cu ft."
+  },
+  {
+   "model": "EXO-12-D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.61,
+    "re_ohm": 3.7,
+    "qms": 3.19,
+    "qes": 0.59,
+    "qts": 0.5,
+    "vas_l": 16.23,
+    "sd_cm2": 471.4,
+    "xmax_mm": 27.5,
+    "mms_g": 348.31,
+    "bl_tm": 22.65,
+    "le_mh": null,
+    "spl_db_1w1m": 85.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 237.0,
+   "cutout_mm": 274.1,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "ported (flat response / SQ)",
+     "volume_l": 70.79,
+     "tuning_hz": 33,
+     "source": "maker page exo-12",
+     "note": "published as 2.5 cu ft; port area 40 sq in; excludes sub, bracing and port displacement per maker"
+    },
+    {
+     "type": "ported (boomer / SPL)",
+     "volume_l": 84.95,
+     "tuning_hz": 36,
+     "source": "maker page exo-12",
+     "note": "published as 3.0 cu ft; excludes sub, bracing and port displacement per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/exo-12",
+     "doc": "product page description, Specs and Box Specs sections",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Le printed '/' (not published). Cms printed with unit 'm/N' (0.047 / 0.051), evidently mm/N; not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated; Re 1.7 / 3.7 suggests series (inference). Converted from imperial as published: mounting depth 9.33 in, cut-out 10.79 in, displacement 0.25 cu ft."
+  }
+ ],
+ "no_ts_published": []
+}

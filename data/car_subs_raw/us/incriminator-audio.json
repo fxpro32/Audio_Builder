@@ -1,0 +1,10 @@
+{
+ "brand": "Incriminator Audio",
+ "country": "USA",
+ "brand_url": "https://incriminatoraudio.com",
+ "terms_note": " | hp_subs_raw terms note: Domain does not resolve (no DNS) on 2026-11-21; brand appears inactive. No maker data.",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/incriminator-audio.json",
+ "drivers": [],
+ "no_ts_published": []
+}

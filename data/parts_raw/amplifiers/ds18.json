@@ -1,0 +1,6760 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, public products.json, body text and titles; numbers only (values parsed by scripts/parts/build_amps_shopify.py, spot-checked)",
+ "terms_note": "Numbers (facts) only with source URL; no text, images or PDFs copied. Store prices are USD maker-store prices on the read date.",
+ "units": {
+  "w_per_ch": "W RMS per channel",
+  "ohm": "ohm load per channel (bridged = load across the bridged pair)",
+  "dims_mm": "mm, converted from inches when published in inches"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 106,
+ "records": [
+  {
+   "id": "ds18-frp-1-5k-ti",
+   "model": "FRP-1.5K",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 1,500 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/frp-1-5k-ti",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-1-5k-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-1-5k-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-frp-1-5k-rd",
+     "model": "FRP-1.5K/RD",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 1,500 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-1-5k-rd"
+    },
+    {
+     "id": "ds18-frp-1-5k-bl",
+     "model": "FRP-1.5K/BL",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 1,500 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-1-5k-bl"
+    }
+   ]
+  },
+  {
+   "id": "ds18-frp-2-5k5-bl",
+   "model": "FRP-2.5K5",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "FRP Compact Full-Range Class D 5-Channel Amplifier – 250W x 4 + 1,200W Subwoofer Output",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 325,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/frp-2-5k5-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-2-5k5-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-2-5k5-ti",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "variants": [
+    {
+     "id": "ds18-frp-2-5k5-rd",
+     "model": "FRP-2.5K5/RD",
+     "title": "FRP Compact Full-Range Class D 5-Channel Amplifier – 250W x 4 + 1,200W Subwoofer Output",
+     "url": "https://www.ds18.com/products/frp-2-5k5-rd"
+    },
+    {
+     "id": "ds18-frp-2-5k5-ti",
+     "model": "FRP-2.5K5/TI",
+     "title": "FRP Compact Full-Range Class D 5-Channel Amplifier – 250W x 4 + 1,200W Subwoofer Output",
+     "url": "https://www.ds18.com/products/frp-2-5k5-ti"
+    }
+   ]
+  },
+  {
+   "id": "ds18-frp-12k-bl",
+   "model": "FRP-12K",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 12,000 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 12000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/frp-12k-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-12k-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-12k-ti",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-frp-12k-rd",
+     "model": "FRP-12K/RD",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 12,000 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-12k-rd"
+    },
+    {
+     "id": "ds18-frp-12k-ti",
+     "model": "FRP-12K/TI",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 12,000 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-12k-ti"
+    }
+   ]
+  },
+  {
+   "id": "ds18-sxe-2500-1d-rd",
+   "model": "SXE-2500.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SXE Class D 1-Channel Amplifier 1 x 800 Watts RMS @ 1-Ohm 2500 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/sxe-2500-1d-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/sxe-2500-1d-bk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-sxe-2500-1d-bk",
+     "model": "SXE-2500.1D/BK",
+     "title": "SXE Class D 1-Channel Amplifier 1 x 800 Watts RMS @ 1-Ohm 2500 Watts",
+     "url": "https://www.ds18.com/products/sxe-2500-1d-bk"
+    }
+   ]
+  },
+  {
+   "id": "ds18-sxe-4000-4d-rd",
+   "model": "SXE-4000.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SXE Class D 4-Channel Full-Range Amplifier 4 x 275 RMS @ 4-Ohm 4000 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 275,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 430,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/sxe-4000-4d-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/sxe-4000-4d-bk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "variants": [
+    {
+     "id": "ds18-sxe-4000-4d-bk",
+     "model": "SXE-4000.4D/BK",
+     "title": "SXE Class D 4-Channel Full-Range Amplifier 4 x 275 RMS @ 4-Ohm 4000 Watts",
+     "url": "https://www.ds18.com/products/sxe-4000-4d-bk"
+    }
+   ]
+  },
+  {
+   "id": "ds18-sxe-3000-4d-rd",
+   "model": "SXE-3000.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SXE Class D 4-Channel  Full-Range Amplifier 4 x 200 RMS @ 4-Ohm 3000 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 320,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/sxe-3000-4d-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/sxe-3000-4d-bk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "variants": [
+    {
+     "id": "ds18-sxe-3000-4d-bk",
+     "model": "SXE-3000.4D/BK",
+     "title": "SXE Class D 4-Channel  Full-Range Amplifier 4 x 200 RMS @ 4-Ohm 3000 Watt",
+     "url": "https://www.ds18.com/products/sxe-3000-4d-bk"
+    }
+   ]
+  },
+  {
+   "id": "ds18-sxe-2000-4d-rd",
+   "model": "SXE-2000.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SXE Class D 4-Channel Amplifier 4 x 100 Watts Rms @ 4-ohm 2000 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 320,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 160,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/sxe-2000-4d-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/sxe-2000-4d-bk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "variants": [
+    {
+     "id": "ds18-sxe-2000-4d-bk",
+     "model": "SXE-2000.4D/BK",
+     "title": "SXE Class D 4-Channel Amplifier 4 x 100 Watts RMS @ 4-Ohm 2000 Watts",
+     "url": "https://www.ds18.com/products/sxe-2000-4d-bk"
+    }
+   ]
+  },
+  {
+   "id": "ds18-sxe-1200-4-rd",
+   "model": "SXE-1200.4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SXE Class A/B 4-Channel Full-Range Amplifier 4 x 60 RMS @ 4-Ohm 1200 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 60,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/sxe-1200-4-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/sxe-1200-4-bk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "variants": [
+    {
+     "id": "ds18-sxe-1200-4-bk",
+     "model": "SXE-1200.4/BK",
+     "title": "SXE Class A/B 4-Channel Full-Range Amplifier 4 x 60 RMS @ 4-Ohm 1200 Watts",
+     "url": "https://www.ds18.com/products/sxe-1200-4-bk"
+    }
+   ]
+  },
+  {
+   "id": "ds18-ds18-exl-p2000x1d-exl-power-1-channel-class-d-car-amplifier-2000-watts-rms-1-ohm-made",
+   "model": "EXL-P2000X1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "EXL 1-Channel Class D Amplifier 2000 Watts Rms @ 1-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-exl-p2000x1d-exl-power-1-channel-class-d-car-amplifier-2000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-nvy-4-channel-full-range-ip67-submersible-marine-and-powersports-amplifier-120-x-4-4-",
+   "model": "NVY-IPX7.4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NVY 4-Channel Full-Range IPX7 Submersible Marine and Powersports Amplifier 120 x 4 @ 4-Ohm Watts RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/nvy-4-channel-full-range-ip67-submersible-marine-and-powersports-amplifier-120-x-4-4-ohm-watts-rms-copy",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-nvy-4-channel-full-range-ip67-marine-and-powersports-amplifier-200-x-4-4-ohm-watts-rm",
+   "model": "NVY-T800.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NVY 4-Channel Full-Range IP67 Marine and Powersports Amplifier 200 x 4 @ 4-Ohm Watts RMS",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/nvy-4-channel-full-range-ip67-marine-and-powersports-amplifier-200-x-4-4-ohm-watts-rms-copy",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-smd-2800-5",
+   "model": "SMD-2800.5",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD 5-Channel Amplifier with VM-1 Voltmeter and Digital LED Lights 4 x 250W at 2-Ohm Class AB + 1 x 1800W at 1-Ohm Class D - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-2800-5",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-smd-5000-1d",
+   "model": "SMD-5000.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD Monoblock Amplifier with VM-1 Voltmeter and Digital LED Lights 5000W RMS at 1-ohm - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-5000-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-smd-2000-1d",
+   "model": "SMD-2000.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD Monoblock Amplifier with VM-1 Voltmeter and Digital LED Lights 2000W RMS at 1-ohm - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-2000-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-smd-300-4ab",
+   "model": "SMD-300.4AB",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD 4-Channel Class AB Amplifier with VM-1 Voltmeter and Digital LED Lights 4 x 300W at 2-Ohm - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-300-4ab",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-smd-500-4ab",
+   "model": "SMD-500.4AB",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD 4-Channel Class AB Amplifier  with VM-1 Voltmeter and Digital LED Lights 4 x 500W at 2-Ohm - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-500-4ab",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-smd-3000-1d",
+   "model": "SMD-3000.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD Monoblock Amplifier with VM-1 Voltmeter and Digital LED Lights 3000W RMS at 1-ohm - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-3000-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-smd-200-4ab",
+   "model": "SMD-200.4AB",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD 4-Channel Class AB Amplifier with VM-1 Voltmeter and Digital LED Lights 4 x 200W at 2-ohm - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-200-4ab",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-smd-8500-1d",
+   "model": "SMD-8500.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SMD Monoblock Amplifier with VM-1 Voltmeter and Digital LED Lights 8500W RMS at 1-ohm - Steve Meade Designs",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 5700,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 8500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/smd-8500-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-sxe-1500-1d-rd",
+   "model": "SXE-1500.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "SXE Class D Monoblock Amplifier 1 x 500 Watts RMS @ 1-Ohm 1500 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/sxe-1500-1d-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/sxe-1500-1d-bk",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-sxe-1500-1d-bk",
+     "model": "SXE-1500.1D/BK",
+     "title": "SXE Class D Monoblock Amplifier 1 x 500 Watts RMS @ 1-Ohm 1500 Watts",
+     "url": "https://www.ds18.com/products/sxe-1500-1d-bk"
+    }
+   ]
+  },
+  {
+   "id": "ds18-x4xl",
+   "model": "X4XL",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "X 4-Channel Ultra Compact Class D Amplifier 4 x 120 Watts Rms @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/x4xl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-frp-2-5k-bl",
+   "model": "FRP-2.5K",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 2,500 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/frp-2-5k-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-2-5k-ti",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-2-5k-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-frp-2-5k-ti",
+     "model": "FRP-2.5K/TI",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 2,500 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-2-5k-ti"
+    },
+    {
+     "id": "ds18-frp-2-5k-rd",
+     "model": "FRP-2.5K/RD",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 2,500 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-2-5k-rd"
+    }
+   ]
+  },
+  {
+   "id": "ds18-h-ko340-rd",
+   "model": "H-KO340",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "HOOLIGAN KO Full Range Class D 4-Channel Amplifier 4 x 300 Watts Rms @ 4-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/h-ko340-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (variants)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/h-ko340",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "variants": [
+    {
+     "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko340",
+     "model": "H-KO340",
+     "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO340",
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black"
+    },
+    {
+     "id": "ds18-h-ko340",
+     "model": "H-KO340",
+     "title": "HOOLIGAN KO Full Range Class D 4-Channel Amplifier 4 x 300 Watts Rms @ 4-Ohm Made In Korea",
+     "url": "https://www.ds18.com/products/h-ko340"
+    }
+   ]
+  },
+  {
+   "id": "ds18-fx6",
+   "model": "FX6",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "Flush Mount / Surface Mount 6 Channel Class D Amplifier With Acrylic Cover for Custom Installation 6 X 180 Watts RMS @ 4 Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 180,
+     "channels": 6,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 6,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 3,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/fx6",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-fx4",
+   "model": "FX4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "Flush Mount / Surface Mount 4 Channel Class D Amplifier With Acrylic Cover for Custom Installation 4 X 180 Watts RMS @ 4 Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 180,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "bridged_inferred": true
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/fx4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "500 W x 2 at 4.0 ohm marked bridged (4-channel amp; power vs the per-channel rating)"
+   ]
+  },
+  {
+   "id": "ds18-fx1",
+   "model": "FX1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "Flush Mount / Surface Mount 1 Channel Monoblock Class D Amplifier With Acrylic Cover for Custom Installation 1 X 900 Watts RMS @ 1 Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 650,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/fx1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-frp-3-5k-rd",
+   "model": "FRP-3.5K",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 3,500 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/frp-3-5k-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-3-5k-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-3-5k-ti-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-frp-3-5k-bl",
+     "model": "FRP-3.5K/BL",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 3,500 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-3-5k-bl"
+    },
+    {
+     "id": "ds18-frp-3-5k-ti-1",
+     "model": "FRP-3.5K/TI",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 3,500 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-3-5k-ti-1"
+    }
+   ]
+  },
+  {
+   "id": "ds18-frp-5k-ti",
+   "model": "FRP-5K",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 5,000 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2900,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/frp-5k-ti",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-5k-bl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/frp-5k-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-frp-5k-bl",
+     "model": "FRP-5K/BL",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 5,000 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-5k-bl"
+    },
+    {
+     "id": "ds18-frp-5k-rd",
+     "model": "FRP-5K/RD",
+     "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 5,000 Watts Rms @ 1-Ohm",
+     "url": "https://www.ds18.com/products/frp-5k-rd"
+    }
+   ]
+  },
+  {
+   "id": "ds18-ion600-1d",
+   "model": "ION600.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ION Compact Full Range 1 Channel Amplifier 600 Watts RMS @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ion600-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ion1200-1d",
+   "model": "ION1200.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ION Compact Full Range 1 Channel Amplifier 1200 Watts RMS @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ion1200-1d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ion700-2d",
+   "model": "ION700.2D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ION Compact Full Range 2 Channel Amplifier 2 x 350W RMS @ 2-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 350,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ion700-2d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ion1000-4d",
+   "model": "ION1000.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ION Compact Full Range Class D 4-Channel Amplifier 4 x 150 Watts RMS @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ion1000-4d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "quality_issues": [
+    "bridged_suspect"
+   ]
+  },
+  {
+   "id": "ds18-ion1600-4d",
+   "model": "ION1600.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ION Compact Full Range Class D 4-Channel Amplifier 4 x 240 Watts RMS @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 240,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ion1600-4d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-nxl-x1200-8d",
+   "model": "NXL-X1200.8D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 8-Channel Full-Range Class D IP67 Marine and Powersports Amplifier 8 x 150 Watts RMS @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 8,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 8,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 220,
+     "channels": 8,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 450,
+     "channels": 4,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/nxl-x1200-8d",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-nxl-x1500-1fr",
+   "model": "NXL-X1500.1FR",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 1-Channel Full-Range Class D IP67 Marine and Powersports Amplifier 1 x 1500 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": 150,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "fuse_onboard_a"
+     ],
+     "url": "https://www.ds18.com/products/nxl-x1500-1fr",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-hooligan-ko-silver-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-k",
+   "model": "H-KO10",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "HOOLIGAN KO Silver 1-Channel Amplifier with Voltmeter 10000 Watts Rms @ 1-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 5800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 10000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-silver-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (variants)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-red-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-black-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-gold-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko10",
+     "model": "H-KO10",
+     "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO10",
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black"
+    },
+    {
+     "id": "ds18-hooligan-ko-red-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-kore",
+     "model": "H-KO10",
+     "title": "HOOLIGAN KO Red 1-Channel Amplifier with Voltmeter 10000 Watts Rms @ 1-Ohm Made In Korea",
+     "url": "https://www.ds18.com/products/hooligan-ko-red-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea"
+    },
+    {
+     "id": "ds18-hooligan-ko-black-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-ko",
+     "model": "H-KO10",
+     "title": "HOOLIGAN KO Black 1-Channel Amplifier with Voltmeter 10000 Watts Rms @ 1-Ohm Made In Korea",
+     "url": "https://www.ds18.com/products/hooligan-ko-black-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea"
+    },
+    {
+     "id": "ds18-hooligan-ko-gold-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-kor",
+     "model": "H-KO10",
+     "title": "HOOLIGAN KO Gold 1-Channel Amplifier with Voltmeter 10000 Watts Rms @ 1-Ohm Made In Korea",
+     "url": "https://www.ds18.com/products/hooligan-ko-gold-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea"
+    }
+   ]
+  },
+  {
+   "id": "ds18-exl-sq160-2",
+   "model": "EXL-SQ160.2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "EXL Full Range Class D 2 Channel Amplifier 320 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/exl-sq160-2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "ds18-mp-4a",
+   "model": "MP.4A",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "MP 4-Channel Full-Range Class D IP55 Marine and Powersports Amplifier 4 x 40 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 40,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 4.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/mp-4a",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-candy-6-compact-6-channel-full-range-class-d-amplifier-1800-watts",
+   "model": "CANDY-6",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 CANDY-6  Full-Range Class D 6-Channel Car Amplifier 1800 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 6,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 80,
+     "channels": 6,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 3,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     351.0,
+     137.0,
+     43.0
+    ],
+    "as_published": "Dimensions (L x W x H):|351 x 137 x 43mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-candy-6-compact-6-channel-full-range-class-d-amplifier-1800-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-candy-x4b-channel-class-d-4-channel-full-range-car-amplifier-1600-watts-compact",
+   "model": "CANDY-X4B",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "CANDY Compact Full-Range Class D 4-Channel Amplifier 1600 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     234.4,
+     127.0,
+     47.5
+    ],
+    "as_published": "Dimensions:|234.4x127x47.5mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-candy-x4b-channel-class-d-4-channel-full-range-car-amplifier-1600-watts-compact",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-gen-x-full-range-class-d-2-channel-amplifier-700-watts",
+   "model": "G700.2D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X Full-Range Class D 2-Channel Amplifier | 2 x 100W RMS @ 4 Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 360,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 100,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/gen-x-full-range-class-d-2-channel-amplifier-700-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-hydro-micro-marine-grade-amplifier-4-channel-400-watts",
+   "model": "NXL-N4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 4-Channel Full-Range Class D Waterproof IP67 Marine and Powersports NANO Amplifier <br> 4 x 100 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/hydro-micro-marine-grade-amplifier-4-channel-400-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-nxl-m5",
+   "model": "NXL-M5",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 5-Channel Full-Range Class D IPX5 Marine Amplifier | 4 x 150W @ 4-Ohm and 1 x 600W RMS @ 2-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 230,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 440,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/nxl-m5",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-hydro-micro-marine-grade-amplifier-2-channel-2-100-watts-4-ohm",
+   "model": "NXL-N2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 2-Channel Full-Range Class D Waterproof IP67 Marine and Powersports NANO Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/hydro-micro-marine-grade-amplifier-2-channel-2-100-watts-4-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-hydro-micro-marine-grade-amplifier-1-channel-350-watts",
+   "model": "NXL-N1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 1-Channel Class D IP67 Waterproof Marine and Powersports NANO Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 230,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 140,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/hydro-micro-marine-grade-amplifier-1-channel-350-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-zxi-4xl-elite-full-range-4-channel-class-d-amplifier-250-watts-rms-x-4-4-ohm",
+   "model": "ZXI.4XL",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZXI 4-Channel Class D Amplifier 4 X 250 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zxi-4xl-elite-full-range-4-channel-class-d-amplifier-250-watts-rms-x-4-4-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-zxi-6-elite-full-range-6-channel-class-d-amplifier-200-watts-rms-x-6-4-ohm",
+   "model": "ZXI.6",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZXI 6-Channel Class D Amplifier 6 x 200 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 6,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 320,
+     "channels": 6,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 640,
+     "channels": 3,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zxi-6-elite-full-range-6-channel-class-d-amplifier-200-watts-rms-x-6-4-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-g1000-4d-full-range-class-d-4-channel-amplifier-1000-watts",
+   "model": "G1000.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X Full-Range Class D 4-Channel Amplifier | 4 x 90W RMS @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g1000-4d-full-range-class-d-4-channel-amplifier-1000-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-g4000-5d-gen-x-full-range-class-d-5-channel-amplifier-4000-watts",
+   "model": "G4000.5D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X 5-Channel Class D Amplifier | 4 x 130W RMS @ 4-Ohm + 1  x 900W RMS @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 420,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 220,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 130,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g4000-5d-gen-x-full-range-class-d-5-channel-amplifier-4000-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-nxl-m4-full-range-4-channel-ip55-marine-grade-amplifier-150x4-watts-4-ohm",
+   "model": "NXL-M4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 4-Channel Full-Range Class D IPX5 Marine Amplifier | 4 x 150W RMS @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 230,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 440,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-nxl-m4-full-range-4-channel-ip55-marine-grade-amplifier-150x4-watts-4-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-nxl-m2-full-range-2-channel-ip55-marine-grade-amplifier-2x250-watts-4-ohm",
+   "model": "NXL-M2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 2-Channel Full-Range Class D IPX5 Marine Amplifier | 2 x 250W RMS @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 880,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-nxl-m2-full-range-2-channel-ip55-marine-grade-amplifier-2x250-watts-4-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-hydro-nxl-x900-6d-6-channel-marine-waterproof-amplifier-class-d-full-range-4-ohm",
+   "model": "NXL-X900.6D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 6-Channel Full-Range Class D IP67 Marine and Powersports Amplifier 6 x 150 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 6,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 6,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 6,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 3,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-hydro-nxl-x900-6d-6-channel-marine-waterproof-amplifier-class-d-full-range-4-ohms-150x6-rms-3000-watts-peak",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-nxl-x360-2d-2-channel-marine-amplifier-180-x-2-watts-4-ohm-1000-watts",
+   "model": "NXL-X360.2D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 2-Channel Full-Range Class D IP67 Marine and Powersports Amplifier 2 x 180 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 180,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-nxl-x360-2d-2-channel-marine-amplifier-180-x-2-watts-4-ohm-1000-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "bridged rating channels = 1 (2-channel amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-nxl-x850-4d-4-channel-marine-waterproof-amplifier-class-d-full-range-250x4-rms-4",
+   "model": "NXL-X850.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 4-Channel Full-Range Class D IP67 Marine and Powersports Amplifier 4 x 200 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-nxl-x850-4d-4-channel-marine-waterproof-amplifier-class-d-full-range-250x4-rms-4-ohms-2400-watts-peak",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-exl-class-d-monoblock-amplifier-1200-watts-rms",
+   "model": "EXL-SQ600.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "EXL Sound Quality Class D Monoblock Car Amplifier 1200 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 2,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     264.0,
+     170.0,
+     51.0
+    ],
+    "as_published": "Dimensions (L x W x H):|264 x 170 x 51mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/exl-class-d-monoblock-amplifier-1200-watts-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 2 (line gave no 'x N'; amp has 2 channels)",
+    "rating channels = 2 (line gave no 'x N'; amp has 2 channels)",
+    "rating channels = 2 (line gave no 'x N'; amp has 2 channels)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-g8400-4d-full-range-class-d-4-channel-car-audio-amplifier-8400-watts",
+   "model": "G8400.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X Full-Range Class D 4-Channel Amplifier | 4 x 700W RMS @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 700,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g8400-4d-full-range-class-d-4-channel-car-audio-amplifier-8400-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-elite-1-channel-class-d-amplifier-2200-watts-rms",
+   "model": "ZXI.1XL",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 ELITE ZXI.1XL 1-Channel Class D Amplifier 2200 Watts RMS @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/elite-1-channel-class-d-amplifier-2200-watts-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-elite-full-range-4-channel-class-d-amplifier-special-edition",
+   "model": "ZXI.4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZXI 4-Channel Class D Amplifier 4 X 125 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 4.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/elite-full-range-4-channel-class-d-amplifier-special-edition",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-zr600-4d-zr-class-d-4-channel-full-range-amplifier-150x4-4ohm-watts-rms",
+   "model": "ZR600.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZR 4-Channel Class D Amplifier 4 x 150 Watts Rms @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr600-4d-zr-class-d-4-channel-full-range-amplifier-150x4-4ohm-watts-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-zr500-1d-zr-class-d-1-channel-monoblock-car-amplifier-500-watts-rms",
+   "model": "ZR500.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZR 1-Channel Class D Amplifier 500 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr500-1d-zr-class-d-1-channel-monoblock-car-amplifier-500-watts-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-hydro-nxl-f4-marine-grade-class-d-4-channel-amplifier-1200-watts",
+   "model": "NXL-F4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 4-Channel Full-Range Class D IP67 Marine and Powersports Flush Mount Amplifier 4 x 100 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 4.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     6045.2,
+     3429.0,
+     1041.4
+    ],
+    "as_published_in": [
+     238.0,
+     135.0,
+     41.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-hydro-nxl-f4-marine-grade-class-d-4-channel-amplifier-1200-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-dx4-deluxe-compact-full-range-class-d-advance-technology-4-channel-amplifier-300",
+   "model": "DX4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "Deluxe 4-Channel Compact Class D Amplifier 4 X 150 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 480,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-dx4-deluxe-compact-full-range-class-d-advance-technology-4-channel-amplifier-3000-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-zr800-4d-zr-class-d-4-channel-full-range-amplifier-200x4-4ohm-watts-rms",
+   "model": "ZR800.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZR 4-Channel Class D Amplifier 4 x 200 Watts Rms @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 320,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr800-4d-zr-class-d-4-channel-full-range-amplifier-200x4-4ohm-watts-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-zr1600-4d-zr-class-d-4-channel-full-range-amplifier-400x4-4ohm-watts-rms",
+   "model": "ZR1600.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZR 4-Channel Class D Amplifier 4 x 400 Watts Rms @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 680,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr1600-4d-zr-class-d-4-channel-full-range-amplifier-400x4-4ohm-watts-rms",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-nxl-x1000-class-d-1-channel-marine-amplifier-1000-watts-rms-1-ohm-2000-watts-pea",
+   "model": "NXL-X1000.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 1-Channel Class D IP67 Marine and Powersports Amplifier 1 x 1000 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-nxl-x1000-class-d-1-channel-marine-amplifier-1000-watts-rms-1-ohm-2000-watts-peak",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-nxl-x1200-class-d-5-channel-full-range-marine-amplifier-2800-watts",
+   "model": "NXL-X1200.5D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 5-Channel Full-Range Class D IP67 Marine and Powersports Amplifier 4 x 150 @ 4-Ohm and 1 x 600 @ 2-Ohm Watts Rms",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-nxl-x1200-class-d-5-channel-full-range-marine-amplifier-2800-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-nxl-x600-4d-full-range-class-d-4-channel-marine-amplifier-150-x-4-rms-4-ohm-1600",
+   "model": "NXL-X600.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "NXL 4-Channel Full-Range Class D IP67 Marine and Powersports Amplifier 4 x 150 Watts Rms @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-nxl-x600-4d-full-range-class-d-4-channel-marine-amplifier-150-x-4-rms-4-ohm-1600-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-g3600-1d-class-d-1-channel-car-audio-amplifier-3600-watts",
+   "model": "G3600.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X Class D 1-Channel Amplifier | 1200W RMS @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 900,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g3600-1d-class-d-1-channel-car-audio-amplifier-3600-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-g3600-4d-full-range-class-d-4-channel-car-audio-amplifier-3600-watts",
+   "model": "G3600.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X Full-Range Class D 4-Channel Amplifier | 4 x 300W RMS @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 740,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    },
+    {
+     "w_per_ch": 420,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g3600-4d-full-range-class-d-4-channel-car-audio-amplifier-3600-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-g1800-4d-full-range-class-d-4-channel-car-audio-amplifier-1800-watts",
+   "model": "G1800.4D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X Full-Range Class D 4-Channel Amplifier | 4 x 150W RMS @ 4-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 230,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 430,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g1800-4d-full-range-class-d-4-channel-car-audio-amplifier-1800-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-g1800-1d-class-d-1-channel-car-audio-amplifier-1800-watts",
+   "model": "G1800.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "GEN-X Class D 1-Channel Amplifier | 600W RMS @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-g1800-1d-class-d-1-channel-car-audio-amplifier-1800-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-zr1000-1d-class-d-1-channel-monoblock-amplifier-1000-watts-rms-1-ohm",
+   "model": "ZR1000.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZR 1-Channel Class D Amplifier 1000 Watts RMS-1 Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 650,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 380,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 650,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr1000-1d-class-d-1-channel-monoblock-amplifier-1000-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "maker text gives different power for the same load, check the manual: 4.0 ohm xNone: [380, 650] W; ",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "quality_issues": [
+    "rms_conflict"
+   ]
+  },
+  {
+   "id": "ds18-ds18-zr2000-1d-class-d-1-channel-monoblock-amplifier-2000-watts-rms-1-ohm",
+   "model": "ZR2000.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZR 1-Channel Class D Amplifier 2000 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr2000-1d-class-d-1-channel-monoblock-amplifier-2000-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-zr1500-1d-class-d-1-channel-monoblock-amplifier-1500-watts-rms-1-ohm",
+   "model": "ZR1500.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZR 1-Channel Class D Amplifier 1500 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 950,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-zr1500-1d-class-d-1-channel-monoblock-amplifier-1500-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-exl-p1500x1d-exl-power-1-channel-class-d-car-amplifier-1500-watts-rms-1-ohm-made",
+   "model": "EXL-P1500X1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "EXL 1-Channel Class D Amplifier 1500 Watts Rms @ 1-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 650,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-exl-p1500x1d-exl-power-1-channel-class-d-car-amplifier-1500-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-exl-p2500x1d-exl-power-1-channel-class-d-car-amplifier-2500-watts-rms-1-ohm-made",
+   "model": "EXL-P2500X1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "EXL 1-Channel Class D Amplifier 2500 Watts Rms @ 1-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-exl-p2500x1d-exl-power-1-channel-class-d-car-amplifier-2500-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-exl-p4000x1d-exl-power-1-channel-class-d-car-amplifier-4000-watts-rms-1-ohm-made",
+   "model": "EXL-P4000X1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "EXL 1-Channel Class D Amplifier 4000 Watts Rms @ 1-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-exl-p4000x1d-exl-power-1-channel-class-d-car-amplifier-4000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-elite-1-channel-class-d-amplifier-3000-watts-rms-1-ohm",
+   "model": "ZXI.1XXL",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZXI 1-Channel Class D Amplifier 3000 Watts Rms @ 1-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/elite-1-channel-class-d-amplifier-3000-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-gfx-2-2k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-2200-watts-rm",
+   "model": "GFX-2.2K1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 2200 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-2-2k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-2200-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-gfx-1-4k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-1400-watts-rm",
+   "model": "GFX-1.4K1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 1400 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 550,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 950,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-1-4k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-1400-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-x1-ultra-compact-monoblock-class-d-1-channel-amplifier-900-watts",
+   "model": "X1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "X 1-Channel Ultra Compact Class D Amplifier 300 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 140,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 220,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-x1-ultra-compact-monoblock-class-d-1-channel-amplifier-900-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-x2-ultra-compact-full-range-class-d-2-channel-amplifier-1140-watts",
+   "model": "X2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "X 2-Channel Ultra Compact Class D Amplifier 2 x 140 Watts Rms @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 140,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 230,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-x2-ultra-compact-full-range-class-d-2-channel-amplifier-1140-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 2 (line gave no 'x N'; amp has 2 channels)",
+    "rating channels = 2 (line gave no 'x N'; amp has 2 channels)"
+   ]
+  },
+  {
+   "id": "ds18-elite-full-range-5-channel-class-d-amplifier-125-watts-rms-x-4-4-ohm-1000-watts-rms-x",
+   "model": "ZXI.5",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "ZXI 5-Channel Class D Amplifier 4 x 125 @ 4-Ohm + 1000 x 1 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 340,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/elite-full-range-5-channel-class-d-amplifier-125-watts-rms-x-4-4-ohm-1000-watts-rms-x-1-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-h-ko5-hooligan-1-channel-class-d-car-amplifier-5000-watts-rms-1-ohm-made-in-kore",
+   "model": "H-KO5",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "HOOLIGAN KO 1-Channel Amplifier with Voltmeter 5000 Watts Rms @ 1-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-h-ko5-hooligan-1-channel-class-d-car-amplifier-5000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (variants)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/h-ko5-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko5",
+     "model": "H-KO5",
+     "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO5",
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black"
+    },
+    {
+     "id": "ds18-h-ko5-rd",
+     "model": "H-KO5/RD",
+     "title": "HOOLIGAN KO 1-Channel Amplifier with Voltmeter 5000 Watts Rms @ 1-Ohm Made In Korea",
+     "url": "https://www.ds18.com/products/h-ko5-rd"
+    }
+   ]
+  },
+  {
+   "id": "ds18-ds18-h-ko8-hooligan-1-channel-class-d-car-amplifier-8000-watts-rms-1-ohm-made-in-kore",
+   "model": "H-KO8",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "HOOLIGAN KO 1-Channel Amplifier with Voltmeter 8000 Watts Rms @ 1-Ohm Made In Korea",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 4800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 8000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-h-ko8-hooligan-1-channel-class-d-car-amplifier-8000-watts-rms-1-ohm-made-in-korea",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (variants)"
+    },
+    {
+     "fields": [
+      "same model, other listing (colour / variant)"
+     ],
+     "url": "https://www.ds18.com/products/h-ko8-rd",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ],
+   "variants": [
+    {
+     "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko8",
+     "model": "H-KO8",
+     "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO8",
+     "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black"
+    },
+    {
+     "id": "ds18-h-ko8-rd",
+     "model": "H-KO8/RD",
+     "title": "HOOLIGAN KO 1-Channel Amplifier with Voltmeter 8000 Watts Rms @ 1-Ohm Made In Korea",
+     "url": "https://www.ds18.com/products/h-ko8-rd"
+    }
+   ]
+  },
+  {
+   "id": "ds18-ds18-s-1100-2-select-full-range-class-ab-2-channel-amplifier-1100-watts",
+   "model": "S-1100.2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 SELECT S-1100.2 – Class AB 2 Channel Full Range Amplifier – 1800 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-s-1100-2-select-full-range-class-ab-2-channel-amplifier-1100-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "ds18-ds18-select-s-3500-1d-class-d-1-channel-monoblock-amplifier-3500-watts",
+   "model": "S-3500.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 SELECT S-3500.1D Class-D 1-Channel Monoblock Amplifier 3500 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1200,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-select-s-3500-1d-class-d-1-channel-monoblock-amplifier-3500-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-candy-x5-channel-class-d-full-range-car-amplifier-2000-watts-compact",
+   "model": "CANDY-X5B",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "CANDY Compact Full-Range Class D 5-Channel Amplifier 2000 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 420,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 320,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     280.0,
+     127.0,
+     47.5
+    ],
+    "as_published": "Dimensions:|280 x 127 x 47.5mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-candy-x5-channel-class-d-full-range-car-amplifier-2000-watts-compact",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-candy-x2-2-channel-class-d-full-range-car-amplifier-800-watts-compact",
+   "model": "CANDY-X2B",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "CANDY Compact Full-Range Class D 2-Channel Amplifier 800 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-candy-x2-2-channel-class-d-full-range-car-amplifier-800-watts-compact",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 2 (line gave no 'x N'; amp has 2 channels)",
+    "rating channels = 2 (line gave no 'x N'; amp has 2 channels)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-candy-x1-1-channel-class-d-car-amplifier-1800-watts-1-ohm-compact",
+   "model": "CANDY-X1B",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "CANDY Compact Class D 1-Channel Monoblock Amplifier 1800 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     220.0,
+     127.0,
+     47.5
+    ],
+    "as_published": "Dimensions:|220x127x47.5mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-candy-x1-1-channel-class-d-car-amplifier-1800-watts-1-ohm-compact",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-gen-x6000-1d-class-d-1-channel-monoblock-amplifier-6000-watts",
+   "model": "GEN-X6000.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 GEN-X6000.1D Class D 1-Channel Monoblock Amplifier 6000 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": 14.4,
+   "cta2006": null,
+   "min_load_ohm": null,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     380.0,
+     190.0,
+     60.0
+    ],
+    "as_published": "Dimensions (L x W x H): 380 x 190 x 60 mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gen-x6000-1d-class-d-1-channel-monoblock-amplifier-6000-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "no RMS table in the store text; ",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "ds18-ds18-gen-x1800-1d-class-d-1-channel-monoblock-amplifier-1800-watts",
+   "model": "GEN-X1800.1D",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 GEN-X1800.1D Class D 1-Channel Monoblock Amplifier 1800 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 450,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     330.0,
+     190.0,
+     55.0
+    ],
+    "as_published": "Dimensions (L x W x H):|330 x 190 x 55mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gen-x1800-1d-class-d-1-channel-monoblock-amplifier-1800-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-gen-x3700-4-full-range-class-ab-4-channel-amplifier-3700-watts",
+   "model": "GEN-X3700.4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 GEN-X3700.4 Full-Range Class AB 4-Channel Amplifier 3700 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 225,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 375,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     540.0,
+     190.0,
+     60.0
+    ],
+    "as_published": "Dimensions (L x W x H):|540 x 190 x 60mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gen-x3700-4-full-range-class-ab-4-channel-amplifier-3700-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-gen-x2000-4-full-range-class-ab-4-channel-amplifier-2000-watts",
+   "model": "GEN-X2000.4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 GEN-X2000.4 Full-Range Class AB 4-Channel Amplifier 2000 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 180,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     500.0,
+     190.0,
+     60.0
+    ],
+    "as_published": "Dimensions (L x W x H):|500 x 190 x 60mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gen-x2000-4-full-range-class-ab-4-channel-amplifier-2000-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-gen-x1600-4-full-range-class-ab-4-channel-amplifier-1600-watts",
+   "model": "GEN-X1600.4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 GEN-X1600.4 Full-Range Class AB 4-Channel Amplifier 1600 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     430.0,
+     190.0,
+     55.0
+    ],
+    "as_published": "Dimensions (L x W x H):|430 x 190 x 55mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gen-x1600-4-full-range-class-ab-4-channel-amplifier-1600-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-gen-x1200-2-full-range-class-ab-2-channel-amplifier-1200-watts",
+   "model": "GEN-X1200.2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 GEN-X1200.2 Full-Range Class AB 2-Channel Amplifier 1200 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 2,
+   "rms_ratings": [
+    {
+     "w_per_ch": 180,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     400.0,
+     190.0,
+     55.0
+    ],
+    "as_published": "Dimensions (L x W x H):|400 x 190 x 55mm"
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gen-x1200-2-full-range-class-ab-2-channel-amplifier-1200-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-elite-full-range-1-channel-monoblock-class-d-amplifier-new-edition",
+   "model": "ZXI.1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 ELITE ZXI.1 1-Channel Class D Amplifier 1000 Watts RMS @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/elite-full-range-1-channel-monoblock-class-d-amplifier-new-edition",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-x4-ultra-small-full-range-class-d-4-channel-amp-1320-watts",
+   "model": "X4",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "X 4-Channel Ultra Compact Class D Amplifier 4 x 70 Watts Rms @ 4-ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 70,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 140,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     3576.3,
+     2093.0,
+     863.6
+    ],
+    "as_published_in": [
+     140.8,
+     82.4,
+     34.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-x4-ultra-small-full-range-class-d-4-channel-amp-1320-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": ""
+  },
+  {
+   "id": "ds18-ds18-gfx-8k2-pro-full-range-class-d-1-channel-monoblock-car-amplifier-8000-watts-rms-",
+   "model": "GFX-8K2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 8000 Watts Rms @ 2-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 8000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 8.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     10566.4,
+     5994.4,
+     1828.8
+    ],
+    "as_published_in": [
+     416.0,
+     236.0,
+     72.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-8k2-pro-full-range-class-d-1-channel-monoblock-car-amplifier-8000-watts-rms-2-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-gfx-8k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-8000-watts-rms-",
+   "model": "GFX-8K1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 8000 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 8000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     10566.4,
+     5994.4,
+     1828.8
+    ],
+    "as_published_in": [
+     416.0,
+     236.0,
+     72.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-8k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-8000-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-gfx-5k2-pro-full-range-class-d-1-channel-monoblock-car-amplifier-5000-watts-rms-",
+   "model": "GFX-5K2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 5000 Watts Rms @ 2-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 8.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     7391.4,
+     5994.4,
+     1828.8
+    ],
+    "as_published_in": [
+     291.0,
+     236.0,
+     72.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-5k2-pro-full-range-class-d-1-channel-monoblock-car-amplifier-5000-watts-rms-2-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-gfx-5k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-5000-watts-rms-",
+   "model": "GFX-5K1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 5000 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 3500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     7391.4,
+     5994.4,
+     1828.8
+    ],
+    "as_published_in": [
+     291.0,
+     236.0,
+     72.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-5k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-5000-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-gfx-3k2-pro-full-range-class-d-1-channel-monoblock-car-amplifier-3000-watts-rms-",
+   "model": "GFX-3K2",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 3000 Watts Rms @ 2-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 8.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     5359.4,
+     5994.4,
+     1828.8
+    ],
+    "as_published_in": [
+     211.0,
+     236.0,
+     72.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-3k2-pro-full-range-class-d-1-channel-monoblock-car-amplifier-3000-watts-rms-2-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-gfx-3k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-3000-watts-rms-",
+   "model": "GFX-3K1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "PRO 1-Channel Full-Range Class D Amplifier 3000 Watts Rms @ 1-Ohm",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     5359.4,
+     5994.4,
+     1828.8
+    ],
+    "as_published_in": [
+     211.0,
+     236.0,
+     72.0
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-gfx-3k1-pro-full-range-class-d-1-channel-monoblock-car-amplifier-3000-watts-rms-1-ohm",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-s-1500-1-select-class-ab-1-channel-monoblock-amplifier-1500-watts",
+   "model": "S-1500.1",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "DS18 SELECT S-1500.1 –  Class AB 1 Channel Monoblock Amplifier – 1500 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "AB",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null
+    },
+    {
+     "w_per_ch": 220,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 2.0,
+   "fuse_onboard_a": null,
+   "dims_mm": {
+    "mm": [
+     8839.2,
+     3759.2,
+     1206.5
+    ],
+    "as_published_in": [
+     348.0,
+     148.0,
+     47.5
+    ]
+   },
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels",
+      "dims_mm"
+     ],
+     "url": "https://www.ds18.com/products/ds18-s-1500-1-select-class-ab-1-channel-monoblock-amplifier-1500-watts",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)",
+    "rating channels = 1 (mono amp)"
+   ]
+  },
+  {
+   "id": "ds18-ds18-candy-1-channel-class-d-car-amplifier-3000-watts-1-ohm-compact",
+   "model": "CANDY-XXL1B",
+   "model_basis": "maker SKU (store vendor field)",
+   "title": "CANDY Compact Class D 1-Channel Monoblock Amplifier 3000 Watts",
+   "status": "listed on maker store 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "cta2006": null,
+   "min_load_ohm": 1.0,
+   "fuse_onboard_a": null,
+   "dims_mm": null,
+   "power_wire_awg_maker": null,
+   "power_wire_note": null,
+   "fuse_at_battery_note": null,
+   "current_draw_a": null,
+   "efficiency_pct": null,
+   "sources": [
+    {
+     "fields": [
+      "rms_ratings",
+      "class",
+      "channels"
+     ],
+     "url": "https://www.ds18.com/products/ds18-candy-1-channel-class-d-car-amplifier-3000-watts-1-ohm-compact",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text by regex; spot-checked samples only (see research_i); verify against the maker manual before relying on a value",
+   "notes": "",
+   "inferred": [
+    "rating channels = 1 (mono amp)"
+   ]
+  }
+ ],
+ "not_recorded": [
+  {
+   "title": "NXL 4-Channel Full-Range Class D Waterproof IP67 Marine and Powersports NANO Amplifier with Bluetooth 5.1 Receiver Built-In",
+   "reason": "not a car amplifier (accessory, home / pro-audio / mains amplifier)"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 1,500 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-1-5k-rd",
+   "url": "https://www.ds18.com/products/frp-1-5k-rd",
+   "reason": "duplicate listing of FRP-1.5K (colour / variant / repeat), merged into ds18-frp-1-5k-ti"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 1,500 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-1-5k-bl",
+   "url": "https://www.ds18.com/products/frp-1-5k-bl",
+   "reason": "duplicate listing of FRP-1.5K (colour / variant / repeat), merged into ds18-frp-1-5k-ti"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 5-Channel Amplifier – 250W x 4 + 1,200W Subwoofer Output",
+   "id": "ds18-frp-2-5k5-rd",
+   "url": "https://www.ds18.com/products/frp-2-5k5-rd",
+   "reason": "duplicate listing of FRP-2.5K5 (colour / variant / repeat), merged into ds18-frp-2-5k5-bl"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 5-Channel Amplifier – 250W x 4 + 1,200W Subwoofer Output",
+   "id": "ds18-frp-2-5k5-ti",
+   "url": "https://www.ds18.com/products/frp-2-5k5-ti",
+   "reason": "duplicate listing of FRP-2.5K5 (colour / variant / repeat), merged into ds18-frp-2-5k5-bl"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 12,000 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-12k-rd",
+   "url": "https://www.ds18.com/products/frp-12k-rd",
+   "reason": "duplicate listing of FRP-12K (colour / variant / repeat), merged into ds18-frp-12k-bl"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 12,000 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-12k-ti",
+   "url": "https://www.ds18.com/products/frp-12k-ti",
+   "reason": "duplicate listing of FRP-12K (colour / variant / repeat), merged into ds18-frp-12k-bl"
+  },
+  {
+   "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO10",
+   "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko10",
+   "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+   "reason": "duplicate listing of H-KO10 (colour / variant / repeat), merged into ds18-hooligan-ko-silver-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-k"
+  },
+  {
+   "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO340",
+   "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko340",
+   "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+   "reason": "duplicate listing of H-KO340/RD (colour / variant / repeat), merged into ds18-h-ko340-rd"
+  },
+  {
+   "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO5",
+   "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko5",
+   "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+   "reason": "duplicate listing of H-KO5 (colour / variant / repeat), merged into ds18-ds18-h-ko5-hooligan-1-channel-class-d-car-amplifier-5000-watts-rms-1-ohm-made-in-kore"
+  },
+  {
+   "title": "HOOLIGAN KO Amplifier with Voltmeter Made In Korea / H-KO8",
+   "id": "ds18-hooligan-ko-amplifier-with-voltmeter-made-in-korea-black-h-ko8",
+   "url": "https://www.ds18.com/products/hooligan-ko-amplifier-with-voltmeter-made-in-korea-black",
+   "reason": "duplicate listing of H-KO8 (colour / variant / repeat), merged into ds18-ds18-h-ko8-hooligan-1-channel-class-d-car-amplifier-8000-watts-rms-1-ohm-made-in-kore"
+  },
+  {
+   "title": "SXE Class D Monoblock Amplifier 1 x 500 Watts RMS @ 1-Ohm 1500 Watts",
+   "id": "ds18-sxe-1500-1d-bk",
+   "url": "https://www.ds18.com/products/sxe-1500-1d-bk",
+   "reason": "duplicate listing of SXE-1500.1D (colour / variant / repeat), merged into ds18-sxe-1500-1d-rd"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 2,500 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-2-5k-ti",
+   "url": "https://www.ds18.com/products/frp-2-5k-ti",
+   "reason": "duplicate listing of FRP-2.5K (colour / variant / repeat), merged into ds18-frp-2-5k-bl"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 2,500 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-2-5k-rd",
+   "url": "https://www.ds18.com/products/frp-2-5k-rd",
+   "reason": "duplicate listing of FRP-2.5K (colour / variant / repeat), merged into ds18-frp-2-5k-bl"
+  },
+  {
+   "title": "HOOLIGAN KO 1-Channel Amplifier with Voltmeter 8000 Watts Rms @ 1-Ohm Made In Korea",
+   "id": "ds18-h-ko8-rd",
+   "url": "https://www.ds18.com/products/h-ko8-rd",
+   "reason": "duplicate listing of H-KO8 (colour / variant / repeat), merged into ds18-ds18-h-ko8-hooligan-1-channel-class-d-car-amplifier-8000-watts-rms-1-ohm-made-in-kore"
+  },
+  {
+   "title": "HOOLIGAN KO 1-Channel Amplifier with Voltmeter 5000 Watts Rms @ 1-Ohm Made In Korea",
+   "id": "ds18-h-ko5-rd",
+   "url": "https://www.ds18.com/products/h-ko5-rd",
+   "reason": "duplicate listing of H-KO5 (colour / variant / repeat), merged into ds18-ds18-h-ko5-hooligan-1-channel-class-d-car-amplifier-5000-watts-rms-1-ohm-made-in-kore"
+  },
+  {
+   "title": "HOOLIGAN KO Full Range Class D 4-Channel Amplifier 4 x 300 Watts Rms @ 4-Ohm Made In Korea",
+   "id": "ds18-h-ko340",
+   "url": "https://www.ds18.com/products/h-ko340",
+   "reason": "duplicate listing of H-KO340 (colour / variant / repeat), merged into ds18-h-ko340-rd"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 3,500 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-3-5k-bl",
+   "url": "https://www.ds18.com/products/frp-3-5k-bl",
+   "reason": "duplicate listing of FRP-3.5K (colour / variant / repeat), merged into ds18-frp-3-5k-rd"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 3,500 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-3-5k-ti-1",
+   "url": "https://www.ds18.com/products/frp-3-5k-ti-1",
+   "reason": "duplicate listing of FRP-3.5K (colour / variant / repeat), merged into ds18-frp-3-5k-rd"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 5,000 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-5k-bl",
+   "url": "https://www.ds18.com/products/frp-5k-bl",
+   "reason": "duplicate listing of FRP-5K (colour / variant / repeat), merged into ds18-frp-5k-ti"
+  },
+  {
+   "title": "FRP Compact Full-Range Class D 1-Channel Amplifier 5,000 Watts Rms @ 1-Ohm",
+   "id": "ds18-frp-5k-rd",
+   "url": "https://www.ds18.com/products/frp-5k-rd",
+   "reason": "duplicate listing of FRP-5K (colour / variant / repeat), merged into ds18-frp-5k-ti"
+  },
+  {
+   "title": "HOOLIGAN KO Red 1-Channel Amplifier with Voltmeter 10000 Watts Rms @ 1-Ohm Made In Korea",
+   "id": "ds18-hooligan-ko-red-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-kore",
+   "url": "https://www.ds18.com/products/hooligan-ko-red-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea",
+   "reason": "duplicate listing of H-KO10 (colour / variant / repeat), merged into ds18-hooligan-ko-silver-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-k"
+  },
+  {
+   "title": "HOOLIGAN KO Black 1-Channel Amplifier with Voltmeter 10000 Watts Rms @ 1-Ohm Made In Korea",
+   "id": "ds18-hooligan-ko-black-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-ko",
+   "url": "https://www.ds18.com/products/hooligan-ko-black-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea",
+   "reason": "duplicate listing of H-KO10 (colour / variant / repeat), merged into ds18-hooligan-ko-silver-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-k"
+  },
+  {
+   "title": "HOOLIGAN KO Gold 1-Channel Amplifier with Voltmeter 10000 Watts Rms @ 1-Ohm Made In Korea",
+   "id": "ds18-hooligan-ko-gold-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-kor",
+   "url": "https://www.ds18.com/products/hooligan-ko-gold-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-korea",
+   "reason": "duplicate listing of H-KO10 (colour / variant / repeat), merged into ds18-hooligan-ko-silver-1-channel-amplifier-with-voltmeter-10000-watts-rms-1-ohm-made-in-k"
+  },
+  {
+   "title": "SXE Class D 4-Channel Amplifier 4 x 100 Watts RMS @ 4-Ohm 2000 Watts",
+   "id": "ds18-sxe-2000-4d-bk",
+   "url": "https://www.ds18.com/products/sxe-2000-4d-bk",
+   "reason": "duplicate listing of SXE-2000.4D (colour / variant / repeat), merged into ds18-sxe-2000-4d-rd"
+  },
+  {
+   "title": "SXE Class D 1-Channel Amplifier 1 x 800 Watts RMS @ 1-Ohm 2500 Watts",
+   "id": "ds18-sxe-2500-1d-bk",
+   "url": "https://www.ds18.com/products/sxe-2500-1d-bk",
+   "reason": "duplicate listing of SXE-2500.1D (colour / variant / repeat), merged into ds18-sxe-2500-1d-rd"
+  },
+  {
+   "title": "SXE Class D 4-Channel Full-Range Amplifier 4 x 275 RMS @ 4-Ohm 4000 Watts",
+   "id": "ds18-sxe-4000-4d-bk",
+   "url": "https://www.ds18.com/products/sxe-4000-4d-bk",
+   "reason": "duplicate listing of SXE-4000.4D (colour / variant / repeat), merged into ds18-sxe-4000-4d-rd"
+  },
+  {
+   "title": "SXE Class D 4-Channel  Full-Range Amplifier 4 x 200 RMS @ 4-Ohm 3000 Watt",
+   "id": "ds18-sxe-3000-4d-bk",
+   "url": "https://www.ds18.com/products/sxe-3000-4d-bk",
+   "reason": "duplicate listing of SXE-3000.4D (colour / variant / repeat), merged into ds18-sxe-3000-4d-rd"
+  },
+  {
+   "title": "SXE Class A/B 4-Channel Full-Range Amplifier 4 x 60 RMS @ 4-Ohm 1200 Watts",
+   "id": "ds18-sxe-1200-4-bk",
+   "url": "https://www.ds18.com/products/sxe-1200-4-bk",
+   "reason": "duplicate listing of SXE-1200.4 (colour / variant / repeat), merged into ds18-sxe-1200-4-rd"
+  }
+ ]
+}

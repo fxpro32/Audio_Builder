@@ -1,0 +1,1080 @@
+{
+ "schema": "parts_raw/1",
+ "category": "cable",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, products.json (title, vendor field = model, body numbers); scripts/parts/build_ds18_accessories.py",
+ "terms_note": "Numbers only, URL per record; USD maker-store prices.",
+ "units": {
+  "length_m": "m (converted from feet)",
+  "awg_nominal_mm2": "mm2 for the stated AWG (ASTM B258 formula), NOT measured",
+  "actual_area_mm2_from_strands": "mm2 = strands x pi/4 x d^2 from the maker strand count"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 38,
+ "records": [
+  {
+   "id": "ds18-sw-14ga-100rb",
+   "model": "SW-14GA-100RB",
+   "title": "14-GA Ultra Flex CCA Speaker Wire 100 Ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/sw-14ga-100rb",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "14",
+   "awg_nominal_mm2": 2.08,
+   "material": "CCA",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-ds18-sw-ofc8ga-100rb-ofc-8-ga-speaker-wire-100-feet",
+   "model": "SW-OFC8GA-100RB",
+   "title": "8-GA OFC 100% Copper Speaker Wire 100 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-sw-ofc8ga-100rb-ofc-8-ga-speaker-wire-100-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "material": "OFC",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-ds18-sw-ofc10ga-250rb-ofc-10-ga-speaker-wire-250-feet",
+   "model": "SW-OFC10GA-250RB",
+   "title": "10-GA OFC 100% Copper Speaker Wire 250 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-sw-ofc10ga-250rb-ofc-10-ga-speaker-wire-250-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "10",
+   "awg_nominal_mm2": 5.26,
+   "material": "OFC",
+   "length_m": 76.2,
+   "length_ft": 250,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-copy-of-ds18-sw-ofc16ga-500rb-ofc-16-ga-speaker-wire-500-feet",
+   "model": "SW-OFC16GA-500RB",
+   "title": "16-GA OFC 100% Copper Speaker Wire 500 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/copy-of-ds18-sw-ofc16ga-500rb-ofc-16-ga-speaker-wire-500-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "material": "OFC",
+   "length_m": 152.4,
+   "length_ft": 500,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-ds18-sw-ofc18ga-500rb-ofc-18-ga-speaker-wire-500-feet",
+   "model": "SW-OFC18GA-500RB",
+   "title": "18-GA OFC 100% Copper Speaker Wire 500 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-sw-ofc18ga-500rb-ofc-18-ga-speaker-wire-500-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "material": "OFC",
+   "length_m": 152.4,
+   "length_ft": 500,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-ds18-sw-ofc12ga-250rb-ofc-12-ga-speaker-wire-250-feet",
+   "model": "SW-OFC12GA-250RB",
+   "title": "12-GA OFC 100% Copper Speaker Wire 250 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-sw-ofc12ga-250rb-ofc-12-ga-speaker-wire-250-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "material": "OFC",
+   "length_m": 76.2,
+   "length_ft": 250,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-ds18-pw-ofc4ga-50-ultra-flex-100-ofc-ground-power-cable-50-feet",
+   "model": "PW-OFC4GA-50",
+   "title": "4-GA 100% OFC Ground, Power Cable, 50 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pw-ofc4ga-50-ultra-flex-100-ofc-ground-power-cable-50-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": [
+    500,
+    1000
+   ]
+  },
+  {
+   "id": "ds18-ds18-pw-ofc4ga-50cmgr-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-camo-green",
+   "model": "PW-OFC4GA-50CMGR",
+   "title": "4-GA 100% OFC Ground, Power Cable, 50 Feet -Camo Green",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pw-ofc4ga-50cmgr-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-camo-green",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": [
+    500,
+    1000
+   ]
+  },
+  {
+   "id": "ds18-ds18-pw-ofc4ga-50ygr-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-green",
+   "model": "PW-OFC4GA-50GR",
+   "title": "DS18 PW-OFC4GA-50YGR 4-GA Ultra Flex 100% OFC Ground, Power Cable, 50 Feet, Green",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pw-ofc4ga-50ygr-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-green",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": [
+    500,
+    1000
+   ]
+  },
+  {
+   "id": "ds18-ds18-pw-ofc4ga-50slv-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-silver",
+   "model": "PW-OFC4GA-50SLV",
+   "title": "4-GA 100% OFC Ground, Power Cable, 50 Feet -Silver",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pw-ofc4ga-50slv-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-silver",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": [
+    500,
+    1000
+   ]
+  },
+  {
+   "id": "ds18-ds18-pw-ofc4ga-50yl-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-yellow",
+   "model": "PW-OFC4GA-50YL",
+   "title": "4-GA 100% OFC Ground, Power Cable, 50 Feet -Yellow",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pw-ofc4ga-50yl-4-ga-ultra-flex-100-ofc-ground-power-cable-50-feet-yellow",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": [
+    500,
+    1000
+   ]
+  },
+  {
+   "id": "ds18-ds18-pw-ofc1-0ga-25gr-1-0-ga-ultra-flex-100-ofc-ground-power-cable-25-feet",
+   "model": "PW-OFC1/0GA-25",
+   "title": "1/0-GA 100% OFC Ground, Power Cable, 25 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pw-ofc1-0ga-25gr-1-0-ga-ultra-flex-100-ofc-ground-power-cable-25-feet",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "1/0",
+   "awg_nominal_mm2": 53.48,
+   "material": "OFC",
+   "length_m": 7.62,
+   "length_ft": 25,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": [
+    1500,
+    2000
+   ]
+  },
+  {
+   "id": "ds18-ds18-sw-16ga-1000slvb-16-ga-speaker-wire-1000-feet-silver",
+   "model": "SW-16GA-1000SLVB",
+   "title": "16-GA Speaker Wire 1000 Feet -Silver and Black",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-sw-16ga-1000slvb-16-ga-speaker-wire-1000-feet-silver",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "material": "CCA",
+   "length_m": 304.8,
+   "length_ft": 1000,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-ds18-sw-12ga-500slvb-12-ga-speaker-wire-500-feet-silver",
+   "model": "SW-12GA-500SLVB",
+   "title": "12-GA Speaker Wire 500 Feet -Silver and Black",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-sw-12ga-500slvb-12-ga-speaker-wire-500-feet-silver",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "material": "CCA",
+   "length_m": 152.4,
+   "length_ft": 500,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-12-ga-ultra-flex-cca-speaker-wire-100-ft",
+   "model": "SW-12GA-100RB",
+   "title": "12-GA Ultra Flex CCA Speaker Wire 100 Ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/12-ga-ultra-flex-cca-speaker-wire-100-ft",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "material": "CCA",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-18-ga-ultra-flex-cca-speaker-wire-100-ft",
+   "model": "SW-18GA-100RB",
+   "title": "18-GA Ultra Flex CCA Speaker Wire 100 Ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/18-ga-ultra-flex-cca-speaker-wire-100-ft",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "material": "CCA",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-16-ga-ultra-flex-cca-speaker-wire-100-ft",
+   "model": "SW-16GA-100RB",
+   "title": "16-GA Ultra Flex CCA Speaker Wire 100 Ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/16-ga-ultra-flex-cca-speaker-wire-100-ft",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "material": "CCA",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-10-ga-ultra-flex-cca-speaker-wire-100-ft-1",
+   "model": "SW-10GA-100RB",
+   "title": "10-GA Ultra Flex CCA Speaker Wire 100 Ft",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/10-ga-ultra-flex-cca-speaker-wire-100-ft-1",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "10",
+   "awg_nominal_mm2": 5.26,
+   "material": "CCA",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-12-ga-500-speaker-wire",
+   "model": "SW-12GA-500",
+   "title": "12-GA Speaker Wire 500 Feet - Red",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/12-ga-500-speaker-wire",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "material": "CCA",
+   "length_m": 152.4,
+   "length_ft": 500,
+   "strands": 189,
+   "strand_d_mm": 0.15,
+   "actual_area_mm2_from_strands": 3.34,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-0-ga-ultra-flex-cca-ground-power-cable-5-black-and-20-red-combo",
+   "model": "PW-1/0GA-5BK/20RD",
+   "title": "0-GA Ultra Flex CCA Ground Power Cable 5 Ft Black and 20 Ft Red Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/0-ga-ultra-flex-cca-ground-power-cable-5-black-and-20-red-combo",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "1/0",
+   "awg_nominal_mm2": 53.48,
+   "material": "CCA",
+   "length_m": null,
+   "length_ft": null,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "note": "kit: 5 ft black + 20 ft red"
+  },
+  {
+   "id": "ds18-8-ga-ultra-flex-cca-ground-power-cable-5-black-and-20-red-combo",
+   "model": "PW-8GA-5BK/20RD",
+   "title": "8-GA Ultra Flex CCA Ground Power Cable 5 Ft Black and 20 Ft Red Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/8-ga-ultra-flex-cca-ground-power-cable-5-black-and-20-red-combo",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "material": "CCA",
+   "length_m": null,
+   "length_ft": null,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "note": "kit: 5 ft black + 20 ft red"
+  },
+  {
+   "id": "ds18-0-ga-ultra-flex-ofc-ground-power-cable-5-black-and-20-red-combo",
+   "model": "PW-OFC1/0GA-5BK/20RD",
+   "title": "1/0-GA Ultra Flex OFC Ground Power Cable 5 Ft Black and 20 Ft Red Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/0-ga-ultra-flex-ofc-ground-power-cable-5-black-and-20-red-combo",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "1/0",
+   "awg_nominal_mm2": 53.48,
+   "material": "OFC",
+   "length_m": null,
+   "length_ft": null,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "note": "kit: 5 ft black + 20 ft red"
+  },
+  {
+   "id": "ds18-4-ga-ultra-flex-ofc-ground-power-cable-5-black-and-20-red-combo",
+   "model": "PW-OFC4GA-5BK/20RD",
+   "title": "4-GA Ultra Flex OFC Ground Power Cable 5 Ft Black and 20 Ft Red Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/4-ga-ultra-flex-ofc-ground-power-cable-5-black-and-20-red-combo",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": null,
+   "length_ft": null,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "note": "kit: 5 ft black + 20 ft red"
+  },
+  {
+   "id": "ds18-8-ga-ultra-flex-ofc-ground-power-cable-5-black-and-20-red-kit",
+   "model": "PW-OFC8GA-5BK/20RD",
+   "title": "8-GA Ultra Flex OFC Ground Power Cable 5 Ft Black and 20 Ft Red Kit",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/8-ga-ultra-flex-ofc-ground-power-cable-5-black-and-20-red-kit",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "material": "OFC",
+   "length_m": null,
+   "length_ft": null,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "note": "kit: 5 ft black + 20 ft red"
+  },
+  {
+   "id": "ds18-4-ga-ultra-flex-cca-ground-power-cable-100",
+   "model": "PW-4GA-100",
+   "title": "4-GA CCA Ground, Power Cable, 100 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/4-ga-ultra-flex-cca-ground-power-cable-100",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "CCA",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-1-0-ga-ultra-flex-cca-ground-power-cable-50",
+   "model": "PW-1/0GA-50",
+   "title": "1/0-GA CCA Ground, Power Cable, 50 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/1-0-ga-ultra-flex-cca-ground-power-cable-50",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "1/0",
+   "awg_nominal_mm2": 53.48,
+   "material": "CCA",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-8-ga-ultra-flex-cca-ground-power-cable-250",
+   "model": "PW-8GA-250",
+   "title": "8-GA CCA Ground, Power Cable, 250 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/8-ga-ultra-flex-cca-ground-power-cable-250",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "material": "CCA",
+   "length_m": 76.2,
+   "length_ft": 250,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-16-ga-1000-speaker-wire",
+   "model": "SW-16GA-1000",
+   "title": "16-GA Speaker Wire 1000 Feet - Red",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/16-ga-1000-speaker-wire",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "material": null,
+   "length_m": 304.8,
+   "length_ft": 1000,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "quality_issues": [
+    "material_null"
+   ],
+   "check": "not clean: material_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-marine-grade-ofc-speaker-wire-16ga-150-ft",
+   "model": "MOFC16GA150SW",
+   "title": "16-GA Marine Grade Tinned 100% Copper OFC Speaker Wire -150 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-grade-ofc-speaker-wire-16ga-150-ft",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "material": "OFC",
+   "length_m": 45.72,
+   "length_ft": 150,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-marine-grade-ofc-speaker-wire-12ga-150-ft",
+   "model": "MOFC12GA150SW",
+   "title": "12-GA Marine Grade Tinned 100% Copper OFC Speaker Wire -150 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-grade-ofc-speaker-wire-12ga-150-ft",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "12",
+   "awg_nominal_mm2": 3.31,
+   "material": "OFC",
+   "length_m": 45.72,
+   "length_ft": 150,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-marine-grade-ofc-power-wire-8ga-25-ft-red",
+   "model": "MOFC8GA100P",
+   "title": "8-GA Marine Grade Tinned 100% Copper OFC Power Wire -100 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-grade-ofc-power-wire-8ga-25-ft-red",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "material": "OFC",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-marine-grade-ofc-ground-wire-8ga-25-ft-black",
+   "model": "MOFC8GA100G",
+   "title": "8-GA Marine Grade Tinned 100% Copper OFC Ground Wire -100 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-grade-ofc-ground-wire-8ga-25-ft-black",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "8",
+   "awg_nominal_mm2": 8.37,
+   "material": "OFC",
+   "length_m": 30.48,
+   "length_ft": 100,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-copy-of-marine-grade-ofc-ground-wire-4ga-25-ft-black",
+   "model": "MOFC4GA50G",
+   "title": "4-GA Marine Grade Tinned 100% Copper OFC Ground Wire -50 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/copy-of-marine-grade-ofc-ground-wire-4ga-25-ft-black",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-marine-grade-ofc-power-wire-4ga-25-ft-red",
+   "model": "MOFC4GA50P",
+   "title": "4-GA Marine Grade Tinned 100% Copper OFC Power Wire -50 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-grade-ofc-power-wire-4ga-25-ft-red",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "4",
+   "awg_nominal_mm2": 21.15,
+   "material": "OFC",
+   "length_m": 15.24,
+   "length_ft": 50,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-marine-grade-ofc-power-wire-0ga-25-ft-red",
+   "model": "MOFC0GA25P",
+   "title": "0-GA Marine Grade Tinned 100% Copper OFC Power Wire -25 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-grade-ofc-power-wire-0ga-25-ft-red",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "1/0",
+   "awg_nominal_mm2": 53.48,
+   "material": "OFC",
+   "length_m": 7.62,
+   "length_ft": 25,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-marine-grade-ofc-ground-wire-0ga-25-ft-black",
+   "model": "MOFC0GA25G",
+   "title": "0-GA Marine Grade Tinned 100% Copper OFC Ground Wire -25 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/marine-grade-ofc-ground-wire-0ga-25-ft-black",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "power/ground",
+   "awg": "1/0",
+   "awg_nominal_mm2": 53.48,
+   "material": "OFC",
+   "length_m": 7.62,
+   "length_ft": 25,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null
+  },
+  {
+   "id": "ds18-18-ga-1000-speaker-wire",
+   "model": "SW-18GA-1000",
+   "title": "18-GA Speaker Wire 1000 Feet Red",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/18-ga-1000-speaker-wire",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "speaker",
+   "awg": "18",
+   "awg_nominal_mm2": 0.82,
+   "material": null,
+   "length_m": 304.8,
+   "length_ft": 1000,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "quality_issues": [
+    "material_null"
+   ],
+   "check": "not clean: material_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-16-ga-ultra-flex-remote-wire-primary-wire-500",
+   "model": "RE-16GA-500",
+   "title": "16-GA Remote Wire Primary Wire 500 Feet",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/16-ga-ultra-flex-remote-wire-primary-wire-500",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "remote/primary",
+   "awg": "16",
+   "awg_nominal_mm2": 1.31,
+   "material": null,
+   "length_m": 152.4,
+   "length_ft": 500,
+   "strands": null,
+   "strand_d_mm": null,
+   "actual_area_mm2_from_strands": null,
+   "maker_power_range_w": null,
+   "quality_issues": [
+    "material_null"
+   ],
+   "check": "not clean: material_null (scripts/parts/quality.py); verify against the maker page or manual"
+  }
+ ],
+ "not_recorded": []
+}

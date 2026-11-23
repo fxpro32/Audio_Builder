@@ -1,0 +1,143 @@
+{
+ "schema": "parts_raw/1",
+ "category": "terminals",
+ "brand": "Rockford Fosgate",
+ "maker_site": "https://rockfordfosgate.com",
+ "method": "maker accessory pages from https://rockfordfosgate.com/products/selector/car-accessories/ (title and overview numbers); scripts/parts/build_rockford_acc.py",
+ "terms_note": "Numbers only with URL. Rockford accessory pages have no spec table.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 6,
+ "records": [
+  {
+   "id": "rockford-fosgate-rfdb1",
+   "model": "RFDB1",
+   "title": "4 AWG or 1/0 AWG Positive-Negative Battery Terminal",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfdb1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "battery terminal",
+   "awg": [
+    "4",
+    "1/0"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfdb4",
+   "model": "RFDB4",
+   "title": "4 AWG Positive/Negative Battery Terminal",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfdb4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "battery terminal",
+   "awg": [
+    "4"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfdgm",
+   "model": "RFDGM",
+   "title": "GM Battery Post Extender",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfdgm/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "battery terminal",
+   "awg": null
+  },
+  {
+   "id": "rockford-fosgate-rfdgml",
+   "model": "RFDGML",
+   "title": "GM Battery Post Extender For Double Stacked Terminals",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfdgml/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "battery terminal",
+   "awg": null
+  },
+  {
+   "id": "rockford-fosgate-rfts1",
+   "model": "RFTS1",
+   "title": "1/0 AWG Seamed Crimp Style Ring Terminal",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfts1/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "terminal",
+   "awg": [
+    "1/0"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfts4",
+   "model": "RFTS4",
+   "title": "4 AWG Seamed Crimp Style Ring Terminal",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfts4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "terminal",
+   "awg": [
+    "4"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

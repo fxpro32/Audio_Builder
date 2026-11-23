@@ -1,0 +1,11 @@
+{
+ "brand": "Hifonics",
+ "country": "USA",
+ "brand_url": "https://hifonics.com",
+ "terms_note": " | hp_subs_raw terms note: BLOCKED by bot check even on the direct route: https://hifonics.com/ and https://hifonics.com/sitemap.xml return HTTP 403 (Cloudflare) to plain curl from the VPN container (2026-11-21) and from a non-VPN connection (2026-11-22). No browser was run on a non-VPN connection (PM rule: read-only curl only). The parent company site https://maxxsonics.com/ (200 from a non-VPN connection) has no product data. The pages are to be saved by hand. Not bypassed. 2026-11-22 VERIFIED on hifonics.com from a non-VPN connection: the biggest Hifonics sub is rated 3000 W max (peak), not RMS, so no Hifonics sub reaches 2000 W RMS.",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/hifonics.json",
+ "drivers": [],
+ "no_ts_published": [],
+ "excluded_notes": "No Hifonics sub reaches 2000 W RMS: largest is 3000 W max/peak (hifonics.com, 2026-11-22). Earlier retailer claims of 2000 W RMS for Brutus B12D2/B15D2 are not supported by the maker."
+}

@@ -1,0 +1,707 @@
+{
+ "brand": "MTX Audio",
+ "country": "USA",
+ "brand_url": "https://www.mtx.com",
+ "terms_note": "mtx.com is behind Cloudflare (A2: curl 403). Values from the maker catalogue PDF the PM fetched through a non-VPN connection on 2026-11-22 (no new requests by R4). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "coaxial",
+ "drivers": [
+  {
+   "model": "MTX THUNDER693",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    42,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 76.2,
+   "cutout_mm": [
+    149.6,
+    221.1
+   ],
+   "frame_mm": [
+    186.2,
+    259.2
+   ],
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "3-Way Coaxials"
+  },
+  {
+   "model": "MTX THUNDER68",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "5x7",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    45,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 62,
+   "cutout_mm": [
+    125.4,
+    181.9
+   ],
+   "frame_mm": [
+    137.6,
+    193.5
+   ],
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX THUNDER65",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    48,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 52.4,
+   "cutout_mm": 127,
+   "frame_mm": 158,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX THUNDER52",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 45,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    55,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 57.2,
+   "cutout_mm": 118.1,
+   "frame_mm": 129.9,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX THUNDER46",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    80,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 50.8,
+   "cutout_mm": [
+    91,
+    142
+   ],
+   "frame_mm": [
+    104.4,
+    160.3
+   ],
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX TERMINATOR69",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 60,
+   "peak_w": null,
+   "sensitivity_db": 87.8,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    51,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 70.1,
+   "cutout_mm": [
+    142.9,
+    214.9
+   ],
+   "frame_mm": [
+    162.7,
+    234.9
+   ],
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX TERMINATOR68",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "5x7",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 55,
+   "peak_w": null,
+   "sensitivity_db": 87.9,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    47,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 59.5,
+   "cutout_mm": [
+    126.1,
+    182.7
+   ],
+   "frame_mm": [
+    130.4,
+    200.3
+   ],
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX TERMINATOR6",
+   "type": "coaxial",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 45,
+   "peak_w": null,
+   "sensitivity_db": 86.8,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    62,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 41.5,
+   "cutout_mm": 124.8,
+   "frame_mm": 158.7,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX TERMINATOR5",
+   "type": "coaxial",
+   "size_in": 5.25,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 35,
+   "peak_w": null,
+   "sensitivity_db": 85.3,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    65,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 42.9,
+   "cutout_mm": 114.3,
+   "frame_mm": 130,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX TERMINATOR46",
+   "type": "coaxial",
+   "size_in": null,
+   "size_label": "4x6",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": null,
+   "sensitivity_db": 86.1,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    85,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 39.9,
+   "cutout_mm": [
+    90.7,
+    141.9
+   ],
+   "frame_mm": [
+    100.8,
+    152.4
+   ],
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX TERMINATOR4",
+   "type": "coaxial",
+   "size_in": 4,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 30,
+   "peak_w": null,
+   "sensitivity_db": 88.1,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    93,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 42,
+   "cutout_mm": 97,
+   "frame_mm": 111,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  },
+  {
+   "model": "MTX TERMINATOR35",
+   "type": "coaxial",
+   "size_in": 3.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 20,
+   "peak_w": null,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    114,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33,
+   "cutout_mm": 78,
+   "frame_mm": 102.6,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf",
+     "doc": "MTX product catalogue 2025 (PDF)",
+     "page": "35",
+     "read_date": "2026-11-22",
+     "tier": 1
+    }
+   ],
+   "notes": "MTX catalogue 2025 p.35 'Speaker Specs' table; sensitivity reference not stated; no T/S published.",
+   "maker_type": "2-Way Coaxials"
+  }
+ ],
+ "no_specs_published": []
+}

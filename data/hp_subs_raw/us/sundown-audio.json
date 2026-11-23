@@ -1,0 +1,2279 @@
+{
+ "brand": "Sundown Audio",
+ "country": "USA",
+ "brand_url": "https://sundownaudio.com",
+ "terms_note": "Shopify store. robots.txt: public product pages crawlable; no terms page forbidding reading found. Server rate-limits fast requests ('local_rate_limited'), so pages were read 7 s apart. Only numbers recorded.",
+ "drivers": [
+  {
+   "model": "X v.4 12 (Xv4-12) D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.39,
+    "re_ohm": 2.05,
+    "qms": 4.95,
+    "qes": 0.58,
+    "qts": 0.5,
+    "vas_l": 14.13,
+    "sd_cm2": 735.5,
+    "xmax_mm": 30,
+    "mms_g": 343.14,
+    "bl_tm": 24.4,
+    "le_mh": 1.33,
+    "spl_db_1w1m": 83.47,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 298.4,
+   "cutout_mm": 281.7,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-12-3000w-rms-subwoofer",
+     "note": "published as 2.5 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-12-3000w-rms-subwoofer",
+     "note": "published as 1.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-12-3000w-rms-subwoofer",
+     "note": "published as 3.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-12-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 11.75 in, cut-out 11.09 in, displacement 0.23 cu ft."
+  },
+  {
+   "model": "X v.4 12 (Xv4-12) D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.06,
+    "re_ohm": 3.25,
+    "qms": 4.82,
+    "qes": 0.54,
+    "qts": 0.49,
+    "vas_l": 15.75,
+    "sd_cm2": 735.5,
+    "xmax_mm": 30,
+    "mms_g": 367.13,
+    "bl_tm": 22.25,
+    "le_mh": 2.6,
+    "spl_db_1w1m": 83.06,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 298.4,
+   "cutout_mm": 281.7,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-12-3000w-rms-subwoofer",
+     "note": "published as 2.5 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-12-3000w-rms-subwoofer",
+     "note": "published as 1.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-12-3000w-rms-subwoofer",
+     "note": "published as 3.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-12-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 11.75 in, cut-out 11.09 in, displacement 0.23 cu ft."
+  },
+  {
+   "model": "X v.4 10 (Xv4-10) D1",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41.37,
+    "re_ohm": 3.2,
+    "qms": 5.07,
+    "qes": 0.58,
+    "qts": 0.52,
+    "vas_l": 8.24,
+    "sd_cm2": 506.6,
+    "xmax_mm": 30,
+    "mms_g": 341.7,
+    "bl_tm": 22.19,
+    "le_mh": 2.68,
+    "spl_db_1w1m": 81.76,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 279.4,
+   "cutout_mm": 254.3,
+   "displacement_l": 6.23,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-10-3000w-rms-subwoofer",
+     "note": "published as 1.5 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 21.24,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-10-3000w-rms-subwoofer",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 63.71,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-10-3000w-rms-subwoofer",
+     "note": "published as 2.25 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-10-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM: D1 Re 3.20 ohm is high for a dual 1 ohm sub (other D1 models 1.8 to 2.3); check. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 11.0 in, cut-out 10.01 in, displacement 0.22 cu ft."
+  },
+  {
+   "model": "X v.4 10 (Xv4-10) D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.04,
+    "re_ohm": 3.74,
+    "qms": 3.99,
+    "qes": 0.46,
+    "qts": 0.41,
+    "vas_l": 8.38,
+    "sd_cm2": 506.6,
+    "xmax_mm": 30,
+    "mms_g": 396.92,
+    "bl_tm": 27.41,
+    "le_mh": null,
+    "spl_db_1w1m": 81.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 279.4,
+   "cutout_mm": 254.3,
+   "displacement_l": 6.23,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-10-3000w-rms-subwoofer",
+     "note": "published as 1.5 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 21.24,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-10-3000w-rms-subwoofer",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 63.71,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-10-3000w-rms-subwoofer",
+     "note": "published as 2.25 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-10-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM: D1 Re 3.20 ohm is high for a dual 1 ohm sub (other D1 models 1.8 to 2.3); check. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 11.0 in, cut-out 10.01 in, displacement 0.22 cu ft."
+  },
+  {
+   "model": "X v.4 15 (Xv4-15) D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.91,
+    "re_ohm": 3.2,
+    "qms": 4.87,
+    "qes": 0.55,
+    "qts": 0.49,
+    "vas_l": 31.43,
+    "sd_cm2": 1141.9,
+    "xmax_mm": 30,
+    "mms_g": 457.51,
+    "bl_tm": 22.32,
+    "le_mh": 2.57,
+    "spl_db_1w1m": 85.29,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 328.9,
+   "cutout_mm": 353.8,
+   "displacement_l": 7.36,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 120.35,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-15-3000w-rms-subwoofer",
+     "note": "published as 4.25 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-15-3000w-rms-subwoofer",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 169.9,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-15-3000w-rms-subwoofer",
+     "note": "published as 6.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-15-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM: D1 Re 3.20 ohm is high for a dual 1 ohm sub (other D1 models 1.8 to 2.3); check. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 12.95 in, cut-out 13.93 in, displacement 0.26 cu ft."
+  },
+  {
+   "model": "X v.4 15 (Xv4-15) D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.51,
+    "re_ohm": 3.74,
+    "qms": 4.08,
+    "qes": 0.49,
+    "qts": 0.44,
+    "vas_l": 40.41,
+    "sd_cm2": 1141.9,
+    "xmax_mm": 30,
+    "mms_g": 538.24,
+    "bl_tm": 27.44,
+    "le_mh": null,
+    "spl_db_1w1m": 85.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 328.9,
+   "cutout_mm": 353.8,
+   "displacement_l": 7.36,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 120.35,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-15-3000w-rms-subwoofer",
+     "note": "published as 4.25 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-15-3000w-rms-subwoofer",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 169.9,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-15-3000w-rms-subwoofer",
+     "note": "published as 6.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-15-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM: D1 Re 3.20 ohm is high for a dual 1 ohm sub (other D1 models 1.8 to 2.3); check. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 12.95 in, cut-out 13.93 in, displacement 0.26 cu ft."
+  },
+  {
+   "model": "X v.4 18 (Xv4-18) D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.87,
+    "re_ohm": 2.05,
+    "qms": 4.13,
+    "qes": 0.63,
+    "qts": 0.54,
+    "vas_l": 93.67,
+    "sd_cm2": 1641.9,
+    "xmax_mm": 30,
+    "mms_g": 737.81,
+    "bl_tm": 19.74,
+    "le_mh": null,
+    "spl_db_1w1m": 86.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 381.0,
+   "cutout_mm": 423.9,
+   "displacement_l": 7.93,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-18-3000w-rms-subwoofer",
+     "note": "published as 7.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-18-3000w-rms-subwoofer",
+     "note": "published as 3.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 254.85,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-18-3000w-rms-subwoofer",
+     "note": "published as 9.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-18-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM: D2 Qts 0.84 contradicts Qms 4.03 / Qes 0.55 (calculated Qts 0.484), and D2 Vas 17.58 L is implausible beside D1 93.67 L for the same cone; check with the maker. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 15.0 in, cut-out 16.69 in, displacement 0.28 cu ft."
+  },
+  {
+   "model": "X v.4 18 (Xv4-18) D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": 5500,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.58,
+    "re_ohm": 3.74,
+    "qms": 4.03,
+    "qes": 0.55,
+    "qts": 0.84,
+    "vas_l": 17.58,
+    "sd_cm2": 1641.9,
+    "xmax_mm": 30,
+    "mms_g": 656.74,
+    "bl_tm": 26.8,
+    "le_mh": null,
+    "spl_db_1w1m": 87.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 381.0,
+   "cutout_mm": 423.9,
+   "displacement_l": 7.93,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page x-series-xv4-18-3000w-rms-subwoofer",
+     "note": "published as 7.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-18-3000w-rms-subwoofer",
+     "note": "published as 3.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 254.85,
+     "tuning_hz": null,
+     "source": "maker page x-series-xv4-18-3000w-rms-subwoofer",
+     "note": "published as 9.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-xv4-18-3000w-rms-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Page title says 3000W but the spec table and text say 2750 W RMS / 5500 W peak; table values used. Le not published for D2 where null. DATA PROBLEM: D2 Qts 0.84 contradicts Qms 4.03 / Qes 0.55 (calculated Qts 0.484), and D2 Vas 17.58 L is implausible beside D1 93.67 L for the same cone; check with the maker. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 15.0 in, cut-out 16.69 in, displacement 0.28 cu ft."
+  },
+  {
+   "model": "Z v.7 12 (Zv7-12) D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.22,
+    "re_ohm": 2.08,
+    "qms": 5.466,
+    "qes": 0.399,
+    "qts": 0.372,
+    "vas_l": 14.55,
+    "sd_cm2": 735.5,
+    "xmax_mm": 42,
+    "mms_g": 605.51,
+    "bl_tm": 24.05,
+    "le_mh": 1.99,
+    "spl_db_1w1m": 87.18,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 324.1,
+   "cutout_mm": 281.7,
+   "displacement_l": 7.36,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page z-series-zv7-12",
+     "note": "published as 2.5 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-12",
+     "note": "published as 1.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-12",
+     "note": "published as 3.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/z-series-zv7-12",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 77.5 mm published. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 12.76 in, cut-out 11.09 in, displacement 0.26 cu ft."
+  },
+  {
+   "model": "Z v.7 12 (Zv7-12) D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.52,
+    "re_ohm": 4.14,
+    "qms": 5.76,
+    "qes": 0.407,
+    "qts": 0.38,
+    "vas_l": 12.7,
+    "sd_cm2": 735.5,
+    "xmax_mm": 42,
+    "mms_g": 596.29,
+    "bl_tm": 34.679,
+    "le_mh": 4.15,
+    "spl_db_1w1m": 84.99,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 324.1,
+   "cutout_mm": 281.7,
+   "displacement_l": 7.36,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page z-series-zv7-12",
+     "note": "published as 2.5 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-12",
+     "note": "published as 1.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-12",
+     "note": "published as 3.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/z-series-zv7-12",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 77.5 mm published. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 12.76 in, cut-out 11.09 in, displacement 0.26 cu ft."
+  },
+  {
+   "model": "Z v.7 15 (Zv7-15) D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.82,
+    "re_ohm": 1.96,
+    "qms": 5.919,
+    "qes": 0.412,
+    "qts": 0.385,
+    "vas_l": 33.27,
+    "sd_cm2": 1141.9,
+    "xmax_mm": 42,
+    "mms_g": 606.05,
+    "bl_tm": 23.647,
+    "le_mh": 1.83,
+    "spl_db_1w1m": 91.58,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 354.1,
+   "cutout_mm": 353.8,
+   "displacement_l": 8.21,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 113.27,
+     "tuning_hz": 32,
+     "source": "maker page z-series-zv7-15-subwoofer",
+     "note": "published as 4.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-15-subwoofer",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 169.9,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-15-subwoofer",
+     "note": "published as 6.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/z-series-zv7-15-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 77.5 mm published. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 13.94 in, cut-out 13.93 in, displacement 0.29 cu ft."
+  },
+  {
+   "model": "Z v.7 15 (Zv7-15) D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.4,
+    "re_ohm": 3.84,
+    "qms": 5.607,
+    "qes": 0.364,
+    "qts": 0.342,
+    "vas_l": 35.56,
+    "sd_cm2": 1141.9,
+    "xmax_mm": 42,
+    "mms_g": 582.89,
+    "bl_tm": 34.26,
+    "le_mh": 3.72,
+    "spl_db_1w1m": 89.32,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 354.1,
+   "cutout_mm": 353.8,
+   "displacement_l": 8.21,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 113.27,
+     "tuning_hz": 32,
+     "source": "maker page z-series-zv7-15-subwoofer",
+     "note": "published as 4.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-15-subwoofer",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 169.9,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-15-subwoofer",
+     "note": "published as 6.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/z-series-zv7-15-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 77.5 mm published. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 13.94 in, cut-out 13.93 in, displacement 0.29 cu ft."
+  },
+  {
+   "model": "Z v.7 18 (Zv7-18) D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23.48,
+    "re_ohm": 2.03,
+    "qms": 6.282,
+    "qes": 0.462,
+    "qts": 0.433,
+    "vas_l": 98.84,
+    "sd_cm2": 1641.9,
+    "xmax_mm": 42,
+    "mms_g": 858.08,
+    "bl_tm": 23.588,
+    "le_mh": 2.04,
+    "spl_db_1w1m": 92.11,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 396.5,
+   "cutout_mm": 423.7,
+   "displacement_l": 9.63,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page z-series-zv7-18-subwoofer",
+     "note": "published as 7.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-18-subwoofer",
+     "note": "published as 3.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 254.85,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-18-subwoofer",
+     "note": "published as 9.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/z-series-zv7-18-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 77.5 mm published. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 15.61 in, cut-out 16.68 in, displacement 0.34 cu ft."
+  },
+  {
+   "model": "Z v.7 18 (Zv7-18) D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": 7000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.25,
+    "re_ohm": 3.97,
+    "qms": 6.365,
+    "qes": 0.451,
+    "qts": 0.421,
+    "vas_l": 94.97,
+    "sd_cm2": 1641.9,
+    "xmax_mm": 42,
+    "mms_g": 756.36,
+    "bl_tm": 33.742,
+    "le_mh": 4.03,
+    "spl_db_1w1m": 91.07,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 396.5,
+   "cutout_mm": 423.7,
+   "displacement_l": 9.63,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page z-series-zv7-18-subwoofer",
+     "note": "published as 7.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-18-subwoofer",
+     "note": "published as 3.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 254.85,
+     "tuning_hz": null,
+     "source": "maker page z-series-zv7-18-subwoofer",
+     "note": "published as 9.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/z-series-zv7-18-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 77.5 mm published. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 15.61 in, cut-out 16.68 in, displacement 0.34 cu ft."
+  },
+  {
+   "model": "M 10 (M10) D1",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.8,
+    "re_ohm": 2.27,
+    "qms": 4.931,
+    "qes": 0.789,
+    "qts": 0.68,
+    "vas_l": 7.669,
+    "sd_cm2": 506.6,
+    "xmax_mm": 35,
+    "mms_g": 439.5,
+    "bl_tm": 17.339,
+    "le_mh": 1.89,
+    "spl_db_1w1m": 79.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 256.3,
+   "cutout_mm": 254.3,
+   "displacement_l": 5.66,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 1.5 cu ft"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 49.55,
+     "tuning_hz": null,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 1.75 cu ft"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 21.24,
+     "tuning_hz": null,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 63.71,
+     "tuning_hz": null,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 2.25 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m10-1750w-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. Sealed volume cell reads 'Ported=1.5 cu ft -->1.75 CU FT'; entered as sealed 1.75 cu ft. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 10.09 in, cut-out 10.01 in, displacement 0.2 cu ft."
+  },
+  {
+   "model": "M 10 (M10) D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.7,
+    "re_ohm": 4.19,
+    "qms": 4.847,
+    "qes": 0.761,
+    "qts": 0.658,
+    "vas_l": 7.793,
+    "sd_cm2": 506.6,
+    "xmax_mm": 35,
+    "mms_g": 434.53,
+    "bl_tm": 23.82,
+    "le_mh": 3.68,
+    "spl_db_1w1m": 79.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 256.3,
+   "cutout_mm": 254.3,
+   "displacement_l": 5.66,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 1.5 cu ft"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 49.55,
+     "tuning_hz": null,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 1.75 cu ft"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 21.24,
+     "tuning_hz": null,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 63.71,
+     "tuning_hz": null,
+     "source": "maker page m-series-m10-1750w-subwoofer",
+     "note": "published as 2.25 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m10-1750w-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. Sealed volume cell reads 'Ported=1.5 cu ft -->1.75 CU FT'; entered as sealed 1.75 cu ft. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 10.09 in, cut-out 10.01 in, displacement 0.2 cu ft."
+  },
+  {
+   "model": "M 12 (M12) D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.9,
+    "re_ohm": 2.22,
+    "qms": 4.654,
+    "qes": 0.696,
+    "qts": 0.606,
+    "vas_l": 39.313,
+    "sd_cm2": 735.5,
+    "xmax_mm": 35,
+    "mms_g": 477.93,
+    "bl_tm": 17.484,
+    "le_mh": 1.95,
+    "spl_db_1w1m": 84.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 276.4,
+   "cutout_mm": 281.7,
+   "displacement_l": 5.95,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 2.5 cu ft"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 1.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 3.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m12-1750w-subwoofer-1",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. DATA PROBLEM: D1 Vas 39.313 L vs D2 15.060 L with near-identical Fs/Mms/Sd; one is likely a typo (Cms 0.05 mm/N for both gives about 38 L). Check. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 10.88 in, cut-out 11.09 in, displacement 0.21 cu ft."
+  },
+  {
+   "model": "M 12 (M12) D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.7,
+    "re_ohm": 4.07,
+    "qms": 4.768,
+    "qes": 0.686,
+    "qts": 0.6,
+    "vas_l": 15.06,
+    "sd_cm2": 735.5,
+    "xmax_mm": 35,
+    "mms_g": 466.63,
+    "bl_tm": 23.84,
+    "le_mh": 3.64,
+    "spl_db_1w1m": 80.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 276.4,
+   "cutout_mm": 281.7,
+   "displacement_l": 5.95,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 2.5 cu ft"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 1.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer-1",
+     "note": "published as 3.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m12-1750w-subwoofer-1",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. DATA PROBLEM: D1 Vas 39.313 L vs D2 15.060 L with near-identical Fs/Mms/Sd; one is likely a typo (Cms 0.05 mm/N for both gives about 38 L). Check. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 10.88 in, cut-out 11.09 in, displacement 0.21 cu ft."
+  },
+  {
+   "model": "M 15 (M15) D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.2,
+    "re_ohm": 2.1,
+    "qms": 5.232,
+    "qes": 0.72,
+    "qts": 0.633,
+    "vas_l": 43.142,
+    "sd_cm2": 1141.9,
+    "xmax_mm": 35,
+    "mms_g": 558.91,
+    "bl_tm": 17.006,
+    "le_mh": 1.83,
+    "spl_db_1w1m": 83.0,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 306.3,
+   "cutout_mm": 353.8,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 120.35,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 4.25 cu ft"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 99.11,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 3.5 cu ft"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 169.9,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 6.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m12-1750w-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 12.06 in, cut-out 13.93 in, displacement 0.23 cu ft."
+  },
+  {
+   "model": "M 15 (M15) D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.6,
+    "re_ohm": 4.11,
+    "qms": 5.233,
+    "qes": 0.705,
+    "qts": 0.622,
+    "vas_l": 43.385,
+    "sd_cm2": 1141.9,
+    "xmax_mm": 35,
+    "mms_g": 541.08,
+    "bl_tm": 23.799,
+    "le_mh": 3.65,
+    "spl_db_1w1m": 83.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 306.3,
+   "cutout_mm": 353.8,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 120.35,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 4.25 cu ft"
+    },
+    {
+     "type": "sealed",
+     "volume_l": 99.11,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 3.5 cu ft"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 56.63,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 2.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 169.9,
+     "tuning_hz": null,
+     "source": "maker page m-series-m12-1750w-subwoofer",
+     "note": "published as 6.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m12-1750w-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 12.06 in, cut-out 13.93 in, displacement 0.23 cu ft."
+  },
+  {
+   "model": "M 18 (M18) D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.2,
+    "re_ohm": 2.12,
+    "qms": 5.452,
+    "qes": 0.782,
+    "qts": 0.684,
+    "vas_l": 112.182,
+    "sd_cm2": 1641.9,
+    "xmax_mm": 35,
+    "mms_g": 651.24,
+    "bl_tm": 17.044,
+    "le_mh": 1.8,
+    "spl_db_1w1m": 85.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 356.9,
+   "cutout_mm": 423.7,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m18-1750w-subwoofer",
+     "note": "published as 7.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page m-series-m18-1750w-subwoofer",
+     "note": "published as 3.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 254.85,
+     "tuning_hz": null,
+     "source": "maker page m-series-m18-1750w-subwoofer",
+     "note": "published as 9.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m18-1750w-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. Maker sealed volume published as a range 5 to 6 cu ft (not entered as a single box). DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 14.05 in, cut-out 16.68 in, displacement 0.25 cu ft."
+  },
+  {
+   "model": "M 18 (M18) D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": 4000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.7,
+    "re_ohm": 4.12,
+    "qms": 5.379,
+    "qes": 0.74,
+    "qts": 0.65,
+    "vas_l": 117.53,
+    "sd_cm2": 1641.9,
+    "xmax_mm": 35,
+    "mms_g": 638.99,
+    "bl_tm": 24.026,
+    "le_mh": 3.55,
+    "spl_db_1w1m": 86.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 356.9,
+   "cutout_mm": 423.7,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page m-series-m18-1750w-subwoofer",
+     "note": "published as 7.0 cu ft; maker: sealed not recommended"
+    },
+    {
+     "type": "4th order bandpass, sealed chamber",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page m-series-m18-1750w-subwoofer",
+     "note": "published as 3.0 cu ft"
+    },
+    {
+     "type": "4th order bandpass, ported chamber",
+     "volume_l": 254.85,
+     "tuning_hz": null,
+     "source": "maker page m-series-m18-1750w-subwoofer",
+     "note": "published as 9.0 cu ft; 4th-order tuning not published (port area and 8 in port length are)"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/m-series-m18-1750w-subwoofer",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Xmech 59.5 mm published. URL handle says 1750w but the page title and table say 2000 W RMS / 4000 W peak. Maker sealed volume published as a range 5 to 6 cu ft (not entered as a single box). DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Converted from imperial as published: mounting depth 14.05 in, cut-out 16.68 in, displacement 0.25 cu ft."
+  },
+  {
+   "model": "Nightshade NS v.6 12 D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.6157,
+    "re_ohm": 1.8468,
+    "qms": 5.0189,
+    "qes": 0.4665,
+    "qts": 0.4268,
+    "vas_l": 11.7603,
+    "sd_cm2": null,
+    "xmax_mm": 35,
+    "mms_g": 452.2261,
+    "bl_tm": 20.5703,
+    "le_mh": 1.6495,
+    "spl_db_1w1m": 83.0242,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 323.8,
+   "cutout_mm": 284.2,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page nightshade-ns-series-ns6-12-3000w-subwoofer-ns-v-6-used",
+     "note": "published as 2.5 cu ft; maker: sealed not recommended"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns6-12-3000w-subwoofer-ns-v-6-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Read from the maker's used-stock page (same model). Page text says 3,000 W RMS; image captions say 3500W; 3000 used. Peak not stated in the text. Sd not published on this page. BL unit printed as 'NA' (taken as T·m). Cms published (µm/N) not stored. Converted from imperial as published: mounting depth 12.75 in, cut-out 11.19 in, displacement 0.24 cu ft."
+  },
+  {
+   "model": "Nightshade NS v.6 12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.1375,
+    "re_ohm": 3.3377,
+    "qms": 5.256,
+    "qes": 0.4388,
+    "qts": 0.405,
+    "vas_l": 11.8372,
+    "sd_cm2": null,
+    "xmax_mm": 35,
+    "mms_g": 460.9337,
+    "bl_tm": 28.6043,
+    "le_mh": 3.1147,
+    "spl_db_1w1m": 83.1522,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 323.8,
+   "cutout_mm": 284.2,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 70.79,
+     "tuning_hz": 32,
+     "source": "maker page nightshade-ns-series-ns6-12-3000w-subwoofer-ns-v-6-used",
+     "note": "published as 2.5 cu ft; maker: sealed not recommended"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns6-12-3000w-subwoofer-ns-v-6-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Read from the maker's used-stock page (same model). Page text says 3,000 W RMS; image captions say 3500W; 3000 used. Peak not stated in the text. Sd not published on this page. BL unit printed as 'NA' (taken as T·m). Cms published (µm/N) not stored. Converted from imperial as published: mounting depth 12.75 in, cut-out 11.19 in, displacement 0.24 cu ft."
+  },
+  {
+   "model": "Nightshade NS v.6 15 D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.593,
+    "re_ohm": 1.8398,
+    "qms": 5.3509,
+    "qes": 0.4382,
+    "qts": 0.405,
+    "vas_l": 37.0627,
+    "sd_cm2": null,
+    "xmax_mm": 35,
+    "mms_g": 552.2849,
+    "bl_tm": 21.1132,
+    "le_mh": 1.6641,
+    "spl_db_1w1m": 85.5892,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 353.3,
+   "cutout_mm": 353.8,
+   "displacement_l": 7.36,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 113.27,
+     "tuning_hz": 32,
+     "source": "maker page nightshade-ns-series-ns6-15-3000w-subwoofer-ns-v-6-used",
+     "note": "published as 4.0 cu ft; maker: sealed not recommended"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns6-15-3000w-subwoofer-ns-v-6-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Read from the maker's used-stock page (same model). Page text says 3,000 W RMS; image captions say 3500W; 3000 used. Peak not stated in the text. Sd not published on this page. BL unit printed as 'NA' (taken as T·m). Cms published (µm/N) not stored. Converted from imperial as published: mounting depth 13.91 in, cut-out 13.93 in, displacement 0.26 cu ft."
+  },
+  {
+   "model": "Nightshade NS v.6 15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.8881,
+    "re_ohm": 3.5978,
+    "qms": 5.4272,
+    "qes": 0.4133,
+    "qts": 0.3841,
+    "vas_l": 36.0601,
+    "sd_cm2": null,
+    "xmax_mm": 35,
+    "mms_g": 556.845,
+    "bl_tm": 30.6711,
+    "le_mh": 3.4904,
+    "spl_db_1w1m": 85.8487,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 353.3,
+   "cutout_mm": 353.8,
+   "displacement_l": 7.36,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 113.27,
+     "tuning_hz": 32,
+     "source": "maker page nightshade-ns-series-ns6-15-3000w-subwoofer-ns-v-6-used",
+     "note": "published as 4.0 cu ft; maker: sealed not recommended"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns6-15-3000w-subwoofer-ns-v-6-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Read from the maker's used-stock page (same model). Page text says 3,000 W RMS; image captions say 3500W; 3000 used. Peak not stated in the text. Sd not published on this page. BL unit printed as 'NA' (taken as T·m). Cms published (µm/N) not stored. Converted from imperial as published: mounting depth 13.91 in, cut-out 13.93 in, displacement 0.26 cu ft."
+  },
+  {
+   "model": "InHuman 18 D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 7500,
+   "peak_w": 15000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23.9,
+    "re_ohm": 1.78,
+    "qms": 3.601,
+    "qes": 0.208,
+    "qts": 0.197,
+    "vas_l": 55.58,
+    "sd_cm2": 1641.9,
+    "xmax_mm": 41,
+    "mms_g": 1470.8,
+    "bl_tm": 43.421,
+    "le_mh": 4.253,
+    "spl_db_1w1m": 93.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 396.2,
+   "cutout_mm": 423.9,
+   "displacement_l": 19.82,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page inhuman",
+     "note": "published as 7.0 cu ft; maker recommends 6th order bandpass as the only intended use; ported 7.0 cu ft listed"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/inhuman",
+     "doc": "product page, Specifications tab",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). DATA PROBLEM (all Sundown pages with Sd): Sd equals the area of a circle of the nominal size (10 in: 506.6, 12 in: 735.5, 15 in: 1141.9, 18 in: 1641.9 cm2), larger than a real piston area; with the published Vas and Mms it gives an Fs 30 to 60 % above the published Fs. Treat Sd (and SPL/Vd derived from it) with caution. Dual 1 ohm coil only. Xmech 77 mm. BL unit not printed (taken as T·m). Converted from imperial as published: mounting depth 15.6 in, cut-out 16.69 in, displacement 0.7 cu ft."
+  },
+  {
+   "model": "Nightshade NS v.5 10 D1",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 44.7643,
+    "re_ohm": 1.7892,
+    "qms": 5.9362,
+    "qes": 0.4928,
+    "qts": 0.455,
+    "vas_l": 6.4784,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 371.5023,
+    "bl_tm": 19.4775,
+    "le_mh": 1.4743,
+    "spl_db_1w1m": 82.4636,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns5-10-3000w-subwoofer-ns-v-5-refurbished",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Listed on the maker's Discontinued Products page; values from the maker's used/refurbished listing. Xmax, Sd, dimensions not on this page."
+  },
+  {
+   "model": "Nightshade NS v.5 10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47.1702,
+    "re_ohm": 3.4074,
+    "qms": 6.2811,
+    "qes": 0.4961,
+    "qts": 0.4597,
+    "vas_l": 5.5066,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 393.6213,
+    "bl_tm": 28.3081,
+    "le_mh": 3.1838,
+    "spl_db_1w1m": 82.411,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns5-10-3000w-subwoofer-ns-v-5-refurbished",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Listed on the maker's Discontinued Products page; values from the maker's used/refurbished listing. Xmax, Sd, dimensions not on this page."
+  },
+  {
+   "model": "Nightshade NS v.5 12 D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.5505,
+    "re_ohm": 1.8822,
+    "qms": 6.0739,
+    "qes": 0.4433,
+    "qts": 0.4131,
+    "vas_l": 12.002,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 400.885,
+    "bl_tm": 20.5672,
+    "le_mh": 1.5815,
+    "spl_db_1w1m": 83.9874,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns5-12-3000w-subwoofer-ns-v-5-used-1",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Listed on the maker's Discontinued Products page; values from the maker's used/refurbished listing. Xmax, Sd, dimensions not on this page."
+  },
+  {
+   "model": "Nightshade NS v.5 12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.7336,
+    "re_ohm": 3.3581,
+    "qms": 5.3532,
+    "qes": 0.4327,
+    "qts": 0.4004,
+    "vas_l": 11.6607,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 430.1454,
+    "bl_tm": 28.5017,
+    "le_mh": 3.0081,
+    "spl_db_1w1m": 83.695,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns5-12-3000w-subwoofer-ns-v-5-used-1",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Listed on the maker's Discontinued Products page; values from the maker's used/refurbished listing. Xmax, Sd, dimensions not on this page."
+  },
+  {
+   "model": "Nightshade NS v.5 18 D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.8828,
+    "re_ohm": 1.9109,
+    "qms": 6.0933,
+    "qes": 0.4748,
+    "qts": 0.4405,
+    "vas_l": 91.194,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 614.8071,
+    "bl_tm": 21.19,
+    "le_mh": 1.6927,
+    "spl_db_1w1m": 88.4011,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns5-18-3000w-subwoofer-ns-v-5-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Listed on the maker's Discontinued Products page; values from the maker's used/refurbished listing. Xmax, Sd, dimensions not on this page."
+  },
+  {
+   "model": "Nightshade NS v.5 18 D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.7908,
+    "re_ohm": 3.6205,
+    "qms": 6.2442,
+    "qes": 0.4467,
+    "qts": 0.4169,
+    "vas_l": 89.5686,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": 629.9743,
+    "bl_tm": 30.3917,
+    "le_mh": 3.3017,
+    "spl_db_1w1m": 88.5465,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/nightshade-ns-series-ns5-18-3000w-subwoofer-ns-v-5-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Listed on the maker's Discontinued Products page; values from the maker's used/refurbished listing. Xmax, Sd, dimensions not on this page."
+  },
+  {
+   "model": "X v.3 18 D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.65,
+    "re_ohm": 1.4,
+    "qms": 2.793,
+    "qes": 0.526,
+    "qts": 0.442,
+    "vas_l": 130.302,
+    "sd_cm2": null,
+    "xmax_mm": 30,
+    "mms_g": 474.114,
+    "bl_tm": 14.543,
+    "le_mh": null,
+    "spl_db_1w1m": 88.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 345.4,
+   "cutout_mm": 423.9,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page x-series-v-3-18-subwoofer-used",
+     "note": "published as 7.0 cu ft; maker: sealed N/A"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-v-3-18-subwoofer-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Superseded by X v.4 (assumed from the series numbering; v.3 sold only as used stock). Values from the maker's used listing. Le printed blank. Converted from imperial as published: mounting depth 13.6 in, cut-out 16.69 in, displacement 0.23 cu ft."
+  },
+  {
+   "model": "X v.3 18 D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.207,
+    "re_ohm": 3.2,
+    "qms": 3.091,
+    "qes": 0.657,
+    "qts": 0.542,
+    "vas_l": 109.935,
+    "sd_cm2": null,
+    "xmax_mm": 30,
+    "mms_g": 504.115,
+    "bl_tm": 20.854,
+    "le_mh": null,
+    "spl_db_1w1m": 87.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 345.4,
+   "cutout_mm": 423.9,
+   "displacement_l": 6.51,
+   "recommended_boxes": [
+    {
+     "type": "ported",
+     "volume_l": 198.22,
+     "tuning_hz": 32,
+     "source": "maker page x-series-v-3-18-subwoofer-used",
+     "note": "published as 7.0 cu ft; maker: sealed N/A"
+    }
+   ],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://sundownaudio.com/products/x-series-v-3-18-subwoofer-used",
+     "doc": "product page, Specifications / Enclosure Specs tabs",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "ts_basis not stated on the page; Re is about twice the nominal coil impedance, which suggests both coils in series (inference only). Superseded by X v.4 (assumed from the series numbering; v.3 sold only as used stock). Values from the maker's used listing. Le printed blank. Converted from imperial as published: mounting depth 13.6 in, cut-out 16.69 in, displacement 0.23 cu ft."
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "Z8 (Z-Series 8\") D1/D2",
+   "rms_w": 2000,
+   "url": "https://sundownaudio.com/products/z-series-z8-4000w-subwoofer-z-8",
+   "note": "2000 W RMS / 4000 W peak, Xmax 30 mm, ported 1.0 cu ft @ 32 Hz; no T/S table on the page (2026-11-21)."
+  },
+  {
+   "model": "Nightshade NS v.6 10 D1/D2",
+   "rms_w": 3500,
+   "url": "https://sundownaudio.com/products/nightshade-ns-series-ns6-10-3500w-subwoofer-ns-v-6-used",
+   "note": "3500 W RMS / 7000 W peak on the page; no T/S table on the page."
+  },
+  {
+   "model": "Nightshade NS v.6 18 D1/D2",
+   "rms_w": 3500,
+   "url": "https://sundownaudio.com/products/nightshade-ns-series-ns6-18-3500w-subwoofer-ns-v-6-used",
+   "note": "3500 W RMS on the page; no T/S table."
+  },
+  {
+   "model": "Z v.6 15 D1/D2",
+   "rms_w": 3250,
+   "url": "https://sundownaudio.com/products/z-series-zv6-15-3250w-subwoofer-z-v-6-refurbished",
+   "note": "3250 W RMS / 6500 W peak, Xmax 35 mm; no T/S table on the refurbished page; status discontinued (superseded by Zv7)."
+  },
+  {
+   "model": "Compact Neo v3 10/12/15/18 (D1, D2, plus SPL-only D0.25/0.35/0.5/0.7)",
+   "rms_w": 3500,
+   "url": "https://sundownaudio.com/products/compact-neo-v3-12-subwoofer-copy",
+   "note": "'Standard 3,500-watt rating'; build-to-order; no T/S table on the pages (10, 12, 15, 18 checked)."
+  },
+  {
+   "model": "TEAM D4S x Sundown NEO 18 D2",
+   "rms_w": 5000,
+   "url": "https://www.down4soundshop.com/sundown-audio-used-d4s-team-neo-18-subwoofer-d2-5000w-rms-1-of-9/",
+   "note": "Collaboration sub sold (used stock) by Down4Sound, a Sundown retailer (tier 2); page gives only '5000W RMS', no T/S."
+  },
+  {
+   "model": "U v.2 10 / 12 D2/D4",
+   "rms_w": 2000,
+   "url": "https://sundownaudio.com/products/u-series-v-2-12-subwoofer-used",
+   "note": "2000 W RMS / 4000 W peak (used-stock pages); no T/S on the pages. U v.2 15/18 are 1750 W (below threshold)."
+  }
+ ]
+}

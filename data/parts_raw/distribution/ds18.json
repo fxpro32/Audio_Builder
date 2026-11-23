@@ -1,0 +1,289 @@
+{
+ "schema": "parts_raw/1",
+ "category": "distribution",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, products.json (title, vendor field = model, body numbers); scripts/parts/build_ds18_accessories.py",
+ "terms_note": "Numbers only, URL per record; USD maker-store prices.",
+ "units": {
+  "length_m": "m (converted from feet)",
+  "awg_nominal_mm2": "mm2 for the stated AWG (ASTM B258 formula), NOT measured",
+  "actual_area_mm2_from_strands": "mm2 = strands x pi/4 x d^2 from the maker strand count"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 9,
+ "records": [
+  {
+   "id": "ds18-distribution-block-2x0-ga-in-4x0-ga-out",
+   "model": "DB2040",
+   "title": "Distribution Block 2 X 0-GA In 4 X 0-GA Out",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/distribution-block-2x0-ga-in-4x0-ga-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 2,
+     "awg": "1/0",
+     "dir": "in"
+    },
+    {
+     "count": 4,
+     "awg": "1/0",
+     "dir": "out"
+    }
+   ]
+  },
+  {
+   "id": "ds18-dbar-3-distribution-bar-block-for-battery-terminal",
+   "model": "DBAR-3",
+   "title": "Chrome Plated Distribution Bar Block 3x 1/0-GA and 15 x 2/0-GA Screw Down Type 20\" Long",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dbar-3-distribution-bar-block-for-battery-terminal",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 3,
+     "awg": "1/0",
+     "dir": null
+    },
+    {
+     "count": 15,
+     "awg": "2/0",
+     "dir": null
+    }
+   ]
+  },
+  {
+   "id": "ds18-dbar-2-distribution-bar-block-for-battery-terminal",
+   "model": "DBAR-2",
+   "title": "Chrome Plated Distribution Bar Block 3x 1/0-GA and 15 x 2/0-GA Direct Bolt Down Type 19\" Long",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dbar-2-distribution-bar-block-for-battery-terminal",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 3,
+     "awg": "1/0",
+     "dir": null
+    },
+    {
+     "count": 15,
+     "awg": "2/0",
+     "dir": null
+    }
+   ]
+  },
+  {
+   "id": "ds18-dbar-1-input-battery-terminal",
+   "model": "DBAR-1",
+   "title": "Chrome Plated Distribution Bar Block 1x 1/0-GA and 5 x 2/0-GA Screw Down Type 7\" Long",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dbar-1-input-battery-terminal",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 1,
+     "awg": "1/0",
+     "dir": null
+    },
+    {
+     "count": 5,
+     "awg": "2/0",
+     "dir": null
+    }
+   ]
+  },
+  {
+   "id": "ds18-distribution-block-1x4ga-in-4x8ga-out",
+   "model": "DB1448",
+   "title": "Distribution Block 1X4-GA In 4X8-GA Out",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/distribution-block-1x4ga-in-4x8ga-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 1,
+     "awg": "4",
+     "dir": "in"
+    },
+    {
+     "count": 4,
+     "awg": "8",
+     "dir": "out"
+    }
+   ]
+  },
+  {
+   "id": "ds18-distribution-block-1x0ga-in-3x4ga-out",
+   "model": "DB1034",
+   "title": "Distribution Block 1X0-GA In 3X4-GA Out",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/distribution-block-1x0ga-in-3x4ga-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 1,
+     "awg": "1/0",
+     "dir": "in"
+    },
+    {
+     "count": 3,
+     "awg": "4",
+     "dir": "out"
+    }
+   ]
+  },
+  {
+   "id": "ds18-distribution-block-1x0ga-in-3x0ga-out",
+   "model": "DB1030",
+   "title": "Distribution Block 1X0-GA In 3X0-GA Out",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/distribution-block-1x0ga-in-3x0ga-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 1,
+     "awg": "1/0",
+     "dir": "in"
+    },
+    {
+     "count": 3,
+     "awg": "1/0",
+     "dir": "out"
+    }
+   ]
+  },
+  {
+   "id": "ds18-distribution-block-1x0ga-in-2x4ga-out",
+   "model": "DB1024",
+   "title": "Distribution Block 1X0-GA In 2X4-GA Out",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/distribution-block-1x0ga-in-2x4ga-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 1,
+     "awg": "1/0",
+     "dir": "in"
+    },
+    {
+     "count": 2,
+     "awg": "4",
+     "dir": "out"
+    }
+   ]
+  },
+  {
+   "id": "ds18-distribution-block-1x0ga-in-2x0ga-out",
+   "model": "DB1020",
+   "title": "Distribution Block 1X0-GA In 2X0-GA Out",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/distribution-block-1x0ga-in-2x0ga-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "kind": "distribution block",
+   "ports": [
+    {
+     "count": 1,
+     "awg": "1/0",
+     "dir": "in"
+    },
+    {
+     "count": 2,
+     "awg": "1/0",
+     "dir": "out"
+    }
+   ]
+  }
+ ],
+ "not_recorded": []
+}

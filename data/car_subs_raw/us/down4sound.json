@@ -1,0 +1,10 @@
+{
+ "brand": "Down4Sound",
+ "country": "USA",
+ "brand_url": "https://www.down4soundshop.com",
+ "terms_note": " | hp_subs_raw terms note: Retail store (BigCommerce) selling Sundown and others; no own-brand sub line with T/S. The 'TEAM D4S x Sundown NEO 18 D2 5000W RMS' is listed in sundown-audio.json no_ts_published.",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/down4sound.json",
+ "drivers": [],
+ "no_ts_published": []
+}

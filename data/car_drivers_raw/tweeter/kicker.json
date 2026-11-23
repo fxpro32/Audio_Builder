@@ -1,0 +1,314 @@
+{
+ "brand": "KICKER (Stillwater Designs)",
+ "country": "USA",
+ "brand_url": "https://www.kicker.com",
+ "terms_note": "R4 2026-11-23: robots.txt Allow / (only /cart/ and one script disallowed); product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "KICKER ST-Series 1 inch Tweeter 4 Ohm - KICKER®",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 106,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3500,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 30,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "In-Line Crossover [dB]": "6, high-pass"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/49ST3TW",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-50 W RMS; upper bound entered as rms_w.",
+   "tweeter_dome": "aluminum"
+  },
+  {
+   "model": "KICKER ST-Series 1.5 inch Tweeter 4 Ohm - KICKER®",
+   "type": "tweeter",
+   "size_in": 1.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 108,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3000,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 31,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "In-Line Crossover [dB]": "6, high-pass"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/49ST4TW",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-50 W RMS; upper bound entered as rms_w.",
+   "tweeter_dome": "aluminum"
+  },
+  {
+   "model": "KICKER KS Series 3/4\" Tweeter",
+   "type": "tweeter",
+   "size_in": 0.75,
+   "size_label": "20 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 65,
+   "peak_w": 195,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    4500,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4500",
+     "KS Crossovers": "Qty: 2"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KST2004-tweeter",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 10-65 W RMS; upper bound entered as rms_w.",
+   "tweeter_as_printed": "¾, 20",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 40
+  },
+  {
+   "model": "KICKER KS Series 1\" Tweeter",
+   "type": "tweeter",
+   "size_in": 1,
+   "size_label": "25 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 225,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    3500,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 3500",
+     "KS Crossovers": "Qty: 2"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KST2504-tweeter",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 10-75 W RMS; upper bound entered as rms_w.",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 45
+  },
+  {
+   "model": "KICKER 2019 CS Tweeter",
+   "type": "tweeter",
+   "size_in": null,
+   "size_label": "20 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 100,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    500,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "6, 4500"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CST20-Tweeter-Crossover-System-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "tweeter_as_printed": "3/4, 20",
+   "tweeter_dome": "Titanium",
+   "tweeter_flush_cutout_mm": 40
+  }
+ ],
+ "no_specs_published": []
+}

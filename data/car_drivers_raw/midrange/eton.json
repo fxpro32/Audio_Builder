@@ -1,0 +1,375 @@
+{
+ "brand": "ETON (ETON Soundsysteme GmbH)",
+ "country": "Germany",
+ "brand_url": "https://eton-audio.com",
+ "terms_note": "R4 2026-11-23: robots.txt allows product pages (disallows checkout, customer, search, etc.); pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "ETON GRAPHIT 80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 25,
+   "peak_w": 40,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodym",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 129,
+    "re_ohm": 3.4,
+    "qms": 6.27,
+    "qes": 0.67,
+    "qts": 0.61,
+    "vas_l": 0.5,
+    "sd_cm2": 34,
+    "xmax_mm": null,
+    "mms_g": 4.9,
+    "bl_tm": 4.4,
+    "le_mh": 0.15,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 39.3,
+   "cutout_mm": 77,
+   "frame_mm": 94,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/graphit-80.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 5.4 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "ETON GRAPHIT 80 High End 80 mm (3\")  Mitteltöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON HEX 80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 25,
+   "peak_w": 40,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 91,
+    "re_ohm": 3.4,
+    "qms": 6.86,
+    "qes": 0.38,
+    "qts": 0.36,
+    "vas_l": 1.1,
+    "sd_cm2": 34,
+    "xmax_mm": null,
+    "mms_g": 4.5,
+    "bl_tm": 4.8,
+    "le_mh": 0.14,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 40,
+   "cutout_mm": 77,
+   "frame_mm": 94,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/hex-80.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 5.4 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "High-End 80 mm (3\") HEX 80 Mitteltöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PRA 80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 20,
+   "peak_w": 30,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "ferrite",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 131,
+    "re_ohm": 3.4,
+    "qms": 3.74,
+    "qes": 0.97,
+    "qts": 0.77,
+    "vas_l": 0.6,
+    "sd_cm2": 34,
+    "xmax_mm": null,
+    "mms_g": 4,
+    "bl_tm": 3.4,
+    "le_mh": 0.13,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 39.4,
+   "cutout_mm": 74,
+   "frame_mm": 95,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pra-80.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 4.9 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "ETON PRA 80 80 mm (3\") Mitteltöner-Set kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PRO 80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 20,
+   "peak_w": 30,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodym",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 117,
+    "re_ohm": 3.1,
+    "qms": 3.17,
+    "qes": 0.42,
+    "qts": 0.37,
+    "vas_l": 1,
+    "sd_cm2": 34,
+    "xmax_mm": null,
+    "mms_g": 3,
+    "bl_tm": 4.1,
+    "le_mh": 0.06,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33.9,
+   "cutout_mm": 77,
+   "frame_mm": 94,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/pro-80.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 4.8 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "PRO 80 Mitteltöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON PRW 50",
+   "type": "midrange",
+   "size_in": 2,
+   "size_label": "50 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 15,
+   "peak_w": 25,
+   "sensitivity_db": 85,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 202,
+    "re_ohm": 3.5,
+    "qms": 3.98,
+    "qes": 0.69,
+    "qts": 0.59,
+    "vas_l": 0.14,
+    "sd_cm2": 15.2,
+    "xmax_mm": null,
+    "mms_g": 1.4,
+    "bl_tm": 3.1,
+    "le_mh": 0.07,
+    "spl_db_1w1m": 85,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 23.1,
+   "cutout_mm": 55,
+   "frame_mm": 58,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/prw-50.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 3.2 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "ETON PRW 50 50 mm (2\") Breitbandmitteltöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON RSC 100",
+   "type": "midrange",
+   "size_in": 4,
+   "size_label": "100 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": 80,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 106,
+    "re_ohm": 3.2,
+    "qms": 4.06,
+    "qes": 0.69,
+    "qts": 0.59,
+    "vas_l": 1.2,
+    "sd_cm2": 50,
+    "xmax_mm": null,
+    "mms_g": 6.8,
+    "bl_tm": 4.6,
+    "le_mh": 0.13,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33.9,
+   "cutout_mm": 92,
+   "frame_mm": 113.2,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/rsc-100.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 7.0 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "RSC 100 Mitteltöner kaufen | ETON Audio"
+  },
+  {
+   "model": "ETON RSC 80",
+   "type": "midrange",
+   "size_in": 3.15,
+   "size_label": "80 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 20,
+   "peak_w": 30,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": "neodymium",
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 99,
+    "re_ohm": 3.4,
+    "qms": 4.15,
+    "qes": 0.46,
+    "qts": 0.41,
+    "vas_l": 0.8,
+    "sd_cm2": 34,
+    "xmax_mm": null,
+    "mms_g": 5.3,
+    "bl_tm": 4.8,
+    "le_mh": 0.12,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 33.9,
+   "cutout_mm": 77,
+   "frame_mm": 94,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://eton-audio.com/lautsprecher/alle-produkte/rsc-80.html",
+     "doc": "product page, Technische Daten (German)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker prints 'Xmax mechanisch' +/- 3.2 mm (mechanical limit, not linear Xmax); xmax_mm left empty. mounting_depth_mm = maker 'Gesamttiefe' (overall depth).",
+   "title": "RSC 80 Mitteltöner kaufen | ETON Audio"
+  }
+ ],
+ "no_specs_published": []
+}

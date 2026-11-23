@@ -1,0 +1,971 @@
+{
+ "brand": "Ascendant Audio",
+ "country": "USA",
+ "brand_url": "https://ascendantaudio.com",
+ "terms_note": "R2 2026-11-23: re-used the series pages A2 saved on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: WordPress site; series pages read 5 s apart (a browser-like user agent is needed; plain curl gets HTTP 406). Terms page exists (https://ascendantaudio.com/terms/), not read in full. Chaos (1750 W) and Arsenal (1250 W) excluded.",
+ "coverage": "Mayhem, Havoc, Chaos, Arsenal series pages (all saved by A2)",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/ascendant-audio.json",
+ "drivers": [
+  {
+   "model": "Mayhem 12 D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.9,
+    "re_ohm": 1.61,
+    "qms": 5.38,
+    "qes": 0.45,
+    "qts": 0.415,
+    "vas_l": 11.01,
+    "sd_cm2": 481.0,
+    "xmax_mm": 36.0,
+    "mms_g": 474.7,
+    "bl_tm": 20.63,
+    "le_mh": 1.1,
+    "spl_db_1w1m": 86.94,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/mayhem/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '4500W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Mayhem 12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.3,
+    "re_ohm": 3.229,
+    "qms": 5.386,
+    "qes": 0.43,
+    "qts": 0.398,
+    "vas_l": 10.99,
+    "sd_cm2": 481.0,
+    "xmax_mm": 36.0,
+    "mms_g": 489.3,
+    "bl_tm": 30.12,
+    "le_mh": 2.19,
+    "spl_db_1w1m": 86.93,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/mayhem/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '4500W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Mayhem 15 D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.8,
+    "re_ohm": 1.59,
+    "qms": 5.441,
+    "qes": 0.5,
+    "qts": 0.458,
+    "vas_l": 29.1,
+    "sd_cm2": 810.0,
+    "xmax_mm": 36.0,
+    "mms_g": 538.1,
+    "bl_tm": 26.425,
+    "le_mh": 1.09,
+    "spl_db_1w1m": 90.35,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/mayhem/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '4500W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Mayhem 15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.5,
+    "re_ohm": 3.251,
+    "qms": 5.451,
+    "qes": 0.485,
+    "qts": 0.445,
+    "vas_l": 28.7,
+    "sd_cm2": 810.0,
+    "xmax_mm": 36.0,
+    "mms_g": 554.2,
+    "bl_tm": 29.98,
+    "le_mh": 2.23,
+    "spl_db_1w1m": 90.32,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/mayhem/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '4500W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Mayhem 18 D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.4,
+    "re_ohm": 1.57,
+    "qms": 5.703,
+    "qes": 0.523,
+    "qts": 0.479,
+    "vas_l": 66.41,
+    "sd_cm2": 1210.0,
+    "xmax_mm": 36.0,
+    "mms_g": 632.1,
+    "bl_tm": 20.544,
+    "le_mh": 1.14,
+    "spl_db_1w1m": 92.54,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/mayhem/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '4500W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Mayhem 18 D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.1,
+    "re_ohm": 3.229,
+    "qms": 5.722,
+    "qes": 0.52,
+    "qts": 0.477,
+    "vas_l": 66.12,
+    "sd_cm2": 1210.0,
+    "xmax_mm": 36.0,
+    "mms_g": 645.8,
+    "bl_tm": 29.74,
+    "le_mh": 2.24,
+    "spl_db_1w1m": 92.44,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/mayhem/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '4500W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Havoc 12 D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.0,
+    "re_ohm": 1.96,
+    "qms": 4.89,
+    "qes": 0.49,
+    "qts": 0.446,
+    "vas_l": 22.0,
+    "sd_cm2": 481.0,
+    "xmax_mm": 33.0,
+    "mms_g": 347.0,
+    "bl_tm": 16.92,
+    "le_mh": 1.04,
+    "spl_db_1w1m": 87.11,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/havoc/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '2750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Havoc 12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.3,
+    "re_ohm": 4.0,
+    "qms": 4.97,
+    "qes": 0.5,
+    "qts": 0.455,
+    "vas_l": 22.1,
+    "sd_cm2": 481.0,
+    "xmax_mm": 33.0,
+    "mms_g": 362.2,
+    "bl_tm": 24.28,
+    "le_mh": 2.39,
+    "spl_db_1w1m": 86.74,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/havoc/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '2750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Havoc 15 D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.1,
+    "re_ohm": 1.95,
+    "qms": 5.01,
+    "qes": 0.53,
+    "qts": 0.479,
+    "vas_l": 60.3,
+    "sd_cm2": 810.0,
+    "xmax_mm": 33.0,
+    "mms_g": 379.4,
+    "bl_tm": 16.78,
+    "le_mh": 1.01,
+    "spl_db_1w1m": 90.79,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/havoc/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '2750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Havoc 15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.2,
+    "re_ohm": 4.01,
+    "qms": 5.106,
+    "qes": 0.53,
+    "qts": 0.48,
+    "vas_l": 61.2,
+    "sd_cm2": 810.0,
+    "xmax_mm": 33.0,
+    "mms_g": 395.7,
+    "bl_tm": 24.23,
+    "le_mh": 2.42,
+    "spl_db_1w1m": 90.48,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/havoc/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '2750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Havoc 18 D1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.46,
+    "re_ohm": 1.99,
+    "qms": 6.03,
+    "qes": 0.63,
+    "qts": 0.571,
+    "vas_l": 139.1,
+    "sd_cm2": 1210.0,
+    "xmax_mm": 33.0,
+    "mms_g": 472.7,
+    "bl_tm": 16.32,
+    "le_mh": 0.99,
+    "spl_db_1w1m": 92.04,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/havoc/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '2750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Havoc 18 D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.01,
+    "re_ohm": 3.99,
+    "qms": 6.12,
+    "qes": 0.611,
+    "qts": 0.544,
+    "vas_l": 138.0,
+    "sd_cm2": 1210.0,
+    "xmax_mm": 33.0,
+    "mms_g": 486.3,
+    "bl_tm": 23.6548,
+    "le_mh": 2.37,
+    "spl_db_1w1m": 91.99,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/havoc/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '2750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Chaos 12 D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 1750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.1,
+    "re_ohm": 1.51,
+    "qms": 4.86,
+    "qes": 0.43,
+    "qts": 0.395,
+    "vas_l": 27.01,
+    "sd_cm2": 481,
+    "xmax_mm": 24,
+    "mms_g": 249.8,
+    "bl_tm": 14.04,
+    "le_mh": 1.21,
+    "spl_db_1w1m": 89.37,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/chaos/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Chaos 12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.22,
+    "re_ohm": 3.38,
+    "qms": 4.907,
+    "qes": 0.4176,
+    "qts": 0.3848,
+    "vas_l": 26.23,
+    "sd_cm2": 481,
+    "xmax_mm": 24,
+    "mms_g": 268.1,
+    "bl_tm": 21.6,
+    "le_mh": 2.586,
+    "spl_db_1w1m": 89.04,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/chaos/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Chaos 15 D1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 1750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.2,
+    "re_ohm": 1.5,
+    "qms": 5.11,
+    "qes": 0.53,
+    "qts": 0.48,
+    "vas_l": 66.06,
+    "sd_cm2": 810,
+    "xmax_mm": 24,
+    "mms_g": 323.8,
+    "bl_tm": 14.01,
+    "le_mh": 1.29,
+    "spl_db_1w1m": 91.62,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/chaos/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Chaos 15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.4,
+    "re_ohm": 3.29,
+    "qms": 5.16,
+    "qes": 0.52,
+    "qts": 0.472,
+    "vas_l": 65.8,
+    "sd_cm2": 810,
+    "xmax_mm": 24,
+    "mms_g": 341.3,
+    "bl_tm": 20.97,
+    "le_mh": 2.52,
+    "spl_db_1w1m": 91.37,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/chaos/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1750W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Arsenal 10 D1",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.5,
+    "re_ohm": 1.52,
+    "qms": 567,
+    "qes": 0.88,
+    "qts": 0.762,
+    "vas_l": 13.29,
+    "sd_cm2": 310,
+    "xmax_mm": 26,
+    "mms_g": 194.6,
+    "bl_tm": 8.78,
+    "le_mh": 1.99,
+    "spl_db_1w1m": 84.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/arsenal/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1250W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Arsenal 10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 3.11,
+    "qms": 5.74,
+    "qes": 0.85,
+    "qts": 0.74,
+    "vas_l": 13.32,
+    "sd_cm2": 310,
+    "xmax_mm": 26,
+    "mms_g": 199,
+    "bl_tm": 12.86,
+    "le_mh": 3.94,
+    "spl_db_1w1m": 84.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/arsenal/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1250W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Arsenal 12 D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.2,
+    "re_ohm": 1.5,
+    "qms": 581,
+    "qes": 0.92,
+    "qts": 0.794,
+    "vas_l": 32.2,
+    "sd_cm2": 480,
+    "xmax_mm": 26,
+    "mms_g": 219.8,
+    "bl_tm": 8.77,
+    "le_mh": 1.97,
+    "spl_db_1w1m": 86.49,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/arsenal/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1250W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Arsenal 12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.1,
+    "re_ohm": 3.07,
+    "qms": 589,
+    "qes": 0.882,
+    "qts": 0.764,
+    "vas_l": 32.11,
+    "sd_cm2": 480,
+    "xmax_mm": 26,
+    "mms_g": 221.1,
+    "bl_tm": 12.84,
+    "le_mh": 3.91,
+    "spl_db_1w1m": 86.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ascendantaudio.com/arsenal/",
+     "doc": "series page, Specs table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states '1250W power handling' (not labelled RMS or peak; entered as rms_w). Peak not published. Dimensions and boxes not on the page. ts_basis not stated; Re about twice the nominal coil impedance suggests series (inference). SPL reference not stated (entered as 1 W/1 m).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

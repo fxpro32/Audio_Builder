@@ -1,0 +1,613 @@
+{
+ "brand": "DD Audio (Resonance, Inc.)",
+ "country": "USA",
+ "brand_url": "https://ddaudio.com",
+ "terms_note": "R4 2026-11-23: WordPress site, robots.txt disallows only /wp-admin/ (A2); pages read 5 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "DD Audio RL-CW6-5B",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 55,
+   "peak_w": 225,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58.5,
+   "cutout_mm": 143,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/rl-series/speakers/rl-cw6-5b/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": 25
+  },
+  {
+   "model": "DD Audio VO-MWN712",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    50,
+    3500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 47,
+    "re_ohm": null,
+    "qms": 19.44,
+    "qes": 0.4335,
+    "qts": 0.424,
+    "vas_l": 40.64,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 129,
+   "cutout_mm": 286,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/mid-woofer/vo-mwn712/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MWN812",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    60,
+    3000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 71,
+    "re_ohm": null,
+    "qms": 13.1,
+    "qes": 0.623,
+    "qts": 0.59,
+    "vas_l": 13.1,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 143,
+   "cutout_mm": 286,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/mid-woofer/vo-mwn812/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MWN815",
+   "type": "midbass",
+   "size_in": 15,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    60,
+    2500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 70,
+    "re_ohm": null,
+    "qms": 15,
+    "qes": 0.78,
+    "qts": 0.74,
+    "vas_l": 33.4,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 175,
+   "cutout_mm": 353,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/mid-woofer/vo-mwn815/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MW812",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    60,
+    3000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 72,
+    "re_ohm": null,
+    "qms": 13.2,
+    "qes": 0.627,
+    "qts": 0.6,
+    "vas_l": 13.03,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 143,
+   "cutout_mm": 286,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/woofer/vo-mw812/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MW815",
+   "type": "midbass",
+   "size_in": 15,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1500,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    60,
+    2500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 72,
+    "re_ohm": null,
+    "qms": 15.04,
+    "qes": 0.8,
+    "qts": 0.76,
+    "vas_l": 31.9,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 175,
+   "cutout_mm": 353,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/woofer/vo-mw815/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-MWN710",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    60,
+    3500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 53,
+    "re_ohm": null,
+    "qms": 7.35,
+    "qes": 0.456,
+    "qts": 0.43,
+    "vas_l": 19.88,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 121,
+   "cutout_mm": 238,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/woofer/vo-mwn710/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-W10A",
+   "type": "midbass",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 900,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    60,
+    6000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 60,
+    "re_ohm": null,
+    "qms": 4.819,
+    "qes": 0.375,
+    "qts": 0.348,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 101.6,
+   "cutout_mm": 228.6,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/woofer/vo-w10a/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-W508",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    60,
+    8000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 60,
+    "re_ohm": null,
+    "qms": 2.169,
+    "qes": 0.645,
+    "qts": 0.497,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": 8,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 96,
+   "cutout_mm": 187.3,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/woofer/vo-w508/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-W712",
+   "type": "midbass",
+   "size_in": 12,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    35,
+    2000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 40.85,
+    "re_ohm": null,
+    "qms": 5.807,
+    "qes": 0.517,
+    "qts": 0.475,
+    "vas_l": 17.57,
+    "sd_cm2": null,
+    "xmax_mm": 12,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 130,
+   "cutout_mm": 286,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/woofer/vo-w712/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker Xmech (mechanical limit) 30 mm.",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-WN710",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 1200,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    30,
+    2000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 40,
+    "re_ohm": null,
+    "qms": 4.68,
+    "qes": 0.42,
+    "qts": 0.38,
+    "vas_l": 10.3,
+    "sd_cm2": null,
+    "xmax_mm": 12,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 122,
+   "cutout_mm": 238,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/woofer/vo-wn710/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  }
+ ],
+ "no_specs_published": []
+}

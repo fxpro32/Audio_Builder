@@ -1,0 +1,780 @@
+{
+ "brand": "Gladen",
+ "country": "Germany",
+ "brand_url": "https://www.gladen.com",
+ "terms_note": "R2 2026-11-23: Joomla site, robots.txt has only the Joomla default paths. 6 series pages + 18 product pages read 3 s apart. EU maker: per-model facts only. Numbers only.",
+ "coverage": "all subwoofer drivers in the Alpha, Gamma, High-End, Sigma and Zeta series; plug-and-fit boxes left out",
+ "hp_subs_raw_file": null,
+ "drivers": [
+  {
+   "model": "GLADEN GS08-Slim",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": 300,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.2,
+    "re_ohm": 3.26,
+    "qms": 6.22,
+    "qes": 0.53,
+    "qts": 0.49,
+    "vas_l": 10.1,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": 13.32,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 85.4
+   },
+   "mounting_depth_mm": 76,
+   "cutout_mm": 183,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-gamma-subwoofer/gladen-gamma-gs08-slim",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '200 / 300 watts'; smaller taken as RMS, larger as peak. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN GS10-Slim",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 450,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.5,
+    "re_ohm": 3.24,
+    "qms": 6.33,
+    "qes": 0.45,
+    "qts": 0.42,
+    "vas_l": 37.5,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": 13.29,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 89,
+   "cutout_mm": 236,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-gamma-subwoofer/gladen-gamma-gs10-slim",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '300 / 450 watts'; smaller taken as RMS, larger as peak. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN GS12-Slim",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 650,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 22.4,
+    "re_ohm": 3.39,
+    "qms": 4.16,
+    "qes": 0.39,
+    "qts": 0.35,
+    "vas_l": 100.7,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": 16.35,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 90.3
+   },
+   "mounting_depth_mm": 100,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-gamma-subwoofer/gladen-gamma-gs12-slim",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '500 / 650 watts'; smaller taken as RMS, larger as peak. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN AEROSPACE 10",
+   "size_in": null,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 34.54,
+    "re_ohm": null,
+    "qms": 10.8,
+    "qes": null,
+    "qts": null,
+    "vas_l": 34.23,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 11.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89.43
+   },
+   "mounting_depth_mm": 147,
+   "cutout_mm": 236,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-high-end-subwoofer/gladen-aerospace-aero-10",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Recommended volume 30 liters (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN PRO 10",
+   "size_in": null,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 31.44,
+    "re_ohm": 3.4,
+    "qms": 8.13,
+    "qes": 0.55,
+    "qts": 0.51,
+    "vas_l": 34.23,
+    "sd_cm2": null,
+    "xmax_mm": 15,
+    "mms_g": null,
+    "bl_tm": 11.54,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89.06
+   },
+   "mounting_depth_mm": 142,
+   "cutout_mm": 236,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-high-end-subwoofer/gladen-pro-10",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSW065",
+   "size_in": 6.5,
+   "coil": "SVC",
+   "ohms_per_coil": 2.2,
+   "coils": 1,
+   "rms_w": 200,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    2.2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 56,
+    "re_ohm": 1.8,
+    "qms": 7.27,
+    "qes": 0.57,
+    "qts": 0.53,
+    "vas_l": 34.23,
+    "sd_cm2": 128.6,
+    "xmax_mm": 8.5,
+    "mms_g": null,
+    "bl_tm": 12.7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 84.2
+   },
+   "mounting_depth_mm": 93,
+   "cutout_mm": 144,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-ssw065",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '400 / 200 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 2,5-5 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSW08",
+   "size_in": 8,
+   "coil": "SVC",
+   "ohms_per_coil": 2.2,
+   "coils": 1,
+   "rms_w": 350,
+   "peak_w": 700,
+   "final_loads_ohm": [
+    2.2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 57,
+    "re_ohm": 1.8,
+    "qms": 7,
+    "qes": 0.54,
+    "qts": 0.5,
+    "vas_l": 3.99,
+    "sd_cm2": 201,
+    "xmax_mm": 8.5,
+    "mms_g": 109,
+    "bl_tm": 15.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.9
+   },
+   "mounting_depth_mm": 120,
+   "cutout_mm": 183,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-ssw08",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '700 / 350 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 4-8 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSW10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 450,
+   "peak_w": 900,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.85,
+    "qms": 6.64,
+    "qes": 0.51,
+    "qts": 0.47,
+    "vas_l": 18.4,
+    "sd_cm2": 330,
+    "xmax_mm": 11.5,
+    "mms_g": 153.2,
+    "bl_tm": 16.62,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.5
+   },
+   "mounting_depth_mm": 140,
+   "cutout_mm": 230,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-ssw10",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '900 / 450 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 17-32 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSW12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 1.85,
+    "qms": 6.89,
+    "qes": 0.58,
+    "qts": 0.54,
+    "vas_l": 36,
+    "sd_cm2": 495,
+    "xmax_mm": 11.5,
+    "mms_g": 181.6,
+    "bl_tm": 16.7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 89.8
+   },
+   "mounting_depth_mm": 154,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-ssw12",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '1000 / 500 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 38-48 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSWX065",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 52,
+    "re_ohm": 1.85,
+    "qms": 6.29,
+    "qes": 0.49,
+    "qts": 0.45,
+    "vas_l": 2.05,
+    "sd_cm2": 126.6,
+    "xmax_mm": 11,
+    "mms_g": 104.7,
+    "bl_tm": 16.43,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 83.1
+   },
+   "mounting_depth_mm": 129,
+   "cutout_mm": 154,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-sswx065",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '400 / 200 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 1,6-6 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSWX08",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 44,
+    "re_ohm": 1.8,
+    "qms": 6.35,
+    "qes": 0.54,
+    "qts": 0.5,
+    "vas_l": 4,
+    "sd_cm2": 214,
+    "xmax_mm": 12,
+    "mms_g": 204,
+    "bl_tm": 20.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 83.5
+   },
+   "mounting_depth_mm": 146,
+   "cutout_mm": 185,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-sswx08",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '800 / 400 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 4,5-8 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSWX10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": 1400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 1.8,
+    "qms": 6.96,
+    "qes": 0.52,
+    "qts": 0.49,
+    "vas_l": 13.1,
+    "sd_cm2": 367,
+    "xmax_mm": 15,
+    "mms_g": 259,
+    "bl_tm": 21,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.5
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": 223,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-sswx10",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '1400 / 700 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 14-18 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSWX12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 1.8,
+    "qms": 7.08,
+    "qes": 0.53,
+    "qts": 0.5,
+    "vas_l": 28.4,
+    "sd_cm2": 531,
+    "xmax_mm": 15,
+    "mms_g": 295,
+    "bl_tm": 21.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 88.5
+   },
+   "mounting_depth_mm": 172,
+   "cutout_mm": 283,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-sswx12",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '1600 / 800 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Recommended volume 28-32 Liter (as printed). Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN ZETA ZS 08",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 21,
+    "re_ohm": 1.8,
+    "qms": 9,
+    "qes": 0.61,
+    "qts": 0.57,
+    "vas_l": 29.7,
+    "sd_cm2": null,
+    "xmax_mm": 11,
+    "mms_g": null,
+    "bl_tm": 6.8,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 84.8
+   },
+   "mounting_depth_mm": 118,
+   "cutout_mm": 189,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-zeta-subwoofer/gladen-zeta-08",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '500 / 200 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN ZETA ZS 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.5,
+    "re_ohm": 1.9,
+    "qms": 8.8,
+    "qes": 0.86,
+    "qts": 0.79,
+    "vas_l": 29.3,
+    "sd_cm2": null,
+    "xmax_mm": 11.5,
+    "mms_g": null,
+    "bl_tm": 7.9,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": 86.1
+   },
+   "mounting_depth_mm": 147,
+   "cutout_mm": 231,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-zeta-subwoofer/gladen-zeta-10",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Header power printed '600 / 300 watts'; smaller taken as RMS, larger as peak. DC resistance printed with '(dual)': per-coil value as printed; ts_basis not stated. Xmax printed '+/-' (one-way).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "GLADEN SIGMA SSW065-DUAL",
+   "rms_w": null,
+   "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-ssw065-dual",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 8.5}); size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Xmax printed '+/-' (one-way).",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-ssw065-dual",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "GLADEN SIGMA SSWX065-DUAL",
+   "rms_w": null,
+   "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-sswx065-dual",
+   "note": "No Fs/Qts/Vas published by the maker (only {'xmax_mm': 8.5}); size None in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Xmax printed '+/-' (one-way).",
+   "size_in": null,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.gladen.com/en-us/gladen/subwoofer/gladen-sigma-subwoofer/gladen-sigma-sswx065-dual",
+     "doc": "product page, header and Technical Data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

@@ -1,0 +1,1108 @@
+{
+ "brand": "EDGE Car Audio",
+ "country": "UK",
+ "brand_url": "https://www.edgecaraudio.co.uk/ (UNVERIFIED URL; catalogues hosted on cdn.shopify.com)",
+ "terms_note": "R2B 2026-11-23: 2019 catalogue PDF saved by A3 (no new requests). Numbers only. | hp_subs_raw terms note: Catalogue PDFs read 2026-11-22. Numbers only.",
+ "coverage": "all 23 subwoofer T/S blocks of the 2019 catalogue (DB, DBX, Street, Xtreme, Unlimited series; all power levels) + hp_subs_raw 2018 entries",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/edge.json",
+ "drivers": [
+  {
+   "model": "EDB12D2-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 3.8,
+    "qms": 5.8,
+    "qes": 0.53,
+    "qts": 0.48,
+    "vas_l": 39.47,
+    "sd_cm2": 470,
+    "xmax_mm": 17.5,
+    "mms_g": 221.24,
+    "bl_tm": 17.34,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.13mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 86.2 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDB12BR-E9",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 4,
+    "qms": 5.24,
+    "qes": 0.58,
+    "qts": 0.52,
+    "vas_l": 62.9,
+    "sd_cm2": 470,
+    "xmax_mm": 8.5,
+    "mms_g": 189.8,
+    "bl_tm": 15.1,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.17mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 85.5 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS10D2-E7",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.4,
+    "re_ohm": 3.9,
+    "qms": 3.85,
+    "qes": 0.32,
+    "qts": 0.3,
+    "vas_l": 15.3,
+    "sd_cm2": 330,
+    "xmax_mm": 16,
+    "mms_g": 183.3,
+    "bl_tm": 22.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.033 'm/2' (m2). Cms printed '0.11mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 85 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS8D2-E8",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 42.5,
+    "re_ohm": 2,
+    "qms": 6.11,
+    "qes": 0.36,
+    "qts": 0.34,
+    "vas_l": 4.1,
+    "sd_cm2": 230,
+    "xmax_mm": 12.5,
+    "mms_g": 169,
+    "bl_tm": 15.7,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.023 'm/2' (m2). Cms printed '0.08mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 81.2 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS12D1-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.4,
+    "re_ohm": 1.9,
+    "qms": 3.87,
+    "qes": 0.3,
+    "qts": 0.28,
+    "vas_l": 17.5,
+    "sd_cm2": 470,
+    "xmax_mm": 17.5,
+    "mms_g": 320.3,
+    "bl_tm": 22.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.06mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 86.7 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS12D2-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.9,
+    "re_ohm": 3.9,
+    "qms": 3.64,
+    "qes": 0.34,
+    "qts": 0.31,
+    "vas_l": 16.2,
+    "sd_cm2": 470,
+    "xmax_mm": 17.5,
+    "mms_g": 321.3,
+    "bl_tm": 22.3,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.05mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 86.3 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDP122SPL-E6",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.5,
+    "re_ohm": 3.6,
+    "qms": 6.667,
+    "qes": 0.59,
+    "qts": 0.539,
+    "vas_l": 17.02,
+    "sd_cm2": 470,
+    "xmax_mm": 29,
+    "mms_g": 334.435,
+    "bl_tm": 21.98,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '53.928uM/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). Vas printed '17.020mm2' (unit misprint; the number is entered as litres, UNVERIFIED).  SPL printed 83.7 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDB12D2X-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.9,
+    "re_ohm": 3.9,
+    "qms": 4.41,
+    "qes": 0.5,
+    "qts": 0.45,
+    "vas_l": 37,
+    "sd_cm2": 470,
+    "xmax_mm": 17.5,
+    "mms_g": 219.2,
+    "bl_tm": 18.1,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.13mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 84.8 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDB15D2X-E7",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.5,
+    "re_ohm": 3.9,
+    "qms": 4.27,
+    "qes": 0.43,
+    "qts": 0.39,
+    "vas_l": 94,
+    "sd_cm2": 750,
+    "xmax_mm": 17.5,
+    "mms_g": 329.8,
+    "bl_tm": 22.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.075 'm/2' (m2). Cms printed '0.12mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 87.5 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS18D2-E7",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.7,
+    "re_ohm": 3.9,
+    "qms": 4.34,
+    "qes": 0.35,
+    "qts": 0.32,
+    "vas_l": 91.9,
+    "sd_cm2": 1160,
+    "xmax_mm": 23,
+    "mms_g": 460.6,
+    "bl_tm": 33.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.116 'm/2' (m2). Cms printed '0.5mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 2 ohm, 2000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads  SPL printed 91.9 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX12D1.4SPL-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.9,
+    "re_ohm": 2.8,
+    "qms": 5.6,
+    "qes": 0.39,
+    "qts": 0.368,
+    "vas_l": 21.09,
+    "sd_cm2": 470,
+    "xmax_mm": 23,
+    "mms_g": 343.2,
+    "bl_tm": 22.45,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.68mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). Model name 'D1.4': coil impedance not clear, left empty.  SPL printed 84.83 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX12D2SPL-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.32,
+    "re_ohm": 3.8,
+    "qms": 6.67,
+    "qes": 0.4,
+    "qts": 0.378,
+    "vas_l": 20.76,
+    "sd_cm2": 470,
+    "xmax_mm": 23,
+    "mms_g": 340.9,
+    "bl_tm": 25.98,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.669mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 84.84 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX12D1-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.6,
+    "re_ohm": 1.7,
+    "qms": 4.31,
+    "qes": 0.35,
+    "qts": 0.32,
+    "vas_l": 22.8,
+    "sd_cm2": 470,
+    "xmax_mm": 22.5,
+    "mms_g": 325,
+    "bl_tm": 18.1,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.07mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 2500 W RMS; catalogue gives construction data only, no T/S for this model. Final loads  SPL printed 85.4 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX15D1SPL-E7",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.35,
+    "re_ohm": 1.8,
+    "qms": 5.43,
+    "qes": 0.26,
+    "qts": 0.256,
+    "vas_l": 43.33,
+    "sd_cm2": 750,
+    "xmax_mm": 23,
+    "mms_g": 578.3,
+    "bl_tm": 27.67,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.075 'm/2' (m2). Cms printed '0.054mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 5000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads  SPL printed 87.67 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS15D1-E7",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.3,
+    "re_ohm": 1.9,
+    "qms": 3.55,
+    "qes": 0.31,
+    "qts": 0.28,
+    "vas_l": 50.8,
+    "sd_cm2": 750,
+    "xmax_mm": 20,
+    "mms_g": 380.3,
+    "bl_tm": 22.4,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.075 'm/2' (m2). Cms printed '0.06mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 89.3 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX15D1-E7",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.1,
+    "re_ohm": 1.7,
+    "qms": 4.06,
+    "qes": 0.33,
+    "qts": 0.33,
+    "vas_l": 66.3,
+    "sd_cm2": 750,
+    "xmax_mm": null,
+    "mms_g": 384.5,
+    "bl_tm": 17.9,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.075 'm/2' (m2). Cms printed '0.06mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 2500 W RMS; catalogue gives construction data only, no T/S for this model. Final loads  SPL printed 88 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX18D1SPL-E7",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.71,
+    "re_ohm": 1.8,
+    "qms": 5.09,
+    "qes": 0.34,
+    "qts": 0.319,
+    "vas_l": 122.7,
+    "sd_cm2": 1160,
+    "xmax_mm": 23,
+    "mms_g": 590.8,
+    "bl_tm": 23.65,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.116 'm/2' (m2). Cms printed '0.64mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 5000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads  SPL printed 89.88 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDP152SPL-E6",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 40.2,
+    "re_ohm": 4,
+    "qms": 6.066,
+    "qes": 0.543,
+    "qts": 0.499,
+    "vas_l": 24.728,
+    "sd_cm2": 750,
+    "xmax_mm": 44.5,
+    "mms_g": 480.851,
+    "bl_tm": 29.895,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.075 'm/2' (m2). Cms printed '32.622uM/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). Vas printed '24.728mm2' (unit misprint; the number is entered as litres, UNVERIFIED).  SPL printed 86.6 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS15D2-E7",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.6,
+    "re_ohm": 4,
+    "qms": 3.58,
+    "qes": 0.36,
+    "qts": 0.32,
+    "vas_l": 47.1,
+    "sd_cm2": 750,
+    "xmax_mm": 20,
+    "mms_g": 381.4,
+    "bl_tm": 30.6,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.075 'm/2' (m2). Cms printed '0.06mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated).  SPL printed 89.3 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX18D1-E7",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.1,
+    "re_ohm": 3.8,
+    "qms": 3.8,
+    "qes": 0.34,
+    "qts": 0.321,
+    "vas_l": 136,
+    "sd_cm2": 1160,
+    "xmax_mm": 20,
+    "mms_g": 477.9,
+    "bl_tm": 20.17,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.116 'm/2' (m2). Cms printed '0.719mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 3000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads  SPL printed 91 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDS18D1-E7",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.4,
+    "re_ohm": 2,
+    "qms": 3.73,
+    "qes": 0.26,
+    "qts": 0.24,
+    "vas_l": 94.7,
+    "sd_cm2": 1160,
+    "xmax_mm": 20,
+    "mms_g": 455.6,
+    "bl_tm": 27.2,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.116 'm/2' (m2). Cms printed '0.5mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2019 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm (2019 catalogue lists D1/D2), 2000 W RMS; catalogue gives construction data only, no T/S SPL printed 93.2 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDX12D1SPL-E7",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.2,
+    "re_ohm": 1.8,
+    "qms": 6.04,
+    "qes": 0.34,
+    "qts": 0.323,
+    "vas_l": 22.09,
+    "sd_cm2": 470,
+    "xmax_mm": 23,
+    "mms_g": 342.8,
+    "bl_tm": 20.14,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '0.712mm/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). RMS from the hp_subs_raw entry (2018 catalogue, A3): EDGE 2018 catalogue (maker PDF on Edge's Shopify store CDN): dual 1 ohm, 5000 W RMS; catalogue gives construction data only, no T/S for this model. Final loads  SPL printed 85.36 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "EDP122-E6",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": null,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 49.5,
+    "re_ohm": 3.6,
+    "qms": 5.668,
+    "qes": 0.506,
+    "qts": 0.464,
+    "vas_l": 9.739,
+    "sd_cm2": 470,
+    "xmax_mm": 37.5,
+    "mms_g": 334.435,
+    "bl_tm": 27.22,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "UNVERIFIED (2019 catalogue)",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2019_Catalogue.pdf",
+     "doc": "EDGE 2019 catalogue PDF, Subwoofer Technical Data",
+     "page": "24-25",
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "2019 catalogue 'Subwoofer Technical Data' block (text layer; block matched to the model by Fs and Re on the rendered page). Sd printed 0.047 'm/2' (m2). Cms printed '30.86uM/N'. ts_basis not stated (Re close to one coil's or the series value; not stated). Vas printed '9.739mm2' (unit misprint; the number is entered as litres, UNVERIFIED).  SPL printed 85.6 dB (condition not stated, not entered).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "EDP122-E6 / EDP152SPL-E6",
+   "rms_w": null,
+   "url": "https://cdn.shopify.com/s/files/1/0608/9624/8053/files/EDGE_2018_Catalogue.pdf",
+   "note": "2018 catalogue page 7 prints T/S blocks for EDP122-E6 (Recv 3.6 ohm, F0 49.5 Hz, Qts 0.464, Vas 9.739 L, BL 27.22 T m, Mms 334.435 g) and EDP152SPL-E6 (Recv 4 ohm, F0 40.2 Hz, Qts 0.499, Vas 24.728 L, BL 29.895 T m, Mms 480.851 g) next to power text '2500 W RMS' and '4000 W RMS', but the page layout does not make clear which power line belongs to which model, impedance is not printed, and Sd is printed as 47.144 / 73.062 cm2 (a factor 10 too small for 12/15 inch). Not recorded as drivers; values kept here for the PM.",
+   "source": "hp_subs_raw"
+  }
+ ]
+}

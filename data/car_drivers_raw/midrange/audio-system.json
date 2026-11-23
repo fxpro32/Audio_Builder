@@ -1,0 +1,62 @@
+{
+ "brand": "AUDIO SYSTEM Germany",
+ "country": "Germany",
+ "brand_url": "https://www.audio-system.de",
+ "terms_note": "R4 2026-11-23: robots.txt empty Disallow (all allowed); 13 series pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [
+  {
+   "model": "AUDIO SYSTEM AV80 D",
+   "type": "midrange",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 120,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audio-system.de/produkte/lautsprecher/avalanche-series/",
+     "doc": "series page (German), Leistungsdaten / Maße",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Leistung printed as 'max/RMS' Watt (larger = max, smaller = RMS; matches the maker catalogue WRMS values)."
+  }
+ ],
+ "no_specs_published": []
+}

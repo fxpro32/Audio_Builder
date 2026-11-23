@@ -1,0 +1,1739 @@
+{
+ "brand": "DL Audio",
+ "country": "Russia",
+ "brand_url": "https://dl-audio.ru/",
+ "terms_note": "R2 2026-11-23: A3's 4 saved pages plus the other model pages of https://dl-audio.ru/subwoofers/ read one at a time 3 s apart. Site shows privacy policies only. Numbers only. | hp_subs_raw terms note: Site footer links privacy policies only (Политика обработки персональных данных, Политика конфиденциальности); no terms of use found. Pages read one at a time, 3 s apart, 2026-11-21. Numbers only.",
+ "coverage": "every model page in the maker's subwoofer list (SE box versions left out)",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/dl-audio.json",
+ "drivers": [
+  {
+   "model": "Legend 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.83,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.51,
+    "vas_l": 23.17,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 224,
+   "cutout_mm": 284,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/legend-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 85.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 318 мм, bolt circle 300 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Legend 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.71,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.59,
+    "vas_l": 49.92,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 251,
+   "cutout_mm": 352,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/legend-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 86.8 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 388 мм, bolt circle 371 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Phoenix Sport 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.79,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.326,
+    "vas_l": 29.85,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 230,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-sport-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 84.6 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 328 мм, bolt circle 304 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Phoenix Sport 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 24.48,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.388,
+    "vas_l": 73.13,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 239,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-sport-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '1+1 Ом', Средняя чувствительность = average sensitivity 88.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 397 мм, bolt circle 370 мм, voice coil 3 дюйм. Page offers box drawings (sealed, slot-vented, pipe-vented) as images; not transcribed. Only the 1+1 ohm version is listed.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Anaconda 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.7,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.48,
+    "vas_l": 19.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 130.5,
+   "cutout_mm": 224.5,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/anaconda-10/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 91.2 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 264 мм, bolt circle 245,5 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Anaconda 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.12,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.54,
+    "vas_l": 41.5,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 138.5,
+   "cutout_mm": 262,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/anaconda-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 91.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 311 мм, bolt circle 292 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Anaconda 8",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.7,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.59,
+    "vas_l": 11.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/anaconda-8/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 90.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 200 мм, outer diameter None, bolt circle None, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Barracuda 10 Flat",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.68,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.55,
+    "vas_l": 21.46,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": 229,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/barracuda-10-flat/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 86.9 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 262 мм, bolt circle 243 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Barracuda 12 Flat",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.8,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.6,
+    "vas_l": 37.06,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 278,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/barracuda-12-flat/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 87.4 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 315 мм, bolt circle 294 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Barracuda 6 5 Flat",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 150,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 52.17,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.79,
+    "vas_l": 3.72,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58,
+   "cutout_mm": 144,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/barracuda-6-5-flat/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 86.5 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 165 мм, outer diameter 171 мм, bolt circle 156 мм, voice coil 1.4 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Barracuda 8 Flat",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 39.6,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.63,
+    "vas_l": 8.97,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 72,
+   "cutout_mm": 180,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/barracuda-8-flat/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 86.8 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 200 мм, outer diameter 214 мм, bolt circle 197 мм, voice coil 1.5 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Gryphon Lite 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.4,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.68,
+    "vas_l": 22.8,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 128,
+   "cutout_mm": 229,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/gryphon-lite-10/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.1 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 267 мм, bolt circle 246 мм, voice coil 1.75 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Gryphon Lite 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.74,
+    "vas_l": 42,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 138,
+   "cutout_mm": 277,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/gryphon-lite-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.5 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 320 мм, bolt circle 298 мм, voice coil 1.75 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Gryphon Lite 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.89,
+    "vas_l": 90.64,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 168,
+   "cutout_mm": 349,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/gryphon-lite-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.9 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 394 мм, bolt circle 374 мм, voice coil 1.75 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Gryphon Pro 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.43,
+    "vas_l": 16.28,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 170,
+   "cutout_mm": 227,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/gryphon-pro-10/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.5 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 267 мм, bolt circle 249 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Gryphon Pro 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.2,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.54,
+    "vas_l": 45.2,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 186,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/gryphon-pro-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.8 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 325 мм, bolt circle 306 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Gryphon Pro 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 24.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.74,
+    "vas_l": 74.89,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 205,
+   "cutout_mm": 356,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/gryphon-pro-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 89.2 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 394 мм, bolt circle 372 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Bass Machine 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1100,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.97,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.72,
+    "vas_l": 12.95,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 167,
+   "cutout_mm": 239,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-bass-machine-10/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 82.9 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 277 мм, bolt circle 255 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Bass Machine 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.3,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.55,
+    "vas_l": 24.44,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 197,
+   "cutout_mm": 285,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-bass-machine-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 86.2 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 328 мм, bolt circle 304 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Bass Machine 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.62,
+    "vas_l": 62.19,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 206,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-bass-machine-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 87.3 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 397 мм, bolt circle 370 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Bass Machine 18",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23.2,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.68,
+    "vas_l": 152.11,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 243,
+   "cutout_mm": 422,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-bass-machine-18/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 87.5 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 460 мм, outer diameter 469 мм, bolt circle 442 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Bass Machine 8",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.54,
+    "vas_l": 5.55,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 150,
+   "cutout_mm": 185,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-bass-machine-8/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 82.5 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 200 мм, outer diameter 221 мм, bolt circle 199 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Black Bass 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.31,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.456,
+    "vas_l": 14.21,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 182,
+   "cutout_mm": 229,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-black-bass-10/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 83.6 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 263 мм, bolt circle 245,5 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Black Bass 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.73,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.583,
+    "vas_l": 31.05,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 192,
+   "cutout_mm": 272,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-black-bass-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 84.5 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 316 мм, bolt circle 298 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Black Bass 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.69,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.662,
+    "vas_l": 75.86,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 221,
+   "cutout_mm": 348,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-black-bass-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 85.2 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 394,5 мм, bolt circle 372 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Black Bass 18",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 24.5,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.54,
+    "vas_l": 148.7,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 231.5,
+   "cutout_mm": 417,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-black-bass-18/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 86.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 460 мм, outer diameter 469 мм, bolt circle 442 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Black Bass 69",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.9,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.62,
+    "vas_l": 13.8,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 132,
+   "cutout_mm": 224,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-black-bass-69/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 83.1 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 150 х 230 мм, outer diameter 258 x 188 мм, bolt circle None, voice coil 1.75 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Phoenix Black Bass 8",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.3,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.59,
+    "vas_l": 5.92,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 143,
+   "cutout_mm": 182,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/phoenix-black-bass-8/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 82.9 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 200 мм, outer diameter 216 мм, bolt circle 200 мм, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Piranha 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.9,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.65,
+    "vas_l": 15.8,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": 233,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/piranha-10/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.3 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 262 мм, bolt circle 243 мм, voice coil 1.75 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Piranha 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30.6,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.68,
+    "vas_l": 43.4,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 160,
+   "cutout_mm": 278,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/piranha-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.7 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 315 мм, bolt circle 294 мм, voice coil 1.75 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Piranha 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.5,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.77,
+    "vas_l": 88.38,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 197,
+   "cutout_mm": 350,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/piranha-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 89.2 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 395 мм, bolt circle 370 мм, voice coil 1.75 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Raven 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.18,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.44,
+    "vas_l": 16.86,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 159,
+   "cutout_mm": 234,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/raven-10/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 87.8 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 250 мм, outer diameter 267 мм, bolt circle 246 мм, voice coil 2.5 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Raven 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.48,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.63,
+    "vas_l": 39.93,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 169,
+   "cutout_mm": 282,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/raven-12/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.1 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 300 мм, outer diameter 319 мм, bolt circle 297 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Raven 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.17,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.74,
+    "vas_l": 89.56,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 196,
+   "cutout_mm": 353,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/raven-15/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.5 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 380 мм, outer diameter 397 мм, bolt circle 370 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Raven 18",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 25.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.8,
+    "vas_l": 157.69,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 215,
+   "cutout_mm": 424,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/raven-18/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 88.9 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 460 мм, outer diameter 469 мм, bolt circle 442 мм, voice coil 3 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Raven 8",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 700,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.1,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": 0.42,
+    "vas_l": 7.1,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://dl-audio.ru/subwoofers/raven-8/",
+     "doc": "DL Audio product page, Характеристики block",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Page lists only Fs, Qts, Vas of the T/S set. Labels translated: Номинальная мощность = rated power (treated as RMS), Номинальное сопротивление = nominal impedance '2+2 Ом', Средняя чувствительность = average sensitivity 87.2 дБ (test condition not stated, so not put in spl fields), Посадочная глубина = mounting depth, Диаметр монтажного отверстия = cut-out. Nominal diameter 200 мм, outer diameter None, bolt circle None, voice coil 2 дюйм. Page offers box drawings as images; not transcribed.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

@@ -1,0 +1,176 @@
+{
+ "brand": "DD Audio (Resonance, Inc.)",
+ "country": "USA",
+ "brand_url": "https://ddaudio.com",
+ "terms_note": "R4 2026-11-23: WordPress site, robots.txt disallows only /wp-admin/ (A2); pages read 5 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "fullrange",
+ "drivers": [
+  {
+   "model": "DD Audio D-FR2-75",
+   "type": "fullrange",
+   "size_in": 2.75,
+   "size_label": null,
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 40,
+   "peak_w": 125,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    120,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 32.4,
+   "cutout_mm": 65.5,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/d-series/speakers/full-range/d-fr2-75/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-FR508",
+   "type": "fullrange",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 400,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    100,
+    16000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 98,
+    "re_ohm": null,
+    "qms": 8.95,
+    "qes": 0.37,
+    "qts": 0.35,
+    "vas_l": 10.85,
+    "sd_cm2": null,
+    "xmax_mm": 4,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 185,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/full-range/vo-fr508/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  },
+  {
+   "model": "DD Audio VO-FR510",
+   "type": "fullrange",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 500,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    80,
+    16000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 73,
+    "re_ohm": null,
+    "qms": 12.08,
+    "qes": 0.51,
+    "qts": 0.49,
+    "vas_l": 34.71,
+    "sd_cm2": null,
+    "xmax_mm": 4,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 103,
+   "cutout_mm": 232,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://ddaudio.com/vo-series/speakers/full-range/vo-fr510/",
+     "doc": "product page, Model Specs table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "vcd_mm": null
+  }
+ ],
+ "no_specs_published": []
+}

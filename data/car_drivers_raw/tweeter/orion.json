@@ -1,0 +1,172 @@
+{
+ "brand": "Orion Car Audio",
+ "country": "USA",
+ "brand_url": "https://www.orioncaraudio.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "tweeter",
+ "drivers": [
+  {
+   "model": "Orion XTW250FD",
+   "type": "tweeter",
+   "size_in": 4.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 320,
+   "sensitivity_db": 104,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    2000,
+    25000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 91,
+   "frame_mm": 86,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.orioncaraudio.com/products/xtw250fd",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "title": "XTW250FD - 4.5\" Bullet Tweeter"
+  }
+ ],
+ "no_specs_published": [
+  {
+   "model": "Orion CB1TW",
+   "title": "CB1TW - 1 Inch Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/cb1tw-1-inch-tweeter",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA150NE",
+   "title": "ORION HCCA 150NE - Super Shallow Neodymium Tweeters",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/hcca150ne-3-6-super-shallow-neodymium-tweeters",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA100NE",
+   "title": "HCCA100NE - 3” Super Shallow Neodymium Tweeters",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/hcca100ne-3-super-shallow-neodymium-tweeters",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTR40.2",
+   "title": "ORION XTR40.2 2-Way Coaxial Car Speakers, 200W Max Integrated Tweeter, Full Range Audio, Polypropylene Cone, Butyl Rubber Surround (Pair)",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/xtr40-2",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTR46.2",
+   "title": "ORION XTR46.2 4x6 2-Way Coaxial Car Speakers, 200W Max Integrated Tweeter, Full Range Audio, Polypropylene Cone, Butyl Rubber Surround (Pair)",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/xtr46-2",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTR57.2",
+   "title": "ORION XTR57.2 5x7 2-Way Coaxial Car Speakers, 240W Max Integrated Tweeter, Full Range Audio, Polypropylene Cone, Butyl Rubber Surround (Pair)",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/xtr57-2",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA-TN2",
+   "title": "HCCA-TN2 - 4.5” Neodymium Super Bullet Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/hcca-tn2-4-5-neodymium-super-bullet-tweeter",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion HCCA-TN1",
+   "title": "HCCA-TN1 - 4.5” Neodymium Super Bullet Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/hcca-tn1-4-5-neodymium-super-bullet-tweeter",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CTW880H",
+   "title": "CTW880H - Super Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/ctw880h",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CTW500",
+   "title": "ORION Cobalt Bullet Tweeter for Car Audio CTW500 4.5”",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/ctw500",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CTW2.0NEO",
+   "title": "CTW2.0NEO - 3.8\" Neodymium Bullet Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/ctw2-0neo",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CTW1.7HP",
+   "title": "CTW1.7HP - 3.8\" Bullet Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/ctw1-7hp",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CTW125",
+   "title": "CTW125 - 3.9\" Bullet Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/ctw125",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CTW150",
+   "title": "CTW150 - 3.8\" Bullet Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/ctw150",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CTW101",
+   "title": "CTW101 - 3.75\" Aluminum Bullet Tweeter",
+   "type": "tweeter",
+   "url": "https://www.orioncaraudio.com/products/ctw101",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

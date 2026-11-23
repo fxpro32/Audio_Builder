@@ -1,0 +1,383 @@
+{
+ "schema": "parts_raw/1",
+ "category": "fuses",
+ "brand": "Sky High Car Audio",
+ "maker_site": "https://skyhighcaraudio.com",
+ "method": "skyhighcaraudio.com listing pages (first page of each category + site search), title / SKU / USD price; scripts/parts/build_skyhigh.py",
+ "terms_note": "Numbers only with URL; USD prices. Sky High's own brand.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 14,
+ "records": [
+  {
+   "id": "skyhigh-Shca-anl-distro-block",
+   "model": "SHCA-DB-1024-ANL",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Distro Block with Dual ANL Fuse Holder-(1) 1/0 Inout & (2) 4 ga outputs",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/Shca-anl-distro-block",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_distribution_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "rating_a": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-250-amp-anl-fuse",
+   "model": "SHCA-ANL",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio ANL Fuse",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-250-amp-anl-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": null,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-1-0-gauge-anl-fuse-holder-ring-terminals",
+   "model": "SHCA-0ANL-RT",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio 1/0 Gauge ANL Fuse Holder (Ring Terminals)",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-1-0-gauge-anl-fuse-holder-ring-terminals/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "rating_a": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-1-0-gauge-anl-fuse-holder-set-screw",
+   "model": "SHCA-0ANL-SS",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio 1/0 Gauge ANL Fuse Holder (Set Screw)",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-1-0-gauge-anl-fuse-holder-set-screw/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "rating_a": null
+  },
+  {
+   "id": "skyhigh-dual-anl-fuse-holder-ring-terminal-style-double-1-0-ga-4-ga",
+   "model": "SHCA-DANL-RT",
+   "model_basis": "store SKU",
+   "title": "DUAL ANL Fuse Holder Ring Terminal Style Double 1/0 ga 4 ga",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/dual-anl-fuse-holder-ring-terminal-style-double-1-0-ga-4-ga/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "rating_a": null
+  },
+  {
+   "id": "skyhigh-copy-of-sky-high-car-audio-anl-fuse",
+   "model": "SHCA-CRMANL",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Ceramic ANL Fuse",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/copy-of-sky-high-car-audio-anl-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": null,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-1-0-gauge-waterproof-anl-fuse-holder-set-screw",
+   "model": "SHCA-0WPANL-SS",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio 1/0 Gauge Waterproof ANL Fuse Holder (Set Screw)",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-1-0-gauge-waterproof-anl-fuse-holder-set-screw/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "rating_a": null
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-manl-fuse-5-pack",
+   "model": "SHCA-MANL-5PK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio MANL Fuse 5 Pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-manl-fuse-5-pack/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p1.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "mini ANL",
+   "rating_a": null,
+   "bundle": true,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-anl-fuse-4-pack",
+   "model": "SHCA-ANL-4PK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio ANL Fuse 4 pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-anl-fuse-4-pack/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": null,
+   "bundle": true,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-copy-of-sky-high-car-audio-ceramic-anl-fuse-2-pack",
+   "model": "SHCA-CRMANL-4PK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Ceramic ANL Fuse 4 Pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/copy-of-sky-high-car-audio-ceramic-anl-fuse-2-pack/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": null,
+   "bundle": true,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-anl-fuse-2-pack",
+   "model": "SHCA-ANL-2PK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio ANL Fuse 2 pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-anl-fuse-2-pack/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": null,
+   "bundle": true,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-copy-of-sky-high-car-audio-ceramic-anl-fuse",
+   "model": "SHCA-CRMANL-2PK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio Ceramic ANL Fuse 2 Pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/copy-of-sky-high-car-audio-ceramic-anl-fuse/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": null,
+   "bundle": true,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-anl-fuse-10-pack",
+   "model": "SHCA-ANL-10PK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio ANL Fuse 10 pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-anl-fuse-10-pack/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": null,
+   "quality_issues": [
+    "rating_null"
+   ]
+  },
+  {
+   "id": "skyhigh-sky-high-car-audio-agu-fuse-5-pack",
+   "model": "SHCA-AGU-5PK",
+   "model_basis": "store SKU",
+   "title": "Sky High Car Audio AGU Fuse 5 Pack",
+   "status": "listed on skyhighcaraudio.com 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title values",
+      "sku"
+     ],
+     "url": "https://skyhighcaraudio.com/sky-high-car-audio-agu-fuse-5-pack/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://skyhighcaraudio.com/ listing page (cat_search_php_search_query_fuse_p2.html)"
+    }
+   ],
+   "check": "values parsed from the listing title only (scripts/parts/build_skyhigh.py); product page not read",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "AGU",
+   "rating_a": null,
+   "bundle": true,
+   "quality_issues": [
+    "rating_null"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

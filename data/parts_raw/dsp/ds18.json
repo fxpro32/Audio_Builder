@@ -1,0 +1,716 @@
+{
+ "schema": "parts_raw/1",
+ "category": "dsp",
+ "brand": "DS18",
+ "maker_site": "https://www.ds18.com",
+ "method": "maker's own Shopify store, products.json (title, vendor field = model, body numbers); scripts/parts/build_ds18_accessories.py",
+ "terms_note": "Numbers only, URL per record; USD maker-store prices.",
+ "units": {
+  "length_m": "m (converted from feet)",
+  "awg_nominal_mm2": "mm2 for the stated AWG (ASTM B258 formula), NOT measured",
+  "actual_area_mm2_from_strands": "mm2 = strands x pi/4 x d^2 from the maker strand count"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 28,
+ "records": [
+  {
+   "id": "ds18-keq4ld",
+   "model": "KEQ4LD",
+   "title": "KEQ 4-Band Graphic Equalizer, 6-Channel Line Driver with Subwoofer Level Control",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/keq4ld",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 6,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": 4,
+   "bluetooth": false,
+   "bundle": true
+  },
+  {
+   "id": "ds18-vx4hl",
+   "model": "VX4HL",
+   "title": "4 Channel Line Output Converter with Auto Turn-On and Speaker Emulator",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/vx4hl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 4,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-vx2hl",
+   "model": "VX2HL",
+   "title": "2 Channel Line Output Converter with Auto Turn-On and Speaker Emulator",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/vx2hl",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-qhl2",
+   "model": "QHL2",
+   "title": "2-Channel Lossless Audio Line Output Converter with Auto Turn-On And Speaker Emulator",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/qhl2",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-qhl4",
+   "model": "QHL4",
+   "title": "4-Channel Lossless Audio Line Output Converter with Auto Turn-On And Speaker Emulator",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/qhl4",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 4,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-dbpx200",
+   "model": "DBPX200",
+   "title": "Digital Bass Processor with Hi to Low Signal Converter & Speaker Emulator",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dbpx200",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-dbpx200-mx",
+   "model": "DBPX200.MX",
+   "title": "Digital Bass Processor with Hi to Low Signal Converter & Speaker Emulator  – Mexico Design",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dbpx200-mx",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-dbpm100-mx",
+   "model": "DBPM100.MX",
+   "title": "Digital Bass Processor 2-Channel Pre-Amp Input / Output - Mexico Design",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dbpm100-mx",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-dbpm100",
+   "model": "DBPM100",
+   "title": "Digital Bass Processor 2-Channel Pre-Amp Input / Output",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/dbpm100",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-ds18-eqx7pro-high-volt-7-band-equalizer-with-high-level-input-auto-turn-on-and-high-v",
+   "model": "EQX7PRO",
+   "title": "High Volt 7-Band Equalizer with High Level Input, Auto Turn On And High Volt LED Indicator",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-eqx7pro-high-volt-7-band-equalizer-with-high-level-input-auto-turn-on-and-high-volt-led-indicator",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": 7,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-xohv-pre-amp-with-crossover-for-high-volt-amplifier",
+   "model": "XOHV",
+   "title": "Pre-Amp With Crossover For High Volt Amplifier",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-xohv-pre-amp-with-crossover-for-high-volt-amplifier",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "amp+DSP",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "amp_dsp_no_rms"
+   ],
+   "check": "not clean: amp_dsp_no_rms (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-v4hl-v2-hi-lo-converter-4-channel-with-speaker-emulator-remote-out",
+   "model": "V4HL.V2",
+   "title": "Hi/Lo Converter 4-Channel with Speaker Emulator (Remote out)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-v4hl-v2-hi-lo-converter-4-channel-with-speaker-emulator-remote-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 4,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "bundle": true
+  },
+  {
+   "id": "ds18-ds18-dsp2-6dbt-2-channel-in-and-6-channel-out-digital-sound-processor-with-bluetooth-",
+   "model": "DSP2.6DBT",
+   "title": "2-Channel In and 6-Channel Out Digital Sound Processor (DSP) with Bluetooth and LCD Screen",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-dsp2-6dbt-2-channel-in-and-6-channel-out-digital-sound-processor-with-bluetooth-and-lcd-screen",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "DSP",
+   "inputs": 2,
+   "outputs": 6,
+   "eq_bands": null,
+   "bluetooth": true
+  },
+  {
+   "id": "ds18-ds18-dsp2-8dbt-2-channel-in-and-8-channel-out-digital-sound-processor-with-bluetooth-",
+   "model": "DSP2.8DBT",
+   "title": "2-Channel In and 8-Channel Out Digital Sound Processor (DSP) with Bluetooth and LCD Screen",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-dsp2-8dbt-2-channel-in-and-8-channel-out-digital-sound-processor-with-bluetooth-and-lcd-screen",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "DSP",
+   "inputs": 2,
+   "outputs": 8,
+   "eq_bands": null,
+   "bluetooth": true
+  },
+  {
+   "id": "ds18-ds18-dsp4-8btm-4-channel-in-and-8-channel-out-digital-sound-processor-with-bluetooth",
+   "model": "DSP4.8BTM",
+   "title": "4-Channel In and 8-Channel Out Digital Sound Processor (DSP) with Bluetooth",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-dsp4-8btm-4-channel-in-and-8-channel-out-digital-sound-processor-with-bluetooth",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 4,
+   "kind": "DSP",
+   "inputs": 4,
+   "outputs": 8,
+   "eq_bands": 15,
+   "bluetooth": true
+  },
+  {
+   "id": "ds18-ds18-dsp8-8bt-8-channel-in-and-8-channel-out-digital-sound-processor-with-bluetooth",
+   "model": "DSP8.8BT",
+   "title": "8-Channel In and 8-Channel Out Digital Sound Processor (DSP) with Bluetooth",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-dsp8-8bt-8-channel-in-and-8-channel-out-digital-sound-processor-with-bluetooth",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 8,
+   "kind": "DSP",
+   "inputs": 8,
+   "outputs": 8,
+   "eq_bands": 31,
+   "bluetooth": true
+  },
+  {
+   "id": "ds18-ds18-2clc-2-channel-high-low-converter-with-digital-bass-enhancer",
+   "model": "2CLC",
+   "title": "2-Channel Line Output Converter with Digital Bass Enhancer",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-2clc-2-channel-high-low-converter-with-digital-bass-enhancer",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-ds18-dsp8-6ia-6-channel-in-and-8-channel-out-digital-sound-processor-with-external-kn",
+   "model": null,
+   "title": "DS18 DSP8.6iA 6-Channel Car Amplifier with 8-Channel Digital Sound Processor",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-dsp8-6ia-6-channel-in-and-8-channel-out-digital-sound-processor-with-external-knob-control-and-pc-software",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 6,
+   "kind": "DSP",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "model_missing_or_short"
+   ],
+   "check": "not clean: model_missing_or_short (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-eqx5-high-volt-5-band-equalizer-with-high-level-input",
+   "model": "EQX5",
+   "title": "High Volt 5-Band Equalizer with High Level Input",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-eqx5-high-volt-5-band-equalizer-with-high-level-input",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": 5,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-v2hl-v2-hi-lo-converter-2-channel-with-speaker-emulator-remote-out",
+   "model": "V2HL.V2",
+   "title": "2-Channel Line Output Converter with Speaker Emulator (Remote out)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-v2hl-v2-hi-lo-converter-2-channel-with-speaker-emulator-remote-out",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 2,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "bundle": true
+  },
+  {
+   "id": "ds18-ds18-xm5-5-way-pro-audio-crossover",
+   "model": "XM5",
+   "title": "High Volt 5-Way Active Crossover",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-xm5-5-way-pro-audio-crossover",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "model_missing_or_short",
+    "io_null"
+   ],
+   "check": "not clean: model_missing_or_short, io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-eqx7-high-volt-7-band-equalizer-with-high-level-input-and-auto-turn-on",
+   "model": "EQX7",
+   "title": "High Volt 7-Band Equalizer with High Level Input and Auto Turn On",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-eqx7-high-volt-7-band-equalizer-with-high-level-input-and-auto-turn-on",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": 7,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-v5hl-5-channel-high-performance-high-to-low-converter",
+   "model": "V5HL",
+   "title": "Hi/Lo Converter 5-Channel with 12 Volt Trigger Output (Remote out)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-v5hl-5-channel-high-performance-high-to-low-converter",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 5,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-ds18-xm3-crossover-active-3-way-with-sub-level-control",
+   "model": "XM3",
+   "title": "3-Way Active Crossover With Line Driver",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-xm3-crossover-active-3-way-with-sub-level-control",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "model_missing_or_short",
+    "io_null"
+   ],
+   "check": "not clean: model_missing_or_short, io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-dbp-1-digital-bass-processor",
+   "model": "DBP-1",
+   "title": "DS18 DBP-1 Digital Bass Processor",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-dbp-1-digital-bass-processor",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-v6hlpro-6-channel-high-performance-high-to-low-converter",
+   "model": "V6HLPRO",
+   "title": "Hi/Lo Converter 6-Channel with 12 Volt Trigger Output (Remote out)",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-v6hlpro-6-channel-high-performance-high-to-low-converter",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": 6,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false
+  },
+  {
+   "id": "ds18-ds18-pro-cfx-crossover-passive-2-way-pair",
+   "model": "PRO-CFX",
+   "title": "2-Way Passive Crossover",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-pro-cfx-crossover-passive-2-way-pair",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "ds18-ds18-xm6ld-6-way-crossover-active-with-gain-control",
+   "model": "XM6LD",
+   "title": "6-Way Active Crossover with Remote Gain Control",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.ds18.com/products/ds18-xm6ld-6-way-crossover-active-with-gain-control",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.ds18.com/products.json (title, body_html)"
+    }
+   ],
+   "channels_title": null,
+   "kind": "signal processor (EQ / crossover / line output converter)",
+   "inputs": null,
+   "outputs": null,
+   "eq_bands": null,
+   "bluetooth": false,
+   "quality_issues": [
+    "io_null"
+   ],
+   "check": "not clean: io_null (scripts/parts/quality.py); verify against the maker page or manual"
+  }
+ ],
+ "not_recorded": []
+}

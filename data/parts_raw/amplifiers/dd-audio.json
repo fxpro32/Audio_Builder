@@ -1,0 +1,4006 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "DD Audio",
+ "maker_site": "https://ddaudio.com",
+ "method": "maker product pages listed at https://ddaudio.com/product-category/amplifiers/ (incl. page 2 and ?inactive), 3 s apart",
+ "terms_note": "Numbers only with URL.",
+ "units": {
+  "w_per_ch": "W continuous at test voltage",
+  "current_draw_max_a": "A",
+  "dims_mm": "mm"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 65,
+ "records": [
+  {
+   "id": "dd-audio-d1100",
+   "model": "D1100",
+   "model_basis": "maker page title",
+   "title": "D1100: 1100 Watt - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 380,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1100,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 110.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     220.0,
+     104.0,
+     43.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/d1100/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d600",
+   "model": "D600",
+   "model_basis": "maker page title",
+   "title": "D600: 600 Watt - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 60.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     160.0,
+     104.0,
+     43.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/d600/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dm1000",
+   "model": "DM1000",
+   "model_basis": "maker page title",
+   "title": "DM1000 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 90.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": null,
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     303.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dm1000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dm1000a",
+   "model": "DM1000a",
+   "model_basis": "maker page title",
+   "title": "DM1000a: 1000 Watt - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 470,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 770,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 1500.0,
+   "current_draw_max_a": 100.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     300.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dm1000a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dm1500a",
+   "model": "DM1500a",
+   "model_basis": "maker page title",
+   "title": "DM1500a: 1500 Watt - Subwoofer Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 580,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 2300.0,
+   "current_draw_max_a": 150.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     350.0,
+     175.0,
+     55.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dm1500a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dm2500a",
+   "model": "DM2500a",
+   "model_basis": "maker page title",
+   "title": "DM2500a: 2500 Watt - Subwoofer Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 810,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 3000.0,
+   "current_draw_max_a": 250.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     500.0,
+     175.0,
+     55.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dm2500a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dm500",
+   "model": "DM500",
+   "model_basis": "maker page title",
+   "title": "DM500 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 45.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": null,
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     203.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dm500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dm500a",
+   "model": "DM500a",
+   "model_basis": "maker page title",
+   "title": "DM500a: 500 Watt - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 210,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 380,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 800.0,
+   "current_draw_max_a": 50.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     200.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dm500a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dmf1600",
+   "model": "DMF1600",
+   "model_basis": "maker page title",
+   "title": "DMF1600 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 850,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 130.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": null,
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     251.0,
+     200.0,
+     57.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dmf1600/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-dmf2800",
+   "model": "DMF2800",
+   "model_basis": "maker page title",
+   "title": "DMF2800 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2800,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 230.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": null,
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     321.0,
+     200.0,
+     57.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/monoblock/dmf2800/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-100",
+   "model": "D4.100",
+   "model_basis": "maker page title",
+   "title": "D4.100: 400 Watt - Compact 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 60.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": null,
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     230.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-100/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-100a",
+   "model": "D4.100a",
+   "model_basis": "maker page title",
+   "title": "D4.100a: 400 Watt - Compact 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 100,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 320,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 160,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 64.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     180.0,
+     104.0,
+     43.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-100a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-125",
+   "model": "D4.125",
+   "model_basis": "maker page title",
+   "title": "D4.125: 800 Watt - 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 80.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     180.0,
+     104.0,
+     43.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-125/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-200",
+   "model": "D4.200",
+   "model_basis": "maker page title",
+   "title": "D4.200: 800 Watt - Compact 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 370,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1040,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 4,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 220.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     268.0,
+     177.0,
+     54.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-200/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-2200",
+   "model": "D4.2200",
+   "model_basis": "maker page title",
+   "title": "D4.2200: 2200 Watt - Compact 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 370,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1040,
+     "channels": 2,
+     "ohm": 2.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 550,
+     "channels": 4,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 2200.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 220.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2",
+   "speaker_wire_awg_accepts": "16",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     268.0,
+     177.0,
+     54.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-2200/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-60",
+   "model": "D4.60",
+   "model_basis": "maker page title",
+   "title": "D4.60 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 60,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 170,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 85,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 35.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 18",
+   "speaker_wire_awg_accepts": "18",
+   "operating_voltage": null,
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     160.0,
+     105.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-60/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-75",
+   "model": "D4.75",
+   "model_basis": "maker page title",
+   "title": "D4.75: 300 Watt - Mini 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 40.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 18",
+   "speaker_wire_awg_accepts": "18",
+   "operating_voltage": null,
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     160.0,
+     100.0,
+     45.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-75/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-800",
+   "model": "D4.800",
+   "model_basis": "maker page title",
+   "title": "D4.800: 800 Watt – 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 400,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 800.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 80.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "16",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     180.0,
+     104.0,
+     43.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-800/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d4-90",
+   "model": "D4.90",
+   "model_basis": "maker page title",
+   "title": "D4.90 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 45.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": null,
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     233.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d4-90/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d5-1000",
+   "model": "D5.1000",
+   "model_basis": "maker page title",
+   "title": "D5.1000 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "Ch 1-4",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "Ch 1-4",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "Ch 5",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 130.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": null,
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     373.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d5-1000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d5-1500",
+   "model": "D5.1500",
+   "model_basis": "maker page title",
+   "title": "D5.1500 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "Ch 1-4",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 680,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "CH 5",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 180,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "CH 1-4",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "CH 5",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "CH 5",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 230.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": null,
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     450.0,
+     175.0,
+     55.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d5-1500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d5-350",
+   "model": "D5.350",
+   "model_basis": "maker page title",
+   "title": "D5.350: 1750 Watt - 5 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 85,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "CH1~4",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "CH5",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 90.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     250.0,
+     104.0,
+     43.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d5-350/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-d5-500",
+   "model": "D5.500",
+   "model_basis": "maker page title",
+   "title": "D5.500 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 90,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": "Ch 1-4",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 240,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": "Ch 1-4",
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": "Ch 5",
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 85.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": null,
+   "operating_voltage": null,
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     303.0,
+     125.0,
+     47.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/d-series/amplifiers/multi-channel/d5-500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m2500a",
+   "model": "M2500a",
+   "model_basis": "maker page title",
+   "title": "M2500a - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 2500.0,
+   "dynamic_power_w": 4000.0,
+   "current_draw_max_a": 400.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     313.2,
+     230.0,
+     74.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/m2500a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "dd-audio-m5000a",
+   "model": "M5000a",
+   "model_basis": "maker page title",
+   "title": "M5000a - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1900,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 5000.0,
+   "dynamic_power_w": 7000.0,
+   "current_draw_max_a": 700.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     423.2,
+     230.0,
+     74.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/m5000a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "dd-audio-m9000",
+   "model": "M9000",
+   "model_basis": "maker page title",
+   "title": "M9000: 9000 Watt - Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 5500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 9000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 9000.0,
+   "dynamic_power_w": 12000.0,
+   "current_draw_max_a": 1500.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "3 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     654.0,
+     230.0,
+     66.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/m9000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "inferred": [
+    "channels = 1 (title says mono)"
+   ]
+  },
+  {
+   "id": "dd-audio-m-45",
+   "model": "M.45",
+   "model_basis": "maker page title",
+   "title": "M.45 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 50.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     175.0,
+     175.0,
+     52.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m-45/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-m-80",
+   "model": "M.80",
+   "model_basis": "maker page title",
+   "title": "M.80 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "0 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     27.94,
+     17.53,
+     51.6
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m-80/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-m-80b",
+   "model": "M.80b",
+   "model_basis": "maker page title",
+   "title": "M.80b - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": 12.0,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 100.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     27.94,
+     17.53,
+     5.16
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m-80b/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-m1c",
+   "model": "M1c",
+   "model_basis": "maker page title",
+   "title": "M1c - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "0 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     34.04,
+     17.53,
+     51.6
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m1c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-m1d",
+   "model": "M1d",
+   "model_basis": "maker page title",
+   "title": "M1d: 1700 Watt - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1700,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 2.0,
+   "current_draw_max_a": 170.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     350.0,
+     175.0,
+     54.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m1d/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m2000",
+   "model": "M2000",
+   "model_basis": "maker page title",
+   "title": "M2000: 2000 Watt – Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 4000.0,
+   "current_draw_max_a": 200.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9-16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     230.0,
+     66.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m2000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m2500",
+   "model": "M2500",
+   "model_basis": "maker page title",
+   "title": "M2500: 2500w - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 2500.0,
+   "dynamic_power_w": 4000.0,
+   "current_draw_max_a": 400.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     240.0,
+     230.0,
+     66.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m2500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "inferred": [
+    "channels = 1 (title says mono)"
+   ]
+  },
+  {
+   "id": "dd-audio-m2b",
+   "model": "M2b",
+   "model_basis": "maker page title",
+   "title": "M2b - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 810,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 2400,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 2800.0,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "0 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     50.17,
+     17.53,
+     51.6
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m2b/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m2c",
+   "model": "M2c",
+   "model_basis": "maker page title",
+   "title": "M2c - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2400,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 3.0,
+   "current_draw_max_a": 250.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "12 / 14.4",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     500.0,
+     175.0,
+     54.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m2c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m3b",
+   "model": "M3b",
+   "model_basis": "maker page title",
+   "title": "M3b - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "0 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     50.17,
+     23.16,
+     63.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m3b/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-m3c",
+   "model": "M3c",
+   "model_basis": "maker page title",
+   "title": "M3c - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3800,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 5.0,
+   "current_draw_max_a": 400.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "1 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     500.0,
+     230.0,
+     65.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m3c/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m3d",
+   "model": "M3d",
+   "model_basis": "maker page title",
+   "title": "M3d: 4000 Watt - Subwoofer Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1350,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 5000.0,
+   "current_draw_max_a": 400.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     500.0,
+     230.0,
+     66.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m3d/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m4",
+   "model": "M4",
+   "model_basis": "maker page title",
+   "title": "M4 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 0 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     55.88,
+     23.16,
+     63.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m4/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-m4000",
+   "model": "M4000",
+   "model_basis": "maker page title",
+   "title": "M4000: 4000 Watt – Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 6000.0,
+   "current_draw_max_a": 400.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     330.0,
+     230.0,
+     66.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m4000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m4a",
+   "model": "M4a",
+   "model_basis": "maker page title",
+   "title": "M4a - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 0 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     70.17,
+     23.16,
+     63.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m4a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-m5000",
+   "model": "M5000",
+   "model_basis": "maker page title",
+   "title": "M5000: 5000 Watt - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1900,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 5000.0,
+   "dynamic_power_w": 7000.0,
+   "current_draw_max_a": 700.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "2 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     340.0,
+     230.0,
+     66.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m5000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "inferred": [
+    "channels = 1 (title says mono)"
+   ]
+  },
+  {
+   "id": "dd-audio-m5a",
+   "model": "M5a",
+   "model_basis": "maker page title",
+   "title": "M5a: 8000 Watt - Subwoofer Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2800,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 8000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": 10000.0,
+   "current_draw_max_a": 800.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "3 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     699.0,
+     230.0,
+     66.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m5a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-m8000",
+   "model": "M8000",
+   "model_basis": "maker page title",
+   "title": "M8000: 8000 Watt – Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 5000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 8000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 8000.0,
+   "dynamic_power_w": 10500.0,
+   "current_draw_max_a": 800.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "3 x 0",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     450.0,
+     230.0,
+     72.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/m-series/amplifiers/monoblock/m8000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss1100",
+   "model": "SS1100",
+   "model_basis": "maker page title",
+   "title": "SS1100: 1100 Watt - Monoblock - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 750,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1100,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 1100.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 110.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "4",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     170.0,
+     102.0,
+     45.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/monoblock/ss1100/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss2000",
+   "model": "SS2000",
+   "model_basis": "maker page title",
+   "title": "SS2000: 2000 Watt - Compact Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 1400,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 2000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 200.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "8",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     198.0,
+     185.0,
+     60.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/monoblock/ss2000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss3000",
+   "model": "SS3000",
+   "model_basis": "maker page title",
+   "title": "SS3000: 3000 Watt – Full Bridge Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2200,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 3000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 300.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "4",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     221.0,
+     185.0,
+     60.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/monoblock/ss3000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss600",
+   "model": "SS600",
+   "model_basis": "maker page title",
+   "title": "SS600: 600 Watt - Monoblock - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 600.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 60.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     141.0,
+     117.0,
+     50.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/monoblock/ss600/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss6000",
+   "model": "SS6000",
+   "model_basis": "maker page title",
+   "title": "SS6000: 6000 Watt – Full Bridge Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 2000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 6000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 6000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 600.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "4",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     286.0,
+     185.0,
+     60.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/monoblock/ss6000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss9000",
+   "model": "SS9000",
+   "model_basis": "maker page title",
+   "title": "SS9000: 9000 Watt – Full Bridge Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 3000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 6000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 9000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 9000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 900.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "4",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     398.0,
+     185.0,
+     60.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/monoblock/ss9000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss2b",
+   "model": "SS2b",
+   "model_basis": "maker page title",
+   "title": "SS2b - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     175.0,
+     175.0,
+     52.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss2b/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-ss4-1300",
+   "model": "SS4.1300",
+   "model_basis": "maker page title",
+   "title": "SS4.1300: 1300 Watt – 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 180,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 650,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 325,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 1300.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 150.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "14",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     159.0,
+     117.0,
+     50.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss4-1300/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss4-3000",
+   "model": "SS4.3000",
+   "model_basis": "maker page title",
+   "title": "SS4.3000: 3000 Watt - 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 650,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 4000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 300.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     286.0,
+     185.0,
+     60.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss4-3000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss4-500",
+   "model": "SS4.500",
+   "model_basis": "maker page title",
+   "title": "SS4.500: 500 Watt - 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 125,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 500.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 40.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "14",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     141.0,
+     117.0,
+     50.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss4-500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss4a",
+   "model": "SS4a",
+   "model_basis": "maker page title",
+   "title": "SS4a - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4 AWG",
+   "speaker_wire_awg_accepts": "10 AWG",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     27.94,
+     17.53,
+     51.6
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss4a/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-ss4b",
+   "model": "SS4b",
+   "model_basis": "maker page title",
+   "title": "SS4b: 1000 Watt - Compact 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 700,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 350,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 110.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     300.0,
+     175.0,
+     54.5
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss4b/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss5-1500",
+   "model": "SS5.1500",
+   "model_basis": "maker page title",
+   "title": "SS5.1500: 2700 Total Watt - Five Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 2700.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 150.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": "4",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     350.0,
+     185.0,
+     60.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss5-1500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss5-500",
+   "model": "SS5.500",
+   "model_basis": "maker page title",
+   "title": "SS5.500: 980 Total Watt – Five Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 80,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 120,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 980.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 100.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     371.0,
+     185.0,
+     60.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss5-500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-ss5",
+   "model": "SS5",
+   "model_basis": "maker page title",
+   "title": "SS5 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 5,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": null,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": null,
+   "speaker_wire_awg_accepts": null,
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     45.09,
+     17.53,
+     51.6
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss5/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-ss6",
+   "model": "SS6",
+   "model_basis": "maker page title",
+   "title": "SS6 - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 2,
+   "rms_ratings": [],
+   "rated_voltage_v": null,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": null,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 160.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4",
+   "speaker_wire_awg_accepts": "10",
+   "operating_voltage": null,
+   "min_load_ohm": null,
+   "dims_mm": {
+    "mm": [
+     360.0,
+     175.0,
+     52.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/ss-series/amplifiers/multi-channel/ss6/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "quality_issues": [
+    "no_rms"
+   ]
+  },
+  {
+   "id": "dd-audio-sx1000",
+   "model": "SX1000",
+   "model_basis": "maker page title",
+   "title": "SX1000: 1000 Watt - Monoblock - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 600,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 1000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 100.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "8",
+   "speaker_wire_awg_accepts": "12",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     178.0,
+     115.0,
+     50.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/sx-series/amplifiers/monoblock/sx1000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-sx4-1000",
+   "model": "SX4.1000",
+   "model_basis": "maker page title",
+   "title": "SX4.1000: 1000 Watt - 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 1000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 100.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "8",
+   "speaker_wire_awg_accepts": "16",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": {
+    "mm": [
+     178.0,
+     115.0,
+     50.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/sx-series/amplifiers/multi-channel/sx4-1000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-sx4-1000bt",
+   "model": "SX4.1000BT",
+   "model_basis": "maker page title",
+   "title": "SX4.1000BT: 1000 Watt - 4 Channel Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 150,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 250,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 1000.0,
+   "dynamic_power_w": null,
+   "current_draw_max_a": 100.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "8",
+   "speaker_wire_awg_accepts": "16",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 2.0,
+   "dims_mm": null,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/sx-series/amplifiers/sx4-1000bt/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-z12000",
+   "model": "Z12000",
+   "model_basis": "maker page title",
+   "title": "Z12000: 12,000 Watt – Subwoofer Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 7000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 12000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 12000.0,
+   "dynamic_power_w": 14000.0,
+   "current_draw_max_a": 1200.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4×0",
+   "speaker_wire_awg_accepts": "4×8",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     686.0,
+     305.0,
+     83.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/z-series/amplifiers/monoblock/z12000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": ""
+  },
+  {
+   "id": "dd-audio-z13000",
+   "model": "Z13000",
+   "model_basis": "maker page title",
+   "title": "Z13000: 13000 Watt - Monoblock Amplifier - DD Audio",
+   "status": "discontinued per maker site",
+   "class": null,
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 4000,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 7500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    },
+    {
+     "w_per_ch": 13000,
+     "channels": 1,
+     "ohm": 1.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "rating_basis": "maker 'Continuous Wattage' at the stated test voltage; THD not stated on the page",
+   "cta2006": null,
+   "total_power_w": 13000.0,
+   "dynamic_power_w": 15000.0,
+   "current_draw_max_a": 2000.0,
+   "current_draw_basis": "maker: maximum possible current draw, not average",
+   "power_wire_awg_accepts": "4 x 0",
+   "speaker_wire_awg_accepts": "2 x 8",
+   "operating_voltage": "9 – 16",
+   "min_load_ohm": 1.0,
+   "dims_mm": {
+    "mm": [
+     839.0,
+     305.0,
+     83.0
+    ],
+    "order": "as published"
+   },
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://ddaudio.com/z-series/amplifiers/z13000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker Model Specs table by scripts/parts/build_dd_amps.py",
+   "notes": "",
+   "inferred": [
+    "channels = 1 (title says mono)"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

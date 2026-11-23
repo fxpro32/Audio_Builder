@@ -1,0 +1,291 @@
+{
+ "brand": "Timpano Audio",
+ "country": "USA",
+ "brand_url": "https://timpanoaudio.com",
+ "terms_note": "Shopify store; /products.json read once (descriptions). No terms clause on reading found (not read in full).",
+ "drivers": [
+  {
+   "model": "TPT-T3500-15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 0.7,
+    "qms": 11.14,
+    "qes": 0.52,
+    "qts": 0.5,
+    "vas_l": 75.65,
+    "sd_cm2": null,
+    "xmax_mm": 29,
+    "mms_g": null,
+    "bl_tm": 10.24,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://timpanoaudio.com/products/tpt-t3500-15_d2-powerful-15-inch-car-audio-subwoofer",
+     "doc": "product page description, THIELE-SMALL PARAMETERS block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states the T/S are for the coils wired in parallel. RMS from 'conservatively rated of N watts RMS' in the description. Box recommendations (compact/large sealed and ported with F3 and port size) are on the page but not entered (tuning not given). Xmech 45 mm."
+  },
+  {
+   "model": "TPT-T3500-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 0.7,
+    "qms": 11.38,
+    "qes": 0.53,
+    "qts": 0.51,
+    "vas_l": 26.16,
+    "sd_cm2": null,
+    "xmax_mm": 29,
+    "mms_g": null,
+    "bl_tm": 10.15,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://timpanoaudio.com/products/tpt-t3500-12_d2-powerful-12-inch-car-audio-subwoofer",
+     "doc": "product page description, THIELE-SMALL PARAMETERS block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states the T/S are for the coils wired in parallel. RMS from 'conservatively rated of N watts RMS' in the description. Box recommendations (compact/large sealed and ported with F3 and port size) are on the page but not entered (tuning not given). Xmech 45 mm."
+  },
+  {
+   "model": "TPT-T2500-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 44,
+    "re_ohm": 0.9,
+    "qms": 9.81,
+    "qes": 0.77,
+    "qts": 0.77,
+    "vas_l": 11.59,
+    "sd_cm2": null,
+    "xmax_mm": 23.5,
+    "mms_g": null,
+    "bl_tm": 7.81,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://timpanoaudio.com/products/10-car-audio-subwoofer-2000-watts-dual-2-ohm-tpt-t2500-10-d2",
+     "doc": "product page description, THIELE-SMALL PARAMETERS block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states the T/S are for the coils wired in parallel. RMS from 'conservatively rated of N watts RMS' in the description. Box recommendations (compact/large sealed and ported with F3 and port size) are on the page but not entered (tuning not given). Xmech 32 mm. DATA PROBLEM: Qts 0.77 equals Qes 0.77 although Qms is 9.81 (calculated Qts 0.714). Model name T2500 but rated 2,000 W RMS."
+  },
+  {
+   "model": "TPT-T2500-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 36,
+    "re_ohm": 0.9,
+    "qms": 9.46,
+    "qes": 0.79,
+    "qts": 0.732,
+    "vas_l": 26.54,
+    "sd_cm2": null,
+    "xmax_mm": 23.5,
+    "mms_g": null,
+    "bl_tm": 8.51,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://timpanoaudio.com/products/12-car-audio-subwoofer-2500-watts-dual-2-ohm-tpt-t2500-12-d2",
+     "doc": "product page description, THIELE-SMALL PARAMETERS block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states the T/S are for the coils wired in parallel. RMS from 'conservatively rated of N watts RMS' in the description. Box recommendations (compact/large sealed and ported with F3 and port size) are on the page but not entered (tuning not given). Xmech 37 mm. DATA PROBLEM: the description heading says 'Dual 4 Ohm' while the title, handle and parallel Re 0.9 indicate Dual 2."
+  },
+  {
+   "model": "TPT-T2500-12 D4",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 39,
+    "re_ohm": 1.8,
+    "qms": 9.1,
+    "qes": 0.916,
+    "qts": 0.833,
+    "vas_l": 26.4,
+    "sd_cm2": null,
+    "xmax_mm": 23.5,
+    "mms_g": null,
+    "bl_tm": 10.82,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://timpanoaudio.com/products/12-car-audio-subwoofer-2500-watts-dual-4-ohm-tpt-t2500-12-d4",
+     "doc": "product page description, THIELE-SMALL PARAMETERS block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states the T/S are for the coils wired in parallel. RMS from 'conservatively rated of N watts RMS' in the description. Box recommendations (compact/large sealed and ported with F3 and port size) are on the page but not entered (tuning not given). Xmech 37 mm. Dual 4 ohm: parallel gives 2 ohm."
+  },
+  {
+   "model": "TPT-T2500-15 D4",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2.0,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 1.9,
+    "qms": 9.05,
+    "qes": 1.14,
+    "qts": 1.01,
+    "vas_l": 67.25,
+    "sd_cm2": null,
+    "xmax_mm": 23.5,
+    "mms_g": null,
+    "bl_tm": 10.69,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://timpanoaudio.com/products/15-car-audio-subwoofer-2500-watts-dual-4-ohm-tpt-t2500-15-d4",
+     "doc": "product page description, THIELE-SMALL PARAMETERS block",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker states the T/S are for the coils wired in parallel. RMS from 'conservatively rated of N watts RMS' in the description. Box recommendations (compact/large sealed and ported with F3 and port size) are on the page but not entered (tuning not given). Xmech 37 mm. Dual 4 ohm: parallel gives 2 ohm."
+  }
+ ],
+ "no_ts_published": []
+}

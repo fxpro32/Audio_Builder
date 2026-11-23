@@ -1,0 +1,1555 @@
+{
+ "brand": "Audiotec Fischer (HELIX, BRAX, MATCH)",
+ "country": "Germany",
+ "brand_url": "https://www.audiotec-fischer.de",
+ "terms_note": "R4 2026-11-23: product pages read 3 s apart, one at a time (R2 read the same site for subs). Site has Terms of service (not read in full). Numbers only, no text or images copied; 'Maker features' notes are short paraphrase-free quotes of material names only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "BRAX GRAPHIC GL6 MK2",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    40,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 52,
+    "re_ohm": 3,
+    "qms": 6,
+    "qes": 0.57,
+    "qts": 0.52,
+    "vas_l": 16.3,
+    "sd_cm2": 139,
+    "xmax_mm": 4,
+    "mms_g": 15.3,
+    "bl_tm": 5.2,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 68.2,
+   "cutout_mm": 142,
+   "frame_mm": 166,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/speakers/graphic-gl6-mk2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker enclosure/DSP recommendations: Sealed box | 8 L | Lower limiting frequency (-3dB) | 69 Hz | Vented box | 15 L | Port diameter | ø | 60 mm / 2.4\" | Port area | 28 cm² | Port length | 19 cm / 7.5\" | Fb | 45 Hz | Lower limiting frequency (-3dB) | 48 Hz",
+   "cone_material": "Paper cone with “MicroSphere” coating consisting of micro ceramic hollow spheres embedded in a polymer layer",
+   "scope_of_delivery": [
+    "2 x High-End Woofer BRAX GRAPHIC GL6 MK2",
+    "1 x Data sheet"
+   ]
+  },
+  {
+   "model": "BRAX MATRIX ML165 PRO",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 120,
+   "peak_w": 170,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    40,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 48,
+    "re_ohm": 3.4,
+    "qms": 6.8,
+    "qes": 0.5,
+    "qts": 0.47,
+    "vas_l": 14.6,
+    "sd_cm2": 137,
+    "xmax_mm": 4,
+    "mms_g": 19.1,
+    "bl_tm": 6.3,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 64,
+   "cutout_mm": 143,
+   "frame_mm": 167,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/speakers/matrix-ml165-pro",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker also prints max. mechanical excursion +/- 8.0 mm; xmax_mm = max. linear excursion (one way). Maker enclosure/DSP recommendations: a. Infinite baffle | 50 Hz / 24 dB/Octave | “Linkwitz-Riley” | b. Sealed box | 13 L | Lower limiting frequency (-3dB) | 71 Hz | 65 Hz / 24 dB/Octave | “Linkwitz-Riley”",
+   "cone_material": "Carbon fleece multilayer cone",
+   "scope_of_delivery": [
+    "2 x High-End Woofer BRAX MATRIX ML165 PRO",
+    "1 x Drill",
+    "1 x Stainless steel screws",
+    "1 x Certificate",
+    "1 x Data sheet"
+   ]
+  },
+  {
+   "model": "BRAX MATRIX ML8 MID",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 89,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 45,
+    "re_ohm": 3.4,
+    "qms": 12.14,
+    "qes": 0.61,
+    "qts": 0.58,
+    "vas_l": 24,
+    "sd_cm2": 219,
+    "xmax_mm": 6,
+    "mms_g": 33.9,
+    "bl_tm": 7.4,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 92,
+   "cutout_mm": 191,
+   "frame_mm": 222,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/brax/speakers/matrix-ml8-mid",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker enclosure/DSP recommendations: Sealed box | 15 L | Lower limiting frequency (-3dB) | 60 Hz | Vented box | Not recommended | - | Port diameter | ø | - | Port area | - | Port length | - | Fb | - | Lower limiting frequency (-3dB) | -",
+   "cone_material": "Paper cone with “MicroSphere” coating consisting of micro ceramic hollow spheres embedded in a polymer layer",
+   "scope_of_delivery": [
+    "2 x High-End Midwoofer BRAX MATRIX ML8 MID",
+    "1 x Certificate",
+    "1 x Data sheet"
+   ]
+  },
+  {
+   "model": "HELIX CB W165-S3",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 80,
+   "peak_w": 120,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    60,
+    3500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 62,
+    "re_ohm": 3,
+    "qms": 4.5,
+    "qes": 0.9,
+    "qts": 0.75,
+    "vas_l": 14.5,
+    "sd_cm2": 141,
+    "xmax_mm": 2.5,
+    "mms_g": 13.2,
+    "bl_tm": 4.1,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 61.4,
+   "cutout_mm": 143,
+   "frame_mm": 166,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX CB K165.2-S3"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/basic/cb-w165-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Injected polypropylene cone",
+   "scope_of_delivery": [
+    "2 x CB W165-S3",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci3 W130-S3",
+   "type": "midbass",
+   "size_in": 5.25,
+   "size_label": "130 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 135,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    80,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 89,
+    "re_ohm": 3.1,
+    "qms": 3.11,
+    "qes": 0.97,
+    "qts": 0.74,
+    "vas_l": 4.6,
+    "sd_cm2": 98,
+    "xmax_mm": 3.2,
+    "mms_g": 9.1,
+    "bl_tm": 4,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 55.4,
+   "cutout_mm": 116.5,
+   "frame_mm": 130,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX Ci3 K130.2-S3 MK2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i3/ci3-w130-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Paper with Cenosphere coating",
+   "scope_of_delivery": [
+    "2 x Ci3 W130-S3",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci3 W165FM-S2",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    60,
+    3500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 74,
+    "re_ohm": 1.8,
+    "qms": 3.92,
+    "qes": 0.92,
+    "qts": 0.74,
+    "vas_l": 8.8,
+    "sd_cm2": 133,
+    "xmax_mm": 3.7,
+    "mms_g": 12.5,
+    "bl_tm": 3.5,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 94
+   },
+   "mounting_depth_mm": 60.7,
+   "cutout_mm": 142,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX Ci3 K165.2FM-S2 MK2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i3/ci3-w165fm-s2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Paper with Cenosphere coating",
+   "scope_of_delivery": [
+    "2 x Ci3 W165FM-S2",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci3 W165FM-S3",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    60,
+    3500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 70,
+    "re_ohm": 3,
+    "qms": 4.17,
+    "qes": 1.05,
+    "qts": 0.84,
+    "vas_l": 11.2,
+    "sd_cm2": 133,
+    "xmax_mm": 3.2,
+    "mms_g": 11.3,
+    "bl_tm": 4,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 60.7,
+   "cutout_mm": 142,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX Ci3 K165.2FM-S3 MK2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i3/ci3-w165fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Paper with Cenosphere coating",
+   "scope_of_delivery": [
+    "2 x Ci3 W165FM-S3",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci3 W200FM-S2",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm class",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 96,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    50,
+    3000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 72,
+    "re_ohm": 1.8,
+    "qms": 4.56,
+    "qes": 1.09,
+    "qts": 0.88,
+    "vas_l": 14.5,
+    "sd_cm2": 214,
+    "xmax_mm": 4,
+    "mms_g": 20.8,
+    "bl_tm": 4,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": 96
+   },
+   "mounting_depth_mm": 63.7,
+   "cutout_mm": 173.5,
+   "frame_mm": 195,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i3/ci3-w200fm-s2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Paper with Cenosphere coating",
+   "scope_of_delivery": [
+    "2 x Ci3 W200FM-S2",
+    "2 x Universal mounting ring with grille",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci3 W200FM-S3",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 150,
+   "sensitivity_db": 94,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    50,
+    3000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 67,
+    "re_ohm": 3,
+    "qms": 4.25,
+    "qes": 0.93,
+    "qts": 0.76,
+    "vas_l": 19,
+    "sd_cm2": 214,
+    "xmax_mm": 3.8,
+    "mms_g": 18.8,
+    "bl_tm": 5.1,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": 94
+   },
+   "mounting_depth_mm": 63.7,
+   "cutout_mm": 173.5,
+   "frame_mm": 195,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX Ci3 K200.2FM-S3 MK2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i3/ci3-w200fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Paper with Cenosphere coating",
+   "scope_of_delivery": [
+    "2 x Ci3 W200FM-S3",
+    "2 x Universal mounting ring with grille",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 S200FM-D2",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm class",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    25,
+    500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 55,
+    "re_ohm": 3.6,
+    "qms": 8.31,
+    "qes": 0.88,
+    "qts": 0.8,
+    "vas_l": 13.5,
+    "sd_cm2": 194,
+    "xmax_mm": 7.5,
+    "mms_g": 32,
+    "bl_tm": 6.7,
+    "le_mh": null,
+    "spl_db_1w1m": 87,
+    "spl_db_2v83": 90
+   },
+   "mounting_depth_mm": 47,
+   "cutout_mm": 173.5,
+   "frame_mm": 195,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-s200fm-d2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Injected polypropylene",
+   "scope_of_delivery": [
+    "2 x Ci5 S200FM-D2",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 S200FM-S2",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm class",
+   "impedance_ohm": 1,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    25,
+    500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 47,
+    "re_ohm": 1.8,
+    "qms": 9.12,
+    "qes": 0.79,
+    "qts": 0.73,
+    "vas_l": 15.7,
+    "sd_cm2": 194,
+    "xmax_mm": 7.8,
+    "mms_g": 38,
+    "bl_tm": 5.1,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 47,
+   "cutout_mm": 173.5,
+   "frame_mm": 195,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-s200fm-s2",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Injected polypropylene",
+   "scope_of_delivery": [
+    "2 x Ci5 S200FM-S2",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 W165FM-S3",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 175,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    50,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 50,
+    "re_ohm": 3.1,
+    "qms": 2.38,
+    "qes": 0.5,
+    "qts": 0.41,
+    "vas_l": 17.9,
+    "sd_cm2": 131,
+    "xmax_mm": 3.9,
+    "mms_g": 14,
+    "bl_tm": 5.2,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 66.8,
+   "cutout_mm": 142,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-w165fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Silicon coated paper cone",
+   "scope_of_delivery": [
+    "2 x Ci5 W165FM-S3",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci5 W200FM-S3",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": 175,
+   "sensitivity_db": 93,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 57.1,
+    "re_ohm": 3.2,
+    "qms": 3.74,
+    "qes": 0.84,
+    "qts": 0.68,
+    "vas_l": 21.7,
+    "sd_cm2": 211,
+    "xmax_mm": null,
+    "mms_g": 22.7,
+    "bl_tm": 5.6,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": 93
+   },
+   "mounting_depth_mm": 65.8,
+   "cutout_mm": 173.5,
+   "frame_mm": 195,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i5/ci5-w200fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker also prints max. mechanical excursion +/- 12.7 mm; xmax_mm = max. linear excursion (one way).",
+   "cone_material": "Silicon coated paper cone",
+   "scope_of_delivery": [
+    "2 x Ci5 W200FM-S3",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci7 W130-S3",
+   "type": "midbass",
+   "size_in": 5.25,
+   "size_label": "130 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    70,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 73,
+    "re_ohm": 2.9,
+    "qms": 2.38,
+    "qes": 0.5,
+    "qts": 0.41,
+    "vas_l": 4.3,
+    "sd_cm2": 85,
+    "xmax_mm": 3.4,
+    "mms_g": 11.1,
+    "bl_tm": 5.5,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 58.5,
+   "cutout_mm": 116.5,
+   "frame_mm": 130,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i7/ci7-w130-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Ultra high damping (UHD) crafted paper cone",
+   "scope_of_delivery": [
+    "2 x Ci7 W130-S3",
+    "2 x Connection cable",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci7 W165FM-S3",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 225,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    50,
+    3500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 60,
+    "re_ohm": 2.9,
+    "qms": 3,
+    "qes": 0.68,
+    "qts": 0.55,
+    "vas_l": 11.6,
+    "sd_cm2": 131,
+    "xmax_mm": 3.7,
+    "mms_g": 14.8,
+    "bl_tm": 4.8,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 65.8,
+   "cutout_mm": 142,
+   "frame_mm": 165,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i7/ci7-w165fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Ultra high damping (UHD) crafted paper cone",
+   "scope_of_delivery": [
+    "2 x Ci7 W165FM-S3",
+    "2 x Connection cable",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci7 W200FM-S3 + SG",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 225,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    35,
+    2500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 52,
+    "re_ohm": 3,
+    "qms": 6.04,
+    "qes": 0.78,
+    "qts": 0.69,
+    "vas_l": 20.8,
+    "sd_cm2": 201,
+    "xmax_mm": 3.9,
+    "mms_g": 25.6,
+    "bl_tm": 5.6,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 65.8,
+   "cutout_mm": 173.5,
+   "frame_mm": 195,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i7/ci7-w200fm-s3-sg",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Ultra high damping (UHD) crafted paper cone",
+   "scope_of_delivery": [
+    "2 x Ci7 W200FM-S3",
+    "2 x Universal mounting ring with grille",
+    "2 x Connection cable",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX Ci7 W200FM-S3",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "200 mm class",
+   "impedance_ohm": 3,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 225,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    35,
+    2500
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 52,
+    "re_ohm": 3,
+    "qms": 6.04,
+    "qes": 0.78,
+    "qts": 0.69,
+    "vas_l": 20.8,
+    "sd_cm2": 201,
+    "xmax_mm": 3.9,
+    "mms_g": 25.6,
+    "bl_tm": 5.6,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 92
+   },
+   "mounting_depth_mm": 65.8,
+   "cutout_mm": 173.5,
+   "frame_mm": 195,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/i7/ci7-w200fm-s3",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Ultra high damping (UHD) crafted paper cone",
+   "scope_of_delivery": [
+    "2 x Ci7 W200FM-S3",
+    "2 x Connection cable",
+    "2 x Mounting material"
+   ]
+  },
+  {
+   "model": "HELIX CiX E50-S4",
+   "type": "midbass",
+   "size_in": 2,
+   "size_label": "50 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    110,
+    15000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/compose/ix/cix-e50-s4",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "scope_of_delivery": [
+    "1 x CiX E50-S4",
+    "1 x Connection cable",
+    "1 x Mounting material",
+    "1 x Adhesive pad"
+   ]
+  },
+  {
+   "model": "HELIX PR W165",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": "165 mm class",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": [
+    40,
+    4000
+   ],
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 57,
+    "re_ohm": 3.1,
+    "qms": 5.35,
+    "qes": 0.63,
+    "qts": 0.57,
+    "vas_l": 10.8,
+    "sd_cm2": 133,
+    "xmax_mm": 3,
+    "mms_g": 17.9,
+    "bl_tm": 6.1,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": 66.5,
+   "cutout_mm": 141,
+   "frame_mm": 166,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": [
+    "HELIX PR K165.2"
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/helix/speakers/pure/pr-w165",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "cone_material": "Mica-Paper composite cone",
+   "scope_of_delivery": [
+    "2 x Woofer PR W165",
+    "2 x Grille",
+    "1 x Mounting material"
+   ]
+  },
+  {
+   "model": "MATCH MW 8BMW-D",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in (vehicle-specific)",
+   "impedance_ohm": 2,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 46,
+    "re_ohm": 3.4,
+    "qms": 4.45,
+    "qes": 0.59,
+    "qts": 0.52,
+    "vas_l": 17.3,
+    "sd_cm2": 214,
+    "xmax_mm": 4,
+    "mms_g": 44.2,
+    "bl_tm": 8.6,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 40,
+   "cutout_mm": 175,
+   "frame_mm": 239,
+   "recommended_crossover": {
+    "dsp_note": "- Highpass: Butterworth; 12 dB/octave; crossover frequency 40 Hz | - Additional EQ filter: center frequency 90 Hz; Q factor 3.0; gain -4 dB | - Lowpass: Butterworth; 24 dB/octave; crossover frequency 80 - 100 Hz | Vented box | For one subwoofer | For two subwoofers | 12 L | 24 L | Port diameter | ø | 60 mm / 2.36\" | 80 mm / 3.15 | Port area | 28 cm² | 50 cm² | Port length | 25 cm / 9.84\" | 20 cm / 3.94\" | Fb | 46 Hz | 46 Hz | Lower limiting frequency (-3dB) | 45 Hz | 45 Hz | - Highpass: Self-Def"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/mw-8bmw-d",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles. Maker enclosure/DSP recommendations: Sealed box | 3 L | Lower limiting frequency (-3dB) | 63 Hz",
+   "cone_material": "Hand-scooped paper cone",
+   "scope_of_delivery": [
+    "2 x Subwoofer MATCH MW 8BMW-D",
+    "2 x Plug connector for original BMW cable harness",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "MATCH UP W8BMW-S",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in (vehicle-specific)",
+   "impedance_ohm": 1,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 49,
+    "re_ohm": 2,
+    "qms": 3.8,
+    "qes": 0.61,
+    "qts": 0.53,
+    "vas_l": 13.9,
+    "sd_cm2": 214,
+    "xmax_mm": 4,
+    "mms_g": 47.4,
+    "bl_tm": 7.1,
+    "le_mh": null,
+    "spl_db_1w1m": 90,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 40,
+   "cutout_mm": 175,
+   "frame_mm": 239,
+   "recommended_crossover": {
+    "dsp_note": "- Highpass: Butterworth; 12 dB/octave; crossover frequency 40 Hz | - Additional EQ filter: center frequency 90 Hz; Q factor 3.0; gain -4 dB | - Lowpass: Butterworth; 24 dB/octave; crossover frequency 80 - 100 Hz | Vented box | For one subwoofer | For two subwoofers | 12 L | 24 L | Port diameter | ø | 60 mm / 2.36\" | 80 mm / 3.15 | Port area | 28 cm² | 50 cm² | Port length | 25 cm / 9.84\" | 20 cm / 3.94\" | Fb | 46 Hz | 46 Hz | Lower limiting frequency (-3dB) | 45 Hz | 45 Hz | - Highpass: Self-Def"
+   },
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-w8bmw-s",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles. Maker enclosure/DSP recommendations: Sealed box | 3 L | Lower limiting frequency (-3dB) | 63 Hz",
+   "cone_material": "Extremely stiff fiberglass cone",
+   "scope_of_delivery": [
+    "2 x Subwoofer MATCH UP W8BMW-S",
+    "2 x BMW connection cable",
+    "1 x Mounting material",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "MATCH UP W8MB-S4 LHD",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in (vehicle-specific)",
+   "impedance_ohm": 1,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 3.6,
+    "qms": 7.24,
+    "qes": 0.71,
+    "qts": 0.64,
+    "vas_l": 18,
+    "sd_cm2": 216,
+    "xmax_mm": 5,
+    "mms_g": 35,
+    "bl_tm": 7.6,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-w8mb-s4-lhd",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "Paper cone",
+   "scope_of_delivery": [
+    "2 x Subwoofer MATCH UP W8MB-S4 left hand drive version",
+    "1 x Universal connection cable",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "MATCH UP W8MB-S4 RHD",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in (vehicle-specific)",
+   "impedance_ohm": 1,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 3.6,
+    "qms": 7.24,
+    "qes": 0.71,
+    "qts": 0.64,
+    "vas_l": 18,
+    "sd_cm2": 216,
+    "xmax_mm": 5,
+    "mms_g": 35,
+    "bl_tm": 7.6,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-w8mb-s4-rhd",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "Paper cone",
+   "scope_of_delivery": [
+    "2 x Subwoofer MATCH UP W8MB-S4 right hand drive version",
+    "1 x Universal connection cable",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "MATCH UP W8MB-S4 Single LHD",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in (vehicle-specific)",
+   "impedance_ohm": 1,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 51,
+    "re_ohm": 3.6,
+    "qms": 7.24,
+    "qes": 0.71,
+    "qts": 0.64,
+    "vas_l": 18,
+    "sd_cm2": 216,
+    "xmax_mm": 5,
+    "mms_g": 35,
+    "bl_tm": 7.6,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-w8mb-s4-single-lhd",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "Paper cone",
+   "scope_of_delivery": [
+    "1 x Subwoofer MATCH UP W8MB-S4 single – left hand drive version",
+    "1 x Universal connection cable",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "MATCH UP W8MB-S4.2 LHD",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in (vehicle-specific)",
+   "impedance_ohm": 1,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 46,
+    "re_ohm": 3.3,
+    "qms": 1.76,
+    "qes": 0.77,
+    "qts": 0.54,
+    "vas_l": 15,
+    "sd_cm2": 216,
+    "xmax_mm": 5,
+    "mms_g": 40,
+    "bl_tm": 8,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-w8mb-s42",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "Paper cone",
+   "scope_of_delivery": [
+    "2 x Subwoofer MATCH UP W8MB-S4.2 left hand drive version",
+    "1 x Universal connection cable",
+    "1 x Instruction manual"
+   ]
+  },
+  {
+   "model": "MATCH UP W8MB-S4.3 LHD",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": "8 in (vehicle-specific)",
+   "impedance_ohm": 1,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "2.83V/1m",
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 45,
+    "re_ohm": 3.1,
+    "qms": 1.11,
+    "qes": 0.67,
+    "qts": 0.42,
+    "vas_l": 22,
+    "sd_cm2": 216,
+    "xmax_mm": 5,
+    "mms_g": 37,
+    "bl_tm": 7,
+    "le_mh": null,
+    "spl_db_1w1m": 88,
+    "spl_db_2v83": 91
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.audiotec-fischer.de/en/match/speakers/up-w8mb-s43",
+     "doc": "product page, Technical data table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Vehicle-specific (plug and play) model by the maker's naming; fits only the named vehicles.",
+   "cone_material": "Paper cone",
+   "scope_of_delivery": [
+    "2 x Subwoofer MATCH UP W8MB-S4.3 left hand drive version",
+    "1 x Universal connection cable",
+    "1 x Instruction manual"
+   ]
+  }
+ ],
+ "no_specs_published": []
+}

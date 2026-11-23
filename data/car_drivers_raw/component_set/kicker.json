@@ -1,0 +1,951 @@
+{
+ "brand": "KICKER (Stillwater Designs)",
+ "country": "USA",
+ "brand_url": "https://www.kicker.com",
+ "terms_note": "R4 2026-11-23: robots.txt Allow / (only /cart/ and one script disallowed); product pages read 3 s apart. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [
+  {
+   "model": "KICKER 6.5\" QS Components",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "160 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 90,
+   "peak_w": 180,
+   "sensitivity_db": 86,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    50,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63.5,
+   "cutout_mm": 129,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "24, 2800",
+     "Low Pass [dB], at Frequency [Hz]": "12, 2800",
+     "High Frequency Output Attenuation [dB]": "0, +3, +6"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/41QSS654",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 63.5 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1-3/16, 30",
+   "tweeter_dome": "Tetoron®",
+   "tweeter_flush_cutout_mm": 46
+  },
+  {
+   "model": "KICKER 6.75\" QS Components",
+   "type": "component_set",
+   "size_in": 6.75,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 200,
+   "sensitivity_db": 87,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    40,
+    22000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63.5,
+   "cutout_mm": 138,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "24, 2800",
+     "Low Pass [dB], at Frequency [Hz]": "12, 2800",
+     "High Frequency Output Attenuation [dB]": "0, +3, +6"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/41QSS674",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 63.5 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1-3/16, 30",
+   "tweeter_dome": "Tetoron®",
+   "tweeter_flush_cutout_mm": 46
+  },
+  {
+   "model": "KICKER KS-Series Dual-Pod Component System - KICKER® (47KSMT2504)",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "63.5 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 50,
+   "peak_w": null,
+   "sensitivity_db": 80,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    400,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 26.3,
+   "cutout_mm": 15,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4,000",
+     "High Frequency Output Attenuation [dB]": "0, 4.5, 9"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/47KSMT2504-dual-pod-component-system",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 26.3 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Silk"
+  },
+  {
+   "model": "KICKER KS Series 2-Way Component System (48KSS269)",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    20000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4,000",
+     "High Frequency Output Attenuation [dB]": "0, 4.5, 9",
+     "KSS269-35XO CROSSOVER": "Qty: 2",
+     "KSS269-69XO CROSSOVER": "Qty: 2"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS269",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 81 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "2-3/4, 70",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 67
+  },
+  {
+   "model": "KICKER KS Series 3-Way 6.5\" Components (51KSS365)",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "160 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 160,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "51KSS 6.5”/6”x9” MID-BASS WOOFER CROSSOVER": "Qty: 2",
+     "51KSS 6.5” 2.75” MID-RANGE/TWEETER CROSSOVER": "Qty: 2",
+     "51KSS 6.5”/6”x9” 1” KST TWEETER CROSSOVER": "Qty: 2"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS365",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "tweeter_as_printed": "1, 25"
+  },
+  {
+   "model": "KICKER KS Series 3-Way 6x9\" Components (51KSS369)",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": null,
+   "peak_w": 200,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    30,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "51KSS 6.5”/6”x9” MID-BASS WOOFER CROSSOVER": "Qty: 2",
+     "KSS 6”x9” 2.75” MID-RANGE/TWEETER CROSSOVER": "Qty: 2",
+     "KSS 6.5”/6”x9” 1” KST TWEETER CROSSOVER": "Qty: 2"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS369",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "",
+   "tweeter_as_printed": "1, 25"
+  },
+  {
+   "model": "KICKER KS Series 5.25\" Components",
+   "type": "component_set",
+   "size_in": 5.25,
+   "size_label": "130 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": null,
+   "sensitivity_db": 88,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    38,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 45,
+   "cutout_mm": 115,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4,000",
+     "Low Pass [dB], at Frequency [Hz]": "none",
+     "High Frequency Output Attenuation [dB]": "0, 4.5, 9"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS504",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-100 W RMS; upper bound entered as rms_w. Bottom-mount depth 45 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 45
+  },
+  {
+   "model": "KICKER KS Series 6.5\" Components (51KSS6504)",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "160 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": null,
+   "sensitivity_db": 90,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 123,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4,000",
+     "Low Pass [dB], at Frequency [Hz]": "none",
+     "High Frequency Output Attenuation [dB]": "0, 4.5, 9"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS6504",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-125 W RMS; upper bound entered as rms_w. Bottom-mount depth 46 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 45
+  },
+  {
+   "model": "KICKER KS Series 6.75\" Components",
+   "type": "component_set",
+   "size_in": 6.75,
+   "size_label": "165 mm",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": null,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 46,
+   "cutout_mm": 141,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4,000",
+     "Low Pass [dB], at Frequency [Hz]": "none",
+     "High Frequency Output Attenuation [dB]": "0, 4.5, 9"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS6704",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-125 W RMS; upper bound entered as rms_w. Bottom-mount depth 46 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 45
+  },
+  {
+   "model": "KICKER KS Series 6x8\" Components (51KSS6804)",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "6x8",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 125,
+   "peak_w": null,
+   "sensitivity_db": 91,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 58,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4,000",
+     "Low Pass [dB], at Frequency [Hz]": "none",
+     "High Frequency Output Attenuation [dB]": "0, 4.5, 9"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS6804",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-125 W RMS; upper bound entered as rms_w. Bottom-mount depth 58 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 45
+  },
+  {
+   "model": "KICKER KS Series 6x9\" Components (51KSS6904)",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": null,
+   "sensitivity_db": 92,
+   "sensitivity_basis": "1W/1m",
+   "freq_range_hz": [
+    35,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass [dB], at Frequency [Hz]": "12, 4,000",
+     "Low Pass [dB], at Frequency [Hz]": "none",
+     "High Frequency Output Attenuation [dB]": "0, 4.5, 9"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/51KSS6904",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Maker gives 'Recommended Amplifier Power' 15-150 W RMS; upper bound entered as rms_w. Bottom-mount depth 81 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "1, 25",
+   "tweeter_dome": "Silk",
+   "tweeter_flush_cutout_mm": 45
+  },
+  {
+   "model": "KICKER 2019 6.5\" CS Components",
+   "type": "component_set",
+   "size_in": 6.5,
+   "size_label": "160 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    35,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 43,
+   "cutout_mm": 123,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass | dB, at Frequency | Hz": "12, 4000",
+     "Low Pass | dB, at Frequency | Hz": "12, 4000",
+     "High Frequency Output Attenuation | dB": "0, 3, & 6"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSS65-Component-System-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 43 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "3/4 [20]",
+   "tweeter_dome": "Titanium",
+   "tweeter_flush_cutout_mm": 40
+  },
+  {
+   "model": "KICKER 2019 6.75\" CS Components",
+   "type": "component_set",
+   "size_in": 6.75,
+   "size_label": "165 mm",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 100,
+   "peak_w": 300,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    35,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 47,
+   "cutout_mm": 140,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass | dB, at Frequency | Hz": "12, 4000",
+     "Low Pass | dB, at Frequency | Hz": "12, 4000",
+     "High Frequency Output Attenuation | dB": "0, 3, & 6"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSS67-Component-System-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 47 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "3/4 [20]",
+   "tweeter_dome": "Titanium",
+   "tweeter_flush_cutout_mm": 40
+  },
+  {
+   "model": "KICKER 2019 6x8 CS Components",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "6x8",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 75,
+   "peak_w": 225,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    40,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 56,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass | dB, at Frequency | Hz": "12, 4000",
+     "Low Pass | dB, at Frequency | Hz": "12, 4000",
+     "High Frequency Output Attenuation | dB": "0, 3, & 6"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSS68-Component-System-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 56 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "3/4 [20]",
+   "tweeter_dome": "Titanium",
+   "tweeter_flush_cutout_mm": 40
+  },
+  {
+   "model": "KICKER 2019 6x9 CS Components",
+   "type": "component_set",
+   "size_in": null,
+   "size_label": "6x9",
+   "impedance_ohm": null,
+   "coil": "SVC",
+   "rms_w": 150,
+   "peak_w": 450,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": [
+    30,
+    21000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 81,
+   "cutout_mm": null,
+   "frame_mm": null,
+   "recommended_crossover": null,
+   "passive_crossover": {
+    "as_printed": {
+     "High Pass | dB, at Frequency | Hz": "12, 4000",
+     "Low Pass | dB, at Frequency | Hz": "12, 4000",
+     "High Frequency Output Attenuation | dB": "0, 3, & 6"
+    }
+   },
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.kicker.com/CSS69-Component-System-4-Ohm",
+     "doc": "product page, specifications table",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Bottom-mount depth 81 mm (maker); mounting_depth_mm = top-mount depth where printed.",
+   "tweeter_as_printed": "3/4 [20]",
+   "tweeter_dome": "Titanium",
+   "tweeter_flush_cutout_mm": 40
+  }
+ ],
+ "no_specs_published": []
+}

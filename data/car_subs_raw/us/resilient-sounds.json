@@ -1,0 +1,39 @@
+{
+ "brand": "Resilient Sounds",
+ "country": "USA",
+ "brand_url": "https://www.resilientsounds.com",
+ "terms_note": " | hp_subs_raw terms note: Wix site (product text is JavaScript-rendered): 2 pages read with headless Chromium, 6 s apart, browser closed after. No T/S published on the product page checked (Platinum 12 V2: only power, Xmax, box range, depth, cutout).",
+ "coverage": "hp_subs_raw copy only (>= 2000 W RMS models); lower-power models NOT yet collected by R2_SUBS_ALL",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/resilient-sounds.json",
+ "drivers": [],
+ "no_ts_published": [
+  {
+   "model": "Platinum 10 / 12 / 15 / 18 V2",
+   "rms_w": 2500,
+   "url": "https://www.resilientsounds.com/product-page/resilient-sounds-platinum-12-v2",
+   "note": "'conservative rated at 2,500RMS/5,000Watts', Xmax 35 mm; 12 V2: ported 2.00 to 3.00 cu ft, tuning 28-33 Hz, mounting depth 10.25 in, cutout 11.175 in, displacement 0.25 cu ft; impedance options not visible without selecting; no T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Onyx 12 / 15",
+   "rms_w": 2500,
+   "url": "https://www.resilientsounds.com/onyx-series-2500rms",
+   "note": "'RATED 5,000 WATTS/2,500 RMS'; Onyx 15 marked DISCONTINUED; no T/S.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Team series",
+   "rms_w": 5000,
+   "url": "https://www.resilientsounds.com/",
+   "note": "Menu lists 'TEAM SERIES 5000RMS WOOFER'; page not read.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Platinum (V1) series",
+   "rms_w": 2000,
+   "url": "https://www.resilientsounds.com/platinum-series-2000rms",
+   "note": "Menu lists 'PLATINUM SERIES 2000RMS WOOFER' (older line); no T/S seen.",
+   "source": "hp_subs_raw"
+  }
+ ]
+}

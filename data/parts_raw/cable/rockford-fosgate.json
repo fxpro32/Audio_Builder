@@ -1,0 +1,254 @@
+{
+ "schema": "parts_raw/1",
+ "category": "cable",
+ "brand": "Rockford Fosgate",
+ "maker_site": "https://rockfordfosgate.com",
+ "method": "maker accessory pages from https://rockfordfosgate.com/products/selector/car-accessories/ (title and overview numbers); scripts/parts/build_rockford_acc.py",
+ "terms_note": "Numbers only with URL. Rockford accessory pages have no spec table.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 10,
+ "records": [
+  {
+   "id": "rockford-fosgate-rfw12-250",
+   "model": "RFW12-250",
+   "title": "12 AWG Speaker Wire 250 Foot Spool Frosted Black/Silver",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw12-250/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "12",
+   "length_m": 76.2,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfw16-1000",
+   "model": "RFW16-1000",
+   "title": "16 AWG Speaker Wire 1000 Foot Spool Frosted Black/Silver",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw16-1000/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "16",
+   "length_m": 304.8,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfw1b-51",
+   "model": "RFW1B-51",
+   "title": "51 Foot Spool 1/0 AWG Frosted Black Wire",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw1b-51/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "power/ground",
+   "awg": "1/0",
+   "length_m": 15.54,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfw1r-51",
+   "model": "RFW1R-51",
+   "title": "51 Foot Spool 1/0 AWG Frosted Red Wire",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw1r-51/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "power/ground",
+   "awg": "1/0",
+   "length_m": 15.54,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfw4b",
+   "model": "RFW4B",
+   "title": "100 Foot Spool 4 AWG Frosted Black Wire",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw4b/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "power/ground",
+   "awg": "4",
+   "length_m": 30.48,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfw4r",
+   "model": "RFW4R",
+   "title": "100 Foot Spool 4 AWG Frosted Red Wire",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw4r/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "power/ground",
+   "awg": "4",
+   "length_m": 30.48,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfw8b",
+   "model": "RFW8B",
+   "title": "250 Foot Spool 8 AWG Frosted Black Wire",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw8b/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "power/ground",
+   "awg": "8",
+   "length_m": 76.2,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfw8r",
+   "model": "RFW8R",
+   "title": "250 Foot Spool 8 AWG Frosted Red Wire",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfw8r/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "power/ground",
+   "awg": "8",
+   "length_m": 76.2,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfwp12-15",
+   "model": "RFWP12-15",
+   "title": "12 AWG Speaker Wire Packaged 15 Foot Frosted Black/Silver",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfwp12-15/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "12",
+   "length_m": 4.57,
+   "quality_issues": [
+    "material_null"
+   ]
+  },
+  {
+   "id": "rockford-fosgate-rfwp16-30",
+   "model": "RFWP16-30",
+   "title": "16 AWG Speaker Wire Packaged 30 Foot Frosted Black/Silver",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfwp16-30/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "speaker",
+   "awg": "16",
+   "length_m": 9.14,
+   "quality_issues": [
+    "material_null"
+   ]
+  }
+ ],
+ "not_recorded": []
+}

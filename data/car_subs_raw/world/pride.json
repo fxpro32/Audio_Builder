@@ -1,0 +1,1669 @@
+{
+ "brand": "Pride Car Audio",
+ "country": "Russia (Kazan; also runs a US store, Hallandale Beach FL)",
+ "brand_url": "https://pride.audio/",
+ "terms_note": "R2 2026-11-23: re-used the English product pages A3 saved on 2026-11-21 (no new requests); same parser, power filter removed. pride.audio robots.txt disallows only WooCommerce upload/log paths. Numbers only. | hp_subs_raw terms note: pride.audio robots.txt disallows only WooCommerce upload/log paths; no website terms of use found on pages read. English product pages read one at a time, 3 s apart, 2026-11-21. Numbers only. Several pages give the specification only as an image ('Specification', 'Download'); those values were not transcribed and the models are listed under no_ts_published.",
+ "coverage": "every Pride page A3 saved (all power levels)",
+ "hp_subs_raw_file": "data/hp_subs_raw/world/pride.json",
+ "drivers": [
+  {
+   "model": "Pride M.20 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.5,
+    "re_ohm": 0.4,
+    "qms": 4.31,
+    "qes": 0.34,
+    "qts": 0.31,
+    "vas_l": 33.2,
+    "sd_cm2": 530,
+    "xmax_mm": 23,
+    "mms_g": 410,
+    "bl_tm": 8.7,
+    "le_mh": null,
+    "spl_db_1w1m": 85.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 188,
+   "cutout_mm": 307.5,
+   "displacement_l": 4,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m20-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.20 12', part number M20.12D16. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; part-number suffix 'D16' suggests a dual coil (product title on the page reads 'D1,6' style), meaning UNVERIFIED; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.20 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1.6,
+   "coils": 2,
+   "rms_w": 2000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.8,
+    3.2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.2,
+    "re_ohm": 1.6,
+    "qms": 4.75,
+    "qes": 0.34,
+    "qts": 0.32,
+    "vas_l": 62.3,
+    "sd_cm2": 845,
+    "xmax_mm": 23,
+    "mms_g": 488,
+    "bl_tm": 25.8,
+    "le_mh": null,
+    "spl_db_1w1m": 88.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 200,
+   "cutout_mm": 370,
+   "displacement_l": 5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m20-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.20 15', part number M20.15D16. Listed as a current product on pride.audio (English US store). Re printed '1,6+1,6 Ω'. Possible final loads [0.8, 3.2] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.25 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 0.75,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.375,
+    1.5
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.5,
+    "re_ohm": 0.75,
+    "qms": 5.3,
+    "qes": 0.42,
+    "qts": 0.39,
+    "vas_l": 27.8,
+    "sd_cm2": 530,
+    "xmax_mm": 34,
+    "mms_g": 308,
+    "bl_tm": 15.7,
+    "le_mh": null,
+    "spl_db_1w1m": 86.8,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 197,
+   "cutout_mm": 307.5,
+   "displacement_l": 4,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m25-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.25 12', part number M25.12D07. Listed as a current product on pride.audio (English US store). Re printed '0,75+0,75 Ω'. Possible final loads [0.375, 1.5] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.25 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 0.75,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.375,
+    1.5
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.4,
+    "re_ohm": 0.75,
+    "qms": 5.25,
+    "qes": 0.48,
+    "qts": 0.44,
+    "vas_l": 71.7,
+    "sd_cm2": 845,
+    "xmax_mm": 34,
+    "mms_g": 395,
+    "bl_tm": 15.8,
+    "le_mh": null,
+    "spl_db_1w1m": 88.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 208.5,
+   "cutout_mm": 370,
+   "displacement_l": 5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m25-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.25 15', part number M25.15D07. Listed as a current product on pride.audio (English US store). Re printed '0,75+0,75 Ω'. Possible final loads [0.375, 1.5] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.35 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 0.75,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.375,
+    1.5
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.3,
+    "re_ohm": 0.75,
+    "qms": 3.23,
+    "qes": 0.256,
+    "qts": 0.242,
+    "vas_l": 36.7,
+    "sd_cm2": 530,
+    "xmax_mm": 35,
+    "mms_g": 332,
+    "bl_tm": 18,
+    "le_mh": null,
+    "spl_db_1w1m": 87.4,
+    "spl_db_2v83": 92.2
+   },
+   "mounting_depth_mm": 260,
+   "cutout_mm": 307.5,
+   "displacement_l": 6,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m35-12d07/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.35 12', part number M35.12D07. Listed as a current product on pride.audio (English US store). Re printed '0,75+0,75 Ω'. Possible final loads [0.375, 1.5] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.35 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 0.75,
+   "coils": 2,
+   "rms_w": 3500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.375,
+    1.5
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.9,
+    "re_ohm": 0.75,
+    "qms": 3.78,
+    "qes": 0.288,
+    "qts": 0.268,
+    "vas_l": 84.2,
+    "sd_cm2": 835,
+    "xmax_mm": 35,
+    "mms_g": 428,
+    "bl_tm": 18.1,
+    "le_mh": null,
+    "spl_db_1w1m": 89.6,
+    "spl_db_2v83": 97.7
+   },
+   "mounting_depth_mm": 275,
+   "cutout_mm": 365,
+   "displacement_l": 8,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m35-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.35 15', part number M35.15D07. Listed as a current product on pride.audio (English US store). Re printed '0,75+0,75 Ω'. Possible final loads [0.375, 1.5] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.45 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 0.75,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.375,
+    1.5
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27.1,
+    "re_ohm": 0.75,
+    "qms": 3.77,
+    "qes": 0.227,
+    "qts": 0.211,
+    "vas_l": 37.2,
+    "sd_cm2": 530,
+    "xmax_mm": 36,
+    "mms_g": 360,
+    "bl_tm": 19.7,
+    "le_mh": null,
+    "spl_db_1w1m": 87.1,
+    "spl_db_2v83": 92.1
+   },
+   "mounting_depth_mm": 260,
+   "cutout_mm": 307,
+   "displacement_l": 6,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m45-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.45 12', part number : M45.12D07. Listed as a current product on pride.audio (English US store). Re printed '0,75+0,75 Ω'. Possible final loads [0.375, 1.5] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.45 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 0.75,
+   "coils": 2,
+   "rms_w": 4500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.375,
+    1.5
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.4,
+    "re_ohm": 0.75,
+    "qms": 3.88,
+    "qes": 0.251,
+    "qts": 0.233,
+    "vas_l": 87.9,
+    "sd_cm2": 840,
+    "xmax_mm": 36,
+    "mms_g": 439,
+    "bl_tm": 19.9,
+    "le_mh": null,
+    "spl_db_1w1m": 90.1,
+    "spl_db_2v83": 98.2
+   },
+   "mounting_depth_mm": 275,
+   "cutout_mm": 365,
+   "displacement_l": 8,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m45-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.45 15', part number M45.15D07. Listed as a current product on pride.audio (English US store). Re printed '0,75+0,75 Ω'. Possible final loads [0.375, 1.5] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride S5 15 v.1",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 0.7,
+   "coils": 2,
+   "rms_w": 7500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.35,
+    1.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23.7,
+    "re_ohm": 1.38,
+    "qms": null,
+    "qes": null,
+    "qts": 0.26,
+    "vas_l": 78.7,
+    "sd_cm2": 887,
+    "xmax_mm": 38,
+    "mms_g": null,
+    "bl_tm": 22.7,
+    "le_mh": null,
+    "spl_db_1w1m": 89.5,
+    "spl_db_2v83": 98.2
+   },
+   "mounting_depth_mm": 288,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-s5-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride S5 15 v.1'. Status from the page: discontinued. Impedance printed '0,7+0,7 Ohm'. Re printed '1.38 ohms'. Possible final loads [0.35, 1.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride S5 18 v.2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 0.7,
+   "coils": 2,
+   "rms_w": 5000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.35,
+    1.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 20.4,
+    "re_ohm": 1.39,
+    "qms": null,
+    "qes": null,
+    "qts": 0.28,
+    "vas_l": 188,
+    "sd_cm2": 1320,
+    "xmax_mm": 38,
+    "mms_g": null,
+    "bl_tm": 21.62,
+    "le_mh": null,
+    "spl_db_1w1m": 90.7,
+    "spl_db_2v83": 99.8
+   },
+   "mounting_depth_mm": 310,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-s5-18-v-2/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride S5 18 v.2'. Status from the page: discontinued. Impedance printed '0,7+0,7 Ohm'. Re printed '1,39 ohms'. Power printed as a range ('RMS – 7500 W, Voice Coil – 5″.'); rms_w is the table value. Possible final loads [0.35, 1.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride S5 18 v.1",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 0.7,
+   "coils": 2,
+   "rms_w": 7500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.35,
+    1.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 20.4,
+    "re_ohm": 1.39,
+    "qms": null,
+    "qes": null,
+    "qts": 0.28,
+    "vas_l": 188,
+    "sd_cm2": 1320,
+    "xmax_mm": 38,
+    "mms_g": null,
+    "bl_tm": 21.62,
+    "le_mh": null,
+    "spl_db_1w1m": 90.7,
+    "spl_db_2v83": 99.8
+   },
+   "mounting_depth_mm": 310,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-s5-18/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride S5 18 v.1'. Status from the page: discontinued. Impedance printed '0,7+0,7 Ohm'. Re printed '1,39 ohms'. Possible final loads [0.35, 1.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride S5 15 v.2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 0.7,
+   "coils": 2,
+   "rms_w": 7500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.35,
+    1.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 23.7,
+    "re_ohm": 1.38,
+    "qms": null,
+    "qes": null,
+    "qts": 0.26,
+    "vas_l": 78.7,
+    "sd_cm2": 887,
+    "xmax_mm": 38,
+    "mms_g": null,
+    "bl_tm": 22.7,
+    "le_mh": null,
+    "spl_db_1w1m": 89.5,
+    "spl_db_2v83": 98.2
+   },
+   "mounting_depth_mm": 288,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-s5-v-2-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride S5 15 v.2'. Status from the page: discontinued. Impedance printed '0,7+0,7 Ohm'. Re printed '1.38 ohms'. Possible final loads [0.35, 1.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride Tv.3 18",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 0.7,
+   "coils": 2,
+   "rms_w": 2500,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.35,
+    1.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27,
+    "re_ohm": 3.3,
+    "qms": null,
+    "qes": null,
+    "qts": 0.34,
+    "vas_l": 120,
+    "sd_cm2": 1165,
+    "xmax_mm": 33,
+    "mms_g": null,
+    "bl_tm": 29.5,
+    "le_mh": null,
+    "spl_db_1w1m": 90.4,
+    "spl_db_2v83": 94.2
+   },
+   "mounting_depth_mm": 264,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-tv-3-18/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride Tv.3 18'. Status from the page: discontinued. Impedance printed '0,7+0,7 Ohm'. Re printed '3,3 ohms'. DATA PROBLEM: Bl is printed '29,5 (for Re 3,3 Ω)', i.e. the T/S on this page belong to a 3,3 ohms coil option, not to the stated impedance 0,7+0,7 Ohm; use with care. Possible final loads [0.35, 1.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride UFO5 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 0.7,
+   "coils": 2,
+   "rms_w": 10000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.35,
+    1.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 22.74,
+    "re_ohm": 1.6,
+    "qms": null,
+    "qes": null,
+    "qts": 0.13,
+    "vas_l": 130,
+    "sd_cm2": 890,
+    "xmax_mm": 42.5,
+    "mms_g": null,
+    "bl_tm": 36,
+    "le_mh": null,
+    "spl_db_1w1m": 92.4,
+    "spl_db_2v83": 99.1
+   },
+   "mounting_depth_mm": 306,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-ufo5-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride UFO5 15'. Status from the page: discontinued. Impedance printed '0,7+0,7 Ohm'. Re printed '1,6 ohms'. Possible final loads [0.35, 1.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride UFO5 18",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 0.7,
+   "coils": 2,
+   "rms_w": 10000,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.35,
+    1.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 19.83,
+    "re_ohm": 1.52,
+    "qms": null,
+    "qes": null,
+    "qts": 0.14,
+    "vas_l": 153,
+    "sd_cm2": 1365,
+    "xmax_mm": 42.5,
+    "mms_g": null,
+    "bl_tm": 36.1,
+    "le_mh": null,
+    "spl_db_1w1m": 92.9,
+    "spl_db_2v83": 100.9
+   },
+   "mounting_depth_mm": 328,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-ufo5-18/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride UFO5 18'. Status from the page: discontinued. Impedance printed '0,7+0,7 Ohm'. Re printed '1,52 Ohms'. Possible final loads [0.35, 1.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride M.12 10",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.6,
+    "re_ohm": 0.4,
+    "qms": 5.1,
+    "qes": 0.54,
+    "qts": 0.49,
+    "vas_l": 16.1,
+    "sd_cm2": 337,
+    "xmax_mm": 19,
+    "mms_g": 249,
+    "bl_tm": 6.2,
+    "le_mh": null,
+    "spl_db_1w1m": 83.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 157,
+   "cutout_mm": 242,
+   "displacement_l": 2,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m12-10/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.12 10'. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.12 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.1,
+    "re_ohm": 0.4,
+    "qms": 5.2,
+    "qes": 0.58,
+    "qts": 0.52,
+    "vas_l": 27.7,
+    "sd_cm2": 465,
+    "xmax_mm": 19,
+    "mms_g": 285,
+    "bl_tm": 6.2,
+    "le_mh": null,
+    "spl_db_1w1m": 84.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 161,
+   "cutout_mm": 280,
+   "displacement_l": 2.5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m12-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.12 12', part number M12.12D18. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; part-number suffix 'D18' suggests a dual coil (product title on the page reads 'D1,6' style), meaning UNVERIFIED; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.12 15",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.2,
+    "re_ohm": 0.4,
+    "qms": 5.1,
+    "qes": 0.73,
+    "qts": 0.64,
+    "vas_l": 57.5,
+    "sd_cm2": 774,
+    "xmax_mm": 19,
+    "mms_g": 325,
+    "bl_tm": 6.3,
+    "le_mh": null,
+    "spl_db_1w1m": 86.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 187,
+   "cutout_mm": 352,
+   "displacement_l": 3.5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m12-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.12 15'. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.16 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 1600,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.8,
+    "re_ohm": 0.4,
+    "qms": 4.74,
+    "qes": 0.49,
+    "qts": 0.44,
+    "vas_l": 34.8,
+    "sd_cm2": 530,
+    "xmax_mm": 21,
+    "mms_g": 399,
+    "bl_tm": 7.2,
+    "le_mh": null,
+    "spl_db_1w1m": 83.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 188,
+   "cutout_mm": 307.5,
+   "displacement_l": 4,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m16-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.16 12', part number M16.12D16. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; part-number suffix 'D16' suggests a dual coil (product title on the page reads 'D1,6' style), meaning UNVERIFIED; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.16 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 1600,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 26.1,
+    "re_ohm": 0.4,
+    "qms": 4.85,
+    "qes": 0.49,
+    "qts": 0.46,
+    "vas_l": 65.2,
+    "sd_cm2": 845,
+    "xmax_mm": 21,
+    "mms_g": 470,
+    "bl_tm": 7.3,
+    "le_mh": null,
+    "spl_db_1w1m": 86,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 200,
+   "cutout_mm": 370,
+   "displacement_l": 5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m16-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.16 15', part number M16.15D16. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; part-number suffix 'D16' suggests a dual coil (product title on the page reads 'D1,6' style), meaning UNVERIFIED; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.6 10",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 1.7,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.85,
+    3.4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 36.1,
+    "re_ohm": 1.7,
+    "qms": 5.1,
+    "qes": 0.58,
+    "qts": 0.52,
+    "vas_l": 18.5,
+    "sd_cm2": 337,
+    "xmax_mm": 15,
+    "mms_g": 163,
+    "bl_tm": 13.8,
+    "le_mh": null,
+    "spl_db_1w1m": 84.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 131,
+   "cutout_mm": 231,
+   "displacement_l": 1.5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m6-10/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.6 10', part number M6.10D17 |. Listed as a current product on pride.audio (English US store). Re printed '1,7+1,7 Ω'. Possible final loads [0.85, 3.4] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.6 12",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 600,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 0.4,
+    "qms": 5.28,
+    "qes": 0.65,
+    "qts": 0.58,
+    "vas_l": 38.5,
+    "sd_cm2": 507,
+    "xmax_mm": 15,
+    "mms_g": 210,
+    "bl_tm": 4.6,
+    "le_mh": null,
+    "spl_db_1w1m": 86.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 142.5,
+   "cutout_mm": 279,
+   "displacement_l": 2,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m6-12s04/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.6 12', part number M6.12S04. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.9 10",
+   "size_in": 10,
+   "coil": null,
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 900,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.5,
+    "re_ohm": 0.4,
+    "qms": 5.25,
+    "qes": 0.64,
+    "qts": 0.57,
+    "vas_l": 17.4,
+    "sd_cm2": 337,
+    "xmax_mm": 17,
+    "mms_g": 212,
+    "bl_tm": 5.3,
+    "le_mh": null,
+    "spl_db_1w1m": 83.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 149,
+   "cutout_mm": 242,
+   "displacement_l": 2,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m9-10/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.9 10'. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.9 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 900,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.8,
+    "re_ohm": 0.4,
+    "qms": 5.26,
+    "qes": 0.69,
+    "qts": 0.61,
+    "vas_l": 31.8,
+    "sd_cm2": 465,
+    "xmax_mm": 17,
+    "mms_g": 252,
+    "bl_tm": 5.3,
+    "le_mh": null,
+    "spl_db_1w1m": 85.3,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 152.5,
+   "cutout_mm": 280,
+   "displacement_l": 2.5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m9-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.9 12', part number M9.12D18. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; part-number suffix 'D18' suggests a dual coil (product title on the page reads 'D1,6' style), meaning UNVERIFIED; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride M.9 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": null,
+   "coils": null,
+   "rms_w": 900,
+   "peak_w": null,
+   "final_loads_ohm": [],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.2,
+    "re_ohm": 0.4,
+    "qms": 5.5,
+    "qes": 0.75,
+    "qts": 0.66,
+    "vas_l": 68.7,
+    "sd_cm2": 774,
+    "xmax_mm": 17,
+    "mms_g": 320,
+    "bl_tm": 5.2,
+    "le_mh": null,
+    "spl_db_1w1m": 86.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 179,
+   "cutout_mm": 352,
+   "displacement_l": 3.5,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/m9-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride M.9 15', part number M9.15D18. Listed as a current product on pride.audio (English US store). Re printed '0,4 Ω'. Impedance per coil not printed on the page; part-number suffix 'D18' suggests a dual coil (product title on the page reads 'D1,6' style), meaning UNVERIFIED; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride HP Light 12 d1.8",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1.8,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.9,
+    3.6
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.8,
+    "re_ohm": 1.8,
+    "qms": null,
+    "qes": null,
+    "qts": 0.57,
+    "vas_l": 27,
+    "sd_cm2": 464,
+    "xmax_mm": 20,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 84.8,
+    "spl_db_2v83": 88.6
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-hp-lite-12-d1-8/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride HP Light 12 d1.8'. Status from the page: discontinued. Re printed '1,8+1,8 ohm'. Possible final loads [0.9, 3.6] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%. R2: size_in corrected from 8 to 12 (model name; page size field mis-read).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride HP Light 15 d1.8",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1.8,
+   "coils": 2,
+   "rms_w": 1200,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.9,
+    3.6
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 29.8,
+    "re_ohm": 1.8,
+    "qms": null,
+    "qes": null,
+    "qts": 0.63,
+    "vas_l": 58,
+    "sd_cm2": 774,
+    "xmax_mm": 20,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 86.9,
+    "spl_db_2v83": 90.6
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-hp-lite-15-d1-8/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride HP Light 15 d1.8'. Status from the page: discontinued. Re printed '1,8+1,8 ohm'. Possible final loads [0.9, 3.6] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%. R2: size_in corrected from 8 to 15 (model name; page size field mis-read).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride BB.3 12",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1.8,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.9,
+    3.6
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28,
+    "re_ohm": 3.6,
+    "qms": null,
+    "qes": null,
+    "qts": 0.28,
+    "vas_l": 32,
+    "sd_cm2": 480,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 25.6,
+    "le_mh": null,
+    "spl_db_1w1m": 85.5,
+    "spl_db_2v83": 88.8
+   },
+   "mounting_depth_mm": 156,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-bb-12-kopirovat/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride BB.3 12'. Status from the page: discontinued. Impedance printed '1,8+1,8 Ohm'. Re printed '3,6 ohms'. DATA PROBLEM: Bl is printed '25,60 (for Re 3,6 Ω)', i.e. the T/S on this page belong to a 3,6 ohms coil option, not to the stated impedance 1,8+1,8 Ohm; use with care. Possible final loads [0.9, 3.6] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride BB.3 15",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1.8,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.9,
+    3.6
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 27,
+    "re_ohm": 3.6,
+    "qms": null,
+    "qes": null,
+    "qts": 0.35,
+    "vas_l": 84,
+    "sd_cm2": 790,
+    "xmax_mm": 23,
+    "mms_g": null,
+    "bl_tm": 25.6,
+    "le_mh": null,
+    "spl_db_1w1m": 89,
+    "spl_db_2v83": 92.2
+   },
+   "mounting_depth_mm": 192,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-bb-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride BB.3 15'. Status from the page: discontinued. Impedance printed '1,8+1,8 Ohm'. Re printed '3,6 ohms'. DATA PROBLEM: Bl is printed '25,60 (for Re 3,6 Ω)', i.e. the T/S on this page belong to a 3,6 ohms coil option, not to the stated impedance 1,8+1,8 Ohm; use with care. Possible final loads [0.9, 3.6] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride Sapphire 12 d1.8",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1.85,
+   "coils": 2,
+   "rms_w": 900,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.925,
+    3.7
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.4,
+    "re_ohm": 1.85,
+    "qms": null,
+    "qes": null,
+    "qts": 0.62,
+    "vas_l": 32,
+    "sd_cm2": 464,
+    "xmax_mm": 18,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 85.5,
+    "spl_db_2v83": 89.2
+   },
+   "mounting_depth_mm": 152,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-sapphire-12-d1-8/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride Sapphire 12 d1.8'. Listed as a current product on pride.audio (English US store). Re printed '1,85+1,85 ohm'. Possible final loads [0.925, 3.7] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%. R2: size_in corrected from 8 to 12 (model name; page size field mis-read).",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride Sapphire 15 d1.8",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 1.85,
+   "coils": 2,
+   "rms_w": 900,
+   "peak_w": null,
+   "final_loads_ohm": [
+    0.925,
+    3.7
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.6,
+    "re_ohm": 1.85,
+    "qms": null,
+    "qes": null,
+    "qts": 0.66,
+    "vas_l": 68,
+    "sd_cm2": 774,
+    "xmax_mm": 18,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": 87.1,
+    "spl_db_2v83": 90.8
+   },
+   "mounting_depth_mm": 178,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-sapphire-15-d1-8/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Breadcrumb name 'Pride Sapphire 15 d1.8'. Listed as a current product on pride.audio (English US store). Re printed '1,85+1,85 ohm'. Possible final loads [0.925, 3.7] ohm (calculated, both coils driven); none is exactly 2, 1 or 0.5 ohm, included for PM decision. Xmax is the maker's one-way linear excursion at BL 50%. R2: size_in corrected from 8 to 15 (model name; page size field mis-read).",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "Pride M.45 18",
+   "rms_w": 4500,
+   "url": "https://pride.audio/product/m45-18/",
+   "note": "DATA PROBLEM: the 18 inch page prints Fs, Qts, Vas, mounting depth and other values identical to the M.45 15 page, so they are treated as copied, not measured, and not used. Read 2026-11-21.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride ST 10",
+   "rms_w": 2500,
+   "url": "https://pride.audio/product/subwoofer-pride-st10/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride ST 10'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride ST 12",
+   "rms_w": 5000,
+   "url": "https://pride.audio/product/subwoofer-pride-st12/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride ST 12'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride ST 15",
+   "rms_w": 5000,
+   "url": "https://pride.audio/product/subwoofer-pride-st15/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride ST 15'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride ST 18",
+   "rms_w": 5000,
+   "url": "https://pride.audio/product/subwoofer-pride-st18/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride ST 18'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride Sv.3 12",
+   "rms_w": 4000,
+   "url": "https://pride.audio/product/subwoofer-pride-sv-3-12/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride Sv.3 12'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride Sv.3 15",
+   "rms_w": 4000,
+   "url": "https://pride.audio/product/subwoofer-pride-sv-3-15/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride Sv.3 15'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride Sv.3 18",
+   "rms_w": 4000,
+   "url": "https://pride.audio/product/subwoofer-pride-sv-3-18/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride Sv.3 18'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride Tv.3 10",
+   "rms_w": 2500,
+   "url": "https://pride.audio/product/subwoofer-pride-tv-3-10/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride Tv.3 10'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride Tv.3 12",
+   "rms_w": 2500,
+   "url": "https://pride.audio/product/subwoofer-pride-tv-3-12/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride Tv.3 12'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride Tv.3 15",
+   "rms_w": 2500,
+   "url": "https://pride.audio/product/subwoofer-pride-tv-3-15/",
+   "note": "Maker page has no Fs/Qts/Vas; coil None None ohm, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride Tv.3 15'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "Pride HP 12",
+   "rms_w": 1250,
+   "url": "https://pride.audio/product/subwoofer-pride-hp-12/",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride HP 12'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-hp-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride HP 15",
+   "rms_w": 1250,
+   "url": "https://pride.audio/product/subwoofer-pride-hp-15/",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride HP 15'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-hp-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride MT 12",
+   "rms_w": 1750,
+   "url": "https://pride.audio/product/subwoofer-pride-mp-12/",
+   "note": "No Fs/Qts/Vas published by the maker; size 12 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride MT 12'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "size_in": 12,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-mp-12/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "Pride MT 15",
+   "rms_w": 1750,
+   "url": "https://pride.audio/product/subwoofer-pride-mp-15/",
+   "note": "No Fs/Qts/Vas published by the maker; size 15 in, coil None None ohm, peak None W, mounting depth None mm, cut-out None mm. Breadcrumb name 'Pride MT 15'. Status from the page: discontinued. Impedance per coil not printed on the page; final loads left empty. Xmax is the maker's one-way linear excursion at BL 50%.",
+   "size_in": 15,
+   "coil": null,
+   "ohms_per_coil": null,
+   "peak_w": null,
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "status": "discontinued",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://pride.audio/product/subwoofer-pride-mp-15/",
+     "doc": "Pride product page (English), specification table",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "pages_without_power": [
+  [
+   "m9-10ver2",
+   null
+  ],
+  [
+   "subwoofer-ufo-4-12-d0-75",
+   null
+  ],
+  [
+   "subwoofer-ufo-4-15-d0-75",
+   null
+  ],
+  [
+   "subwoofer-ufo-4-18-d0-75",
+   null
+  ]
+ ]
+}

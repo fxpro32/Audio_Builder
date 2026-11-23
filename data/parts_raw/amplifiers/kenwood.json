@@ -1,0 +1,454 @@
+{
+ "schema": "parts_raw/1",
+ "category": "amplifiers",
+ "brand": "Kenwood",
+ "maker_site": "https://www.kenwood.com/usa/car/caraudio/amplifiers/",
+ "method": "maker product pages (USA), 3 s apart",
+ "terms_note": "Numbers only with URL.",
+ "units": {
+  "w_per_ch": "W RMS",
+  "dims_mm": "mm"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 7,
+ "records": [
+  {
+   "id": "kenwood-kac-9106d",
+   "model": "KAC-9106D",
+   "model_basis": "maker page address (model code)",
+   "title": "KAC-9106D",
+   "status": "maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 1000,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "cta2006_continuous": [
+    {
+     "w": 500,
+     "ohm": 4.0
+    }
+   ],
+   "current_draw_a": 65.0,
+   "current_draw_basis": "maker 'Current Consumption', conditions not stated",
+   "fuse_onboard_a": null,
+   "fuse_onboard_note": null,
+   "dims_mm": null,
+   "min_load_ohm": 2.0,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.kenwood.com/usa/car/caraudio/amplifiers/kac-9106d/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kenwood_amps.py",
+   "notes": "Kenwood 'Rated Power Output at 14.4V' lines are at <=0.5 % THD on some models; CTA-2006 continuous figures listed separately",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "kenwood-kac-d3104",
+   "model": "KAC-D3104",
+   "model_basis": "maker page address (model code)",
+   "title": "KAC-D3104",
+   "status": "maker site 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=1.0% THD"
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=1.0% THD"
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "cta2006_continuous": null,
+   "current_draw_a": 25.0,
+   "current_draw_basis": "maker 'Current Consumption', conditions not stated",
+   "fuse_onboard_a": 40,
+   "fuse_onboard_note": "20 A x 2",
+   "dims_mm": {
+    "mm": [
+     169.9,
+     55.6,
+     187.3
+    ],
+    "order": "W x H x D"
+   },
+   "min_load_ohm": 2.0,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.kenwood.com/usa/car/caraudio/amplifiers/kac-d3104/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kenwood_amps.py",
+   "notes": "Kenwood 'Rated Power Output at 14.4V' lines are at <=0.5 % THD on some models; CTA-2006 continuous figures listed separately"
+  },
+  {
+   "id": "kenwood-kac-d5101",
+   "model": "KAC-D5101",
+   "model_basis": "maker page address (model code)",
+   "title": "KAC-D5101",
+   "status": "maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=0.5% THD"
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=0.5% THD"
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "cta2006_continuous": [
+    {
+     "w": 300,
+     "ohm": 4.0
+    }
+   ],
+   "current_draw_a": 34.0,
+   "current_draw_basis": "maker 'Current Consumption', conditions not stated",
+   "fuse_onboard_a": 60,
+   "fuse_onboard_note": "30 A x 2",
+   "dims_mm": {
+    "mm": [
+     169.9,
+     55.6,
+     187.3
+    ],
+    "order": "W x H x D"
+   },
+   "min_load_ohm": 2.0,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.kenwood.com/usa/car/caraudio/amplifiers/kac-d5101/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kenwood_amps.py",
+   "notes": "Kenwood 'Rated Power Output at 14.4V' lines are at <=0.5 % THD on some models; CTA-2006 continuous figures listed separately",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "kenwood-kac-d8105",
+   "model": "KAC-D8105",
+   "model_basis": "maker page address (model code)",
+   "title": "KAC-D8105",
+   "status": "maker site 2026-11-23",
+   "class": "D",
+   "channels": 5,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=1.0% THD"
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=1.0% THD"
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=0.5% THD"
+    },
+    {
+     "w_per_ch": 500,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": 14.4,
+     "thd": "<=0.5% THD"
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "cta2006_continuous": null,
+   "current_draw_a": 58.0,
+   "current_draw_basis": "maker 'Current Consumption', conditions not stated",
+   "fuse_onboard_a": 90,
+   "fuse_onboard_note": "30 A x 3",
+   "dims_mm": {
+    "mm": [
+     228.6,
+     55.6,
+     187.3
+    ],
+    "order": "W x H x D"
+   },
+   "min_load_ohm": 2.0,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.kenwood.com/usa/car/caraudio/amplifiers/kac-d8105/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kenwood_amps.py",
+   "notes": "Kenwood 'Rated Power Output at 14.4V' lines are at <=0.5 % THD on some models; CTA-2006 continuous figures listed separately"
+  },
+  {
+   "id": "kenwood-kac-m1814",
+   "model": "KAC-M1814",
+   "model_basis": "maker page address (model code)",
+   "title": "KAC-M1814",
+   "status": "maker site 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 45,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 45,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 90,
+     "channels": 2,
+     "ohm": 4.0,
+     "bridged": true,
+     "group": null,
+     "voltage_v": null,
+     "bridged_inferred": true
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "cta2006_continuous": null,
+   "current_draw_a": 15.0,
+   "current_draw_basis": "maker 'Current Consumption', conditions not stated",
+   "fuse_onboard_a": null,
+   "fuse_onboard_note": null,
+   "dims_mm": null,
+   "min_load_ohm": 2.0,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.kenwood.com/usa/car/caraudio/amplifiers/kac-m1814/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kenwood_amps.py",
+   "notes": "Kenwood 'Rated Power Output at 14.4V' lines are at <=0.5 % THD on some models; CTA-2006 continuous figures listed separately",
+   "inferred": [
+    "90 W x 2 at 4.0 ohm marked bridged (4-channel amp; power vs the per-channel rating)"
+   ]
+  },
+  {
+   "id": "kenwood-kac-m3001",
+   "model": "KAC-M3001",
+   "model_basis": "maker page address (model code)",
+   "title": "KAC-M3001",
+   "status": "maker site 2026-11-23",
+   "class": "D",
+   "channels": 1,
+   "rms_ratings": [
+    {
+     "w_per_ch": 200,
+     "channels": 1,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 300,
+     "channels": 1,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "cta2006_continuous": [
+    {
+     "w": 200,
+     "ohm": 4.0
+    }
+   ],
+   "current_draw_a": 20.0,
+   "current_draw_basis": "maker 'Current Consumption', conditions not stated",
+   "fuse_onboard_a": null,
+   "fuse_onboard_note": null,
+   "dims_mm": {
+    "mm": [
+     144.5,
+     44.4,
+     98.4
+    ],
+    "order": "W x H x D"
+   },
+   "min_load_ohm": 2.0,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.kenwood.com/usa/car/caraudio/amplifiers/kac-m3001/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kenwood_amps.py",
+   "notes": "Kenwood 'Rated Power Output at 14.4V' lines are at <=0.5 % THD on some models; CTA-2006 continuous figures listed separately",
+   "inferred": [
+    "channels = sum of the unbridged rating lines at one load"
+   ]
+  },
+  {
+   "id": "kenwood-kac-m3004",
+   "model": "KAC-M3004",
+   "model_basis": "maker page address (model code)",
+   "title": "KAC-M3004",
+   "status": "maker site 2026-11-23",
+   "class": "D",
+   "channels": 4,
+   "rms_ratings": [
+    {
+     "w_per_ch": 50,
+     "channels": 4,
+     "ohm": 4.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    },
+    {
+     "w_per_ch": 75,
+     "channels": 4,
+     "ohm": 2.0,
+     "bridged": false,
+     "group": null,
+     "voltage_v": null
+    }
+   ],
+   "rated_voltage_v": 14.4,
+   "cta2006": true,
+   "cta2006_continuous": [
+    {
+     "w": 50,
+     "ohm": 4.0
+    }
+   ],
+   "current_draw_a": 22.0,
+   "current_draw_basis": "maker 'Current Consumption', conditions not stated",
+   "fuse_onboard_a": null,
+   "fuse_onboard_note": null,
+   "dims_mm": {
+    "mm": [
+     165.1,
+     44.4,
+     98.4
+    ],
+    "order": "W x H x D"
+   },
+   "min_load_ohm": 2.0,
+   "sources": [
+    {
+     "fields": [
+      "all values"
+     ],
+     "url": "https://www.kenwood.com/usa/car/caraudio/amplifiers/kac-m3004/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "parsed from the maker spec block by scripts/parts/build_kenwood_amps.py",
+   "notes": "Kenwood 'Rated Power Output at 14.4V' lines are at <=0.5 % THD on some models; CTA-2006 continuous figures listed separately"
+  }
+ ],
+ "not_recorded": []
+}

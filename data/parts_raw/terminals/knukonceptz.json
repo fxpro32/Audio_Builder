@@ -1,0 +1,479 @@
+{
+ "schema": "parts_raw/1",
+ "category": "terminals",
+ "brand": "KnuKonceptz",
+ "maker_site": "https://www.knukonceptz.com",
+ "method": "WooCommerce Store API list",
+ "terms_note": "Numbers only with URL.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 20,
+ "records": [
+  {
+   "id": "knukonceptz-ultimate-automotive-car-battery-terminal-v2-postive-negative",
+   "model": "Ultimate Battery Terminal v2",
+   "title": "Ultimate Battery Terminal v2",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/ultimate-automotive-car-battery-terminal-v2-postive-negative/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Battery Terminals",
+   "gauges": null,
+   "quality_issues": [
+    "size_null"
+   ],
+   "check": "not clean: size_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-vertical-top-post-adapter-pair",
+   "model": "Vertical Top Post Adapter Pair",
+   "title": "Vertical Top Post Adapter Pair",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/vertical-top-post-adapter-pair/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Battery Terminals",
+   "gauges": null,
+   "quality_issues": [
+    "size_null"
+   ],
+   "check": "not clean: size_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-ultimate-battery-terminal-postive-negative",
+   "model": "Ultimate Battery Terminal",
+   "title": "Ultimate Battery Terminal",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/ultimate-battery-terminal-postive-negative/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Battery Terminals",
+   "gauges": null,
+   "quality_issues": [
+    "size_null"
+   ],
+   "check": "not clean: size_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-car-battery-top-post-adapter-positive-negative",
+   "model": "Battery Top Post Adapter",
+   "title": "Battery Top Post Adapter",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/car-battery-top-post-adapter-positive-negative/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Battery Terminals",
+   "gauges": null,
+   "quality_issues": [
+    "size_null"
+   ],
+   "check": "not clean: size_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-tinned-copper-0-4-gauge-crimp-ring-terminal",
+   "model": "Tinned Copper Ring Terminal with Heat Shrink",
+   "title": "Tinned Copper Ring Terminal with Heat Shrink",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/tinned-copper-0-4-gauge-crimp-ring-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Crimp Terminals",
+   "gauges": [
+    "1/0",
+    "4",
+    "4/0"
+   ]
+  },
+  {
+   "id": "knukonceptz-gold-plated-spade-fork-terminal",
+   "model": "Gold Plated Spade (fork) Terminal",
+   "title": "Gold Plated Spade (fork) Terminal",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/gold-plated-spade-fork-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Crimp Terminals",
+   "gauges": [
+    "10/12",
+    "14/16",
+    "4",
+    "8"
+   ]
+  },
+  {
+   "id": "knukonceptz-set-screw-ring-terminals-0-4-gauge-pair",
+   "model": "Set Screw Ring Terminals with Heat Shrink",
+   "title": "Set Screw Ring Terminals with Heat Shrink",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/set-screw-ring-terminals-0-4-gauge-pair/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Set Screw Terminals",
+   "gauges": [
+    "1/0",
+    "4"
+   ]
+  },
+  {
+   "id": "knukonceptz-set-screw-0-4-gauge-pin-adapter-connector",
+   "model": "Set Screw Pin Adapter",
+   "title": "Set Screw Pin Adapter",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/set-screw-0-4-gauge-pin-adapter-connector/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Input Gauge Reducers",
+   "gauges": [
+    "1/0",
+    "4"
+   ]
+  },
+  {
+   "id": "knukonceptz-set-screw-4-0-gauge-ring-terminal-ground-lug",
+   "model": "Set Screw 4/0 Gauge Ring Terminal / Ground Lug",
+   "title": "Set Screw 4/0 Gauge Ring Terminal / Ground Lug",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/set-screw-4-0-gauge-ring-terminal-ground-lug/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Set Screw Terminals",
+   "gauges": [
+    "4/0"
+   ]
+  },
+  {
+   "id": "knukonceptz-offset-set-screw-gauge-reducer-0-to-4-gauge-pair",
+   "model": "Offset Set Screw Gauge Reducer 0 to 4 Gauge – Pair",
+   "title": "Offset Set Screw Gauge Reducer 0 to 4 Gauge – Pair",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/offset-set-screw-gauge-reducer-0-to-4-gauge-pair/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Input Gauge Reducers",
+   "gauges": [
+    "0 to 4"
+   ]
+  },
+  {
+   "id": "knukonceptz-set-screw-gauge-reducer-4-0-2-0-to-1-0-gauge",
+   "model": "Set Screw Gauge Reducer 4/0-2/0 to 1/0 Gauge",
+   "title": "Set Screw Gauge Reducer 4/0-2/0 to 1/0 Gauge",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/set-screw-gauge-reducer-4-0-2-0-to-1-0-gauge/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Input Gauge Reducers",
+   "gauges": [
+    "4/0-2/0 to 1/0"
+   ]
+  },
+  {
+   "id": "knukonceptz-gold-plated-0-4-8-gauge-crimp-ring-terminal",
+   "model": "Gold Plated Ring Terminal",
+   "title": "Gold Plated Ring Terminal",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/gold-plated-0-4-8-gauge-crimp-ring-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Crimp Terminals",
+   "gauges": [
+    "1/0",
+    "4",
+    "8"
+   ]
+  },
+  {
+   "id": "knukonceptz-konfused-compression-4-0-adapter",
+   "model": "KonFUSED Compression 4/0 Adapter",
+   "title": "KonFUSED Compression 4/0 Adapter",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-compression-4-0-adapter/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Compression Fittings",
+   "gauges": [
+    "4/0"
+   ]
+  },
+  {
+   "id": "knukonceptz-compression-fittings",
+   "model": "Compression Fittings – Large",
+   "title": "Compression Fittings – Large",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/compression-fittings/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Compression Fittings",
+   "gauges": [
+    "1/0",
+    "4"
+   ]
+  },
+  {
+   "id": "knukonceptz-compression-dual-1-0-input-reducer-adapter",
+   "model": "Compression Dual 1/0 Input Reducer / Adapter for Power Cable Inputs",
+   "title": "Compression Dual 1/0 Input Reducer / Adapter for Power Cable Inputs",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/compression-dual-1-0-input-reducer-adapter/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Compression Fittings",
+   "gauges": [
+    "1/0"
+   ]
+  },
+  {
+   "id": "knukonceptz-set-screw-flush-mount-ring-terminals-0-4-gauge-pair-with-heat-shrink",
+   "model": "Set Screw Flush Mount Ring Terminals",
+   "title": "Set Screw Flush Mount Ring Terminals",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/set-screw-flush-mount-ring-terminals-0-4-gauge-pair-with-heat-shrink/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Set Screw Terminals",
+   "gauges": [
+    "1/0",
+    "4"
+   ]
+  },
+  {
+   "id": "knukonceptz-gold-plated-female-disconnect-110-187-250-10-12-14-16-gauge",
+   "model": "Female Quick Disconnect Crimp Terminals",
+   "title": "Female Quick Disconnect Crimp Terminals",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/gold-plated-female-disconnect-110-187-250-10-12-14-16-gauge/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Crimp Terminals",
+   "gauges": [
+    "10/12",
+    "14/16"
+   ]
+  },
+  {
+   "id": "knukonceptz-konfused-0-gauge-negative-battery-terminal",
+   "model": "KonFUSED 0 Gauge Negative Battery Terminal",
+   "title": "KonFUSED 0 Gauge Negative Battery Terminal",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/konfused-0-gauge-negative-battery-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Battery Terminals",
+   "gauges": [
+    "1/0",
+    "4"
+   ]
+  },
+  {
+   "id": "knukonceptz-bassik-positive-battery-terminal",
+   "model": "Bassik Positive Battery Terminal",
+   "title": "Bassik Positive Battery Terminal",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-positive-battery-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Battery Terminals",
+   "gauges": null,
+   "quality_issues": [
+    "size_null"
+   ],
+   "check": "not clean: size_null (scripts/parts/quality.py); verify against the maker page or manual"
+  },
+  {
+   "id": "knukonceptz-bassik-negative-battery-terminal",
+   "model": "Bassik Negative Battery Terminal",
+   "title": "Bassik Negative Battery Terminal",
+   "status": "listed on maker store 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "name",
+      "attributes"
+     ],
+     "url": "https://www.knukonceptz.com/product/bassik-negative-battery-terminal/",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.knukonceptz.com/wp-json/wc/store/v1/products"
+    }
+   ],
+   "kind": "Battery Terminals",
+   "gauges": null,
+   "quality_issues": [
+    "size_null"
+   ],
+   "check": "not clean: size_null (scripts/parts/quality.py); verify against the maker page or manual"
+  }
+ ],
+ "not_recorded": []
+}

@@ -1,0 +1,329 @@
+{
+ "schema": "parts_raw/1",
+ "category": "fuses",
+ "brand": "Rockford Fosgate",
+ "maker_site": "https://rockfordfosgate.com",
+ "method": "maker accessory pages from https://rockfordfosgate.com/products/selector/car-accessories/ (title and overview numbers); scripts/parts/build_rockford_acc.py",
+ "terms_note": "Numbers only with URL. Rockford accessory pages have no spec table.",
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 15,
+ "records": [
+  {
+   "id": "rockford-fosgate-rfcb100",
+   "model": "RFCB100",
+   "title": "100 Amp Circuit Breaker",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfcb100/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "circuit breaker",
+   "fuse_type": null,
+   "rating_a": 100
+  },
+  {
+   "id": "rockford-fosgate-rfcb140",
+   "model": "RFCB140",
+   "title": "140 Amp Circuit Breaker",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfcb140/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "circuit breaker",
+   "fuse_type": null,
+   "rating_a": 140
+  },
+  {
+   "id": "rockford-fosgate-rfcb200",
+   "model": "RFCB200",
+   "title": "200 Amp Circuit Breaker",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rfcb200/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "circuit breaker",
+   "fuse_type": null,
+   "rating_a": 200
+  },
+  {
+   "id": "rockford-fosgate-rffa100",
+   "model": "RFFA100",
+   "title": "100 Amp ANL Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffa100/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": 100
+  },
+  {
+   "id": "rockford-fosgate-rffa200",
+   "model": "RFFA200",
+   "title": "200 Amp ANL Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffa200/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": 200
+  },
+  {
+   "id": "rockford-fosgate-rffa300",
+   "model": "RFFA300",
+   "title": "300 Amp ANL Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffa300/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": 300
+  },
+  {
+   "id": "rockford-fosgate-rffa500",
+   "model": "RFFA500",
+   "title": "500 Amp ANL Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffa500/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "ANL",
+   "rating_a": 500
+  },
+  {
+   "id": "rockford-fosgate-rffagu",
+   "model": "RFFAGU",
+   "title": "Inline AGU Fuse Holder",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffagu/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "AGU",
+   "rating_a": null
+  },
+  {
+   "id": "rockford-fosgate-rffanl",
+   "model": "RFFANL",
+   "title": "Inline ANL or Maxi Fuse Holder",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffanl/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "ANL",
+   "rating_a": null
+  },
+  {
+   "id": "rockford-fosgate-rffm100",
+   "model": "RFFM100",
+   "title": "100 Amp Maxi Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffm100/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "rating_a": 100
+  },
+  {
+   "id": "rockford-fosgate-rffm60",
+   "model": "RFFM60",
+   "title": "60 Amp Maxi Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffm60/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "rating_a": 60
+  },
+  {
+   "id": "rockford-fosgate-rffm80",
+   "model": "RFFM80",
+   "title": "80 Amp Maxi Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffm80/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "MAXI",
+   "rating_a": 80
+  },
+  {
+   "id": "rockford-fosgate-rffmxi",
+   "model": "RFFMXI",
+   "title": "Inline MAXI Fuse Holder",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffmxi/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse holder",
+   "fuse_type": "MAXI",
+   "rating_a": null
+  },
+  {
+   "id": "rockford-fosgate-rffu40",
+   "model": "RFFU40",
+   "title": "40 Amp AGU Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffu40/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "AGU",
+   "rating_a": 40
+  },
+  {
+   "id": "rockford-fosgate-rffu60",
+   "model": "RFFU60",
+   "title": "60 Amp AGU Fuse",
+   "status": "listed on maker site 2026-11-23",
+   "sources": [
+    {
+     "fields": [
+      "values in the title / overview"
+     ],
+     "url": "https://rockfordfosgate.com/products/details/rffu60/",
+     "read_date": "2026-11-23",
+     "tier": "maker"
+    }
+   ],
+   "check": "maker title/overview numbers",
+   "notes": "",
+   "kind": "fuse",
+   "fuse_type": "AGU",
+   "rating_a": 60
+  }
+ ],
+ "not_recorded": []
+}

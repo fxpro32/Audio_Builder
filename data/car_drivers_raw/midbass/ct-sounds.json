@@ -1,0 +1,381 @@
+{
+ "brand": "CT Sounds",
+ "country": "USA",
+ "brand_url": "https://www.ctsounds.com",
+ "terms_note": "R4 2026-11-23: Shopify products.json read (2 requests, 3 s apart). Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midbass",
+ "drivers": [
+  {
+   "model": "CT Sounds NEO8-4",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 275,
+   "peak_w": 550,
+   "sensitivity_db": 100,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    120,
+    7000
+   ],
+   "magnet": "neodymium",
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 131.74,
+    "re_ohm": 3,
+    "qms": 4.85,
+    "qes": 0.44,
+    "qts": 0.41,
+    "vas_l": 11.98,
+    "sd_cm2": 240.53,
+    "xmax_mm": null,
+    "mms_g": 10.01,
+    "bl_tm": 7.5,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 78,
+   "cutout_mm": 185.4,
+   "frame_mm": 209.0,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/neo8-4",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '275 Watts'.",
+   "title": "NEO8-4 // 275 Watts RMS 8” Midrange Speaker"
+  },
+  {
+   "model": "CT Sounds TROPO10-4",
+   "type": "midbass",
+   "size_in": 10,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 300,
+   "peak_w": 600,
+   "sensitivity_db": 95,
+   "sensitivity_basis": "unknown",
+   "freq_range_hz": [
+    120,
+    5000
+   ],
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 56.6,
+    "re_ohm": 3,
+    "qms": 3.39,
+    "qes": 0.58,
+    "qts": 0.5,
+    "vas_l": 57.83,
+    "sd_cm2": 346.36,
+    "xmax_mm": null,
+    "mms_g": 23.3,
+    "bl_tm": 6.57,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 78,
+   "cutout_mm": 236.0,
+   "frame_mm": 257.0,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo10-4",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '300 Watts'.",
+   "title": "TROPO10-4 // 300 Watts RMS 10” Shallow Midrange Speaker"
+  },
+  {
+   "model": "CT Sounds TROPO8-4",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 200,
+   "peak_w": 400,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 68.1,
+   "cutout_mm": 196.8,
+   "frame_mm": 209.5,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo8-8-inch-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '200 Watts'.",
+   "title": "TROPO8-4 // 200 Watts RMS 8\" Shallow Midrange Speaker"
+  },
+  {
+   "model": "CT Sounds MESO8-4",
+   "type": "midbass",
+   "size_in": 8,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 275,
+   "peak_w": 550,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 92.2,
+   "cutout_mm": 182.6,
+   "frame_mm": 209.0,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso8-8-inch-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '275 Watts'.",
+   "title": "MESO8-4 // 275 Watts RMS 8\" Midrange Speaker"
+  },
+  {
+   "model": "CT Sounds TROPO65-4",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 175,
+   "peak_w": 350,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 54.1,
+   "cutout_mm": 154.9,
+   "frame_mm": 165.6,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo65-6-5-inch-midrange-speaker",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '175 Watts'.",
+   "title": "TROPO65-4 // 175 Watts RMS 6.5\" Shallow Midrange Speaker"
+  },
+  {
+   "model": "CT Sounds NEO65-4",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": null,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 63.5,
+   "cutout_mm": 143.5,
+   "frame_mm": 169.9,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/neo65-4",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: from product title.",
+   "title": "NEO65-4 // 250 Watts RMS 6.5\" Midrange Speaker"
+  },
+  {
+   "model": "CT Sounds MESO65-4",
+   "type": "midbass",
+   "size_in": 6.5,
+   "size_label": null,
+   "impedance_ohm": 4,
+   "coil": "SVC",
+   "rms_w": 250,
+   "peak_w": 500,
+   "sensitivity_db": null,
+   "sensitivity_basis": null,
+   "freq_range_hz": null,
+   "magnet": null,
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": null,
+    "re_ohm": null,
+    "qms": null,
+    "qes": null,
+    "qts": null,
+    "vas_l": null,
+    "sd_cm2": null,
+    "xmax_mm": null,
+    "mms_g": null,
+    "bl_tm": null,
+    "le_mh": null,
+    "spl_db_1w1m": null,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 77.7,
+   "cutout_mm": 143.5,
+   "frame_mm": 169.9,
+   "recommended_crossover": null,
+   "passive_crossover": null,
+   "set_parts": null,
+   "part_of_sets": null,
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso65-4",
+     "doc": "maker product description (Shopify products.json)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Imperial dimensions converted to mm (x25.4) from the maker description. Power: as printed '250 Watts'.",
+   "title": "MESO65-4 // 250 Watts RMS 6.5\" Midrange Speaker"
+  }
+ ],
+ "no_specs_published": []
+}

@@ -1,0 +1,169 @@
+{
+ "schema": "parts_raw/1",
+ "category": "capacitors",
+ "brand": "Boss Audio Systems",
+ "maker_site": "https://www.bossaudio.com",
+ "method": "maker Shopify store products.json (saved dump), title + body numbers; scripts/parts/build_caps_shopify.py",
+ "terms_note": "Numbers only with URL; USD maker-store prices.",
+ "units": {
+  "farads": "F",
+  "voltage_v": "V",
+  "esr_mohm": "milliohm"
+ },
+ "read_date": "2026-11-23",
+ "agent": "R3_ELECTRONICS; cleaned by R3B_PARTS_CLEAN",
+ "record_count": 5,
+ "records": [
+  {
+   "id": "boss-audio-791489108973",
+   "model": "CAP8",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CAP8",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 8.0,
+   "voltage_v": 12.0,
+   "voltage_basis": "rated voltage",
+   "voltage_max_v": 16.0,
+   "voltage_surge_v": null,
+   "esr_as_published": "E.S.R (Equivalent Series Resistance): <0.004Ω",
+   "esr_mohm": 4.0,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.bossaudio.com/products/791489108973",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.bossaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": ""
+  },
+  {
+   "id": "boss-audio-791489108980",
+   "model": "CAP18",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CAP18",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 18.0,
+   "voltage_v": 12.0,
+   "voltage_basis": "rated voltage",
+   "voltage_max_v": 16.0,
+   "voltage_surge_v": null,
+   "esr_as_published": "E.S.R (Equivalent Series Resistance): <0.004Ω",
+   "esr_mohm": 4.0,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.bossaudio.com/products/791489108980",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.bossaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": ""
+  },
+  {
+   "id": "boss-audio-791489120333",
+   "model": "CPBK2",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CPBK2",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 2.0,
+   "voltage_v": 12.0,
+   "voltage_basis": "rated voltage",
+   "voltage_max_v": 16.0,
+   "voltage_surge_v": null,
+   "esr_as_published": "E.S.R (Equivalent Series Resistance): <0.004Ω",
+   "esr_mohm": 4.0,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.bossaudio.com/products/791489120333",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.bossaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": ""
+  },
+  {
+   "id": "boss-audio-791489120302",
+   "model": "CPBK3.5",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CPBK3.5",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 3.5,
+   "voltage_v": 12.0,
+   "voltage_basis": "rated voltage",
+   "voltage_max_v": 16.0,
+   "voltage_surge_v": null,
+   "esr_as_published": "E.S.R (Equivalent Series Resistance): <0.004Ω",
+   "esr_mohm": 4.0,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.bossaudio.com/products/791489120302",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.bossaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": ""
+  },
+  {
+   "id": "boss-audio-791489120357",
+   "model": "CPRD2",
+   "model_basis": "maker SKU (title spelling)",
+   "title": "CPRD2",
+   "status": "listed on maker store 2026-11-23",
+   "kind": "power capacitor",
+   "farads": 2.0,
+   "voltage_v": 12.0,
+   "voltage_basis": "rated voltage",
+   "voltage_max_v": null,
+   "voltage_surge_v": null,
+   "esr_as_published": null,
+   "esr_mohm": null,
+   "max_current_a_maker": null,
+   "recommended_amp_power_w": null,
+   "sources": [
+    {
+     "fields": [
+      "title/body values"
+     ],
+     "url": "https://www.bossaudio.com/products/791489120357",
+     "read_date": "2026-11-23",
+     "tier": "maker-store",
+     "doc": "https://www.bossaudio.com/products.json (body_html)"
+    }
+   ],
+   "check": "auto-parsed from the maker store text (scripts/parts/build_caps_shopify.py); ESR unit as published (Boss CPRD2 says 'mW', a typo for mohm or ohm, so not converted)",
+   "notes": ""
+  }
+ ],
+ "not_recorded": []
+}

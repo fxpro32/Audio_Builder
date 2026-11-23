@@ -1,0 +1,1947 @@
+{
+ "brand": "CT Sounds",
+ "country": "USA",
+ "brand_url": "https://www.ctsounds.com",
+ "terms_note": "R2 2026-11-23: re-used the store's public /products.json saved by A2 on 2026-11-21 (no new requests). Numbers only. | hp_subs_raw terms note: Shopify store; public /products.json read once (product descriptions). No terms forbidding this found (not read in full). Only EXO-12 is rated >= 2000 W RMS (others 500 to 1500 W).",
+ "coverage": "all current component subwoofers in the store listing (Bio, Hydro, Meso, Ozone, Strato, Thermo, Tropo, Tropo XL, EXO); one coil option per page has T/S",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/ct-sounds.json",
+ "drivers": [
+  {
+   "model": "EXO-12-D1",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 1,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    0.5,
+    2
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.251,
+    "re_ohm": 1.7,
+    "qms": 2.95,
+    "qes": 0.51,
+    "qts": 0.43,
+    "vas_l": 14.98,
+    "sd_cm2": 471.4,
+    "xmax_mm": 27.5,
+    "mms_g": 346.32,
+    "bl_tm": 16.92,
+    "le_mh": null,
+    "spl_db_1w1m": 86.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 237.0,
+   "cutout_mm": 274.1,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "ported (flat response / SQ)",
+     "volume_l": 70.79,
+     "tuning_hz": 33,
+     "source": "maker page exo-12",
+     "note": "published as 2.5 cu ft; port area 40 sq in; excludes sub, bracing and port displacement per maker"
+    },
+    {
+     "type": "ported (boomer / SPL)",
+     "volume_l": 84.95,
+     "tuning_hz": 36,
+     "source": "maker page exo-12",
+     "note": "published as 3.0 cu ft; excludes sub, bracing and port displacement per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/exo-12",
+     "doc": "product page description, Specs and Box Specs sections",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Le printed '/' (not published). Cms printed with unit 'm/N' (0.047 / 0.051), evidently mm/N; not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated; Re 1.7 / 3.7 suggests series (inference). Converted from imperial as published: mounting depth 9.33 in, cut-out 10.79 in, displacement 0.25 cu ft.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "EXO-12-D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 3000,
+   "peak_w": 6000,
+   "final_loads_ohm": [
+    1.0,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37.61,
+    "re_ohm": 3.7,
+    "qms": 3.19,
+    "qes": 0.59,
+    "qts": 0.5,
+    "vas_l": 16.23,
+    "sd_cm2": 471.4,
+    "xmax_mm": 27.5,
+    "mms_g": 348.31,
+    "bl_tm": 22.65,
+    "le_mh": null,
+    "spl_db_1w1m": 85.5,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 237.0,
+   "cutout_mm": 274.1,
+   "displacement_l": 7.08,
+   "recommended_boxes": [
+    {
+     "type": "ported (flat response / SQ)",
+     "volume_l": 70.79,
+     "tuning_hz": 33,
+     "source": "maker page exo-12",
+     "note": "published as 2.5 cu ft; port area 40 sq in; excludes sub, bracing and port displacement per maker"
+    },
+    {
+     "type": "ported (boomer / SPL)",
+     "volume_l": 84.95,
+     "tuning_hz": 36,
+     "source": "maker page exo-12",
+     "note": "published as 3.0 cu ft; excludes sub, bracing and port displacement per maker"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/exo-12",
+     "doc": "product page description, Specs and Box Specs sections",
+     "page": null,
+     "read_date": "2026-11-21",
+     "tier": 1
+    }
+   ],
+   "notes": "Le printed '/' (not published). Cms printed with unit 'm/N' (0.047 / 0.051), evidently mm/N; not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated; Re 1.7 / 3.7 suggests series (inference). Converted from imperial as published: mounting depth 9.33 in, cut-out 10.79 in, displacement 0.25 cu ft.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "THERMO-15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.73,
+    "re_ohm": 4,
+    "qms": 8.44,
+    "qes": 0.474,
+    "qts": 0.449,
+    "vas_l": 39.99,
+    "sd_cm2": 784,
+    "xmax_mm": 18.5,
+    "mms_g": 540.43,
+    "bl_tm": 30.144,
+    "le_mh": null,
+    "spl_db_1w1m": 86.33,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 239.0,
+   "cutout_mm": 355.1,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 70.79,
+     "tuning_hz": 28,
+     "source": "maker page thermo-15",
+     "note": "published as 2.5 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 141.58,
+     "tuning_hz": 28,
+     "source": "maker page thermo-15",
+     "note": "published as 5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/thermo-15",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 4 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 9.41 in, cut-out 13.98 in.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "THERMO-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.93,
+    "re_ohm": 4,
+    "qms": 8.217,
+    "qes": 0.445,
+    "qts": 0.42,
+    "vas_l": 14.78,
+    "sd_cm2": 471,
+    "xmax_mm": 18.5,
+    "mms_g": 461.79,
+    "bl_tm": 29.744,
+    "le_mh": null,
+    "spl_db_1w1m": 83.15,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 210.1,
+   "cutout_mm": 287.0,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page thermo-12",
+     "note": "published as 1.5 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 70.79,
+     "tuning_hz": 30,
+     "source": "maker page thermo-12",
+     "note": "published as 2.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/thermo-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 4 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 8.27 in, cut-out 11.3 in.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BIO-15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.14,
+    "re_ohm": 3.8,
+    "qms": 6.465,
+    "qes": 0.795,
+    "qts": 0.708,
+    "vas_l": 110.74,
+    "sd_cm2": 824,
+    "xmax_mm": 7.5,
+    "mms_g": 223.91,
+    "bl_tm": 14.472,
+    "le_mh": null,
+    "spl_db_1w1m": 88.26,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 163.1,
+   "cutout_mm": 354.1,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 42.48,
+     "tuning_hz": null,
+     "source": "maker page bio-15",
+     "note": "published as 1.5 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 70.79,
+     "tuning_hz": 28,
+     "source": "maker page bio-15",
+     "note": "published as 2.5 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 113.27,
+     "tuning_hz": 28,
+     "source": "maker page bio-15",
+     "note": "published as 4 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/bio-15",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 3.8 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 6.42 in, cut-out 13.94 in.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BIO-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 33.06,
+    "re_ohm": 3.8,
+    "qms": 5.392,
+    "qes": 0.73,
+    "qts": 0.644,
+    "vas_l": 51.68,
+    "sd_cm2": 499,
+    "xmax_mm": 7.5,
+    "mms_g": 155.78,
+    "bl_tm": 12.971,
+    "le_mh": null,
+    "spl_db_1w1m": 86.1,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 135.9,
+   "cutout_mm": 279.9,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 21.24,
+     "tuning_hz": null,
+     "source": "maker page bio-12",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": 32,
+     "source": "maker page bio-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page bio-12",
+     "note": "published as 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/bio-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 3.8 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 5.35 in, cut-out 11.02 in.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BIO-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.704,
+    "re_ohm": 3.8,
+    "qms": 5.783,
+    "qes": 0.609,
+    "qts": 0.551,
+    "vas_l": 23.604,
+    "sd_cm2": 337,
+    "xmax_mm": 7.5,
+    "mms_g": 140.91,
+    "bl_tm": 13.843,
+    "le_mh": null,
+    "spl_db_1w1m": 84.12,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 119.1,
+   "cutout_mm": 230.9,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 14.16,
+     "tuning_hz": null,
+     "source": "maker page bio-10",
+     "note": "published as 0.5 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 21.24,
+     "tuning_hz": 32,
+     "source": "maker page bio-10",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 35.4,
+     "tuning_hz": 32,
+     "source": "maker page bio-10",
+     "note": "published as 1.25 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/bio-10",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 3.8 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 4.69 in, cut-out 9.09 in.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "BIO-8 D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47.146,
+    "re_ohm": 3.8,
+    "qms": 6.41,
+    "qes": 0.631,
+    "qts": 0.574,
+    "vas_l": 8.27,
+    "sd_cm2": 201,
+    "xmax_mm": 6.5,
+    "mms_g": 77.78,
+    "bl_tm": 11.782,
+    "le_mh": null,
+    "spl_db_1w1m": 83.4,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 97.0,
+   "cutout_mm": 182.1,
+   "displacement_l": null,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 7.08,
+     "tuning_hz": null,
+     "source": "maker page bio-8",
+     "note": "published as 0.25 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 14.16,
+     "tuning_hz": 42,
+     "source": "maker page bio-8",
+     "note": "published as 0.5 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 21.24,
+     "tuning_hz": 45,
+     "source": "maker page bio-8",
+     "note": "published as 0.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/bio-8",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 3.8 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 3.82 in, cut-out 7.17 in.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HYDRO-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.66,
+    "re_ohm": 3.9,
+    "qms": 5.85,
+    "qes": 0.49,
+    "qts": 0.453,
+    "vas_l": 38.15,
+    "sd_cm2": 510.7,
+    "xmax_mm": 11,
+    "mms_g": 204.701,
+    "bl_tm": 18.82,
+    "le_mh": null,
+    "spl_db_1w1m": 87.14,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 114.8,
+   "cutout_mm": 281.9,
+   "displacement_l": 1.84,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/hydro-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 3.9 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 4.52 in, cut-out 11.1 in, displacement 0.065 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HYDRO-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 500,
+   "peak_w": 1000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.45,
+    "re_ohm": 3.9,
+    "qms": 5.837,
+    "qes": 0.504,
+    "qts": 0.465,
+    "vas_l": 19.878,
+    "sd_cm2": 356,
+    "xmax_mm": 10,
+    "mms_g": 152.787,
+    "bl_tm": 16.889,
+    "le_mh": null,
+    "spl_db_1w1m": 85.52,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 98.8,
+   "cutout_mm": 236.2,
+   "displacement_l": 1.13,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/hydro-10",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 3.9 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 3.89 in, cut-out 9.3 in, displacement 0.04 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "HYDRO-8 D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 300,
+   "peak_w": 600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46.2,
+    "re_ohm": 3.9,
+    "qms": 6.549,
+    "qes": 0.577,
+    "qts": 0.531,
+    "vas_l": 10.298,
+    "sd_cm2": 227,
+    "xmax_mm": 8,
+    "mms_g": 82.895,
+    "bl_tm": 12.751,
+    "le_mh": null,
+    "spl_db_1w1m": 84.48,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 82.8,
+   "cutout_mm": 190.8,
+   "displacement_l": 0.57,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/hydro-8",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 3.9 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 3.26 in, cut-out 7.51 in, displacement 0.02 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "OZONE-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 30,
+    "re_ohm": 0.99,
+    "qms": 6.45,
+    "qes": 0.64,
+    "qts": 0.58,
+    "vas_l": 31.85,
+    "sd_cm2": 471.44,
+    "xmax_mm": 15,
+    "mms_g": 278.3,
+    "bl_tm": 9.01,
+    "le_mh": 0.748,
+    "spl_db_1w1m": 85.33,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 162.1,
+   "cutout_mm": 277.9,
+   "displacement_l": 3.68,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page ozone-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": 35,
+     "source": "maker page ozone-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 46.72,
+     "tuning_hz": 32,
+     "source": "maker page ozone-12",
+     "note": "published as 1.65 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/ozone-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 0.99 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 6.38 in, cut-out 10.94 in, displacement 0.13 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "OZONE-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.6,
+    "re_ohm": 0.99,
+    "qms": 6.1,
+    "qes": 0.63,
+    "qts": 0.57,
+    "vas_l": 14.06,
+    "sd_cm2": 330.6,
+    "xmax_mm": 15,
+    "mms_g": 231.95,
+    "bl_tm": 8.9,
+    "le_mh": 0.966,
+    "spl_db_1w1m": 83.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 149.1,
+   "cutout_mm": 230.9,
+   "displacement_l": 2.55,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page ozone-10",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 21.24,
+     "tuning_hz": 32,
+     "source": "maker page ozone-10",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page ozone-10",
+     "note": "published as 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/ozone-10",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 0.99 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 5.87 in, cut-out 9.09 in, displacement 0.09 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TROPO-XL-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 34.6,
+    "re_ohm": 0.95,
+    "qms": 6.351,
+    "qes": 0.621,
+    "qts": 0.566,
+    "vas_l": 26.65,
+    "sd_cm2": 530.93,
+    "xmax_mm": 14,
+    "mms_g": 317.42,
+    "bl_tm": 10.273,
+    "le_mh": 0.665,
+    "spl_db_1w1m": 86.51,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 178.1,
+   "cutout_mm": 278.9,
+   "displacement_l": 4.53,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page tropo-xl-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": 34,
+     "source": "maker page tropo-xl-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 34,
+     "source": "maker page tropo-xl-12",
+     "note": "published as 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-xl-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 0.95 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 7.01 in, cut-out 10.98 in, displacement 0.16 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TROPO-6-5 D2",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 200,
+   "peak_w": 400,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 57.5,
+    "re_ohm": 1.08,
+    "qms": 6.04,
+    "qes": 0.712,
+    "qts": 0.71,
+    "vas_l": 3.61,
+    "sd_cm2": 143.139,
+    "xmax_mm": 7,
+    "mms_g": 63.5,
+    "bl_tm": 8.51,
+    "le_mh": 0.479,
+    "spl_db_1w1m": 84.45,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 107.9,
+   "cutout_mm": 148.1,
+   "displacement_l": 1.13,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 14.16,
+     "tuning_hz": null,
+     "source": "maker page tropo-6-5",
+     "note": "published as 0.5 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 9.91,
+     "tuning_hz": 45,
+     "source": "maker page tropo-6-5",
+     "note": "published as 0.35 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 11.33,
+     "tuning_hz": 46,
+     "source": "maker page tropo-6-5",
+     "note": "published as 0.4 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-6-5",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.08 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 4.25 in, cut-out 5.83 in, displacement 0.04 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TROPO-XL-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1000,
+   "peak_w": 2000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 38.4,
+    "re_ohm": 1.04,
+    "qms": 5.227,
+    "qes": 0.522,
+    "qts": 0.475,
+    "vas_l": 15.8,
+    "sd_cm2": 363.05,
+    "xmax_mm": 14,
+    "mms_g": 202.44,
+    "bl_tm": 9.882,
+    "le_mh": 0.761,
+    "spl_db_1w1m": 86.38,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 160.0,
+   "cutout_mm": 228.1,
+   "displacement_l": 3.4,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 17.56,
+     "tuning_hz": null,
+     "source": "maker page tropo-xl-10",
+     "note": "published as 0.62 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 35.4,
+     "tuning_hz": 32,
+     "source": "maker page tropo-xl-10",
+     "note": "published as 1.25 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 34,
+     "source": "maker page tropo-xl-10",
+     "note": "published as 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-xl-10",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.04 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 6.3 in, cut-out 8.98 in, displacement 0.12 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MESO-15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.92,
+    "re_ohm": 4,
+    "qms": 3.17,
+    "qes": 0.49,
+    "qts": 0.42,
+    "vas_l": 52.35,
+    "sd_cm2": 779.3,
+    "xmax_mm": 18,
+    "mms_g": 385.08,
+    "bl_tm": 24.94,
+    "le_mh": null,
+    "spl_db_1w1m": 89.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 211.1,
+   "cutout_mm": 350.0,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page meso-15",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 56.63,
+     "tuning_hz": 33,
+     "source": "maker page meso-15",
+     "note": "published as 2 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 84.95,
+     "tuning_hz": 32,
+     "source": "maker page meso-15",
+     "note": "published as 3 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-15",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 4 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 8.31 in, cut-out 13.78 in, displacement 0.24 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MESO-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 35.11,
+    "re_ohm": 4,
+    "qms": 4.38,
+    "qes": 0.38,
+    "qts": 0.35,
+    "vas_l": 11.314,
+    "sd_cm2": 330,
+    "xmax_mm": 18,
+    "mms_g": 280.93,
+    "bl_tm": 25.4,
+    "le_mh": null,
+    "spl_db_1w1m": 84.9,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 183.9,
+   "cutout_mm": 236.0,
+   "displacement_l": 4.25,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 14.16,
+     "tuning_hz": null,
+     "source": "maker page meso-10",
+     "note": "published as 0.5 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 21.24,
+     "tuning_hz": 36,
+     "source": "maker page meso-10",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 28.32,
+     "tuning_hz": 36,
+     "source": "maker page meso-10",
+     "note": "published as 1 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-10",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 4 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 7.24 in, cut-out 9.29 in, displacement 0.15 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MESO-6-5 D2",
+   "size_in": 6.5,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 56.3,
+    "re_ohm": 1.02,
+    "qms": 6.215,
+    "qes": 0.78,
+    "qts": 0.692,
+    "vas_l": 1.41,
+    "sd_cm2": 132.73,
+    "xmax_mm": 8,
+    "mms_g": 75.6,
+    "bl_tm": 6.92,
+    "le_mh": 0.417,
+    "spl_db_1w1m": 83.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 129.0,
+   "cutout_mm": 150.1,
+   "displacement_l": 1.42,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 5.66,
+     "tuning_hz": null,
+     "source": "maker page meso-6-5",
+     "note": "published as 0.2 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 3.68,
+     "tuning_hz": 50,
+     "source": "maker page meso-6-5",
+     "note": "published as 0.13 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 7.08,
+     "tuning_hz": 42,
+     "source": "maker page meso-6-5",
+     "note": "published as 0.25 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-6-5",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.02 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 5.08 in, cut-out 5.91 in, displacement 0.05 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MESO-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1500,
+   "peak_w": 3000,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.75,
+    "re_ohm": 4,
+    "qms": 2.25,
+    "qes": 0.44,
+    "qts": 0.37,
+    "vas_l": 22.29,
+    "sd_cm2": 471.4,
+    "xmax_mm": 18,
+    "mms_g": 334.44,
+    "bl_tm": 25.16,
+    "le_mh": null,
+    "spl_db_1w1m": 86.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 202.9,
+   "cutout_mm": 283.0,
+   "displacement_l": 5.1,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page meso-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": 35,
+     "source": "maker page meso-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 37,
+     "source": "maker page meso-12",
+     "note": "published as 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 4 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 7.99 in, cut-out 11.14 in, displacement 0.18 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TROPO-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 650,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 32.5,
+    "re_ohm": 1.12,
+    "qms": 6.246,
+    "qes": 0.621,
+    "qts": 0.565,
+    "vas_l": 44.33,
+    "sd_cm2": 530.93,
+    "xmax_mm": 11,
+    "mms_g": 215.96,
+    "bl_tm": 8.915,
+    "le_mh": 0.583,
+    "spl_db_1w1m": 87.91,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 159.0,
+   "cutout_mm": 278.9,
+   "displacement_l": 3.68,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 35.4,
+     "tuning_hz": null,
+     "source": "maker page tropo-12",
+     "note": "published as 1.25 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": 32,
+     "source": "maker page tropo-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 49.55,
+     "tuning_hz": 32,
+     "source": "maker page tropo-12",
+     "note": "published as 1.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.12 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 6.26 in, cut-out 10.98 in, displacement 0.13 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TROPO-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 650,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 41.8,
+    "re_ohm": 1.08,
+    "qms": 6.58,
+    "qes": 0.674,
+    "qts": 0.612,
+    "vas_l": 15.38,
+    "sd_cm2": 363.05,
+    "xmax_mm": 11,
+    "mms_g": 175.98,
+    "bl_tm": 8.6,
+    "le_mh": 0.589,
+    "spl_db_1w1m": 86.24,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 143.0,
+   "cutout_mm": 228.1,
+   "displacement_l": 2.83,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 22.65,
+     "tuning_hz": null,
+     "source": "maker page tropo-10",
+     "note": "published as 0.8 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": 36,
+     "source": "maker page tropo-10",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 35,
+     "source": "maker page tropo-10",
+     "note": "published as 1.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-10",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.08 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 5.63 in, cut-out 8.98 in, displacement 0.1 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "STRATO-12 D2",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": 2500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 31.1,
+    "re_ohm": 1,
+    "qms": 6.79,
+    "qes": 0.597,
+    "qts": 0.549,
+    "vas_l": 22.14,
+    "sd_cm2": 471.44,
+    "xmax_mm": 15,
+    "mms_g": 371,
+    "bl_tm": 11.03,
+    "le_mh": 0.77,
+    "spl_db_1w1m": 84.52,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 182.9,
+   "cutout_mm": 287.0,
+   "displacement_l": 4.53,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 28.32,
+     "tuning_hz": null,
+     "source": "maker page strato-12",
+     "note": "published as 1 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 42.48,
+     "tuning_hz": 32,
+     "source": "maker page strato-12",
+     "note": "published as 1.5 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 49.55,
+     "tuning_hz": 32,
+     "source": "maker page strato-12",
+     "note": "published as 1.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/strato-12",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 7.2 in, cut-out 11.3 in, displacement 0.16 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "STRATO-10 D2",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": 2500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 37,
+    "re_ohm": 1.1,
+    "qms": 6.34,
+    "qes": 0.609,
+    "qts": 0.56,
+    "vas_l": 9.32,
+    "sd_cm2": 330.06,
+    "xmax_mm": 15,
+    "mms_g": 305.79,
+    "bl_tm": 11.33,
+    "le_mh": 0.65,
+    "spl_db_1w1m": 82.93,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 172.0,
+   "cutout_mm": 236.0,
+   "displacement_l": 3.96,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 14.16,
+     "tuning_hz": null,
+     "source": "maker page strato-10",
+     "note": "published as 0.5 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 21.24,
+     "tuning_hz": 35,
+     "source": "maker page strato-10",
+     "note": "published as 0.75 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 25.49,
+     "tuning_hz": 35,
+     "source": "maker page strato-10",
+     "note": "published as 0.9 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/strato-10",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.1 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 6.77 in, cut-out 9.29 in, displacement 0.14 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "STRATO-8 D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 600,
+   "peak_w": 1200,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 47.1,
+    "re_ohm": 1.07,
+    "qms": 9.65,
+    "qes": 0.976,
+    "qts": 0.88,
+    "vas_l": 2.75,
+    "sd_cm2": 188.69,
+    "xmax_mm": 12,
+    "mms_g": 209.04,
+    "bl_tm": 8.24,
+    "le_mh": 1,
+    "spl_db_1w1m": 83.2,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 158.0,
+   "cutout_mm": 190.0,
+   "displacement_l": 2.27,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 8.5,
+     "tuning_hz": null,
+     "source": "maker page strato-8",
+     "note": "published as 0.3 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 9.91,
+     "tuning_hz": 38,
+     "source": "maker page strato-8",
+     "note": "published as 0.35 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 14.16,
+     "tuning_hz": 45,
+     "source": "maker page strato-8",
+     "note": "published as 0.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/strato-8",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.07 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 6.22 in, cut-out 7.48 in, displacement 0.08 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TROPO-18 D2",
+   "size_in": 18,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 650,
+   "peak_w": 1300,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 22.3,
+    "re_ohm": 1.03,
+    "qms": 6.178,
+    "qes": 0.883,
+    "qts": 0.773,
+    "vas_l": 197.61,
+    "sd_cm2": 1134.12,
+    "xmax_mm": 13.5,
+    "mms_g": 468.05,
+    "bl_tm": 8.744,
+    "le_mh": 0.693,
+    "spl_db_1w1m": 87.99,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 206.0,
+   "cutout_mm": 423.9,
+   "displacement_l": 8.5,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 113.27,
+     "tuning_hz": null,
+     "source": "maker page tropo-18",
+     "note": "published as 4 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 148.66,
+     "tuning_hz": 28,
+     "source": "maker page tropo-18",
+     "note": "published as 5.25 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 184.06,
+     "tuning_hz": 28,
+     "source": "maker page tropo-18",
+     "note": "published as 6.5 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-18",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.03 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 8.11 in, cut-out 16.69 in, displacement 0.3 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TROPO-8 D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": 800,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 45,
+    "re_ohm": 4,
+    "qms": 3.37,
+    "qes": 0.532,
+    "qts": 0.459,
+    "vas_l": 6.961,
+    "sd_cm2": 188.692,
+    "xmax_mm": 8.5,
+    "mms_g": 90.461,
+    "bl_tm": 13.885,
+    "le_mh": 3.761,
+    "spl_db_1w1m": 84.7,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 121.9,
+   "cutout_mm": 182.9,
+   "displacement_l": 1.98,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 8.5,
+     "tuning_hz": null,
+     "source": "maker page tropo-8",
+     "note": "published as 0.3 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 11.33,
+     "tuning_hz": 38,
+     "source": "maker page tropo-8",
+     "note": "published as 0.4 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 19.82,
+     "tuning_hz": 42,
+     "source": "maker page tropo-8",
+     "note": "published as 0.7 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/tropo-8",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 4 ohm on dual 2 ohm coils suggests coils in series (inference). Converted from imperial as published: mounting depth 4.8 in, cut-out 7.2 in, displacement 0.07 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "STRATO-15 D2",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 1250,
+   "peak_w": 2500,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 28.2,
+    "re_ohm": 0.98,
+    "qms": 6.67,
+    "qes": 0.636,
+    "qts": 0.58,
+    "vas_l": 62.88,
+    "sd_cm2": 804.25,
+    "xmax_mm": 15,
+    "mms_g": 464.22,
+    "bl_tm": 11.26,
+    "le_mh": 0.756,
+    "spl_db_1w1m": 87.48,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 206.0,
+   "cutout_mm": 353.1,
+   "displacement_l": 6.8,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 84.95,
+     "tuning_hz": null,
+     "source": "maker page strato-15",
+     "note": "published as 3 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 70.79,
+     "tuning_hz": 30,
+     "source": "maker page strato-15",
+     "note": "published as 2.5 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 113.27,
+     "tuning_hz": 28,
+     "source": "maker page strato-15",
+     "note": "published as 4 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/strato-15",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 0.98 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 8.11 in, cut-out 13.9 in, displacement 0.24 cu ft.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "MESO-8 D2",
+   "size_in": 8,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 800,
+   "peak_w": 1600,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "unknown",
+   "params": {
+    "fs_hz": 46.4,
+    "re_ohm": 1.04,
+    "qms": 5.42,
+    "qes": 0.55,
+    "qts": 0.5,
+    "vas_l": 3.96,
+    "sd_cm2": 188.69,
+    "xmax_mm": 15,
+    "mms_g": 149.66,
+    "bl_tm": 9.12,
+    "le_mh": 0.527,
+    "spl_db_1w1m": 82.6,
+    "spl_db_2v83": null
+   },
+   "mounting_depth_mm": 167.9,
+   "cutout_mm": 183.9,
+   "displacement_l": 2.83,
+   "recommended_boxes": [
+    {
+     "type": "sealed (SQ curve)",
+     "volume_l": 14.16,
+     "tuning_hz": null,
+     "source": "maker page meso-8",
+     "note": "published as 0.5 cu ft"
+    },
+    {
+     "type": "ported (SQ curve)",
+     "volume_l": 14.16,
+     "tuning_hz": 34,
+     "source": "maker page meso-8",
+     "note": "published as 0.5 cu ft"
+    },
+    {
+     "type": "ported (SPL curve)",
+     "volume_l": 21.24,
+     "tuning_hz": 39,
+     "source": "maker page meso-8",
+     "note": "published as 0.75 cu ft"
+    }
+   ],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.ctsounds.com/products/meso-8",
+     "doc": "product page description (Specs / Box Specs), via the store's public products.json",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S block printed once per product page; it is for the coil option named under 'Voice Coil Configuration'; other options on the same page: [['DUAL 2 OHM', 'DUAL 4 OHM']]. Cms printed with unit 'm/N' (evidently mm/N), not stored. SPL reference (1 W or 2.83 V) not stated; entered as 1 W/1 m. ts_basis not stated. Re 1.04 ohm on dual 2 ohm coils suggests the T/S were measured with the coils in parallel (inference). Converted from imperial as published: mounting depth 6.61 in, cut-out 7.24 in, displacement 0.1 cu ft.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": []
+}

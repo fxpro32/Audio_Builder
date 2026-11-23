@@ -1,0 +1,102 @@
+{
+ "brand": "Earthquake Sound",
+ "country": "USA",
+ "brand_url": "https://www.earthquakesound.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Earthquake EQ1000 NEO",
+   "title": "EQ1000 Neo Cloth Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq1000-neo-cloth-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake EQ800 NEO",
+   "title": "EQ800 Neo Cloth Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq800-neo-cloth-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake EQ650 NEO",
+   "title": "EQ650 Neo Cloth Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq650-neo-cloth-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ8S8",
+   "title": "EQ8S8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq8s8-pair-cloth-surround-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ88",
+   "title": "EQ88 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq88-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ84",
+   "title": "EQ84 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq84-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ6S8",
+   "title": "EQ6S8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq6s8-pair-cloth-surround-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ68",
+   "title": "EQ6-8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq6-8-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ5S8",
+   "title": "EQ5-S8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq5-s8-pair-cloth-surround-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ12-S8",
+   "title": "EQ12-S8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq12-s8-pair-cloth-surround-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ12-8",
+   "title": "EQ12-8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq12-8-pair",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ10-S8",
+   "title": "EQ10-S8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq10-s8-pair-cloth-surround-speaker",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Earthquake PR-EQ108",
+   "title": "EQ10-8 (PAIR) Cloth Surround Speaker",
+   "type": "midrange",
+   "url": "https://www.earthquakesound.com/products/eq10-8-pair",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

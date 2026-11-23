@@ -1,0 +1,815 @@
+{
+ "brand": "MTX Audio",
+ "country": "USA",
+ "brand_url": "https://mtx.com",
+ "terms_note": "R2B 2026-11-23: mtx.com product pages read in the headless browser (one page per launch, 6 s apart); tech data sheet PDFs fetched with curl 3 s apart. Numbers only. | hp_subs_raw terms note: Cloudflare: curl gets 403; the headless browser loaded the home page and the 75-series page (750 W RMS, below threshold) but got 403 on the Jackhammer page. Not retried. Jackhammer (MTX's largest sub) could not be checked. 2026-11-22: the TS9924-22 page was read from a non-VPN connection and the PM downloaded the 2025 catalogue PDF through a non-VPN connection (local copy references/raw/hp_subs/us/mtx/catalog_dl/, sha256 404aa6ec...de51c, 237,602,879 bytes).",
+ "coverage": "all car subwoofer drivers on https://www.mtx.com/subwoofers (35, 55, 75, S65, Terminator, Jackhammer from hp_subs_raw); enclosures, packages, marine left out",
+ "hp_subs_raw_file": "data/hp_subs_raw/us/mtx.json",
+ "drivers": [
+  {
+   "model": "5510-22",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 0.85,
+    "qms": 3.684,
+    "qes": 0.785,
+    "qts": 0.647,
+    "vas_l": 23.55,
+    "sd_cm2": 380.13,
+    "xmax_mm": 15.24,
+    "mms_g": 190,
+    "bl_tm": 6.726,
+    "le_mh": null,
+    "spl_db_1w1m": 83.1,
+    "spl_db_2v83": 92.8
+   },
+   "mounting_depth_mm": 142.9,
+   "cutout_mm": 236.5,
+   "displacement_l": 1.7,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/5510-22_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '10\" 400-Watt RMS Dual 2 Ohm Subwoofer'. Recommended power printed '200 Watts - 400 Watts RMS'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "5512-22",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 34,
+    "re_ohm": 0.85,
+    "qms": 3.4,
+    "qes": 0.863,
+    "qts": 0.69,
+    "vas_l": 44.4,
+    "sd_cm2": 564.1,
+    "xmax_mm": 15.24,
+    "mms_g": 218,
+    "bl_tm": 6.8,
+    "le_mh": null,
+    "spl_db_1w1m": 85.1,
+    "spl_db_2v83": 94.8
+   },
+   "mounting_depth_mm": 158.8,
+   "cutout_mm": 284.2,
+   "displacement_l": 1.98,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/5512-22_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '12\" 400-Watt RMS Dual 2 Ohm Subwoofer'. Recommended power printed '200 Watts - 400 Watts RMS'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "5512-44",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 1.73,
+    "qms": 3.282,
+    "qes": 1.023,
+    "qts": 0.78,
+    "vas_l": 54.1,
+    "sd_cm2": 564.1,
+    "xmax_mm": 15.24,
+    "mms_g": 191.49,
+    "bl_tm": 8.2,
+    "le_mh": null,
+    "spl_db_1w1m": 84.8,
+    "spl_db_2v83": 91.5
+   },
+   "mounting_depth_mm": 158.8,
+   "cutout_mm": 284.2,
+   "displacement_l": 1.98,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/5512-44_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '12\" 400-Watt RMS Dual 4 Ohm Subwoofer'. Recommended power printed '200 Watts - 400 Watts RMS'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "5515-22",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 25,
+    "re_ohm": 0.89,
+    "qms": 2.89,
+    "qes": 1.13,
+    "qts": 0.81,
+    "vas_l": 161.2,
+    "sd_cm2": 918.6,
+    "xmax_mm": 15.24,
+    "mms_g": 301,
+    "bl_tm": 6.1,
+    "le_mh": null,
+    "spl_db_1w1m": 85.5,
+    "spl_db_2v83": 95
+   },
+   "mounting_depth_mm": 201.6,
+   "cutout_mm": 352.4,
+   "displacement_l": 3.11,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/5515-22_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '15\" 400-Watt RMS Dual 2 Ohm Subwoofer'. Recommended power printed '200 Watts - 400 Watts RMS'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "5515-44",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 400,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 24,
+    "re_ohm": 1.67,
+    "qms": 2.773,
+    "qes": 1.21,
+    "qts": 0.79,
+    "vas_l": 173,
+    "sd_cm2": 918.6,
+    "xmax_mm": 15.24,
+    "mms_g": 300,
+    "bl_tm": 8.21,
+    "le_mh": null,
+    "spl_db_1w1m": 85.4,
+    "spl_db_2v83": 92.2
+   },
+   "mounting_depth_mm": 201.6,
+   "cutout_mm": 352.4,
+   "displacement_l": 3.11,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/5515-44_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '15\" 400-Watt RMS Dual 4 Ohm Subwoofer'. Recommended power printed '200 Watts - 400 Watts RMS'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "7512-22",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 31,
+    "re_ohm": 0.88,
+    "qms": 3.73,
+    "qes": 0.69,
+    "qts": 0.58,
+    "vas_l": 51.29,
+    "sd_cm2": 562,
+    "xmax_mm": 16.8,
+    "mms_g": 222,
+    "bl_tm": 7.52,
+    "le_mh": null,
+    "spl_db_1w1m": 85.4,
+    "spl_db_2v83": 95.04
+   },
+   "mounting_depth_mm": 188.9,
+   "cutout_mm": 284.2,
+   "displacement_l": 2.2,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/7512-22_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '12\" 750-Watt RMS Dual 2 Ohm Subwoofer'. Recommended power printed '375 Watts - 750 Watts RMS'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "7512-44",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 32,
+    "re_ohm": 1.65,
+    "qms": 4.34,
+    "qes": 0.764,
+    "qts": 0.649,
+    "vas_l": 49.77,
+    "sd_cm2": 567,
+    "xmax_mm": 16.7,
+    "mms_g": 222,
+    "bl_tm": 9.82,
+    "le_mh": null,
+    "spl_db_1w1m": 85.34,
+    "spl_db_2v83": 92.19
+   },
+   "mounting_depth_mm": 188.9,
+   "cutout_mm": 284.2,
+   "displacement_l": 2.2,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/7512-44_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '12\" 750-Watt RMS Dual 4 Ohm Subwoofer'. Recommended power printed 'None'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "7515-22",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 2,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    1,
+    4
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 26,
+    "re_ohm": 0.8,
+    "qms": 5.61,
+    "qes": 0.66,
+    "qts": 0.59,
+    "vas_l": 144.8,
+    "sd_cm2": 899.6,
+    "xmax_mm": 16.8,
+    "mms_g": 313,
+    "bl_tm": 7.77,
+    "le_mh": null,
+    "spl_db_1w1m": 87.53,
+    "spl_db_2v83": 97.11
+   },
+   "mounting_depth_mm": 211.1,
+   "cutout_mm": 357.2,
+   "displacement_l": 2.84,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/7515-22_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '15\" 750-Watt RMS Dual 2 Ohm Subwoofer'. Recommended power printed '375 Watts - 750 Watts RMS'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "7515-44",
+   "size_in": 15,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "coils": 2,
+   "rms_w": 750,
+   "peak_w": null,
+   "final_loads_ohm": [
+    2,
+    8
+   ],
+   "ts_basis": "parallel",
+   "params": {
+    "fs_hz": 27,
+    "re_ohm": 1.6,
+    "qms": 4.7,
+    "qes": 0.768,
+    "qts": 0.66,
+    "vas_l": 140.2,
+    "sd_cm2": 899.6,
+    "xmax_mm": 16.8,
+    "mms_g": 275,
+    "bl_tm": 10,
+    "le_mh": null,
+    "spl_db_1w1m": 87.53,
+    "spl_db_2v83": 94.52
+   },
+   "mounting_depth_mm": 211.1,
+   "cutout_mm": 357.2,
+   "displacement_l": 2.84,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/7515-44_tech_data_sheet.pdf",
+     "doc": "MTX tech data sheet PDF (text layer); exact URL path /f/<id>/ in the product page links",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "Sheet title '15\" 750-Watt RMS Dual 4 Ohm Subwoofer'. Recommended power printed 'None'. Re below the coil rating: T/S measured with the coils in parallel (inference). Metric values used where the sheet prints both units.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "3510-02",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 35,
+    "re_ohm": 1.7,
+    "qms": 2.723,
+    "qes": 0.924,
+    "qts": 0.69,
+    "vas_l": 28.3,
+    "sd_cm2": 390.5,
+    "xmax_mm": 8.128,
+    "mms_g": 158.1,
+    "bl_tm": 8,
+    "le_mh": null,
+    "spl_db_1w1m": 83.2,
+    "spl_db_2v83": 89.9
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/f/4183/3510-02-tech-data-sheet.pdf",
+     "doc": "MTX tech data sheet PDF (image only): T/S READ FROM IMAGE",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker sheet), double-checked: printed Qts 0.69 vs Qms*Qes/(Qms+Qes) 0.690. Cms printed 0.131 mm/N; D 8.84 in (224.536 mm); Prms 250 W; '500W Peak Power'. Drawing dimensions not mapped to cut-out/depth with certainty, left empty. Metric values used.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "3510-04",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 33,
+    "re_ohm": 3.47,
+    "qms": 3.751,
+    "qes": 1.058,
+    "qts": 0.825,
+    "vas_l": 39.4,
+    "sd_cm2": 369,
+    "xmax_mm": 8.128,
+    "mms_g": 127.4,
+    "bl_tm": 9.31,
+    "le_mh": null,
+    "spl_db_1w1m": 83.3,
+    "spl_db_2v83": 86.9
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/f/4/3510-04%20Tech%20Data%20Sheet.pdf",
+     "doc": "MTX tech data sheet PDF (image only): T/S READ FROM IMAGE",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker sheet), double-checked: printed Qts 0.825 vs Qms*Qes/(Qms+Qes) 0.825. Cms printed 0.183 mm/N; D 8.84 in (224.536 mm); Prms 250 W; '500W Peak Power'. Drawing dimensions not mapped to cut-out/depth with certainty, left empty. Metric values used.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "3512-02",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    2
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 30.4,
+    "re_ohm": 1.85,
+    "qms": 3.668,
+    "qes": 0.783,
+    "qts": 0.645,
+    "vas_l": 73.1,
+    "sd_cm2": 573.6,
+    "xmax_mm": 8.128,
+    "mms_g": 173.8,
+    "bl_tm": 8.85,
+    "le_mh": null,
+    "spl_db_1w1m": 86.23,
+    "spl_db_2v83": 92.6
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/f/5/3512-02%20Tech%20Data%20Sheet.pdf",
+     "doc": "MTX tech data sheet PDF (image only): T/S READ FROM IMAGE",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker sheet), double-checked: printed Qts 0.645 vs Qms*Qes/(Qms+Qes) 0.645. Cms printed 0.157 mm/N; D 10.64 in (270.256 mm); Prms 250 W; '500W Peak Power'. Drawing dimensions not mapped to cut-out/depth with certainty, left empty. Metric values used.",
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "3512-04",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "coils": 1,
+   "rms_w": 250,
+   "peak_w": 500,
+   "final_loads_ohm": [
+    4
+   ],
+   "ts_basis": "per_coil",
+   "params": {
+    "fs_hz": 31.4,
+    "re_ohm": 3.5,
+    "qms": 3.173,
+    "qes": 0.893,
+    "qts": 0.697,
+    "vas_l": 73.1,
+    "sd_cm2": 573.6,
+    "xmax_mm": 8.128,
+    "mms_g": 163.35,
+    "bl_tm": 11.27,
+    "le_mh": null,
+    "spl_db_1w1m": 86.06,
+    "spl_db_2v83": 89.7
+   },
+   "mounting_depth_mm": null,
+   "cutout_mm": null,
+   "displacement_l": null,
+   "recommended_boxes": [],
+   "status": "current",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/f/6/3512-04%20Tech%20Data%20Sheet.pdf",
+     "doc": "MTX tech data sheet PDF (image only): T/S READ FROM IMAGE",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "notes": "T/S READ FROM IMAGE (image-only maker sheet), double-checked: printed Qts 0.697 vs Qms*Qes/(Qms+Qes) 0.697. Cms printed 0.157 mm/N; D 10.64 in (270.256 mm); Prms 250 W; '500W Peak Power'. Drawing dimensions not mapped to cut-out/depth with certainty, left empty. Metric values used.",
+   "source": "R2_SUBS_ALL"
+  }
+ ],
+ "no_ts_published": [
+  {
+   "model": "JackHammer TS9924-22 (24 in, Dual 2 ohm)",
+   "rms_w": 4000,
+   "url": "https://www.mtx.com/ts9924-22-jackhammer-car-audio-subwoofer",
+   "note": "4000 W RMS, Dual 2 ohm (final 1 ohm parallel or 4 ohm series), 92.0 dB, 18-150 Hz; MTX 2025 catalogue p.34 table (https://www.mtx.com/MTX006907-MTX-Product-Catalog-2025.pdf, read 2026-11-22); recommended amp 2000-4000 W RMS, sealed 5.47 cu ft / vented 10.2 cu ft net, displacement 653.29 cu in (product page, read 2026-11-22). Cut-out and mounting depth differ between sources: catalogue 22-3/16 in (563 mm) and 24-1/16 in; page 22.25 in and 24.00 in. MTX publishes no T/S values, so it cannot be simulated. Only MTX sub at or above 2000 W RMS (next is the 7515 at 750 W). Older 22 in T9922-22 page returned an error.",
+   "source": "hp_subs_raw"
+  },
+  {
+   "model": "3510-04S",
+   "rms_w": 300,
+   "url": "https://www.mtx.com/35-series-3510-04s-10-300-watt-rms-4ohm-car-audio-shallow-subwoofer",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "note": "Product page title '10\" 300-Watt RMS 4Ω Car Audio Shallow Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/35-series-3510-04s-10-300-watt-rms-4ohm-car-audio-shallow-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "3512-04S",
+   "rms_w": 300,
+   "url": "https://www.mtx.com/35-series-3512-04s-12-300-watt-rms-4ohm-car-audio-shallow-subwoofer",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "note": "Product page title '12\" 300-Watt RMS 4Ω Car Audio Shallow Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/35-series-3512-04s-12-300-watt-rms-4ohm-car-audio-shallow-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "5510-44",
+   "rms_w": 400,
+   "url": "https://www.mtx.com/5510-44-car-audio-subwoofer",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "note": "Product page title '10\" 400-Watt RMS Dual 4Ω Car Audio Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/5510-44-car-audio-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S6510-44",
+   "rms_w": 500,
+   "url": "https://www.mtx.com/s6510-44-car-audio-square-subwoofer",
+   "size_in": 10,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "note": "Product page title '10\" 500-Watt RMS Dual 4Ω Square Car Audio Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/s6510-44-car-audio-square-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "S6512-44",
+   "rms_w": 500,
+   "url": "https://www.mtx.com/s6512-44-square-car-audio-subwoofer",
+   "size_in": 12,
+   "coil": "DVC",
+   "ohms_per_coil": 4,
+   "note": "Product page title '12\" 500-Watt RMS Dual 4Ω Square Car Audio Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/s6512-44-square-car-audio-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TN10-04",
+   "rms_w": 150,
+   "url": "https://www.mtx.com/tn10-04-car-audio-subwoofer",
+   "size_in": 10,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "note": "Product page title '10\" 150-Watt RMS 4Ω Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/tn10-04-car-audio-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TN12-02",
+   "rms_w": 200,
+   "url": "https://www.mtx.com/tn12-02-car-audio-subwoofer",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 2,
+   "note": "Product page title '12\" 200-Watt RMS 2Ω Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/tn12-02-car-audio-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  },
+  {
+   "model": "TN12-04",
+   "rms_w": 200,
+   "url": "https://www.mtx.com/tn12-04-car-audio-subwoofer",
+   "size_in": 12,
+   "coil": "SVC",
+   "ohms_per_coil": 4,
+   "note": "Product page title '12\" 200-Watt RMS 4Ω Subwoofer'. No T/S in a text tech sheet: the 35 series sheets are image-only, the Terminator 'tech data' PDFs are owner's manuals without a parameter table, S65 and 5510-44 pages link no sheet (2026-11-23).",
+   "sources": [
+    {
+     "fields": [
+      "*"
+     ],
+     "url": "https://www.mtx.com/tn12-04-car-audio-subwoofer",
+     "doc": "product page (headless browser)",
+     "page": null,
+     "read_date": "2026-11-23",
+     "tier": 1
+    }
+   ],
+   "source": "R2_SUBS_ALL"
+  }
+ ]
+}

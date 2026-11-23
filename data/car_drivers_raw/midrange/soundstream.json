@@ -1,0 +1,207 @@
+{
+ "brand": "Soundstream",
+ "country": "USA",
+ "brand_url": "https://www.soundstream.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "midrange",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Soundstream SPM-804X",
+   "title": "SPM.804X | 8\" Pro Audio Midrange Speaker 550W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-804x",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.804T",
+   "title": "SPM.804T | 8\" Pro Audio Midrange Speaker with Super Tweeter 550W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-804t",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.804C",
+   "title": "SPM.804C | 8\" Midrange Pro Audio Loudspeaker w/ Super Compression Tweeter - 600W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-804c",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.804BN",
+   "title": "SPM.804BN | 8\" Pro Audio Midrange Die-cast Neodymium Bullet Speaker 600W - Pair",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-804bn",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.804B",
+   "title": "SPM.804B | 8\" Pro Audio Midrange Speaker with Bullet 500W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-804b",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.804",
+   "title": "SPM.804 | 8\" Pro Audio Midrange Speaker 500W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-804",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.694T",
+   "title": "SPM.694T | 6x9\" Pro Audio Midrange Speaker with Super Tweeter 550W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-694t",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.694C",
+   "title": "SPM.694C | 6x9\" Midrange Pro Audio Loudspeaker w/ Super Compression Tweeter - 550W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-694c",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.654X",
+   "title": "SPM.654X | 6.5\" Pro Audio Midrange Speaker 450W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-654x",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.654T",
+   "title": "SPM.654T | 6.5\" Pro Audio Midrange Speaker with Super Tweeter 450W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-654t",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.654C",
+   "title": "SPM.654C | 6.5\" Midrange Pro Audio Loudspeaker w/ Super Compression Tweeter - 450W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-654c",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.654BN",
+   "title": "SPM.654BN | 6.5\" Pro Audio Midrange Die-cast Neodymium Bullet Speaker 500W - Pair",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-654bn",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM.654B",
+   "title": "SPM.654B | 6.5\" Pro Audio Midrange Speaker with Bullet 400W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-654b",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SPM654",
+   "title": "SPM.654 | 6.5\" Pro Audio Midrange Speaker 400W (Pair)",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/spm-654",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream STSW-180MCM-G",
+   "title": "STSW-180MCM-G",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/stsw-180mcm-g",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream ST-180MCM-G",
+   "title": "ST-180MCM-G",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/st-180mcm-g",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SME-650",
+   "title": "SME-650 | 6.5\" Pro Audio Mid-Range Speakers",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sme-650",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM-800PRO",
+   "title": "SM-800PRO | 8\" Pro Audio Mid-Range Speaker",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sm-800pro",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM-800",
+   "title": "SM-800 | 8\" Pro Audio Mid-Range Speaker",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sm-800",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM-690",
+   "title": "SM-690 | 6\" x 9\" Pro Audio Mid-Range Speaker",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sm-690",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM-650PRO",
+   "title": "SM-650PRO | 6.5\" Pro Audio Mid-Range; 250W, 4-Ohm",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sm-650pro",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM-650",
+   "title": "SM-650 | 6.5\" Pro Audio Mid-Range Speaker",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sm-650",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream Pro Speakers",
+   "title": "Pro Speakers",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/pro-audo-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream STM-2000",
+   "title": "STM-2000 | 5-Speaker 360° Omnidirectional Sound System",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/stm-2000",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream STL-2000",
+   "title": "STL-2000 | 5-Speaker 360° Omnidirectional Sound System",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/stl-2000",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM2-800",
+   "title": "SM2-800 | 8\" Pro Audio Mid-Range Speaker",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sm2-800",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM2.650",
+   "title": "SM2.650 | Pro Audio 6.5\" 2-Ohm Midrange Speakers",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sm2-650",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SME-800",
+   "title": "SME-800 | 6.5″ SME Series Mid-Range Pair",
+   "type": "midrange",
+   "url": "https://www.soundstream.com/products/sme-800",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

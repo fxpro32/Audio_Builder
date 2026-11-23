@@ -1,0 +1,53 @@
+{
+ "brand": "Soundstream",
+ "country": "USA",
+ "brand_url": "https://www.soundstream.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Soundstream SME-650C",
+   "title": "SME-650C – 6.5\" Component Speaker Set – Soundstream",
+   "type": "component_set",
+   "url": "https://www.soundstream.com/products/sme-650c",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SR-65C",
+   "title": "SR-65C | Reign Exclusive Series 6.5\" 2-Way Component Speaker Set",
+   "type": "component_set",
+   "url": "https://www.soundstream.com/products/sr-65c",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM-650PROC",
+   "title": "SM-650PROC | 6.5\" Pro Audio Component Speakers",
+   "type": "component_set",
+   "url": "https://www.soundstream.com/products/sm-650proc",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream SM-650C",
+   "title": "SM-650C – 6.5\" Component Speaker Set – Soundstream",
+   "type": "component_set",
+   "url": "https://www.soundstream.com/products/sm-650c",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream AC.6",
+   "title": "AC.6 | Arachnid Series 6.5\" Component Set; 100w, 4-ohm",
+   "type": "component_set",
+   "url": "https://www.soundstream.com/products/ac-6",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Soundstream PF.6",
+   "title": "PF.6 | Picasso Series 6.5\" 2-Way Component Set",
+   "type": "component_set",
+   "url": "https://www.soundstream.com/products/pf-6",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}

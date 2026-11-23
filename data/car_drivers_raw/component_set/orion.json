@@ -1,0 +1,32 @@
+{
+ "brand": "Orion Car Audio",
+ "country": "USA",
+ "brand_url": "https://www.orioncaraudio.com",
+ "terms_note": "R4B 2026-11-23: Shopify products.json (public catalogue feed) read 4 s apart, browser user agent. Numbers only.",
+ "collected_by": "R4_CAR_DRIVERS",
+ "type": "component_set",
+ "drivers": [],
+ "no_specs_published": [
+  {
+   "model": "Orion CB525C",
+   "title": "CB525C - 5.25 Inch Component Speakers",
+   "type": "component_set",
+   "url": "https://www.orioncaraudio.com/products/cb525c-5-25-inch-component-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion CB65C",
+   "title": "CB65C - 6.5 Inch Component Speakers",
+   "type": "component_set",
+   "url": "https://www.orioncaraudio.com/products/cb65c-6-5-inch-component-speakers",
+   "note": "No labelled specification list in the maker's product description."
+  },
+  {
+   "model": "Orion XTR55.SC",
+   "title": "XTR55.SC",
+   "type": "component_set",
+   "url": "https://www.orioncaraudio.com/products/xtr55-sc",
+   "note": "No labelled specification list in the maker's product description."
+  }
+ ]
+}
